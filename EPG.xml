@@ -63,6 +63,9 @@
 	<programme channel="4K综艺" start="20240624021500 +0800" stop="20240624035100 +0800">
 		<title lang="zh">我最爱的女人们20190614</title>
 	</programme>
+	<programme channel="4K综艺" start="20240624035100 +0800" stop="20240624044000 +0800">
+		<title lang="zh">我最爱的女人们20190615</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -54381,6 +54384,9 @@
 	<programme channel="纯享4K" start="20240624032100 +0800" stop="20240624034800 +0800">
 		<title lang="zh">一带一路上的中国名片4K 第6集 科技b7智慧之光</title>
 	</programme>
+	<programme channel="纯享4K" start="20240624034800 +0800" stop="20240624043000 +0800">
+		<title lang="zh">远方的家4K 西藏类乌齐马鹿国家级自然保护区 高原之上 马鹿的家</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -65925,6 +65931,9 @@
 	<programme channel="newtv爱情喜剧" start="20240624022400 +0800" stop="20240624035200 +0800">
 		<title lang="zh">大女侠与小郎中</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20240624035200 +0800" stop="20240624043200 +0800">
+		<title lang="zh">16_头号前妻</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -66024,6 +66033,9 @@
 	<programme channel="newtv炫舞未来" start="20240624033600 +0800" stop="20240624035400 +0800">
 		<title lang="zh">探清水河-完整（无二维码）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240624035400 +0800" stop="20240624040300 +0800">
+		<title lang="zh">小跳蛙-金洋（完整教学）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -66032,6 +66044,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240624021000 +0800" stop="20240624035000 +0800">
 		<title lang="zh">登录圆鱼洲</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240624035000 +0800" stop="20240624043500 +0800">
+		<title lang="zh">19_光荣时代</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
