@@ -31587,6 +31587,9 @@
 	<programme channel="咪咕综合体育" start="20240626182800 +0800" stop="20240626204100 +0800">
 		<title lang="zh">2024NBL全国男子篮球联赛常规赛第1轮全场回放：安徽文一vs广西威壮（现场解说）</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20240626204100 +0800" stop="20240626233000 +0800">
+		<title lang="zh">动感地带b7中国街舞联赛校园赛总决赛：动感之夜全场回放</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -63966,6 +63969,9 @@
 	<programme channel="纯享4K" start="20240626195300 +0800" stop="20240626203500 +0800">
 		<title lang="zh">远方的家4K 长江行 生态之城——上海</title>
 	</programme>
+	<programme channel="纯享4K" start="20240626204500 +0800" stop="20240626211500 +0800">
+		<title lang="zh">味道4K 原味乡间b7襄阳篇（4）</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -76482,6 +76488,9 @@
 	<programme channel="黑莓动画" start="20240626201800 +0800" stop="20240626204200 +0800">
 		<title lang="zh">01_德凯奥特曼 普通话版</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240626204200 +0800" stop="20240626210700 +0800">
+		<title lang="zh">02_德凯奥特曼 普通话版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -77376,6 +77385,9 @@
 	<programme channel="newtv超级综艺" start="20240626193000 +0800" stop="20240626205200 +0800">
 		<title lang="zh">越战越勇</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240626205200 +0800" stop="20240626220100 +0800">
+		<title lang="zh">我爱满堂彩—一笑一周</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -77835,6 +77847,9 @@
 	<programme channel="newtv古装剧场" start="20240626195300 +0800" stop="20240626203800 +0800">
 		<title lang="zh">09_新西厢记</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240626203800 +0800" stop="20240626212400 +0800">
+		<title lang="zh">10_新西厢记</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -78008,6 +78023,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20240626200400 +0800" stop="20240626203400 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240626203400 +0800" stop="20240626212000 +0800">
+		<title lang="zh">03_空巢姥爷</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -78315,6 +78333,9 @@
 	<programme channel="newtv怡伴健康" start="20240626200400 +0800" stop="20240626204400 +0800">
 		<title lang="zh">第二场 重庆XTvs天津兄弟连 第4局</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240626204400 +0800" stop="20240626212500 +0800">
+		<title lang="zh">第三场 北京东炸团vs河北巧战群雄 第1局</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -78398,6 +78419,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240626194900 +0800" stop="20240626203700 +0800">
 		<title lang="zh">32_故乡，别来无恙</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240626203700 +0800" stop="20240626212500 +0800">
+		<title lang="zh">33_故乡，别来无恙</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -78494,6 +78518,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240626194200 +0800" stop="20240626203400 +0800">
 		<title lang="zh">奋斗的青春 青春绽放光彩 国防知识挑战赛走进32753部队</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240626203400 +0800" stop="20240626212500 +0800">
+		<title lang="zh">学雷锋精神当服务标兵 国防知识挑战赛走进空军后勤部某直属保障大队</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
