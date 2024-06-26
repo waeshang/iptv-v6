@@ -67380,6 +67380,9 @@
 	<programme channel="超级电影" start="20240626172800 +0800" stop="20240626190000 +0800">
 		<title lang="zh">电影《绝世低手之夺命玉玺》</title>
 	</programme>
+	<programme channel="超级电影" start="20240626190000 +0800" stop="20240626202800 +0800">
+		<title lang="zh">电影《一路不消停》</title>
+	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
 	</channel>
@@ -77397,6 +77400,9 @@
 	<programme channel="newtv超级电影" start="20240626172800 +0800" stop="20240626190000 +0800">
 		<title lang="zh">电影《绝世低手之夺命玉玺》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20240626190000 +0800" stop="20240626202800 +0800">
+		<title lang="zh">电影《一路不消停》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -78605,6 +78611,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20240626174700 +0800" stop="20240626185500 +0800">
 		<title lang="zh">偶然的煮意</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20240626185500 +0800" stop="20240626201200 +0800">
+		<title lang="zh">星光大道（2024）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
