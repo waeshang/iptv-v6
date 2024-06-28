@@ -49860,6 +49860,9 @@
 	<programme channel="纯享4K" start="20240629024500 +0800" stop="20240629033000 +0800">
 		<title lang="zh">传承b7智慧篇4K 第3集 配比之妙</title>
 	</programme>
+	<programme channel="纯享4K" start="20240629033000 +0800" stop="20240629041100 +0800">
+		<title lang="zh">远方的家4K 长江行 开放城市 创新生活</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -60390,6 +60393,9 @@
 	<programme channel="黑莓动画" start="20240629030300 +0800" stop="20240629032900 +0800">
 		<title lang="zh">12_星辰变 第一季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240629032900 +0800" stop="20240629035000 +0800">
+		<title lang="zh">11_全职法师第1季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -60903,6 +60909,9 @@
 	<programme channel="newtv超级电影" start="20240629021600 +0800" stop="20240629034900 +0800">
 		<title lang="zh">喜神</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20240629034900 +0800" stop="20240629052900 +0800">
+		<title lang="zh">二哥来了怎么办</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -60998,6 +61007,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240629024600 +0800" stop="20240629033100 +0800">
 		<title lang="zh">20_一代枭雄</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240629033100 +0800" stop="20240629041600 +0800">
+		<title lang="zh">21_一代枭雄</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -61122,6 +61134,9 @@
 	<programme channel="newtv军事评论" start="20240629030400 +0800" stop="20240629033000 +0800">
 		<title lang="zh">守卫在绝美湖畔</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240629033000 +0800" stop="20240629035500 +0800">
+		<title lang="zh">守护“大国工程”</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -61133,6 +61148,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240629031000 +0800" stop="20240629032500 +0800">
 		<title lang="zh">韭菜花儿开-孙爱迪（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240629032500 +0800" stop="20240629034200 +0800">
+		<title lang="zh">野花香-孙爱迪（完整版）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
