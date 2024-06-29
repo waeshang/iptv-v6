@@ -72579,6 +72579,9 @@
 	<programme channel="黑莓动画" start="20240630014100 +0800" stop="20240630015000 +0800">
 		<title lang="zh">51_我靠充值当武帝</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240630015000 +0800" stop="20240630021200 +0800">
+		<title lang="zh">01_骸骨骑士大人奇幻世界冒险中</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -73209,6 +73212,9 @@
 	<programme channel="newtv超级电影" start="20240630002900 +0800" stop="20240630015500 +0800">
 		<title lang="zh">一个人的突围</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20240630015500 +0800" stop="20240630033500 +0800">
+		<title lang="zh">天上的菊美</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -73332,6 +73338,9 @@
 	<programme channel="newtv军事评论" start="20240630012700 +0800" stop="20240630015200 +0800">
 		<title lang="zh">当危险来临时 “全国中小学生安全教育日”特别节目</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240630015200 +0800" stop="20240630021700 +0800">
+		<title lang="zh">当自然灾害来临时</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -73343,6 +73352,9 @@
 	</channel>
 	<programme channel="newtv精品综合" start="20240630001900 +0800" stop="20240630015200 +0800">
 		<title lang="zh">斗破苍穹b7觉醒</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240630015200 +0800" stop="20240630034500 +0800">
+		<title lang="zh">登录圆鱼洲</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -73358,6 +73370,9 @@
 	</channel>
 	<programme channel="newtv金牌综艺" start="20240630000900 +0800" stop="20240630015900 +0800">
 		<title lang="zh">少年行</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20240630015900 +0800" stop="20240630042200 +0800">
+		<title lang="zh">半熟恋人第2季</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
