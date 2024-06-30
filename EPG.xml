@@ -66246,6 +66246,9 @@
 	<programme channel="newtv军旅剧场" start="20240701020600 +0800" stop="20240701025100 +0800">
 		<title lang="zh">29_一代枭雄</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240701025100 +0800" stop="20240701033600 +0800">
+		<title lang="zh">30_一代枭雄</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -66312,6 +66315,9 @@
 	<programme channel="newtv潮妈辣婆" start="20240701020800 +0800" stop="20240701025100 +0800">
 		<title lang="zh">05_双生花</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240701025100 +0800" stop="20240701033400 +0800">
+		<title lang="zh">06_双生花</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -66333,6 +66339,9 @@
 	<programme channel="newtv军事评论" start="20240701022500 +0800" stop="20240701025100 +0800">
 		<title lang="zh">探秘海外维和一线</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240701025100 +0800" stop="20240701031600 +0800">
+		<title lang="zh">战友啊战友 2024清明祭 第一集</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -66341,6 +66350,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240701015100 +0800" stop="20240701025200 +0800">
 		<title lang="zh">萌娃脑洞大开提出“超纲”问题 资深大人“离谱解答”（20240621）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240701025200 +0800" stop="20240701030200 +0800">
+		<title lang="zh">龙的传人-乌兰图雅</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -66359,6 +66371,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20240701014000 +0800" stop="20240701024900 +0800">
 		<title lang="zh">不能犯规的游戏之惊魂幻觉</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240701024900 +0800" stop="20240701040000 +0800">
+		<title lang="zh">六扇门之血手奇谭</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
