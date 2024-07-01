@@ -48,6 +48,9 @@
 	<programme channel="4K综艺" start="20240702013200 +0800" stop="20240702025500 +0800">
 		<title lang="zh">真心大冒险20180609</title>
 	</programme>
+	<programme channel="4K综艺" start="20240702025500 +0800" stop="20240702042800 +0800">
+		<title lang="zh">真心大冒险20180616</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -47685,6 +47688,9 @@
 	<programme channel="黑莓动画" start="20240702023000 +0800" stop="20240702025500 +0800">
 		<title lang="zh">05_星辰变第二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240702025500 +0800" stop="20240702031900 +0800">
+		<title lang="zh">06_星辰变第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -48315,6 +48321,9 @@
 	<programme channel="newtv潮妈辣婆" start="20240702021600 +0800" stop="20240702025900 +0800">
 		<title lang="zh">11_双生花</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240702025900 +0800" stop="20240702034200 +0800">
+		<title lang="zh">12_双生花</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -48336,6 +48345,9 @@
 	<programme channel="newtv军事评论" start="20240702023400 +0800" stop="20240702025900 +0800">
 		<title lang="zh">新兵营正青春  新兵请就位</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240702025900 +0800" stop="20240702032500 +0800">
+		<title lang="zh">新兵营正青春  青春在奋斗中闪耀</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -48344,6 +48356,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240702013700 +0800" stop="20240702025400 +0800">
 		<title lang="zh">大方县文旅局副局长来啦！猜歌现场秒变推介会（20240520）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240702025400 +0800" stop="20240702030900 +0800">
+		<title lang="zh">韭菜花儿开-孙爱迪（完整版）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -48371,6 +48386,9 @@
 	</channel>
 	<programme channel="newtv金牌综艺" start="20240702004500 +0800" stop="20240702025200 +0800">
 		<title lang="zh">少年行</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20240702025200 +0800" stop="20240702053100 +0800">
+		<title lang="zh">故事里的中国 第二季</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
