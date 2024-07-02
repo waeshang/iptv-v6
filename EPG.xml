@@ -46386,6 +46386,9 @@
 	<programme channel="纯享4K" start="20240703002900 +0800" stop="20240703005900 +0800">
 		<title lang="zh">记住乡愁4K第七季 第二十四集 九江——九水汇一城（上）</title>
 	</programme>
+	<programme channel="纯享4K" start="20240703005900 +0800" stop="20240703012900 +0800">
+		<title lang="zh">记住乡愁4K第七季 第二十五集 九江——九水汇一城（下）</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -54414,6 +54417,9 @@
 	<programme channel="newtv精品纪录" start="20240703000200 +0800" stop="20240703005100 +0800">
 		<title lang="zh">01_无声的功勋（第一季）</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240703005100 +0800" stop="20240703014100 +0800">
+		<title lang="zh">04_眼前春色梦中人</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -54425,6 +54431,9 @@
 	</channel>
 	<programme channel="newtv军旅剧场" start="20240703000400 +0800" stop="20240703004900 +0800">
 		<title lang="zh">37_一代枭雄</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240703004900 +0800" stop="20240703013400 +0800">
+		<title lang="zh">38_一代枭雄</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -54447,41 +54456,8 @@
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
-	<programme channel="newtv动作电影" start="20240703000000 +0800" stop="20240703020000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv动作电影" start="20240703020000 +0800" stop="20240703040000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv动作电影" start="20240703060000 +0800" stop="20240703080000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv动作电影" start="20240703080000 +0800" stop="20240703100600 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv动作电影" start="20240703100600 +0800" stop="20240703120000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv动作电影" start="20240703120000 +0800" stop="20240703140000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv动作电影" start="20240703140000 +0800" stop="20240703160000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv动作电影" start="20240703160000 +0800" stop="20240703180000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv动作电影" start="20240703180000 +0800" stop="20240703190000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv动作电影" start="20240703190000 +0800" stop="20240703200000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv动作电影" start="20240703200000 +0800" stop="20240703220000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv动作电影" start="20240703220000 +0800" stop="20240703235900 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="newtv动作电影" start="20240703005500 +0800" stop="20240703022800 +0800">
+		<title lang="zh">宛城之战</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -54516,41 +54492,8 @@
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
-	<programme channel="newtv惊悚悬疑" start="20240703000000 +0800" stop="20240703020000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv惊悚悬疑" start="20240703020000 +0800" stop="20240703040000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv惊悚悬疑" start="20240703060000 +0800" stop="20240703080000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv惊悚悬疑" start="20240703080000 +0800" stop="20240703100600 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv惊悚悬疑" start="20240703100600 +0800" stop="20240703120000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv惊悚悬疑" start="20240703120000 +0800" stop="20240703140000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv惊悚悬疑" start="20240703140000 +0800" stop="20240703160000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv惊悚悬疑" start="20240703160000 +0800" stop="20240703180000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv惊悚悬疑" start="20240703180000 +0800" stop="20240703190000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv惊悚悬疑" start="20240703190000 +0800" stop="20240703200000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv惊悚悬疑" start="20240703200000 +0800" stop="20240703220000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv惊悚悬疑" start="20240703220000 +0800" stop="20240703235900 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="newtv惊悚悬疑" start="20240703005000 +0800" stop="20240703013900 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
