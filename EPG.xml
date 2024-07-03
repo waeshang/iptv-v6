@@ -60090,6 +60090,9 @@
 	<programme channel="黑莓动画" start="20240704014000 +0800" stop="20240704015100 +0800">
 		<title lang="zh">03_我靠充值当武帝</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240704015100 +0800" stop="20240704021500 +0800">
+		<title lang="zh">09_骸骨骑士大人奇幻世界冒险中</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -60624,6 +60627,9 @@
 	<programme channel="newtv超级电视剧" start="20240704010700 +0800" stop="20240704015200 +0800">
 		<title lang="zh">15_刘老根3</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240704015200 +0800" stop="20240704023700 +0800">
+		<title lang="zh">16_刘老根3</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -60632,6 +60638,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240704011200 +0800" stop="20240704015800 +0800">
 		<title lang="zh">27_幸福来敲门</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240704015800 +0800" stop="20240704024400 +0800">
+		<title lang="zh">28_幸福来敲门</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -60666,6 +60675,9 @@
 	<programme channel="newtv军旅剧场" start="20240704011400 +0800" stop="20240704015900 +0800">
 		<title lang="zh">43_一代枭雄</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240704015900 +0800" stop="20240704024500 +0800">
+		<title lang="zh">44_一代枭雄</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -60674,6 +60686,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20240704010600 +0800" stop="20240704014900 +0800">
 		<title lang="zh">37_遍地书香</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240704014900 +0800" stop="20240704023300 +0800">
+		<title lang="zh">38_遍地书香</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -60687,11 +60702,17 @@
 	<programme channel="newtv爱情喜剧" start="20240704002800 +0800" stop="20240704015700 +0800">
 		<title lang="zh">我们约会吧</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20240704015700 +0800" stop="20240704034800 +0800">
+		<title lang="zh">如何成为拉丁情人</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
 	<programme channel="newtv动作电影" start="20240704004200 +0800" stop="20240704015900 +0800">
 		<title lang="zh">幽灵毒枭</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20240704015900 +0800" stop="20240704033400 +0800">
+		<title lang="zh">末日回旋</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -60731,6 +60752,9 @@
 	</channel>
 	<programme channel="newtv炫舞未来" start="20240704003700 +0800" stop="20240704015400 +0800">
 		<title lang="zh">女朋友生气怎么哄？专家亲自示范教你“转危为安”！（20240419）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240704015400 +0800" stop="20240704024600 +0800">
+		<title lang="zh">妙语连珠（20240609）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
