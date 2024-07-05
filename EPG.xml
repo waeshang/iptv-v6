@@ -61428,6 +61428,9 @@
 	<programme channel="黑莓动画" start="20240706033000 +0800" stop="20240706034900 +0800">
 		<title lang="zh">01_全职法师第2季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240706034900 +0800" stop="20240706040700 +0800">
+		<title lang="zh">02_全职法师第2季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -61986,6 +61989,9 @@
 	<programme channel="newtv精品纪录" start="20240706031000 +0800" stop="20240706035800 +0800">
 		<title lang="zh">极地生灵</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240706035800 +0800" stop="20240706044600 +0800">
+		<title lang="zh">03_胜利之本</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -62040,6 +62046,9 @@
 	<programme channel="newtv家庭剧场" start="20240706031400 +0800" stop="20240706035900 +0800">
 		<title lang="zh">12_好歹一家人</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240706035900 +0800" stop="20240706044100 +0800">
+		<title lang="zh">17_北部湾人家</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -62060,6 +62069,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20240706020600 +0800" stop="20240706034900 +0800">
 		<title lang="zh">草竖琴</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20240706034900 +0800" stop="20240706043500 +0800">
+		<title lang="zh">38_光荣时代</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -62154,6 +62166,9 @@
 	<programme channel="newtv炫舞未来" start="20240706034300 +0800" stop="20240706034700 +0800">
 		<title lang="zh">在灿烂阳光下—毕刚（舞蹈展示）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240706035500 +0800" stop="20240706051100 +0800">
+		<title lang="zh">火遍全网“雪饼猴”揭秘真实工作 趴着上班万人“投喂”（20240505）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -62180,6 +62195,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20240706022400 +0800" stop="20240706035300 +0800">
 		<title lang="zh">侠探锦毛鼠之血光再起</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240706035300 +0800" stop="20240706052700 +0800">
+		<title lang="zh">百日孤独</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
