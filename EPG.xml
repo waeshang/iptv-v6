@@ -51,6 +51,9 @@
 	<programme channel="4K综艺" start="20240706011000 +0800" stop="20240706025300 +0800">
 		<title lang="zh">花儿与少年第一季20140516</title>
 	</programme>
+	<programme channel="4K综艺" start="20240706025300 +0800" stop="20240706042500 +0800">
+		<title lang="zh">亲爱的客栈第三季20191115</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -50646,6 +50649,9 @@
 	<programme channel="纯享4K" start="20240706022000 +0800" stop="20240706024900 +0800">
 		<title lang="zh">味道4K 原味乡间b7定南篇（下）</title>
 	</programme>
+	<programme channel="纯享4K" start="20240706024900 +0800" stop="20240706033800 +0800">
+		<title lang="zh">长江之歌4K（文明篇） 第4集 生态家园</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -61923,6 +61929,9 @@
 	<programme channel="newtv超级电视剧" start="20240706021300 +0800" stop="20240706025800 +0800">
 		<title lang="zh">27_刘老根3</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240706025800 +0800" stop="20240706034400 +0800">
+		<title lang="zh">28_刘老根3</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -61934,6 +61943,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240706021400 +0800" stop="20240706025900 +0800">
 		<title lang="zh">02_山村大爷</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240706025900 +0800" stop="20240706034400 +0800">
+		<title lang="zh">03_山村大爷</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -61965,6 +61977,9 @@
 	<programme channel="newtv古装剧场" start="20240706020600 +0800" stop="20240706025200 +0800">
 		<title lang="zh">48_大秦帝国之裂变</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240706025200 +0800" stop="20240706033700 +0800">
+		<title lang="zh">01_大秦帝国之纵横</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -61976,6 +61991,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240706020400 +0800" stop="20240706024900 +0800">
 		<title lang="zh">10_兵心依旧</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240706024900 +0800" stop="20240706033300 +0800">
+		<title lang="zh">11_兵心依旧</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -62043,6 +62061,9 @@
 	<programme channel="newtv潮妈辣婆" start="20240706021200 +0800" stop="20240706025700 +0800">
 		<title lang="zh">09_我的三个母亲</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240706025700 +0800" stop="20240706034200 +0800">
+		<title lang="zh">10_我的三个母亲</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -62067,6 +62088,9 @@
 	<programme channel="newtv军事评论" start="20240706023600 +0800" stop="20240706025700 +0800">
 		<title lang="zh">电子对抗如何改变战场态势</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240706025700 +0800" stop="20240706031900 +0800">
+		<title lang="zh">福建舰首航凯旋</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -62085,6 +62109,9 @@
 	<programme channel="newtv精品综合" start="20240706014100 +0800" stop="20240706025500 +0800">
 		<title lang="zh">朋友请吃饭</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20240706025500 +0800" stop="20240706033600 +0800">
+		<title lang="zh">27_黎明前的抉择</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -62100,6 +62127,12 @@
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
+	<programme channel="newtv金牌综艺" start="20240706002500 +0800" stop="20240706030100 +0800">
+		<title lang="zh">中国地名大会 第三季</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20240706030100 +0800" stop="20240706054200 +0800">
+		<title lang="zh">雷锋（20201219）</title>
+	</programme>
 	<programme channel="newtv金牌综艺" start="20240706002500 +0800" stop="20240706030100 +0800">
 		<title lang="zh">中国地名大会 第三季</title>
 	</programme>
