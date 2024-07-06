@@ -51,6 +51,9 @@
 	<programme channel="4K综艺" start="20240707000000 +0800" stop="20240707005900 +0800">
 		<title lang="zh">我最爱的女人们20190621</title>
 	</programme>
+	<programme channel="4K综艺" start="20240707005900 +0800" stop="20240707014100 +0800">
+		<title lang="zh">我最爱的女人们20190622</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -51096,6 +51099,9 @@
 	<programme channel="纯享4K" start="20240707001900 +0800" stop="20240707004900 +0800">
 		<title lang="zh">记住乡愁4K第七季 第三十二集 松潘——川西重镇 五彩古城（上）</title>
 	</programme>
+	<programme channel="纯享4K" start="20240707004900 +0800" stop="20240707011900 +0800">
+		<title lang="zh">记住乡愁4K第七季 第三十三集 松潘——川西重镇 五彩古城（下）</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -61623,6 +61629,9 @@
 	<programme channel="黑莓动画" start="20240707003400 +0800" stop="20240707005500 +0800">
 		<title lang="zh">03_一人之下第二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240707005500 +0800" stop="20240707012000 +0800">
+		<title lang="zh">04_一人之下第二季</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -62082,6 +62091,9 @@
 	<programme channel="newtv超级综艺" start="20240707001200 +0800" stop="20240707005700 +0800">
 		<title lang="zh">37_加油！妈妈</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240707005700 +0800" stop="20240707014300 +0800">
+		<title lang="zh">38_加油！妈妈</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -62181,6 +62193,9 @@
 	<programme channel="newtv精品纪录" start="20240707000500 +0800" stop="20240707005300 +0800">
 		<title lang="zh">05_无声的功勋（第一季）</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240707005300 +0800" stop="20240707013700 +0800">
+		<title lang="zh">04_明德崇教</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -62223,6 +62238,9 @@
 	<programme channel="newtv怡伴健康" start="20240707000500 +0800" stop="20240707005400 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240707005400 +0800" stop="20240707014000 +0800">
+		<title lang="zh">17_大村官</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -62235,44 +62253,14 @@
 	<programme channel="newtv军事评论" start="20240707000600 +0800" stop="20240707005900 +0800">
 		<title lang="zh">信通尖兵锻造者国防知识挑战赛</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240707005900 +0800" stop="20240707015100 +0800">
+		<title lang="zh">像雷锋那样当兵 国防知识挑战赛</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
-	<programme channel="newtv炫舞未来" start="20240707000000 +0800" stop="20240707020000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv炫舞未来" start="20240707020000 +0800" stop="20240707040000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv炫舞未来" start="20240707060000 +0800" stop="20240707080000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv炫舞未来" start="20240707080000 +0800" stop="20240707100600 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv炫舞未来" start="20240707100600 +0800" stop="20240707120000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv炫舞未来" start="20240707120000 +0800" stop="20240707140000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv炫舞未来" start="20240707140000 +0800" stop="20240707160000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv炫舞未来" start="20240707160000 +0800" stop="20240707180000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv炫舞未来" start="20240707180000 +0800" stop="20240707190000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv炫舞未来" start="20240707190000 +0800" stop="20240707200000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv炫舞未来" start="20240707200000 +0800" stop="20240707220000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv炫舞未来" start="20240707220000 +0800" stop="20240707235900 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="newtv炫舞未来" start="20240707004700 +0800" stop="20240707014900 +0800">
+		<title lang="zh">家风润心（20240628）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
