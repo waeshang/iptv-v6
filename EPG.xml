@@ -49257,6 +49257,9 @@
 	<programme channel="纯享4K" start="20240708023300 +0800" stop="20240708030200 +0800">
 		<title lang="zh">味道4K 原味乡间b7英德篇（2）</title>
 	</programme>
+	<programme channel="纯享4K" start="20240708030200 +0800" stop="20240708034400 +0800">
+		<title lang="zh">远方的家4K 厦门珍稀海洋物种国家级自然保护区：鹭岛生灵</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -58494,6 +58497,9 @@
 	<programme channel="黑莓动画" start="20240708024100 +0800" stop="20240708030600 +0800">
 		<title lang="zh">05_星辰变第二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240708030600 +0800" stop="20240708033000 +0800">
+		<title lang="zh">06_星辰变第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -58902,6 +58908,9 @@
 	<programme channel="newtv超级综艺" start="20240708020600 +0800" stop="20240708025700 +0800">
 		<title lang="zh">艺览天下</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240708025700 +0800" stop="20240708041400 +0800">
+		<title lang="zh">星光大道</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -58935,6 +58944,9 @@
 	<programme channel="newtv超级电视剧" start="20240708020400 +0800" stop="20240708024900 +0800">
 		<title lang="zh">39_刘老根3</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240708024900 +0800" stop="20240708033200 +0800">
+		<title lang="zh">40_刘老根3</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -58949,6 +58961,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240708021700 +0800" stop="20240708030200 +0800">
 		<title lang="zh">13_山村大爷</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240708030200 +0800" stop="20240708034700 +0800">
+		<title lang="zh">14_山村大爷</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -59031,6 +59046,9 @@
 	<programme channel="newtv爱情喜剧" start="20240708020400 +0800" stop="20240708024900 +0800">
 		<title lang="zh">02_天地姻缘七仙女</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20240708024900 +0800" stop="20240708033400 +0800">
+		<title lang="zh">03_天地姻缘七仙女</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -59096,6 +59114,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240708014600 +0800" stop="20240708031500 +0800">
 		<title lang="zh">朋友请吃饭</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240708031500 +0800" stop="20240708040000 +0800">
+		<title lang="zh">01_绝密使命</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -59171,6 +59192,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240708013700 +0800" stop="20240708030100 +0800">
 		<title lang="zh">飞鱼服</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240708030100 +0800" stop="20240708042800 +0800">
+		<title lang="zh">御林九处之千钧镇</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
