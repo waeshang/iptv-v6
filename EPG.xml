@@ -61926,6 +61926,9 @@
 	<programme channel="newtv超级体育" start="20240708040000 +0800" stop="20240708060000 +0800">
 		<title lang="zh">实况录像(奥林匹克)-2024年尤伯杯羽毛球赛 半决赛(4K)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240708060000 +0800" stop="20240708063000 +0800">
+		<title lang="zh">实况录像-2024年射箭世界杯 上海站 1</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -62021,6 +62024,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240708052600 +0800" stop="20240708054800 +0800">
 		<title lang="zh">06_刘铭传在台湾</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240708054800 +0800" stop="20240708062300 +0800">
+		<title lang="zh">26_我的抗战：百团大战</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -62144,6 +62150,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20240708050400 +0800" stop="20240708054900 +0800">
 		<title lang="zh">06_天地姻缘七仙女</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20240708054900 +0800" stop="20240708072300 +0800">
+		<title lang="zh">对不起，生活</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
