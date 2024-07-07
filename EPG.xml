@@ -60,6 +60,9 @@
 	<programme channel="4K综艺" start="20240708023700 +0800" stop="20240708035200 +0800">
 		<title lang="zh">小小的追球20191224</title>
 	</programme>
+	<programme channel="4K综艺" start="20240708035200 +0800" stop="20240708045100 +0800">
+		<title lang="zh">小小的追球20191225</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -58506,6 +58509,9 @@
 	<programme channel="黑莓动画" start="20240708033000 +0800" stop="20240708034800 +0800">
 		<title lang="zh">05_全职法师第2季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240708034800 +0800" stop="20240708040600 +0800">
+		<title lang="zh">06_全职法师第2季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -58932,6 +58938,9 @@
 	<programme channel="newtv超级体育" start="20240708023500 +0800" stop="20240708040000 +0800">
 		<title lang="zh">实况录像-2024年世界田联钻石联赛 马拉喀什站</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240708040000 +0800" stop="20240708060000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2024年尤伯杯羽毛球赛 半决赛(4K)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -58979,6 +58988,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240708030200 +0800" stop="20240708034700 +0800">
 		<title lang="zh">14_山村大爷</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240708034700 +0800" stop="20240708043200 +0800">
+		<title lang="zh">15_山村大爷</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -59091,6 +59103,9 @@
 	<programme channel="newtv动作电影" start="20240708022100 +0800" stop="20240708034900 +0800">
 		<title lang="zh">冰川鲨鱼</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20240708034900 +0800" stop="20240708051900 +0800">
+		<title lang="zh">珍宝大战</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -59108,6 +59123,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240708033000 +0800" stop="20240708035700 +0800">
 		<title lang="zh">动物奥秘b7隐形世界</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240708035700 +0800" stop="20240708042400 +0800">
+		<title lang="zh">动物的生存旅程（上）</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -59154,6 +59172,9 @@
 	<programme channel="newtv炫舞未来" start="20240708034300 +0800" stop="20240708034700 +0800">
 		<title lang="zh">春暖花开—毕刚（舞蹈展示）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240708035000 +0800" stop="20240708050700 +0800">
+		<title lang="zh">火遍全网“雪饼猴”揭秘真实工作 趴着上班万人“投喂”（20240505）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -59165,6 +59186,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240708031500 +0800" stop="20240708040000 +0800">
 		<title lang="zh">01_绝密使命</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240708040000 +0800" stop="20240708044500 +0800">
+		<title lang="zh">02_绝密使命</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
