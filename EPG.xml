@@ -30621,6 +30621,9 @@
 	<programme channel="咪咕综合体育" start="20240709000000 +0800" stop="20240709010500 +0800">
 		<title lang="zh">23/24赛季CBA季后赛半决赛G2全场回放：辽宁vs广东（杨健、李根、孙铭徽、金佳悦）（50帧原画）</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20240709010500 +0800" stop="20240709030600 +0800">
+		<title lang="zh">2024斯诺克世界公开赛决赛下半场回放：丁俊晖4-10特鲁姆普（李照）</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -67884,6 +67887,9 @@
 	<programme channel="黑莓动画" start="20240709002700 +0800" stop="20240709005400 +0800">
 		<title lang="zh">07_一人之下第二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240709005400 +0800" stop="20240709011700 +0800">
+		<title lang="zh">08_一人之下第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -68417,6 +68423,9 @@
 	</channel>
 	<programme channel="newtv超级综艺" start="20240709001900 +0800" stop="20240709010000 +0800">
 		<title lang="zh">05_流光之城</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20240709010000 +0800" stop="20240709014600 +0800">
+		<title lang="zh">06_流光之城</title>
 	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
