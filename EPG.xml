@@ -65514,6 +65514,9 @@
 	<programme channel="newtv超级电视剧" start="20240710031300 +0800" stop="20240710035800 +0800">
 		<title lang="zh">10_我哥我嫂</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240710035800 +0800" stop="20240710044000 +0800">
+		<title lang="zh">32_我们的队伍向太阳</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
