@@ -26268,6 +26268,9 @@
 	<programme channel="咪咕综合体育" start="20240710000000 +0800" stop="20240710005600 +0800">
 		<title lang="zh">23/24赛季CBA季后赛12进8G3全场回放：深圳vs北控（姜帆、刘铁、秋童）（50帧原画）</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20240710005600 +0800" stop="20240710025800 +0800">
+		<title lang="zh">2024WTT常规挑战赛突尼斯站Day1二号桌全场回放（二）</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -64734,6 +64737,9 @@
 	<programme channel="黑莓动画" start="20240710003500 +0800" stop="20240710005700 +0800">
 		<title lang="zh">09_一人之下第二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240710005700 +0800" stop="20240710012100 +0800">
+		<title lang="zh">10_一人之下第二季</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -65217,41 +65223,8 @@
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
-	<programme channel="newtv超级体育" start="20240710000000 +0800" stop="20240710020000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20240710020000 +0800" stop="20240710040000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20240710060000 +0800" stop="20240710080000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20240710080000 +0800" stop="20240710100600 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20240710100600 +0800" stop="20240710120000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20240710120000 +0800" stop="20240710140000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20240710140000 +0800" stop="20240710160000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20240710160000 +0800" stop="20240710180000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20240710180000 +0800" stop="20240710190000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20240710190000 +0800" stop="20240710200000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20240710200000 +0800" stop="20240710220000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20240710220000 +0800" stop="20240710235900 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="newtv超级体育" start="20240710010500 +0800" stop="20240710013500 +0800">
+		<title lang="zh">实况录像-2024年国际体联蹦床世界杯 阿罗萨站</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -65265,6 +65238,9 @@
 	<programme channel="newtv超级电视剧" start="20240710001100 +0800" stop="20240710005700 +0800">
 		<title lang="zh">06_我哥我嫂</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240710005700 +0800" stop="20240710014200 +0800">
+		<title lang="zh">07_我哥我嫂</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -65276,6 +65252,9 @@
 	</channel>
 	<programme channel="newtv精品纪录" start="20240710002100 +0800" stop="20240710004800 +0800">
 		<title lang="zh">海天英雄 张超</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240710004800 +0800" stop="20240710011400 +0800">
+		<title lang="zh">核盾功勋 林俊德</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
