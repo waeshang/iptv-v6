@@ -60,6 +60,9 @@
 	<programme channel="4K综艺" start="20240711044700 +0800" stop="20240711054100 +0800">
 		<title lang="zh">小小的追球20200219</title>
 	</programme>
+	<programme channel="4K综艺" start="20240711054100 +0800" stop="20240711064200 +0800">
+		<title lang="zh">小小的追球20200225</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -56241,6 +56244,9 @@
 	<programme channel="纯享4K" start="20240711052800 +0800" stop="20240711053200 +0800">
 		<title lang="zh">听起来很好吃 第二季4K 均安烧猪</title>
 	</programme>
+	<programme channel="纯享4K" start="20240711053200 +0800" stop="20240711061200 +0800">
+		<title lang="zh">荣宝斋4K 第5集 脉动新声</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -66894,6 +66900,9 @@
 	<programme channel="黑莓动画" start="20240711052100 +0800" stop="20240711054600 +0800">
 		<title lang="zh">15_入间同学入魔了</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240711054600 +0800" stop="20240711061000 +0800">
+		<title lang="zh">16_入间同学入魔了</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -67419,6 +67428,9 @@
 	<programme channel="newtv超级体育" start="20240711020000 +0800" stop="20240711060000 +0800">
 		<title lang="zh">2024欧洲杯足球赛-半决赛 荷兰 vs 英格兰</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240711060000 +0800" stop="20240711063000 +0800">
+		<title lang="zh">实况录像-2024年射箭世界杯 上海站</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -67463,6 +67475,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20240711051200 +0800" stop="20240711055400 +0800">
 		<title lang="zh">06_海之谣</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240711055400 +0800" stop="20240711063500 +0800">
+		<title lang="zh">07_海之谣</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -67524,6 +67539,9 @@
 	<programme channel="newtv精品纪录" start="20240711044800 +0800" stop="20240711053600 +0800">
 		<title lang="zh">02_重返刺桐城</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240711053600 +0800" stop="20240711062400 +0800">
+		<title lang="zh">03_重返刺桐城</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -67574,6 +67592,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240711045200 +0800" stop="20240711053700 +0800">
 		<title lang="zh">42_南侨机工英雄传</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240711053700 +0800" stop="20240711062300 +0800">
+		<title lang="zh">01_大汉口</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -67644,6 +67665,9 @@
 	<programme channel="newtv爱情喜剧" start="20240711044700 +0800" stop="20240711053200 +0800">
 		<title lang="zh">21_天地姻缘七仙女</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20240711053200 +0800" stop="20240711070700 +0800">
+		<title lang="zh">第101场婚礼</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -67685,6 +67709,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240711051100 +0800" stop="20240711053800 +0800">
 		<title lang="zh">保护山地生态——山高水长（下）</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240711053800 +0800" stop="20240711081400 +0800">
+		<title lang="zh">昆曲《牡丹亭》</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -67757,6 +67784,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240711051700 +0800" stop="20240711053900 +0800">
 		<title lang="zh">从俄乌冲突看“星链”</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240711053900 +0800" stop="20240711060100 +0800">
+		<title lang="zh">从俄乌冲突看地雷新战法</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -67853,6 +67883,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20240711030700 +0800" stop="20240711053400 +0800">
 		<title lang="zh">【2016欧洲杯】1/4决赛：波兰VS葡萄牙</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20240711053400 +0800" stop="20240711071800 +0800">
+		<title lang="zh">【2016欧洲杯】半决赛：葡萄牙VS威尔士</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
