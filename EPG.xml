@@ -54,6 +54,9 @@
 	<programme channel="4K综艺" start="20240711021200 +0800" stop="20240711034900 +0800">
 		<title lang="zh">我最爱的女人们20190726</title>
 	</programme>
+	<programme channel="4K综艺" start="20240711034900 +0800" stop="20240711044700 +0800">
+		<title lang="zh">小小的追球20200218</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -53199,6 +53202,9 @@
 	<programme channel="纯享4K" start="20240711031900 +0800" stop="20240711034900 +0800">
 		<title lang="zh">味道4K 下饭菜b7绵阳篇</title>
 	</programme>
+	<programme channel="纯享4K" start="20240711034900 +0800" stop="20240711043100 +0800">
+		<title lang="zh">远方的家4K 长江行（96） 多元文化 活力上海</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -63840,6 +63846,9 @@
 	<programme channel="黑莓动画" start="20240711033600 +0800" stop="20240711040000 +0800">
 		<title lang="zh">12_星辰变第二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240711040000 +0800" stop="20240711041800 +0800">
+		<title lang="zh">11_全职法师第2季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -64413,6 +64422,9 @@
 	<programme channel="newtv精品大剧" start="20240711031600 +0800" stop="20240711040100 +0800">
 		<title lang="zh">30_山村大爷</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240711040100 +0800" stop="20240711044600 +0800">
+		<title lang="zh">31_山村大爷</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -64437,6 +64449,9 @@
 	<programme channel="newtv精品纪录" start="20240711033400 +0800" stop="20240711035900 +0800">
 		<title lang="zh">04_深谷秘境</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240711035900 +0800" stop="20240711042300 +0800">
+		<title lang="zh">01_赌城危局</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -64454,6 +64469,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20240711030600 +0800" stop="20240711035100 +0800">
 		<title lang="zh">27_大秦帝国之纵横</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20240711035100 +0800" stop="20240711043600 +0800">
+		<title lang="zh">15_扶摇</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -64551,6 +64569,9 @@
 	<programme channel="newtv怡伴健康" start="20240711032300 +0800" stop="20240711035000 +0800">
 		<title lang="zh">视觉进化之谜（下）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240711035000 +0800" stop="20240711041700 +0800">
+		<title lang="zh">荒野原生态——大河上下（上）</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -64565,6 +64586,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240711031000 +0800" stop="20240711035500 +0800">
 		<title lang="zh">09_阿娜尔罕</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240711035500 +0800" stop="20240711044100 +0800">
+		<title lang="zh">10_阿娜尔罕</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -64598,6 +64622,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240711032900 +0800" stop="20240711035100 +0800">
 		<title lang="zh">乌军反攻遭遇“钢铁之墙”</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240711035100 +0800" stop="20240711041300 +0800">
+		<title lang="zh">事故频发的F-35</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
