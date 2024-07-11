@@ -48,6 +48,9 @@
 	<programme channel="4K综艺" start="20240712010900 +0800" stop="20240712022500 +0800">
 		<title lang="zh">小小的追球20191210</title>
 	</programme>
+	<programme channel="4K综艺" start="20240712022500 +0800" stop="20240712031500 +0800">
+		<title lang="zh">小小的追球20191211</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -52995,6 +52998,9 @@
 	<programme channel="纯享4K" start="20240712015700 +0800" stop="20240712023700 +0800">
 		<title lang="zh">探索b7发现4K 黑土地和她的朋友们（1）四季家园</title>
 	</programme>
+	<programme channel="纯享4K" start="20240712023700 +0800" stop="20240712031700 +0800">
+		<title lang="zh">探索b7发现4K 黑土地和她的朋友们（2）希望的田野</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -63636,6 +63642,12 @@
 	<programme channel="黑莓动画" start="20240712021100 +0800" stop="20240712022000 +0800">
 		<title lang="zh">34_我靠充值当武帝</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240712022000 +0800" stop="20240712024400 +0800">
+		<title lang="zh">12_骸骨骑士大人奇幻世界冒险中</title>
+	</programme>
+	<programme channel="黑莓动画" start="20240712024400 +0800" stop="20240712030600 +0800">
+		<title lang="zh">01_骸骨骑士大人奇幻世界冒险中</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -64137,6 +64149,9 @@
 	<programme channel="newtv超级体育" start="20240712013500 +0800" stop="20240712023500 +0800">
 		<title lang="zh">实况录像-2024年举重世界杯 女子49公斤级决赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240712023500 +0800" stop="20240712040000 +0800">
+		<title lang="zh">2024年世界男排联赛总决赛-半决赛</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -64185,6 +64200,9 @@
 	<programme channel="newtv精品纪录" start="20240712015700 +0800" stop="20240712022200 +0800">
 		<title lang="zh">02_秦岭金丝猴</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240712022200 +0800" stop="20240712024700 +0800">
+		<title lang="zh">03_秦岭羚牛</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -64196,6 +64214,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20240712015800 +0800" stop="20240712024300 +0800">
 		<title lang="zh">30_大秦帝国之纵横</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20240712024300 +0800" stop="20240712032900 +0800">
+		<title lang="zh">31_大秦帝国之纵横</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -64239,6 +64260,9 @@
 	<programme channel="newtv爱情喜剧" start="20240712004200 +0800" stop="20240712021700 +0800">
 		<title lang="zh">午夜邂逅</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20240712021700 +0800" stop="20240712040600 +0800">
+		<title lang="zh">走出尘埃</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -64259,6 +64283,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240712015400 +0800" stop="20240712024000 +0800">
 		<title lang="zh">33_大村官</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240712024000 +0800" stop="20240712032600 +0800">
+		<title lang="zh">34_大村官</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -64289,6 +64316,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240712021200 +0800" stop="20240712023400 +0800">
 		<title lang="zh">风云战国（2）姬丹</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240712023400 +0800" stop="20240712025600 +0800">
+		<title lang="zh">风云战国（3）白起</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -64328,6 +64358,9 @@
 	</channel>
 	<programme channel="newtv精品体育" start="20240712005900 +0800" stop="20240712023900 +0800">
 		<title lang="zh">【2016欧洲杯】B组：英格兰VS俄罗斯</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20240712023900 +0800" stop="20240712042300 +0800">
+		<title lang="zh">【2016欧洲杯】B组：斯洛伐克VS英格兰</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
