@@ -49749,6 +49749,9 @@
 	<programme channel="纯享4K" start="20240714005300 +0800" stop="20240714012300 +0800">
 		<title lang="zh">记住乡愁4K第七季 第四十七集 南通——弄潮江海 通济天下</title>
 	</programme>
+	<programme channel="纯享4K" start="20240714012300 +0800" stop="20240714021200 +0800">
+		<title lang="zh">世界遗产漫步4K 第3集 杭州</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -59160,6 +59163,15 @@
 	<programme channel="黑莓动画" start="20240714011200 +0800" stop="20240714013600 +0800">
 		<title lang="zh">18_一人之下第二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240714014500 +0800" stop="20240714015400 +0800">
+		<title lang="zh">38_我靠充值当武帝</title>
+	</programme>
+	<channel id="黑莓电影">
+		<display-name lang="zh">黑莓电影</display-name>
+	</channel>
+	<programme channel="黑莓电影" start="20240714013100 +0800" stop="20240714033700 +0800">
+		<title lang="zh">沙漠之花</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -59625,11 +59637,17 @@
 	<programme channel="newtv超级综艺" start="20240714010000 +0800" stop="20240714014400 +0800">
 		<title lang="zh">26_流光之城</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240714014400 +0800" stop="20240714030100 +0800">
+		<title lang="zh">综艺喜乐汇</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
 	<programme channel="newtv超级体育" start="20240714000600 +0800" stop="20240714013500 +0800">
 		<title lang="zh">实况录像-2024年奥运会男篮资格赛 西班牙站 决赛</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20240714013500 +0800" stop="20240714023500 +0800">
+		<title lang="zh">实况录像-2024年举重世界杯 女子87公斤以上级决赛</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -59655,6 +59673,9 @@
 	<programme channel="newtv精品大剧" start="20240714004300 +0800" stop="20240714012800 +0800">
 		<title lang="zh">11_新刑警本色</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240714012800 +0800" stop="20240714021200 +0800">
+		<title lang="zh">12_新刑警本色</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -59667,6 +59688,9 @@
 	<programme channel="newtv精品纪录" start="20240714011000 +0800" stop="20240714014500 +0800">
 		<title lang="zh">寻找狄仁杰（一）历史上确有其人，他现在的形象从何而来？</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240714014500 +0800" stop="20240714022500 +0800">
+		<title lang="zh">南极 世界尽头之旅</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -59675,6 +59699,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20240714005700 +0800" stop="20240714014300 +0800">
 		<title lang="zh">39_大秦帝国之纵横</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20240714014300 +0800" stop="20240714022800 +0800">
+		<title lang="zh">40_大秦帝国之纵横</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -59745,6 +59772,9 @@
 	<programme channel="newtv军事评论" start="20240714011600 +0800" stop="20240714013800 +0800">
 		<title lang="zh">船政学堂 第四集 孺子可教（下）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240714013800 +0800" stop="20240714020000 +0800">
+		<title lang="zh">船政学堂 第五集 问道“泰西”（上）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -59762,6 +59792,9 @@
 	</channel>
 	<programme channel="newtv惊悚悬疑" start="20240714010000 +0800" stop="20240714013900 +0800">
 		<title lang="zh">泰米拉泰国进口石墨烯乳胶床垫1.8m/乳胶床垫1.5m-渠道（右）</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240714013900 +0800" stop="20240714030300 +0800">
+		<title lang="zh">床下有人2</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
