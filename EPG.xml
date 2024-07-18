@@ -64299,6 +64299,9 @@
 	<programme channel="纯享4K" start="20240719023900 +0800" stop="20240719030900 +0800">
 		<title lang="zh">村庄故事4K 山庄玉露香</title>
 	</programme>
+	<programme channel="纯享4K" start="20240719030900 +0800" stop="20240719033900 +0800">
+		<title lang="zh">味道4K 我的家乡菜b7保山篇（3）</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -76875,6 +76878,9 @@
 	<programme channel="黑莓动画" start="20240719023500 +0800" stop="20240719030300 +0800">
 		<title lang="zh">09_星辰变 第一季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240719030300 +0800" stop="20240719033100 +0800">
+		<title lang="zh">10_星辰变 第一季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -77373,6 +77379,9 @@
 	<programme channel="newtv超级综艺" start="20240719013300 +0800" stop="20240719025000 +0800">
 		<title lang="zh">综艺喜乐汇</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240719025000 +0800" stop="20240719042300 +0800">
+		<title lang="zh">经典咏流传b7正青春</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -77412,6 +77421,9 @@
 	<programme channel="newtv超级电视剧" start="20240719015900 +0800" stop="20240719024600 +0800">
 		<title lang="zh">04_亲爱的，你在哪里</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240719024600 +0800" stop="20240719033300 +0800">
+		<title lang="zh">05_亲爱的，你在哪里</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -77424,6 +77436,9 @@
 	<programme channel="newtv精品大剧" start="20240719020100 +0800" stop="20240719024700 +0800">
 		<title lang="zh">09_菜刀班尖刀连</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240719024700 +0800" stop="20240719033300 +0800">
+		<title lang="zh">10_菜刀班尖刀连</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -77435,6 +77450,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240719015700 +0800" stop="20240719024800 +0800">
 		<title lang="zh">第3集：草原</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240719024800 +0800" stop="20240719034000 +0800">
+		<title lang="zh">第1集：生命之岛</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -77450,6 +77468,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20240719022000 +0800" stop="20240719030500 +0800">
 		<title lang="zh">16_天和局</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20240719030500 +0800" stop="20240719035500 +0800">
+		<title lang="zh">17_天和局</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -77478,6 +77499,9 @@
 	<programme channel="newtv家庭剧场" start="20240719021000 +0800" stop="20240719025500 +0800">
 		<title lang="zh">07_沃野飘香</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240719025500 +0800" stop="20240719034000 +0800">
+		<title lang="zh">08_沃野飘香</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -77490,11 +77514,17 @@
 	<programme channel="newtv热播精选" start="20240719023000 +0800" stop="20240719031600 +0800">
 		<title lang="zh">23_问心</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20240719031600 +0800" stop="20240719040500 +0800">
+		<title lang="zh">24_问心</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
 	<programme channel="newtv爱情喜剧" start="20240719005200 +0800" stop="20240719024900 +0800">
 		<title lang="zh">好莱坞结局</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20240719024900 +0800" stop="20240719033900 +0800">
+		<title lang="zh">07_女医明妃传</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -77520,6 +77550,9 @@
 	<programme channel="newtv怡伴健康" start="20240719023100 +0800" stop="20240719030600 +0800">
 		<title lang="zh">17_你是我的奇迹</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240719030600 +0800" stop="20240719033300 +0800">
+		<title lang="zh">飞瀑下的生机（上）</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -77531,6 +77564,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240719021200 +0800" stop="20240719025600 +0800">
 		<title lang="zh">35_独生子女的婆婆妈妈</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240719025600 +0800" stop="20240719034000 +0800">
+		<title lang="zh">36_独生子女的婆婆妈妈</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -77567,6 +77603,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20240719013500 +0800" stop="20240719025500 +0800">
 		<title lang="zh">山海经之伏魔正道</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240719025500 +0800" stop="20240719040400 +0800">
+		<title lang="zh">宋慈之草人案</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
