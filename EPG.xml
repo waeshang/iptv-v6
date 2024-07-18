@@ -76890,6 +76890,9 @@
 	<programme channel="黑莓动画" start="20240719033100 +0800" stop="20240719035300 +0800">
 		<title lang="zh">11_星辰变 第一季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240719035300 +0800" stop="20240719041200 +0800">
+		<title lang="zh">03_全职法师第1季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -77409,6 +77412,9 @@
 	<programme channel="newtv超级体育" start="20240719023500 +0800" stop="20240719040000 +0800">
 		<title lang="zh">实况录像-2024年世界田联钻石联赛 奥斯陆站</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240719040000 +0800" stop="20240719060000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2024年尤伯杯羽毛球赛 1/4决赛</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -77420,6 +77426,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20240719022500 +0800" stop="20240719035400 +0800">
 		<title lang="zh">情断莲花庵</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20240719035400 +0800" stop="20240719055900 +0800">
+		<title lang="zh">游击飞行中队</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -77492,6 +77501,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20240719030500 +0800" stop="20240719035500 +0800">
 		<title lang="zh">17_天和局</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20240719035500 +0800" stop="20240719044000 +0800">
+		<title lang="zh">54_扶摇</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -77585,6 +77597,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240719033300 +0800" stop="20240719040000 +0800">
 		<title lang="zh">飞瀑下的生机（下）</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240719040000 +0800" stop="20240719042700 +0800">
+		<title lang="zh">地球的生命之舞（上）</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -77720,6 +77735,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240719024300 +0800" stop="20240719035300 +0800">
 		<title lang="zh">神拳无敌</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240719035300 +0800" stop="20240719051200 +0800">
+		<title lang="zh">女子太极剑</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
