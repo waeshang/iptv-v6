@@ -6645,6 +6645,87 @@
 	<programme channel="CDTV4" start="20240720225000 +0800" stop="20240720234000 +0800">
 		<title lang="zh">《雄风剧场》</title>
 	</programme>
+	<channel id="CDTV5">
+		<display-name lang="zh">CDTV5</display-name>
+	</channel>
+	<programme channel="CDTV5" start="20240720000000 +0800" stop="20240720012000 +0800">
+		<title lang="zh">《成都全接触》（重播）</title>
+	</programme>
+	<programme channel="CDTV5" start="20240720012000 +0800" stop="20240720022000 +0800">
+		<title lang="zh">《e赛场》</title>
+	</programme>
+	<programme channel="CDTV5" start="20240720022000 +0800" stop="20240720045000 +0800">
+		<title lang="zh">《深夜剧场》</title>
+	</programme>
+	<programme channel="CDTV5" start="20240720045000 +0800" stop="20240720055000 +0800">
+		<title lang="zh">《成都全接触》（重播）</title>
+	</programme>
+	<programme channel="CDTV5" start="20240720055000 +0800" stop="20240720060000 +0800">
+		<title lang="zh">《宣传片》</title>
+	</programme>
+	<programme channel="CDTV5" start="20240720060000 +0800" stop="20240720062000 +0800">
+		<title lang="zh">《运动成都》</title>
+	</programme>
+	<programme channel="CDTV5" start="20240720062000 +0800" stop="20240720065000 +0800">
+		<title lang="zh">《开机广告》</title>
+	</programme>
+	<programme channel="CDTV5" start="20240720065000 +0800" stop="20240720072500 +0800">
+		<title lang="zh">《云上生活家》（重播）</title>
+	</programme>
+	<programme channel="CDTV5" start="20240720072500 +0800" stop="20240720080500 +0800">
+		<title lang="zh">《JJ棋牌比赛》</title>
+	</programme>
+	<programme channel="CDTV5" start="20240720080500 +0800" stop="20240720113500 +0800">
+		<title lang="zh">《广告+电视剧》</title>
+	</programme>
+	<programme channel="CDTV5" start="20240720113500 +0800" stop="20240720114500 +0800">
+		<title lang="zh">《养老全接触》（重播）</title>
+	</programme>
+	<programme channel="CDTV5" start="20240720114500 +0800" stop="20240720115500 +0800">
+		<title lang="zh">《乐在天府》</title>
+	</programme>
+	<programme channel="CDTV5" start="20240720115500 +0800" stop="20240720120000 +0800">
+		<title lang="zh">《广告》</title>
+	</programme>
+	<programme channel="CDTV5" start="20240720120000 +0800" stop="20240720130000 +0800">
+		<title lang="zh">《成都全接触》（重播）</title>
+	</programme>
+	<programme channel="CDTV5" start="20240720130000 +0800" stop="20240720170000 +0800">
+		<title lang="zh">《广告+电视剧》</title>
+	</programme>
+	<programme channel="CDTV5" start="20240720170000 +0800" stop="20240720172000 +0800">
+		<title lang="zh">《运动成都》（重播）</title>
+	</programme>
+	<programme channel="CDTV5" start="20240720172000 +0800" stop="20240720173000 +0800">
+		<title lang="zh">《研旅新发现》</title>
+	</programme>
+	<programme channel="CDTV5" start="20240720173000 +0800" stop="20240720180000 +0800">
+		<title lang="zh">《西望成都》</title>
+	</programme>
+	<programme channel="CDTV5" start="20240720180000 +0800" stop="20240720190500 +0800">
+		<title lang="zh">《成都全接触》</title>
+	</programme>
+	<programme channel="CDTV5" start="20240720190500 +0800" stop="20240720191500 +0800">
+		<title lang="zh">《养老全接触》</title>
+	</programme>
+	<programme channel="CDTV5" start="20240720191500 +0800" stop="20240720192000 +0800">
+		<title lang="zh">《宣传片》</title>
+	</programme>
+	<programme channel="CDTV5" start="20240720192000 +0800" stop="20240720213500 +0800">
+		<title lang="zh">《中超球赛第24轮 武汉三镇VS成�...</title>
+	</programme>
+	<programme channel="CDTV5" start="20240720213500 +0800" stop="20240720215500 +0800">
+		<title lang="zh">《运动成都》</title>
+	</programme>
+	<programme channel="CDTV5" start="20240720215500 +0800" stop="20240720222500 +0800">
+		<title lang="zh">《云上生活家》</title>
+	</programme>
+	<programme channel="CDTV5" start="20240720222500 +0800" stop="20240720225500 +0800">
+		<title lang="zh">《全接触晚间播报》</title>
+	</programme>
+	<programme channel="CDTV5" start="20240720225500 +0800" stop="20240720235500 +0800">
+		<title lang="zh">《e赛场》</title>
+	</programme>
 	<channel id="CDTV6">
 		<display-name lang="zh">CDTV6</display-name>
 	</channel>
@@ -61425,6 +61506,75 @@
 	<programme channel="生活时尚" start="20240720235800 +0800" stop="20240720000000 +0800">
 		<title lang="zh">自然之旅欣赏</title>
 	</programme>
+	<channel id="电竞天堂">
+		<display-name lang="zh">电竞天堂</display-name>
+	</channel>
+	<programme channel="电竞天堂" start="20240720004900 +0800" stop="20240720012400 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－2重庆�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20240720012400 +0800" stop="20240720021300 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－3重庆�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20240720021300 +0800" stop="20240720025400 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－4重庆�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20240720025400 +0800" stop="20240720033800 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛6－1四川�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20240720033800 +0800" stop="20240720041200 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－2重庆�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20240720041200 +0800" stop="20240720050200 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－3重庆�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20240720050200 +0800" stop="20240720054200 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－4重庆�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20240720054200 +0800" stop="20240720062600 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛6－1四川�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20240720062600 +0800" stop="20240720070100 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－2重庆�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20240720070100 +0800" stop="20240720075100 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－3重庆�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20240720075100 +0800" stop="20240720083100 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－4重庆�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20240720083100 +0800" stop="20240720091500 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛6－1四川�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20240720091500 +0800" stop="20240720095000 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－2重庆�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20240720095000 +0800" stop="20240720104000 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－3重庆�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20240720104000 +0800" stop="20240720112000 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－4重庆�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20240720112000 +0800" stop="20240720120400 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛6－1四川�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20240720120400 +0800" stop="20240720123900 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－2重庆�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20240720123900 +0800" stop="20240720132900 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－3重庆�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20240720132900 +0800" stop="20240720140900 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－4重庆�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20240720140900 +0800" stop="20240720145300 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛6－1四川�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20240720145300 +0800" stop="20240720152800 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－2重庆�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20240720152800 +0800" stop="20240720161700 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－3重庆�...</title>
+	</programme>
 	<channel id="电视指南">
 		<display-name lang="zh">电视指南</display-name>
 	</channel>
@@ -63845,6 +63995,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20240720041300 +0800" stop="20240720045500 +0800">
 		<title lang="zh">远方的家4K 长江行 古韵夔州 精诚奉节</title>
+	</programme>
+	<programme channel="纯享4K" start="20240720050000 +0800" stop="20240720050600 +0800">
+		<title lang="zh">美丽中国自然4K 栗喉蜂虎系列 守护绿莺雀</title>
 	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
@@ -76989,6 +77142,9 @@
 	<programme channel="newtv超级电视剧" start="20240720041700 +0800" stop="20240720045400 +0800">
 		<title lang="zh">11_特种兵之火凤凰</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240720045400 +0800" stop="20240720053000 +0800">
+		<title lang="zh">12_特种兵之火凤凰</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -77100,6 +77256,9 @@
 	<programme channel="newtv家庭剧场" start="20240720040800 +0800" stop="20240720045400 +0800">
 		<title lang="zh">16_都市外乡人</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240720045400 +0800" stop="20240720053900 +0800">
+		<title lang="zh">17_都市外乡人</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -77178,6 +77337,9 @@
 	<programme channel="newtv怡伴健康" start="20240720043000 +0800" stop="20240720045700 +0800">
 		<title lang="zh">熔岩隧道的守卫者</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240720045700 +0800" stop="20240720071800 +0800">
+		<title lang="zh">黄梅戏《红丝错》</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -77207,6 +77369,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240720043500 +0800" stop="20240720045700 +0800">
 		<title lang="zh">迷航的美军“濒海战斗舰”</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240720045700 +0800" stop="20240720051800 +0800">
+		<title lang="zh">问题频出的“福特”号航母</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -77336,6 +77501,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240720031800 +0800" stop="20240720044800 +0800">
 		<title lang="zh">袁天罡之不死军团</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240720044800 +0800" stop="20240720055600 +0800">
+		<title lang="zh">男子南拳</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
