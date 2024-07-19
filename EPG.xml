@@ -36432,6 +36432,12 @@
 	<programme channel="咪咕综合体育" start="20240720005200 +0800" stop="20240720012100 +0800">
 		<title lang="zh">UFC on ESPN59期主赛回放：德鲁-多博尔VS吉恩-席尔瓦</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20240720012100 +0800" stop="20240720014400 +0800">
+		<title lang="zh">UFC on ESPN59期副赛回放：约书亚-万VS查尔斯-约翰逊</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20240720014400 +0800" stop="20240720023100 +0800">
+		<title lang="zh">UFC on ESPN59期主赛回放：罗斯-娜玛尤纳斯VS特蕾西-科尔特斯</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -76383,6 +76389,9 @@
 	<programme channel="newtv超级综艺" start="20240720005000 +0800" stop="20240720013600 +0800">
 		<title lang="zh">10_公诉</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240720013600 +0800" stop="20240720025400 +0800">
+		<title lang="zh">综艺喜乐汇</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -76391,6 +76400,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20240720010500 +0800" stop="20240720013500 +0800">
 		<title lang="zh">赛事集锦-2024年国际体联艺术体操世界杯-索菲亚站</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20240720013500 +0800" stop="20240720023500 +0800">
+		<title lang="zh">赛事集锦-2024年巴黎奥运会摔跤亚洲区资格赛2</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -76425,11 +76437,17 @@
 	<programme channel="newtv精品纪录" start="20240720005000 +0800" stop="20240720013000 +0800">
 		<title lang="zh">新疆味道（五）</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240720013000 +0800" stop="20240720022300 +0800">
+		<title lang="zh">02_超级电网</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
 	<programme channel="newtv古装剧场" start="20240720003800 +0800" stop="20240720012500 +0800">
 		<title lang="zh">18_天和局</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20240720012500 +0800" stop="20240720021100 +0800">
+		<title lang="zh">19_天和局</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -76497,6 +76515,9 @@
 	<programme channel="newtv炫舞未来" start="20240720000300 +0800" stop="20240720012000 +0800">
 		<title lang="zh">喀什“香妃”为梦重返舞台 一家四口高颜值惊艳全场（20240410）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240720012000 +0800" stop="20240720023700 +0800">
+		<title lang="zh">刘振宇演唱《繁花》热曲《偷心》 唱出了多少男女的回忆（20240408）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -76514,6 +76535,9 @@
 	</channel>
 	<programme channel="newtv金牌综艺" start="20240720000000 +0800" stop="20240720012400 +0800">
 		<title lang="zh">恰好是少年</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20240720012400 +0800" stop="20240720040200 +0800">
+		<title lang="zh">灿烂的前行</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
