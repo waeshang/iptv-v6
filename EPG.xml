@@ -77076,6 +77076,9 @@
 	<programme channel="newtv超级体育" start="20240721023500 +0800" stop="20240721040000 +0800">
 		<title lang="zh">实况录像-2024年世界田联钻石联赛 巴黎站</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240721040000 +0800" stop="20240721060000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2024年尤伯杯羽毛球赛 半决赛</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -77087,6 +77090,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20240721022600 +0800" stop="20240721035900 +0800">
 		<title lang="zh">大唐英豪之曼陀罗之谜</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20240721035900 +0800" stop="20240721063500 +0800">
+		<title lang="zh">稍微想起一些</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -77181,6 +77187,9 @@
 	<programme channel="newtv军旅剧场" start="20240721030700 +0800" stop="20240721035500 +0800">
 		<title lang="zh">18_红色娘子军</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240721035500 +0800" stop="20240721044200 +0800">
+		<title lang="zh">19_红色娘子军</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -77199,6 +77208,9 @@
 	<programme channel="newtv家庭剧场" start="20240721030800 +0800" stop="20240721035300 +0800">
 		<title lang="zh">19_沃野飘香</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240721035900 +0800" stop="20240721044400 +0800">
+		<title lang="zh">21_都市外乡人</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -77214,6 +77226,9 @@
 	<programme channel="newtv热播精选" start="20240721030900 +0800" stop="20240721035400 +0800">
 		<title lang="zh">34_问心</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20240721035400 +0800" stop="20240721044000 +0800">
+		<title lang="zh">35_问心</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -77225,6 +77240,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20240721030600 +0800" stop="20240721035400 +0800">
 		<title lang="zh">18_女医明妃传</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20240721035400 +0800" stop="20240721044200 +0800">
+		<title lang="zh">19_女医明妃传</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -77255,6 +77273,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240721032600 +0800" stop="20240721035300 +0800">
 		<title lang="zh">灌丛里的共生伙伴（上）</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240721035300 +0800" stop="20240721042000 +0800">
+		<title lang="zh">灌丛里的共生伙伴（下）</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -77342,6 +77363,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20240721021700 +0800" stop="20240721035900 +0800">
 		<title lang="zh">2023-24赛季德甲第31轮：莱比锡VS多特蒙德</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20240721035900 +0800" stop="20240721054000 +0800">
+		<title lang="zh">2023-24赛季德甲第26轮：达姆施塔特VS拜仁慕尼黑</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
