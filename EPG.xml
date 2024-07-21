@@ -63348,6 +63348,9 @@
 	<programme channel="纯享4K" start="20240722002200 +0800" stop="20240722004900 +0800">
 		<title lang="zh">记住乡愁4K第八季 卖花渔村——满院花香传千年</title>
 	</programme>
+	<programme channel="纯享4K" start="20240722004900 +0800" stop="20240722011700 +0800">
+		<title lang="zh">记住乡愁4K第八季 大鹿岛村——大海深处有良田</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -74544,6 +74547,9 @@
 	<programme channel="黑莓动画" start="20240722003100 +0800" stop="20240722004700 +0800">
 		<title lang="zh">12_西行纪</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240722004700 +0800" stop="20240722010900 +0800">
+		<title lang="zh">09_一人之下第二季</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -74940,41 +74946,8 @@
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
-	<programme channel="newtv超级体育" start="20240722000000 +0800" stop="20240722020000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20240722020000 +0800" stop="20240722040000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20240722060000 +0800" stop="20240722080000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20240722080000 +0800" stop="20240722100600 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20240722100600 +0800" stop="20240722120000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20240722120000 +0800" stop="20240722140000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20240722140000 +0800" stop="20240722160000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20240722160000 +0800" stop="20240722180000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20240722180000 +0800" stop="20240722190000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20240722190000 +0800" stop="20240722200000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20240722200000 +0800" stop="20240722220000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20240722220000 +0800" stop="20240722235900 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="newtv超级体育" start="20240722010000 +0800" stop="20240722013500 +0800">
+		<title lang="zh">赛事集锦-2024年国际体联艺术体操世界杯-索菲亚站</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -74993,6 +74966,9 @@
 	</channel>
 	<programme channel="newtv精品大剧" start="20240722000600 +0800" stop="20240722005200 +0800">
 		<title lang="zh">23_菜刀班尖刀连</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240722005200 +0800" stop="20240722013800 +0800">
+		<title lang="zh">24_菜刀班尖刀连</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -75077,6 +75053,9 @@
 	</channel>
 	<programme channel="newtv怡伴健康" start="20240722000700 +0800" stop="20240722004600 +0800">
 		<title lang="zh">巴康洋石墨烯春夏康养被-渠道（右）</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240722004600 +0800" stop="20240722012400 +0800">
+		<title lang="zh">01_梦回</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
