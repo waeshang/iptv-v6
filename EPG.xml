@@ -63444,6 +63444,9 @@
 	<programme channel="纯享4K" start="20240722020000 +0800" stop="20240722024900 +0800">
 		<title lang="zh">良渚4K 第3集 大城筑梦</title>
 	</programme>
+	<programme channel="纯享4K" start="20240722024900 +0800" stop="20240722033900 +0800">
+		<title lang="zh">良渚4K 第4集 不废江河</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -74772,6 +74775,9 @@
 	<programme channel="黑莓动画" start="20240722022600 +0800" stop="20240722025000 +0800">
 		<title lang="zh">09_骸骨骑士大人奇幻世界冒险中</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240722025000 +0800" stop="20240722031400 +0800">
+		<title lang="zh">06_星辰变第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -75213,6 +75219,9 @@
 	<programme channel="newtv超级电视剧" start="20240722021400 +0800" stop="20240722030000 +0800">
 		<title lang="zh">19_亲爱的，你在哪里</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240722030000 +0800" stop="20240722034600 +0800">
+		<title lang="zh">20_亲爱的，你在哪里</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -75300,6 +75309,9 @@
 	<programme channel="newtv热播精选" start="20240722010400 +0800" stop="20240722025100 +0800">
 		<title lang="zh">神奇</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20240722025100 +0800" stop="20240722033600 +0800">
+		<title lang="zh">38_问心</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -75311,6 +75323,9 @@
 	</channel>
 	<programme channel="newtv动作电影" start="20240722000800 +0800" stop="20240722024700 +0800">
 		<title lang="zh">变形金刚4：绝迹重生</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20240722024700 +0800" stop="20240722041900 +0800">
+		<title lang="zh">特工艾米拉</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -75327,6 +75342,9 @@
 	<programme channel="newtv怡伴健康" start="20240722021200 +0800" stop="20240722025800 +0800">
 		<title lang="zh">03_梦回</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240722025800 +0800" stop="20240722032500 +0800">
+		<title lang="zh">都市野趣（下）</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -75338,6 +75356,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240722021000 +0800" stop="20240722025700 +0800">
 		<title lang="zh">15_乌鸦小姐与蜥蜴先生</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240722025700 +0800" stop="20240722034100 +0800">
+		<title lang="zh">16_乌鸦小姐与蜥蜴先生</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -75360,6 +75381,9 @@
 	<programme channel="newtv炫舞未来" start="20240722023500 +0800" stop="20240722025500 +0800">
 		<title lang="zh">美丽依旧-応子（完整教学）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240722025500 +0800" stop="20240722031900 +0800">
+		<title lang="zh">第一集 易烊千玺 成名b7成人</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -75377,6 +75401,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20240722013100 +0800" stop="20240722025000 +0800">
 		<title lang="zh">还魂之迷失曼谷</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240722025000 +0800" stop="20240722042100 +0800">
+		<title lang="zh">海角惊魂</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
