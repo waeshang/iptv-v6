@@ -14808,6 +14808,9 @@
 	<programme channel="咪咕综合体育" start="20240724033500 +0800" stop="20240724041000 +0800">
 		<title lang="zh">欧陆足球版图</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20240724041000 +0800" stop="20240724042000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -43500,6 +43503,9 @@
 	<programme channel="newtv超级体育" start="20240724023500 +0800" stop="20240724040000 +0800">
 		<title lang="zh">实况录像-2024年世界田联钻石联赛 巴黎站</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240724040000 +0800" stop="20240724060000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2024年尤伯杯羽毛球赛 决赛</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -43551,6 +43557,9 @@
 	<programme channel="newtv精品大剧" start="20240724030900 +0800" stop="20240724035300 +0800">
 		<title lang="zh">08_我的金山银山</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240724035300 +0800" stop="20240724043700 +0800">
+		<title lang="zh">22_狐影</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -43571,6 +43580,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240724025400 +0800" stop="20240724034700 +0800">
 		<title lang="zh">05_金丝猴王国：勇者的世界</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240724034700 +0800" stop="20240724040200 +0800">
+		<title lang="zh">04_洞穴探险者 刘佳</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -43656,6 +43668,9 @@
 	<programme channel="newtv爱情喜剧" start="20240724030300 +0800" stop="20240724035000 +0800">
 		<title lang="zh">34_女医明妃传</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20240724035000 +0800" stop="20240724043700 +0800">
+		<title lang="zh">35_女医明妃传</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -43700,6 +43715,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240724031200 +0800" stop="20240724035500 +0800">
 		<title lang="zh">29_乌鸦小姐与蜥蜴先生</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240724035500 +0800" stop="20240724044100 +0800">
+		<title lang="zh">30_乌鸦小姐与蜥蜴先生</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
