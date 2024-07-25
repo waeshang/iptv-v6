@@ -22854,6 +22854,9 @@
 	<programme channel="纯享4K" start="20240726022100 +0800" stop="20240726025000 +0800">
 		<title lang="zh">旅游指南4K 幸会师父b7太极拳</title>
 	</programme>
+	<programme channel="纯享4K" start="20240726025000 +0800" stop="20240726034300 +0800">
+		<title lang="zh">乘火车看中国4K 第一集 开放之路</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -27435,6 +27438,9 @@
 	<programme channel="黑莓电影" start="20240726012900 +0800" stop="20240726025900 +0800">
 		<title lang="zh">绣春刀：无间炼狱</title>
 	</programme>
+	<programme channel="黑莓电影" start="20240726025900 +0800" stop="20240726042600 +0800">
+		<title lang="zh">舞动青春</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -27555,6 +27561,9 @@
 	<programme channel="newtv超级体育" start="20240726010000 +0800" stop="20240726030000 +0800">
 		<title lang="zh">巴黎奥运会-女足小组赛(德国队-澳大利亚队)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240726030000 +0800" stop="20240726050000 +0800">
+		<title lang="zh">巴黎奥运会-女足小组赛(法国队-哥伦比亚队)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -27606,6 +27615,9 @@
 	<programme channel="newtv精品纪录" start="20240726020000 +0800" stop="20240726025200 +0800">
 		<title lang="zh">04_海洋</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240726025200 +0800" stop="20240726034600 +0800">
+		<title lang="zh">03_珠穆朗玛</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -27633,6 +27645,9 @@
 	<programme channel="newtv军旅剧场" start="20240726021200 +0800" stop="20240726025700 +0800">
 		<title lang="zh">20_军刺</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240726025700 +0800" stop="20240726034300 +0800">
+		<title lang="zh">21_军刺</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -27644,6 +27659,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20240726021300 +0800" stop="20240726025700 +0800">
 		<title lang="zh">16_兰花香</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240726025700 +0800" stop="20240726034200 +0800">
+		<title lang="zh">17_兰花香</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -27716,6 +27734,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240726015900 +0800" stop="20240726024900 +0800">
 		<title lang="zh">绽放吧！妈妈（20240722）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240726030000 +0800" stop="20240726030800 +0800">
+		<title lang="zh">《广场舞》 纳西情歌（附教学）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -27797,6 +27818,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240726014600 +0800" stop="20240726025800 +0800">
 		<title lang="zh">六扇门之血手奇谭</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240726025800 +0800" stop="20240726043300 +0800">
+		<title lang="zh">九纹龙史进之除恶史家村</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
