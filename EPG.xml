@@ -42081,6 +42081,9 @@
 	<programme channel="黑莓动画" start="20240727024000 +0800" stop="20240727030400 +0800">
 		<title lang="zh">12_骸骨骑士大人奇幻世界冒险中</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240727030400 +0800" stop="20240727033100 +0800">
+		<title lang="zh">05_星辰变 第一季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -42429,6 +42432,12 @@
 	<programme channel="newtv超级综艺" start="20240727013700 +0800" stop="20240727025800 +0800">
 		<title lang="zh">综艺喜乐汇</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240727025800 +0800" stop="20240727030900 +0800">
+		<title lang="zh">宝藏挖呀挖</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20240727030900 +0800" stop="20240727043800 +0800">
+		<title lang="zh">经典咏流传b7正青春</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -42492,6 +42501,9 @@
 	<programme channel="newtv精品纪录" start="20240727015700 +0800" stop="20240727024900 +0800">
 		<title lang="zh">05_人类</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240727024900 +0800" stop="20240727034300 +0800">
+		<title lang="zh">04_珠穆朗玛</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -42504,6 +42516,9 @@
 	<programme channel="newtv古装剧场" start="20240727020900 +0800" stop="20240727025300 +0800">
 		<title lang="zh">23_春光灿烂猪九妹</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240727025300 +0800" stop="20240727033800 +0800">
+		<title lang="zh">24_春光灿烂猪九妹</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -42515,6 +42530,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240727021000 +0800" stop="20240727025600 +0800">
 		<title lang="zh">25_军刺</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240727025600 +0800" stop="20240727034100 +0800">
+		<title lang="zh">26_军刺</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -42539,6 +42557,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20240727010800 +0800" stop="20240727031000 +0800">
 		<title lang="zh">潜伏者</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20240727031000 +0800" stop="20240727035500 +0800">
+		<title lang="zh">25_好事成双</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -42570,6 +42591,9 @@
 	<programme channel="newtv怡伴健康" start="20240727020100 +0800" stop="20240727024800 +0800">
 		<title lang="zh">17_梦回</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240727024800 +0800" stop="20240727033400 +0800">
+		<title lang="zh">18_梦回</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -42578,6 +42602,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240727020400 +0800" stop="20240727024600 +0800">
 		<title lang="zh">09_凤弈</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240727024600 +0800" stop="20240727033000 +0800">
+		<title lang="zh">10_凤弈</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -42600,6 +42627,12 @@
 	<programme channel="newtv炫舞未来" start="20240727023600 +0800" stop="20240727025100 +0800">
 		<title lang="zh">点赞新时代-饶子龙（完整版）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240727025100 +0800" stop="20240727030500 +0800">
+		<title lang="zh">领航-李萍（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240727031400 +0800" stop="20240727031700 +0800">
+		<title lang="zh">草原上升起不落的太阳-毕刚（舞蹈展示）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -42617,6 +42650,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20240727012500 +0800" stop="20240727024800 +0800">
 		<title lang="zh">鲨卷风</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240727024800 +0800" stop="20240727041800 +0800">
+		<title lang="zh">袁天罡之不死军团</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
