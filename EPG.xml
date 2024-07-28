@@ -61275,6 +61275,9 @@
 	<programme channel="纯享4K" start="20240728163300 +0800" stop="20240728170100 +0800">
 		<title lang="zh">好吃客4K 大同</title>
 	</programme>
+	<programme channel="纯享4K" start="20240728170100 +0800" stop="20240728171500 +0800">
+		<title lang="zh">鲜生史4K 第11集 白居易 心安即是归处</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -76497,6 +76500,9 @@
 	<programme channel="黑莓动画" start="20240728164400 +0800" stop="20240728164800 +0800">
 		<title lang="zh">29_蘑菇头和恐龙笨波</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240728164800 +0800" stop="20240728170400 +0800">
+		<title lang="zh">16_不愿意回家的小鸟</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -77514,6 +77520,9 @@
 	<programme channel="newtv超级综艺" start="20240728160200 +0800" stop="20240728170300 +0800">
 		<title lang="zh">非常6+1</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240728170300 +0800" stop="20240728185400 +0800">
+		<title lang="zh">国家宝藏 第四季</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -77811,6 +77820,9 @@
 	<programme channel="newtv精品纪录" start="20240728162700 +0800" stop="20240728165200 +0800">
 		<title lang="zh">04_孤帆环球</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240728165200 +0800" stop="20240728173800 +0800">
+		<title lang="zh">HOKO纯钛富硒RO即热净水机-渠道（右）</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -77877,6 +77889,9 @@
 	<programme channel="newtv古装剧场" start="20240728160100 +0800" stop="20240728165100 +0800">
 		<title lang="zh">32_梦华录</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240728165100 +0800" stop="20240728173300 +0800">
+		<title lang="zh">24_女医明妃传</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -77942,6 +77957,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240728160800 +0800" stop="20240728165300 +0800">
 		<title lang="zh">32_我的绝密生涯</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240728165300 +0800" stop="20240728174400 +0800">
+		<title lang="zh">33_我的绝密生涯</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -78014,6 +78032,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20240728162400 +0800" stop="20240728165500 +0800">
 		<title lang="zh">40_平安是福</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240728165500 +0800" stop="20240728174000 +0800">
+		<title lang="zh">30_迎春的故事</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -78386,6 +78407,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240728163300 +0800" stop="20240728165800 +0800">
 		<title lang="zh">美航母抵韩 朝鲜发射卫星 以色列与哈马斯达成临时停火协议</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240728165800 +0800" stop="20240728172000 +0800">
+		<title lang="zh">一战沙场b7维耶阿芒（下）</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
