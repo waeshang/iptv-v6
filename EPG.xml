@@ -25233,6 +25233,9 @@
 	<programme channel="咪咕足球" start="20240728215000 +0800" stop="20240728220500 +0800">
 		<title lang="zh">睛彩速递 第2期</title>
 	</programme>
+	<programme channel="咪咕足球" start="20240728220500 +0800" stop="20240728221000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -35715,6 +35718,9 @@
 	<programme channel="惊悚悬疑" start="20240728201500 +0800" stop="20240728214900 +0800">
 		<title lang="zh">小镇疑杀</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20240728214900 +0800" stop="20240728221900 +0800">
+		<title lang="zh">【推广】花样人生W2版</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -38663,6 +38669,9 @@
 	</programme>
 	<programme channel="明星大片" start="20240728211400 +0800" stop="20240728215900 +0800">
 		<title lang="zh">22_暗恋橘生淮南</title>
+	</programme>
+	<programme channel="明星大片" start="20240728215900 +0800" stop="20240728225000 +0800">
+		<title lang="zh">23_暗恋橘生淮南</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -76854,6 +76863,9 @@
 	<programme channel="黑莓动画" start="20240728213800 +0800" stop="20240728215100 +0800">
 		<title lang="zh">11_踢踢和奇奇之魔力课堂 第二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240728215100 +0800" stop="20240728220400 +0800">
+		<title lang="zh">12_踢踢和奇奇之魔力课堂 第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -78258,6 +78270,9 @@
 	<programme channel="newtv精品纪录" start="20240728205900 +0800" stop="20240728215800 +0800">
 		<title lang="zh">第四集 严正家风</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240728215800 +0800" stop="20240728223500 +0800">
+		<title lang="zh">共和国医者：陆道培</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -78623,6 +78638,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20240728212700 +0800" stop="20240728215700 +0800">
 		<title lang="zh">【推广】美丽密码A6版</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20240728215700 +0800" stop="20240728223000 +0800">
+		<title lang="zh">08_南海归墟</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -79254,6 +79272,9 @@
 	<programme channel="newtv精品综合" start="20240728211400 +0800" stop="20240728215900 +0800">
 		<title lang="zh">22_暗恋橘生淮南</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20240728215900 +0800" stop="20240728225000 +0800">
+		<title lang="zh">23_暗恋橘生淮南</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -79304,6 +79325,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20240728201500 +0800" stop="20240728214900 +0800">
 		<title lang="zh">小镇疑杀</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240728214900 +0800" stop="20240728221900 +0800">
+		<title lang="zh">【推广】花样人生W2版</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
