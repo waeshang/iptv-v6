@@ -55563,6 +55563,9 @@
 	<programme channel="爱情喜剧" start="20240728141600 +0800" stop="20240728145800 +0800">
 		<title lang="zh">21_老酒馆</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20240728145800 +0800" stop="20240728154400 +0800">
+		<title lang="zh">HOKO纯钛富硒RO即热净水机-渠道（右）</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -61224,6 +61227,9 @@
 	<programme channel="纯享4K" start="20240728142300 +0800" stop="20240728145300 +0800">
 		<title lang="zh">寻古中国4K 寻夏记b7夏禾丰裕</title>
 	</programme>
+	<programme channel="纯享4K" start="20240728145300 +0800" stop="20240728153700 +0800">
+		<title lang="zh">乐享汇4K “新的唱响”演唱会</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -66296,6 +66302,9 @@
 	</programme>
 	<programme channel="超级电影" start="20240728134700 +0800" stop="20240728145300 +0800">
 		<title lang="zh">电影《罗布泊之九龙天棺》</title>
+	</programme>
+	<programme channel="超级电影" start="20240728145300 +0800" stop="20240728155600 +0800">
+		<title lang="zh">电影《烈火营救》</title>
 	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
@@ -76416,6 +76425,9 @@
 	<programme channel="黑莓动画" start="20240728144400 +0800" stop="20240728144900 +0800">
 		<title lang="zh">贪吃佩奇掉进零食陷阱，大牙变身超人解救佩奇</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240728150000 +0800" stop="20240728150200 +0800">
+		<title lang="zh">54_笨蛋波波与小宝</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -77448,6 +77460,9 @@
 	<programme channel="newtv超级体育" start="20240728144500 +0800" stop="20240728150000 +0800">
 		<title lang="zh">2024年巴黎奥运会报道-遇见巴黎-16(4K)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240728150000 +0800" stop="20240728152500 +0800">
+		<title lang="zh">巴黎奥运会-赛事直播 7.28</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -77477,6 +77492,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20240728134700 +0800" stop="20240728145300 +0800">
 		<title lang="zh">电影《罗布泊之九龙天棺》</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20240728145300 +0800" stop="20240728155600 +0800">
+		<title lang="zh">电影《烈火营救》</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -77604,6 +77622,9 @@
 	<programme channel="newtv精品大剧" start="20240728140300 +0800" stop="20240728145200 +0800">
 		<title lang="zh">17_再造之恩</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240728145200 +0800" stop="20240728153700 +0800">
+		<title lang="zh">18_再造之恩</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -77675,6 +77696,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240728140000 +0800" stop="20240728144600 +0800">
 		<title lang="zh">第11集：野蛮人将军</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240728144600 +0800" stop="20240728152100 +0800">
+		<title lang="zh">16_我的抗战：钢筋铁骨</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -77955,6 +77979,9 @@
 	<programme channel="newtv爱情喜剧" start="20240728141600 +0800" stop="20240728145800 +0800">
 		<title lang="zh">21_老酒馆</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20240728145800 +0800" stop="20240728154400 +0800">
+		<title lang="zh">HOKO纯钛富硒RO即热净水机-渠道（右）</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -78060,6 +78087,9 @@
 	<programme channel="newtv怡伴健康" start="20240728144000 +0800" stop="20240728145300 +0800">
 		<title lang="zh">小品《网购奇遇》 表演：蔡明 潘长江</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240728145300 +0800" stop="20240728150300 +0800">
+		<title lang="zh">小品《都是亲人》 表演：郭达 蔡明</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -78117,6 +78147,9 @@
 	<programme channel="newtv潮妈辣婆" start="20240728141300 +0800" stop="20240728150100 +0800">
 		<title lang="zh">英国奥戈那负离子空气循环扇-渠道（右）</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240728150100 +0800" stop="20240728154200 +0800">
+		<title lang="zh">41_陆贞传奇</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -78173,6 +78206,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240728142700 +0800" stop="20240728145100 +0800">
 		<title lang="zh">以色列称“哈马斯失去对加沙的控制” 乌前军官被曝参与“北溪”事件</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240728145100 +0800" stop="20240728151600 +0800">
+		<title lang="zh">日本自卫队大规模演习转向战略进攻 以军围困加沙医院声称打击哈马斯指挥部</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
