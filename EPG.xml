@@ -75312,6 +75312,9 @@
 	<programme channel="newtv超级综艺" start="20240730193000 +0800" stop="20240730205200 +0800">
 		<title lang="zh">向幸福出发</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240730205200 +0800" stop="20240730221000 +0800">
+		<title lang="zh">选对健康</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -75488,6 +75491,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20240730201300 +0800" stop="20240730205800 +0800">
 		<title lang="zh">21_江河之上</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240730205800 +0800" stop="20240730214100 +0800">
+		<title lang="zh">49_女医明妃传</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -76730,6 +76736,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20240730193400 +0800" stop="20240730205200 +0800">
 		<title lang="zh">半熟恋人第3季</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20240730205200 +0800" stop="20240730212200 +0800">
+		<title lang="zh">【推广】美丽密码A6版</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
