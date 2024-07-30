@@ -22698,6 +22698,9 @@
 	<programme channel="咪咕综合体育" start="20240730092000 +0800" stop="20240730122000 +0800">
 		<title lang="zh">奥运时刻-跳水 男子双人10米台决赛等</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20240730122000 +0800" stop="20240730140000 +0800">
+		<title lang="zh">奥运时刻-排球 女排预赛 美国-中国</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -36221,6 +36224,9 @@
 	</programme>
 	<programme channel="明星大片" start="20240730120300 +0800" stop="20240730124200 +0800">
 		<title lang="zh">火菲尔冷触媒喷雾循环扇-渠道（右）</title>
+	</programme>
+	<programme channel="明星大片" start="20240730124200 +0800" stop="20240730141000 +0800">
+		<title lang="zh">九辫灵狐</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -73695,6 +73701,12 @@
 	<programme channel="黑莓动画" start="20240730121200 +0800" stop="20240730122500 +0800">
 		<title lang="zh">02_超级飞侠第15季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240730122500 +0800" stop="20240730123200 +0800">
+		<title lang="zh">16_嗨道奇第2季中文版</title>
+	</programme>
+	<programme channel="黑莓动画" start="20240730124600 +0800" stop="20240730125300 +0800">
+		<title lang="zh">19_嗨道奇第2季中文版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -74802,6 +74814,9 @@
 	<programme channel="newtv精品纪录" start="20240730114300 +0800" stop="20240730122200 +0800">
 		<title lang="zh">安化黑茶义聚昌一号贡尖30年茯茶-渠道（右）</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240730122200 +0800" stop="20240730125200 +0800">
+		<title lang="zh">原味乡间b7福泉篇</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -74852,6 +74867,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20240730115000 +0800" stop="20240730123600 +0800">
 		<title lang="zh">HOKO纯钛富硒RO即热净水机-渠道（右）</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20240730123600 +0800" stop="20240730133000 +0800">
+		<title lang="zh">27_乐游原</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -74954,6 +74972,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20240730113700 +0800" stop="20240730122700 +0800">
 		<title lang="zh">05_猫冬</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240730122700 +0800" stop="20240730125200 +0800">
+		<title lang="zh">46_平安是福</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -75129,6 +75150,9 @@
 	<programme channel="newtv怡伴健康" start="20240730115100 +0800" stop="20240730123700 +0800">
 		<title lang="zh">HOKO纯钛富硒RO即热净水机-渠道（右）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240730123700 +0800" stop="20240730132100 +0800">
+		<title lang="zh">09_陈情令</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -75228,6 +75252,9 @@
 	<programme channel="newtv军事评论" start="20240730121500 +0800" stop="20240730123700 +0800">
 		<title lang="zh">他们与天地永存 第二季 第一集 爹娘（上）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240730123700 +0800" stop="20240730125900 +0800">
+		<title lang="zh">他们与天地永存 第二季 第二集 爹娘（下）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -75288,6 +75315,9 @@
 	<programme channel="newtv炫舞未来" start="20240730120200 +0800" stop="20240730122900 +0800">
 		<title lang="zh">无法兑现的承诺（20220111）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240730122900 +0800" stop="20240730125600 +0800">
+		<title lang="zh">买的车不见了（20220113）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -75338,6 +75368,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240730120300 +0800" stop="20240730124200 +0800">
 		<title lang="zh">火菲尔冷触媒喷雾循环扇-渠道（右）</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240730124200 +0800" stop="20240730141000 +0800">
+		<title lang="zh">九辫灵狐</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
