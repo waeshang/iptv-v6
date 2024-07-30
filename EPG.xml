@@ -99,6 +99,9 @@
 	<programme channel="4K综艺" start="20240730154000 +0800" stop="20240730170100 +0800">
 		<title lang="zh">亲爱的客栈第三季20200110</title>
 	</programme>
+	<programme channel="4K综艺" start="20240730170100 +0800" stop="20240730175500 +0800">
+		<title lang="zh">我最爱的女人们20190504</title>
+	</programme>
 	<channel id="CCTV1">
 		<display-name lang="zh">CCTV1</display-name>
 	</channel>
@@ -16677,6 +16680,9 @@
 	<programme channel="动作电影" start="20240730151600 +0800" stop="20240730165200 +0800">
 		<title lang="zh">欲火追击</title>
 	</programme>
+	<programme channel="动作电影" start="20240730165200 +0800" stop="20240730174800 +0800">
+		<title lang="zh">美康利健心血通激光治疗仪升级款-渠道（右）</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -22731,6 +22737,9 @@
 	<programme channel="咪咕综合体育" start="20240730151500 +0800" stop="20240730165000 +0800">
 		<title lang="zh">2024巴黎奥运会 射击 混合团体10米气手枪铜牌赛、金牌赛 直播</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20240730165500 +0800" stop="20240730184000 +0800">
+		<title lang="zh">2024巴黎奥运会 游泳 男子100米自由泳预赛等 直播</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -22775,6 +22784,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20240730154000 +0800" stop="20240730161000 +0800">
 		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20240730165000 +0800" stop="20240730192000 +0800">
+		<title lang="zh">2024巴黎奥运会 篮球 男子小组赛A组 西班牙-希腊 直播</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -53343,6 +53355,9 @@
 	<programme channel="爱情喜剧" start="20240730160300 +0800" stop="20240730164800 +0800">
 		<title lang="zh">15_儿女情更长</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20240730164800 +0800" stop="20240730173700 +0800">
+		<title lang="zh">福禧来红珊瑚龙凤挂牌套组-渠道（右）</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -73863,6 +73878,9 @@
 	<programme channel="黑莓动画" start="20240730164400 +0800" stop="20240730164700 +0800">
 		<title lang="zh">47_蘑菇头和恐龙笨波</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240730165600 +0800" stop="20240730171200 +0800">
+		<title lang="zh">20_宝石奇遇</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -74766,6 +74784,9 @@
 	<programme channel="newtv超级综艺" start="20240730155700 +0800" stop="20240730170100 +0800">
 		<title lang="zh">国风超有戏</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240730170100 +0800" stop="20240730180300 +0800">
+		<title lang="zh">越战越勇</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -74798,6 +74819,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20240730152500 +0800" stop="20240730165000 +0800">
 		<title lang="zh">巴黎奥运会-射击10米气手枪混合团体铜牌赛,决赛等</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20240730165000 +0800" stop="20240730180000 +0800">
+		<title lang="zh">巴黎奥运会-游泳预赛等</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -74907,6 +74931,9 @@
 	<programme channel="newtv超级电视剧" start="20240730155100 +0800" stop="20240730163800 +0800">
 		<title lang="zh">13_天狼星行动</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240730163800 +0800" stop="20240730171900 +0800">
+		<title lang="zh">22_花开山乡</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -74972,6 +74999,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240730160000 +0800" stop="20240730165600 +0800">
 		<title lang="zh">美康利健心血通激光治疗仪升级款-渠道（右）</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240730165600 +0800" stop="20240730174100 +0800">
+		<title lang="zh">03_川流</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -75396,6 +75426,9 @@
 	<programme channel="newtv爱情喜剧" start="20240730160300 +0800" stop="20240730164800 +0800">
 		<title lang="zh">15_儿女情更长</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20240730164800 +0800" stop="20240730173700 +0800">
+		<title lang="zh">福禧来红珊瑚龙凤挂牌套组-渠道（右）</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -75431,6 +75464,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20240730151600 +0800" stop="20240730165200 +0800">
 		<title lang="zh">欲火追击</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20240730165200 +0800" stop="20240730174800 +0800">
+		<title lang="zh">美康利健心血通激光治疗仪升级款-渠道（右）</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -75515,6 +75551,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240730161800 +0800" stop="20240730165700 +0800">
 		<title lang="zh">数说癌症（五）</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240730165700 +0800" stop="20240730172400 +0800">
+		<title lang="zh">谁为“熊孩子”的行为买单</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -75662,6 +75701,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240730162200 +0800" stop="20240730164700 +0800">
 		<title lang="zh">巴以冲突外溢引发美军“红海任务” 美对乌军援或只剩“最后一轮”</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240730164700 +0800" stop="20240730171200 +0800">
+		<title lang="zh">美日在东亚蠢蠢欲动 俄称掌握战场主动权 红海恐成“新战场”？</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
