@@ -111,6 +111,9 @@
 	<programme channel="4K综艺" start="20240731212100 +0800" stop="20240731225500 +0800">
 		<title lang="zh">我最爱的女人们20190524</title>
 	</programme>
+	<programme channel="4K综艺" start="20240731225500 +0800" stop="20240731235800 +0800">
+		<title lang="zh">我最爱的女人们20190525</title>
+	</programme>
 	<channel id="CCTV1">
 		<display-name lang="zh">CCTV1</display-name>
 	</channel>
@@ -71265,6 +71268,9 @@
 	<programme channel="newtv超级综艺" start="20240731220100 +0800" stop="20240731225700 +0800">
 		<title lang="zh">艺览天下</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240731225700 +0800" stop="20240731234500 +0800">
+		<title lang="zh">15_三分野</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -71451,6 +71457,9 @@
 	<programme channel="newtv超级电视剧" start="20240731221700 +0800" stop="20240731230200 +0800">
 		<title lang="zh">04_海天雄鹰</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240731230200 +0800" stop="20240731234800 +0800">
+		<title lang="zh">13_勇敢的心2</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -71543,6 +71552,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240731221000 +0800" stop="20240731225500 +0800">
 		<title lang="zh">05_林深见鹿</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240731225500 +0800" stop="20240731234100 +0800">
+		<title lang="zh">06_林深见鹿</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -72036,6 +72048,9 @@
 	<programme channel="newtv热播精选" start="20240731222100 +0800" stop="20240731225400 +0800">
 		<title lang="zh">08_鬼吹灯之精绝古城</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20240731225400 +0800" stop="20240731231900 +0800">
+		<title lang="zh">健都牌密骨胶囊惊喜组30分钟-渠道（右）</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -72285,6 +72300,9 @@
 	<programme channel="newtv怡伴健康" start="20240731221700 +0800" stop="20240731225900 +0800">
 		<title lang="zh">山西清徐学栋vs湖南名将 第5局</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240731225900 +0800" stop="20240731234200 +0800">
+		<title lang="zh">山西清徐学栋vs湖南名将 第6局</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -72489,6 +72507,9 @@
 	<programme channel="newtv军事评论" start="20240731223500 +0800" stop="20240731230000 +0800">
 		<title lang="zh">新兵上战位 战鹰的守护者</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240731230000 +0800" stop="20240731232600 +0800">
+		<title lang="zh">新兵上战位 藏南边防初体验</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -72596,6 +72617,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240731224300 +0800" stop="20240731225800 +0800">
 		<title lang="zh">韭菜花儿开-孙爱迪（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240731225800 +0800" stop="20240731231500 +0800">
+		<title lang="zh">野花香-孙爱迪（完整版）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
