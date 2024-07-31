@@ -55206,6 +55206,9 @@
 	<programme channel="纯享4K" start="20240731153200 +0800" stop="20240731160000 +0800">
 		<title lang="zh">记住乡愁4K第八季 向阳村——胶东古村 向阳而生</title>
 	</programme>
+	<programme channel="纯享4K" start="20240731160000 +0800" stop="20240731162800 +0800">
+		<title lang="zh">记住乡愁4K第八季 太平村——羊村赛出好日子</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -69561,6 +69564,9 @@
 	<programme channel="黑莓动画" start="20240731154200 +0800" stop="20240731154700 +0800">
 		<title lang="zh">小志终于集齐了四种恐龙武器 都可以变化三种形态</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240731155800 +0800" stop="20240731160200 +0800">
+		<title lang="zh">小鱼和小志互相炫耀自己的航天飞机 心奇爆龙战车</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -69593,6 +69599,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20240731142900 +0800" stop="20240731155400 +0800">
 		<title lang="zh">宋快递</title>
+	</programme>
+	<programme channel="黑莓电影" start="20240731155400 +0800" stop="20240731180100 +0800">
+		<title lang="zh">妈阁是座城</title>
 	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
@@ -70419,6 +70428,9 @@
 	<programme channel="newtv超级综艺" start="20240731142600 +0800" stop="20240731160200 +0800">
 		<title lang="zh">此生要去的100个地方</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240731160200 +0800" stop="20240731170200 +0800">
+		<title lang="zh">选对健康</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -70445,6 +70457,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20240731154500 +0800" stop="20240731160000 +0800">
 		<title lang="zh">2024年巴黎奥运会报道-遇见巴黎-19(4K)</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20240731160000 +0800" stop="20240731165500 +0800">
+		<title lang="zh">巴黎奥运会-赛事直播 7.31-1</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -70614,6 +70629,9 @@
 	<programme channel="newtv精品大剧" start="20240731150600 +0800" stop="20240731155100 +0800">
 		<title lang="zh">33_再造之恩</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240731155100 +0800" stop="20240731163700 +0800">
+		<title lang="zh">01_锦心似玉</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -70691,6 +70709,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240731151200 +0800" stop="20240731155100 +0800">
 		<title lang="zh">22_我的抗战：壮志凌云</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240731155100 +0800" stop="20240731164200 +0800">
+		<title lang="zh">第一集 江湖</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -70820,6 +70841,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240731150800 +0800" stop="20240731155800 +0800">
 		<title lang="zh">BEYONPAN多功能全钛养生壶-渠道（右）</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240731155800 +0800" stop="20240731164300 +0800">
+		<title lang="zh">03_潜行者</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -71487,6 +71511,9 @@
 	<programme channel="newtv金牌综艺" start="20240731152400 +0800" stop="20240731161000 +0800">
 		<title lang="zh">新游记</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20240731161000 +0800" stop="20240731173300 +0800">
+		<title lang="zh">中国地名大会 第三季</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
@@ -71609,6 +71636,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240731150200 +0800" stop="20240731154800 +0800">
 		<title lang="zh">08_九流霸主</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240731154800 +0800" stop="20240731163600 +0800">
+		<title lang="zh">AMOS高聚能养生钛锅（新）-渠道（右）</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
