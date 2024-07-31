@@ -42,6 +42,9 @@
 	<programme channel="4K综艺" start="20240801013700 +0800" stop="20240801025100 +0800">
 		<title lang="zh">我最爱的女人们20190601</title>
 	</programme>
+	<programme channel="4K综艺" start="20240801025100 +0800" stop="20240801034900 +0800">
+		<title lang="zh">真心大冒险20180428</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -58008,6 +58011,9 @@
 	<programme channel="纯享4K" start="20240801022400 +0800" stop="20240801024800 +0800">
 		<title lang="zh">了不起的冬天4K 第6集 气喘吁吁</title>
 	</programme>
+	<programme channel="纯享4K" start="20240801024800 +0800" stop="20240801031700 +0800">
+		<title lang="zh">旅游指南4K 好吃客b7杭州（上）</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -69348,6 +69354,9 @@
 	<programme channel="黑莓动画" start="20240801023200 +0800" stop="20240801025600 +0800">
 		<title lang="zh">04_骸骨骑士大人奇幻世界冒险中</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240801025600 +0800" stop="20240801032100 +0800">
+		<title lang="zh">01_星辰变 第一季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -69909,6 +69918,9 @@
 	<programme channel="newtv超级电视剧" start="20240801020600 +0800" stop="20240801025100 +0800">
 		<title lang="zh">28_山里红</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240801025100 +0800" stop="20240801033700 +0800">
+		<title lang="zh">29_山里红</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -69965,6 +69977,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240801021000 +0800" stop="20240801025400 +0800">
 		<title lang="zh">地道英雄 第20集</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240801025400 +0800" stop="20240801033800 +0800">
+		<title lang="zh">地道英雄 第21集</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -70055,6 +70070,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240801024200 +0800" stop="20240801024900 +0800">
 		<title lang="zh">广场舞跳起来-金洋（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240801025700 +0800" stop="20240801030600 +0800">
+		<title lang="zh">火辣辣的情歌-乌兰图雅（完整版）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
