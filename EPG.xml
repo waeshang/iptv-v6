@@ -49176,6 +49176,9 @@
 	<programme channel="爱情喜剧" start="20240731100400 +0800" stop="20240731105000 +0800">
 		<title lang="zh">35_老酒馆</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20240731105000 +0800" stop="20240731113500 +0800">
+		<title lang="zh">36_老酒馆</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -69378,6 +69381,9 @@
 	<programme channel="黑莓动画" start="20240731102800 +0800" stop="20240731105200 +0800">
 		<title lang="zh">汪汪队立大功第3季07</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240731105200 +0800" stop="20240731111500 +0800">
+		<title lang="zh">汪汪队立大功第3季08</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -70215,6 +70221,9 @@
 	<programme channel="newtv超级综艺" start="20240731093500 +0800" stop="20240731110000 +0800">
 		<title lang="zh">乐在旅途</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240731110000 +0800" stop="20240731115000 +0800">
+		<title lang="zh">绽放吧！妈妈</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -70455,6 +70464,9 @@
 	<programme channel="newtv古装剧场" start="20240731100400 +0800" stop="20240731104800 +0800">
 		<title lang="zh">30_乐游原</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240731104800 +0800" stop="20240731113300 +0800">
+		<title lang="zh">31_乐游原</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -70545,6 +70557,9 @@
 	<programme channel="newtv家庭剧场" start="20240731100700 +0800" stop="20240731105500 +0800">
 		<title lang="zh">德世朗钛健康饭煲-渠道（右）</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240731105500 +0800" stop="20240731114100 +0800">
+		<title lang="zh">09_猫冬</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -70622,6 +70637,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20240731100400 +0800" stop="20240731105000 +0800">
 		<title lang="zh">35_老酒馆</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20240731105000 +0800" stop="20240731113500 +0800">
+		<title lang="zh">36_老酒馆</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -70785,6 +70803,9 @@
 	<programme channel="newtv军事评论" start="20240731103600 +0800" stop="20240731105800 +0800">
 		<title lang="zh">他们与天地永存 第二季 第四集 新闻战士（下）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240731105800 +0800" stop="20240731112000 +0800">
+		<title lang="zh">他们与天地永存 第二季 第五集 科学家（上）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -70844,6 +70865,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240731093800 +0800" stop="20240731105500 +0800">
 		<title lang="zh">办公室的快乐“小蜜蜂”遇上严谨认真的消防员 擦出爱情的火花（20240723）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240731105500 +0800" stop="20240731113700 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -70940,6 +70964,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20240731082100 +0800" stop="20240731110500 +0800">
 		<title lang="zh">幸福账单（2022）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20240731110500 +0800" stop="20240731124000 +0800">
+		<title lang="zh">典籍里的中国</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
