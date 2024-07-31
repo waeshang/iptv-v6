@@ -16614,6 +16614,9 @@
 	<programme channel="动作电影" start="20240731173000 +0800" stop="20240731185600 +0800">
 		<title lang="zh">英雄之战</title>
 	</programme>
+	<programme channel="动作电影" start="20240731185600 +0800" stop="20240731192600 +0800">
+		<title lang="zh">【推广】美丽密码A6版</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -22721,6 +22724,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20240731184500 +0800" stop="20240731190000 +0800">
 		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20240731190000 +0800" stop="20240731213500 +0800">
+		<title lang="zh">2024巴黎奥运会 篮球 女子小组赛A组 中国-塞尔维亚 直播</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -70239,6 +70245,9 @@
 	<programme channel="黑莓动画" start="20240731183600 +0800" stop="20240731185000 +0800">
 		<title lang="zh">07_咖宝车神第二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240731185000 +0800" stop="20240731190400 +0800">
+		<title lang="zh">08_咖宝车神第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -71133,6 +71142,9 @@
 	<programme channel="newtv超级体育" start="20240731180000 +0800" stop="20240731190000 +0800">
 		<title lang="zh">体育新闻-全景奥运会</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240731190000 +0800" stop="20240731044500 +0800">
+		<title lang="zh">巴黎奥运会-体操男子个人全能,游泳决赛等</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -71331,6 +71343,9 @@
 	<programme channel="newtv精品大剧" start="20240731181000 +0800" stop="20240731185500 +0800">
 		<title lang="zh">09_川流</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240731185500 +0800" stop="20240731194000 +0800">
+		<title lang="zh">10_川流</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -71420,6 +71435,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240731181400 +0800" stop="20240731185600 +0800">
 		<title lang="zh">客自家香来</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240731185600 +0800" stop="20240731193400 +0800">
+		<title lang="zh">家乡至味2023（5）</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -71843,6 +71861,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20240731173000 +0800" stop="20240731185600 +0800">
 		<title lang="zh">英雄之战</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20240731185600 +0800" stop="20240731192600 +0800">
+		<title lang="zh">【推广】美丽密码A6版</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
