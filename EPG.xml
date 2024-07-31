@@ -22701,6 +22701,9 @@
 	<programme channel="咪咕综合体育" start="20240731205000 +0800" stop="20240731205500 +0800">
 		<title lang="zh">奥运宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20240731205500 +0800" stop="20240731235500 +0800">
+		<title lang="zh">2024巴黎奥运会 乒乓球 男女单打16强赛 直播</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -60534,6 +60537,9 @@
 	<programme channel="超级电影" start="20240731192700 +0800" stop="20240731205300 +0800">
 		<title lang="zh">电影《复仇计划》</title>
 	</programme>
+	<programme channel="超级电影" start="20240731205300 +0800" stop="20240731222500 +0800">
+		<title lang="zh">电影《昆仑神宫》</title>
+	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
 	</channel>
@@ -70329,6 +70335,9 @@
 	<programme channel="黑莓动画" start="20240731202200 +0800" stop="20240731204600 +0800">
 		<title lang="zh">03_德凯奥特曼 普通话版</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240731205900 +0800" stop="20240731211200 +0800">
+		<title lang="zh">08_托宝战士之银河侦探第2季 </title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -71193,6 +71202,9 @@
 	<programme channel="newtv超级综艺" start="20240731193000 +0800" stop="20240731205200 +0800">
 		<title lang="zh">越战越勇</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240731205200 +0800" stop="20240731220100 +0800">
+		<title lang="zh">我爱满堂彩—一笑一周</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -71279,6 +71291,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20240731192700 +0800" stop="20240731205300 +0800">
 		<title lang="zh">电影《复仇计划》</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20240731205300 +0800" stop="20240731222500 +0800">
+		<title lang="zh">电影《昆仑神宫》</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -71450,6 +71465,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240731201000 +0800" stop="20240731205500 +0800">
 		<title lang="zh">11_川流</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240731205500 +0800" stop="20240731214000 +0800">
+		<title lang="zh">12_川流</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -72311,6 +72329,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240731200300 +0800" stop="20240731205600 +0800">
 		<title lang="zh">星火燎原 第3集 骁勇善战</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240731205600 +0800" stop="20240731212100 +0800">
+		<title lang="zh">闪耀的她 战斗剧社的女兵</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
