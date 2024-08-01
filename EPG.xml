@@ -59457,6 +59457,9 @@
 	<programme channel="纯享4K" start="20240802010800 +0800" stop="20240802013600 +0800">
 		<title lang="zh">好吃客4K 药食同源</title>
 	</programme>
+	<programme channel="纯享4K" start="20240802013600 +0800" stop="20240802020600 +0800">
+		<title lang="zh">好吃客4K 一桌好菜</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -71346,6 +71349,12 @@
 	<programme channel="黑莓动画" start="20240802005400 +0800" stop="20240802011800 +0800">
 		<title lang="zh">18_一人之下第二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240802012800 +0800" stop="20240802013800 +0800">
+		<title lang="zh">10_我靠充值当武帝</title>
+	</programme>
+	<programme channel="黑莓动画" start="20240802013800 +0800" stop="20240802014800 +0800">
+		<title lang="zh">11_我靠充值当武帝</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -71907,6 +71916,9 @@
 	<programme channel="newtv精品大剧" start="20240802004000 +0800" stop="20240802011900 +0800">
 		<title lang="zh">11_谍战深海之惊蛰</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240802011900 +0800" stop="20240802015900 +0800">
+		<title lang="zh">12_谍战深海之惊蛰</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -71918,6 +71930,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240802011500 +0800" stop="20240802014000 +0800">
 		<title lang="zh">01_大脑星球</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240802014000 +0800" stop="20240802020800 +0800">
+		<title lang="zh">02_重塑大脑</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -71937,6 +71952,9 @@
 	<programme channel="newtv军旅剧场" start="20240802005400 +0800" stop="20240802013800 +0800">
 		<title lang="zh">地道英雄 第24集</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240802013800 +0800" stop="20240802022300 +0800">
+		<title lang="zh">地道英雄 第25集</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -71945,6 +71963,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20240802004500 +0800" stop="20240802012900 +0800">
 		<title lang="zh">19_遍地书香</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240802012900 +0800" stop="20240802021200 +0800">
+		<title lang="zh">20_遍地书香</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -71961,6 +71982,9 @@
 	<programme channel="newtv爱情喜剧" start="20240802000200 +0800" stop="20240802013600 +0800">
 		<title lang="zh">希望</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20240802013600 +0800" stop="20240802022600 +0800">
+		<title lang="zh">27_独生子女的婆婆妈妈</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -71975,6 +71999,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240802004200 +0800" stop="20240802012900 +0800">
 		<title lang="zh">34_梦回</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240802012900 +0800" stop="20240802021500 +0800">
+		<title lang="zh">35_梦回</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -71994,6 +72021,9 @@
 	<programme channel="newtv炫舞未来" start="20240802002800 +0800" stop="20240802013800 +0800">
 		<title lang="zh">调皮老师超会模仿 唱歌跳舞体验节日氛围（20240720）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240802013800 +0800" stop="20240802022400 +0800">
+		<title lang="zh">温暖心底的情缘（20210724）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -72005,6 +72035,9 @@
 	</channel>
 	<programme channel="newtv惊悚悬疑" start="20240802005300 +0800" stop="20240802011800 +0800">
 		<title lang="zh">健都牌密骨胶囊惊喜组30分钟-渠道（右）</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240802011800 +0800" stop="20240802023500 +0800">
+		<title lang="zh">狄仁杰之骷髅将军</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
@@ -72062,6 +72095,9 @@
 	</channel>
 	<programme channel="newtv中国功夫" start="20240802000900 +0800" stop="20240802012400 +0800">
 		<title lang="zh">齐天大圣b7无双</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240802012400 +0800" stop="20240802024400 +0800">
+		<title lang="zh">魁拔之幽弥狂</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
