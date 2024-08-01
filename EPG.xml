@@ -59493,6 +59493,9 @@
 	<programme channel="纯享4K" start="20240802032300 +0800" stop="20240802035200 +0800">
 		<title lang="zh">旅游指南4K 好吃客b7韶关</title>
 	</programme>
+	<programme channel="纯享4K" start="20240802035200 +0800" stop="20240802043400 +0800">
+		<title lang="zh">远方的家4K 长江行（2） 相逢在长江源</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -71997,6 +72000,9 @@
 	<programme channel="newtv超级综艺" start="20240802024300 +0800" stop="20240802035600 +0800">
 		<title lang="zh">综艺喜乐汇</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240802035600 +0800" stop="20240802051300 +0800">
+		<title lang="zh">向幸福出发</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -72069,6 +72075,9 @@
 	<programme channel="newtv超级电视剧" start="20240802031400 +0800" stop="20240802035600 +0800">
 		<title lang="zh">05_一路向前</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240802035600 +0800" stop="20240802044100 +0800">
+		<title lang="zh">16_一代枭雄</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -72086,6 +72095,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240802031900 +0800" stop="20240802035700 +0800">
 		<title lang="zh">15_谍战深海之惊蛰</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240802035700 +0800" stop="20240802044200 +0800">
+		<title lang="zh">20_二炮手</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -72149,6 +72161,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240802030700 +0800" stop="20240802035100 +0800">
 		<title lang="zh">地道英雄 第27集</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240802035100 +0800" stop="20240802043900 +0800">
+		<title lang="zh">15_红蔷薇</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -72234,6 +72249,9 @@
 	<programme channel="newtv怡伴健康" start="20240802032600 +0800" stop="20240802035000 +0800">
 		<title lang="zh">新声乐游季</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240802035000 +0800" stop="20240802041700 +0800">
+		<title lang="zh">保护栖息地——兀鹫归来（上）</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -72248,6 +72266,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240802032100 +0800" stop="20240802035600 +0800">
 		<title lang="zh">07_特种兵之火凤凰</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240802035600 +0800" stop="20240802043200 +0800">
+		<title lang="zh">08_特种兵之火凤凰</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -72323,6 +72344,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20240802020700 +0800" stop="20240802040000 +0800">
 		<title lang="zh">2024美洲杯1/4决赛：阿根廷VS厄瓜多尔</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20240802040000 +0800" stop="20240802055400 +0800">
+		<title lang="zh">2024美洲杯1/4决赛：委内瑞拉VS加拿大</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
