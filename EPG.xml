@@ -59352,6 +59352,9 @@
 	<programme channel="纯享4K" start="20240803031800 +0800" stop="20240803034800 +0800">
 		<title lang="zh">飞向月球4K 第二集 中国探月</title>
 	</programme>
+	<programme channel="纯享4K" start="20240803034800 +0800" stop="20240803043000 +0800">
+		<title lang="zh">远方的家4K 长江行 金沙江：探秘香格里拉</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -71328,6 +71331,9 @@
 	<programme channel="黑莓动画" start="20240803032200 +0800" stop="20240803035000 +0800">
 		<title lang="zh">06_星辰变 第一季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240803035000 +0800" stop="20240803040900 +0800">
+		<title lang="zh">07_全职法师第2季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -71907,6 +71913,9 @@
 	<programme channel="newtv精品大剧" start="20240803031400 +0800" stop="20240803035200 +0800">
 		<title lang="zh">21_谍战深海之惊蛰</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240803035200 +0800" stop="20240803043600 +0800">
+		<title lang="zh">25_二炮手</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -71921,6 +71930,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240803031400 +0800" stop="20240803035400 +0800">
 		<title lang="zh">01_机器人</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240803035400 +0800" stop="20240803044300 +0800">
+		<title lang="zh">02_火箭</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -71991,6 +72003,9 @@
 	<programme channel="newtv热播精选" start="20240803031200 +0800" stop="20240803035800 +0800">
 		<title lang="zh">23_平凡之路</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20240803035800 +0800" stop="20240803044300 +0800">
+		<title lang="zh">24_平凡之路</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -71999,6 +72014,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20240803025900 +0800" stop="20240803034800 +0800">
 		<title lang="zh">32_独生子女的婆婆妈妈</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20240803034800 +0800" stop="20240803043800 +0800">
+		<title lang="zh">33_独生子女的婆婆妈妈</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -72033,6 +72051,9 @@
 	<programme channel="newtv怡伴健康" start="20240803033100 +0800" stop="20240803035500 +0800">
 		<title lang="zh">新声乐游季</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240803035500 +0800" stop="20240803042200 +0800">
+		<title lang="zh">森林里的动物家园</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -72047,6 +72068,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240803031900 +0800" stop="20240803035700 +0800">
 		<title lang="zh">13_特种兵之火凤凰</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240803035700 +0800" stop="20240803043500 +0800">
+		<title lang="zh">14_特种兵之火凤凰</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -72080,6 +72104,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240803020400 +0800" stop="20240803035400 +0800">
 		<title lang="zh">跃上高阶职场</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240803035400 +0800" stop="20240803044000 +0800">
+		<title lang="zh">26_无间</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
