@@ -51,6 +51,9 @@
 	<programme channel="4K综艺" start="20240805000000 +0800" stop="20240805010000 +0800">
 		<title lang="zh">妻子的浪漫旅行第三季20200129</title>
 	</programme>
+	<programme channel="4K综艺" start="20240805010000 +0800" stop="20240805023900 +0800">
+		<title lang="zh">妻子的浪漫旅行第三季20200205</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -56592,6 +56595,9 @@
 	<programme channel="纯享4K" start="20240805001900 +0800" stop="20240805004700 +0800">
 		<title lang="zh">记住乡愁4K第八季 渡渎村——江南水乡 古韵悠长</title>
 	</programme>
+	<programme channel="纯享4K" start="20240805004700 +0800" stop="20240805011500 +0800">
+		<title lang="zh">记住乡愁4K第八季 浙水村——古今一条道 颐养浙水人</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -67002,6 +67008,9 @@
 	<programme channel="黑莓动画" start="20240805003400 +0800" stop="20240805005800 +0800">
 		<title lang="zh">23_一人之下第二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240805005800 +0800" stop="20240805012300 +0800">
+		<title lang="zh">24_一人之下第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -67467,11 +67476,17 @@
 	<programme channel="newtv精品纪录" start="20240805002200 +0800" stop="20240805005400 +0800">
 		<title lang="zh">01_肝病专家 田庚善</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240805005400 +0800" stop="20240805012600 +0800">
+		<title lang="zh">02_疮疡名家 哈刚</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
 	<programme channel="newtv古装剧场" start="20240805000200 +0800" stop="20240805004700 +0800">
 		<title lang="zh">37_上古情歌</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20240805004700 +0800" stop="20240805013300 +0800">
+		<title lang="zh">38_上古情歌</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -67493,6 +67508,9 @@
 	</channel>
 	<programme channel="newtv热播精选" start="20240805000700 +0800" stop="20240805005600 +0800">
 		<title lang="zh">头号海12小时干海参超值组/【实物发货】头号海12小时干海参抢购组-渠道（右）</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20240805005600 +0800" stop="20240805023600 +0800">
+		<title lang="zh">致命指令</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -67545,6 +67563,9 @@
 	<programme channel="newtv怡伴健康" start="20240805001300 +0800" stop="20240805005800 +0800">
 		<title lang="zh">美国原装ATIP辅酶-渠道（右）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240805005800 +0800" stop="20240805013500 +0800">
+		<title lang="zh">03_怒晴湘西</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -67574,6 +67595,9 @@
 	</channel>
 	<programme channel="newtv惊悚悬疑" start="20240805000200 +0800" stop="20240805005000 +0800">
 		<title lang="zh">AMOS高聚能养生钛锅（新）-渠道（右）</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240805005000 +0800" stop="20240805021900 +0800">
+		<title lang="zh">九叔之夜行疯魔</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
