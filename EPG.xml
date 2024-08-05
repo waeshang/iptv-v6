@@ -41085,6 +41085,9 @@
 	<programme channel="黑莓动画" start="20240806022500 +0800" stop="20240806024700 +0800">
 		<title lang="zh">11_星辰变 第一季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240806024700 +0800" stop="20240806031300 +0800">
+		<title lang="zh">12_星辰变 第一季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -41493,6 +41496,9 @@
 	<programme channel="newtv超级电视剧" start="20240806022000 +0800" stop="20240806030200 +0800">
 		<title lang="zh">24_一路向前</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240806030200 +0800" stop="20240806034400 +0800">
+		<title lang="zh">25_一路向前</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -41507,6 +41513,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240806021500 +0800" stop="20240806025600 +0800">
 		<title lang="zh">36_谍战深海之惊蛰</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240806025600 +0800" stop="20240806033400 +0800">
+		<title lang="zh">37_谍战深海之惊蛰</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -41580,11 +41589,17 @@
 	<programme channel="newtv热播精选" start="20240806010900 +0800" stop="20240806025700 +0800">
 		<title lang="zh">斯科普里的解放</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20240806025700 +0800" stop="20240806034200 +0800">
+		<title lang="zh">02_林深见鹿</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
 	<programme channel="newtv爱情喜剧" start="20240806010200 +0800" stop="20240806025400 +0800">
 		<title lang="zh">老当益壮</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20240806025400 +0800" stop="20240806034500 +0800">
+		<title lang="zh">07_大都市小爱情</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -41594,6 +41609,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20240806015300 +0800" stop="20240806025500 +0800">
 		<title lang="zh">势不可挡</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20240806025500 +0800" stop="20240806035900 +0800">
+		<title lang="zh">无名客栈之麒麟觉醒</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -41622,6 +41640,9 @@
 	<programme channel="newtv潮妈辣婆" start="20240806021300 +0800" stop="20240806024800 +0800">
 		<title lang="zh">32_特种兵之火凤凰</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240806024800 +0800" stop="20240806032300 +0800">
+		<title lang="zh">33_特种兵之火凤凰</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -41639,6 +41660,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240806023900 +0800" stop="20240806024700 +0800">
 		<title lang="zh">《广场舞》 羊羊得意（附教学）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240806025800 +0800" stop="20240806030200 +0800">
+		<title lang="zh">《广场舞》 美丽中国年（正面演示）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
