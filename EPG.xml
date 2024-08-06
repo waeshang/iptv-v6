@@ -14535,6 +14535,9 @@
 	<programme channel="咪咕足球" start="20240807010000 +0800" stop="20240807024000 +0800">
 		<title lang="zh">奥运时刻-男篮小组赛 波多黎各-美国</title>
 	</programme>
+	<programme channel="咪咕足球" start="20240807024000 +0800" stop="20240807031500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="四川卫视">
 		<display-name lang="zh">四川卫视</display-name>
 	</channel>
@@ -42567,6 +42570,9 @@
 	<programme channel="黑莓动画" start="20240807015600 +0800" stop="20240807021900 +0800">
 		<title lang="zh">06_骸骨骑士大人奇幻世界冒险中</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240807021900 +0800" stop="20240807024400 +0800">
+		<title lang="zh">01_星辰变第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -42918,6 +42924,9 @@
 	<programme channel="newtv超级综艺" start="20240807013900 +0800" stop="20240807022500 +0800">
 		<title lang="zh">14_平凡之路</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240807022500 +0800" stop="20240807034200 +0800">
+		<title lang="zh">综艺喜乐汇</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -42978,6 +42987,9 @@
 	<programme channel="newtv超级电视剧" start="20240807014800 +0800" stop="20240807023000 +0800">
 		<title lang="zh">28_一路向前</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240807023000 +0800" stop="20240807031100 +0800">
+		<title lang="zh">29_一路向前</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -42990,6 +43002,9 @@
 	<programme channel="newtv精品大剧" start="20240807014200 +0800" stop="20240807022500 +0800">
 		<title lang="zh">40_谍战深海之惊蛰</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240807022500 +0800" stop="20240807025700 +0800">
+		<title lang="zh">41_谍战深海之惊蛰</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -43001,6 +43016,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240807012000 +0800" stop="20240807021800 +0800">
 		<title lang="zh">第一集 理性之光</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240807021800 +0800" stop="20240807024800 +0800">
+		<title lang="zh">第二集 中国探月</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -43082,6 +43100,9 @@
 	</channel>
 	<programme channel="newtv潮妈辣婆" start="20240807002500 +0800" stop="20240807022300 +0800">
 		<title lang="zh">全员单恋</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240807022300 +0800" stop="20240807025500 +0800">
+		<title lang="zh">39_特种兵之火凤凰</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
