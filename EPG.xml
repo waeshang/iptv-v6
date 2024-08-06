@@ -42597,6 +42597,9 @@
 	<programme channel="黑莓动画" start="20240807032900 +0800" stop="20240807034700 +0800">
 		<title lang="zh">05_全职法师第1季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240807034700 +0800" stop="20240807040500 +0800">
+		<title lang="zh">06_全职法师第1季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -42960,41 +42963,8 @@
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
-	<programme channel="newtv超级体育" start="20240807000000 +0800" stop="20240807020000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20240807020000 +0800" stop="20240807040000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20240807060000 +0800" stop="20240807080000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20240807080000 +0800" stop="20240807100600 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20240807100600 +0800" stop="20240807120000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20240807120000 +0800" stop="20240807140000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20240807140000 +0800" stop="20240807160000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20240807160000 +0800" stop="20240807180000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20240807180000 +0800" stop="20240807190000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20240807190000 +0800" stop="20240807200000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20240807200000 +0800" stop="20240807220000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20240807220000 +0800" stop="20240807235900 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="newtv超级体育" start="20240807040000 +0800" stop="20240807053000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2024年巴黎奥运会 体操单项决赛1</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -43025,6 +42995,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20240807031100 +0800" stop="20240807035500 +0800">
 		<title lang="zh">30_一路向前</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240807035500 +0800" stop="20240807044000 +0800">
+		<title lang="zh">39_一代枭雄</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -43217,6 +43190,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240807033300 +0800" stop="20240807034600 +0800">
 		<title lang="zh">不忘初心-李萍（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240807034700 +0800" stop="20240807040400 +0800">
+		<title lang="zh">万疆-孙爱迪（完整版）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
