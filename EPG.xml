@@ -63,6 +63,9 @@
 	<programme channel="4K综艺" start="20240809033700 +0800" stop="20240809045700 +0800">
 		<title lang="zh">小小的追球20191231</title>
 	</programme>
+	<programme channel="4K综艺" start="20240809045700 +0800" stop="20240809063000 +0800">
+		<title lang="zh">我最爱的女人们20190712</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -65004,6 +65007,9 @@
 	<programme channel="黑莓动画" start="20240809042500 +0800" stop="20240809044700 +0800">
 		<title lang="zh">13_马达加斯加企鹅第二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240809044700 +0800" stop="20240809051200 +0800">
+		<title lang="zh">15_入间同学入魔了</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -65676,6 +65682,9 @@
 	<programme channel="newtv热播精选" start="20240809041000 +0800" stop="20240809045600 +0800">
 		<title lang="zh">20_林深见鹿</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20240809045600 +0800" stop="20240809054200 +0800">
+		<title lang="zh">21_林深见鹿</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -65736,6 +65745,9 @@
 	<programme channel="newtv怡伴健康" start="20240809043300 +0800" stop="20240809050000 +0800">
 		<title lang="zh">保护栖息地——貂熊的家园（上）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240809050000 +0800" stop="20240809052700 +0800">
+		<title lang="zh">保护栖息地——貂熊的家园（下）</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -65766,6 +65778,9 @@
 	<programme channel="newtv军事评论" start="20240809001900 +0800" stop="20240809004300 +0800">
 		<title lang="zh">国防军事早报</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240809045100 +0800" stop="20240809054300 +0800">
+		<title lang="zh">爱党爱军爱国防 国防知识挑战赛</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -65789,6 +65804,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240809044400 +0800" stop="20240809044700 +0800">
 		<title lang="zh">《广场舞》 花样年华背身</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240809045800 +0800" stop="20240809050400 +0800">
+		<title lang="zh">《广场舞》 我爱的人在新疆第三讲_爱的力量</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
