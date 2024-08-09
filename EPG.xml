@@ -28596,6 +28596,9 @@
 	<programme channel="咪咕综合体育" start="20240809201500 +0800" stop="20240809000000 +0800">
 		<title lang="zh">2024巴黎奥运会 乒乓球 男子团体决赛 直播</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20240809201500 +0800" stop="20240809000000 +0800">
+		<title lang="zh">2024巴黎奥运会 乒乓球 男子团体决赛 男子团体决赛 中国-瑞典 直播</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -58869,6 +58872,9 @@
 	<programme channel="纯享4K" start="20240809221700 +0800" stop="20240809224700 +0800">
 		<title lang="zh">寻古中国4K 寻夏记b7夏迹寻踪</title>
 	</programme>
+	<programme channel="纯享4K" start="20240809224700 +0800" stop="20240809231700 +0800">
+		<title lang="zh">寻古中国4K 寻夏记b7夏禾丰裕</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -71862,6 +71868,9 @@
 	<programme channel="newtv超级综艺" start="20240809214700 +0800" stop="20240809224900 +0800">
 		<title lang="zh">综艺喜乐汇</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240809224900 +0800" stop="20240809233400 +0800">
+		<title lang="zh">23_平凡之路</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -72855,6 +72864,9 @@
 	<programme channel="newtv怡伴健康" start="20240809223700 +0800" stop="20240809225100 +0800">
 		<title lang="zh">小品《提意见》 表演：孙涛 王宏坤</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240809225900 +0800" stop="20240809231100 +0800">
+		<title lang="zh">小品《送礼》 表演：句号 郭达</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -73194,6 +73206,9 @@
 	<programme channel="newtv炫舞未来" start="20240809222700 +0800" stop="20240809224700 +0800">
 		<title lang="zh">风中的额吉-応子（完整）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240809225300 +0800" stop="20240809001000 +0800">
+		<title lang="zh">陈江山在工地上弹古筝意外走红 古筝曲成了工地上独特的风景（20240722）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -73401,6 +73416,9 @@
 	<programme channel="newtv金牌综艺" start="20240809213700 +0800" stop="20240809230100 +0800">
 		<title lang="zh">心动的信号第5季</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20240809230100 +0800" stop="20240809003400 +0800">
+		<title lang="zh">邻家诗话</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
@@ -73574,6 +73592,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240809220100 +0800" stop="20240809224600 +0800">
 		<title lang="zh">41_倚天屠龙记</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240809224600 +0800" stop="20240809000700 +0800">
+		<title lang="zh">卸岭之地下惊龙</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
