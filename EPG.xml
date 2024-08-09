@@ -26748,6 +26748,9 @@
 	<programme channel="咪咕足球" start="20240810015000 +0800" stop="20240810050000 +0800">
 		<title lang="zh">2024巴黎奥运会 曲棍球 女子金牌赛 荷兰-中国 直播</title>
 	</programme>
+	<programme channel="咪咕足球" start="20240810050000 +0800" stop="20240810062000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -65865,6 +65868,9 @@
 	<programme channel="newtv超级综艺" start="20240810031600 +0800" stop="20240810050300 +0800">
 		<title lang="zh">首届青年京剧演员大会</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240810050300 +0800" stop="20240810063500 +0800">
+		<title lang="zh">经典咏流传b7正青春</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -65882,6 +65888,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20240810030000 +0800" stop="20240810045500 +0800">
 		<title lang="zh">盲侠</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20240810045500 +0800" stop="20240810063900 +0800">
+		<title lang="zh">纠纷</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -65948,6 +65957,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240810035500 +0800" stop="20240810045000 +0800">
 		<title lang="zh">03_火车</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240810045000 +0800" stop="20240810053900 +0800">
+		<title lang="zh">01_家国天下</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -66120,6 +66132,9 @@
 	<programme channel="newtv潮妈辣婆" start="20240810040700 +0800" stop="20240810045300 +0800">
 		<title lang="zh">02_大都市小爱情</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240810045300 +0800" stop="20240810053800 +0800">
+		<title lang="zh">03_大都市小爱情</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -66128,6 +66143,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240810040900 +0800" stop="20240810050000 +0800">
 		<title lang="zh">国防知识挑战赛 走进湖南娄底</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240810050000 +0800" stop="20240810055100 +0800">
+		<title lang="zh">挺进深蓝 南部战区海军某基地 上集</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -66173,6 +66191,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240810040800 +0800" stop="20240810045200 +0800">
 		<title lang="zh">19_百战天狼</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240810045200 +0800" stop="20240810053500 +0800">
+		<title lang="zh">20_百战天狼</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
