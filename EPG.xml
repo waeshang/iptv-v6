@@ -70950,6 +70950,9 @@
 	<programme channel="黑莓动画" start="20240809144300 +0800" stop="20240809144800 +0800">
 		<title lang="zh">大牙携手心奇恐龙同心协力解救甲龙</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240809145800 +0800" stop="20240809150200 +0800">
+		<title lang="zh">64_笨蛋波波与小宝</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -71532,6 +71535,9 @@
 	<programme channel="newtv超级综艺" start="20240809135700 +0800" stop="20240809150100 +0800">
 		<title lang="zh">国风超有戏</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240809150100 +0800" stop="20240809155100 +0800">
+		<title lang="zh">妙语连珠</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -71561,6 +71567,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20240809144500 +0800" stop="20240809150000 +0800">
 		<title lang="zh">2024年巴黎奥运会报道-遇见巴黎-28(4K)</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20240809150000 +0800" stop="20240809174000 +0800">
+		<title lang="zh">巴黎奥运会-田径预赛2 等</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -71715,6 +71724,9 @@
 	<programme channel="newtv精品大剧" start="20240809140300 +0800" stop="20240809145100 +0800">
 		<title lang="zh">44_锦心似玉</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240809145100 +0800" stop="20240809154000 +0800">
+		<title lang="zh">45_锦心似玉</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -71780,6 +71792,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240809143300 +0800" stop="20240809145100 +0800">
 		<title lang="zh">第8集：宁夏银川 羊杂碎</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240809145100 +0800" stop="20240809154900 +0800">
+		<title lang="zh">01_到法国去</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -72243,6 +72258,9 @@
 	<programme channel="newtv潮妈辣婆" start="20240809141100 +0800" stop="20240809145700 +0800">
 		<title lang="zh">HOKO纯钛富硒RO即热净水机-渠道（右）</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240809145700 +0800" stop="20240809154300 +0800">
+		<title lang="zh">27_三生三世枕上书</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -72308,6 +72326,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240809142500 +0800" stop="20240809145000 +0800">
 		<title lang="zh">美国首次在菲律宾部署中导 日本“双航母”将进行最大规模部署</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240809145000 +0800" stop="20240809151600 +0800">
+		<title lang="zh">以色列对伊朗发动军事打击 台海军叫嚣防务范围不止24海里？</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -72549,6 +72570,9 @@
 	<programme channel="newtv精品体育" start="20240809130900 +0800" stop="20240809145600 +0800">
 		<title lang="zh">世界女排联赛巴西站：中国VS美国</title>
 	</programme>
+	<programme channel="newtv精品体育" start="20240809145600 +0800" stop="20240809161100 +0800">
+		<title lang="zh">2024世界女排联赛中国香港站：中国VS德国</title>
+	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
 	</channel>
@@ -72641,6 +72665,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240809141800 +0800" stop="20240809145200 +0800">
 		<title lang="zh">07_墓王之王</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240809145200 +0800" stop="20240809153500 +0800">
+		<title lang="zh">08_墓王之王</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
