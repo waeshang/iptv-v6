@@ -58572,6 +58572,9 @@
 	<programme channel="纯享4K" start="20240809110100 +0800" stop="20240809112500 +0800">
 		<title lang="zh">在乡村4K 第5集 理想的房子</title>
 	</programme>
+	<programme channel="纯享4K" start="20240809112500 +0800" stop="20240809115000 +0800">
+		<title lang="zh">在乡村4K 第6集 从许村到青田</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -70866,6 +70869,12 @@
 	<programme channel="黑莓动画" start="20240809110300 +0800" stop="20240809111600 +0800">
 		<title lang="zh">25_钶龙战记</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240809113000 +0800" stop="20240809114100 +0800">
+		<title lang="zh">百变布鲁可第4季第18集</title>
+	</programme>
+	<programme channel="黑莓动画" start="20240809114100 +0800" stop="20240809115400 +0800">
+		<title lang="zh">百变布鲁可第4季第19集</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -70889,6 +70898,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20240809100800 +0800" stop="20240809113800 +0800">
 		<title lang="zh">大有前途</title>
+	</programme>
+	<programme channel="黑莓电影" start="20240809113800 +0800" stop="20240809130600 +0800">
+		<title lang="zh">棉球方块历险记</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -71568,6 +71580,9 @@
 	<programme channel="newtv精品大剧" start="20240809104400 +0800" stop="20240809112900 +0800">
 		<title lang="zh">18_乡村爱情10（下）</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240809112900 +0800" stop="20240809121800 +0800">
+		<title lang="zh">德世朗钛健康饭煲-渠道（右）</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -71619,6 +71634,9 @@
 	<programme channel="newtv精品纪录" start="20240809110300 +0800" stop="20240809114400 +0800">
 		<title lang="zh">第4集：当兵</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240809114400 +0800" stop="20240809124000 +0800">
+		<title lang="zh">美康利健心血通激光治疗仪升级款-渠道（右）</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -71666,6 +71684,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20240809104100 +0800" stop="20240809112700 +0800">
 		<title lang="zh">36_包青天之七侠五义</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20240809112700 +0800" stop="20240809121200 +0800">
+		<title lang="zh">37_包青天之七侠五义</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -71760,6 +71781,9 @@
 	<programme channel="newtv家庭剧场" start="20240809104900 +0800" stop="20240809113500 +0800">
 		<title lang="zh">18_暖暖的幸福</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240809113500 +0800" stop="20240809122000 +0800">
+		<title lang="zh">19_暖暖的幸福</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -71801,6 +71825,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20240809103500 +0800" stop="20240809111800 +0800">
 		<title lang="zh">47_独孤天下</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20240809111800 +0800" stop="20240809115700 +0800">
+		<title lang="zh">穴位压力刺激贴(纤体清脂贴)-渠道（右）</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -72015,6 +72042,9 @@
 	<programme channel="newtv军事评论" start="20240809111400 +0800" stop="20240809113500 +0800">
 		<title lang="zh">巴以冲突中的“梅卡瓦”坦克</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240809113500 +0800" stop="20240809115700 +0800">
+		<title lang="zh">波兰为何急速扩军</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -72206,6 +72236,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20240809093700 +0800" stop="20240809112500 +0800">
 		<title lang="zh">23-24赛季CBA季后赛：东阳光药VS广东</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20240809112500 +0800" stop="20240809130900 +0800">
+		<title lang="zh">23-24赛季CBA总决赛G3：新疆VS辽宁</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
