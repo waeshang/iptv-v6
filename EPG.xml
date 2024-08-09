@@ -27276,6 +27276,9 @@
 	<programme channel="咪咕综合体育" start="20240810043500 +0800" stop="20240810060000 +0800">
 		<title lang="zh">奥运时刻</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20240810060000 +0800" stop="20240810080000 +0800">
+		<title lang="zh">泳AI中国第五期</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -66006,6 +66009,9 @@
 	<programme channel="黑莓动画" start="20240810053500 +0800" stop="20240810060000 +0800">
 		<title lang="zh">40_雷欧奥特曼 重制版 普通话版</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240810060000 +0800" stop="20240810062600 +0800">
+		<title lang="zh">41_雷欧奥特曼 重制版 普通话版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -66501,6 +66507,9 @@
 	<programme channel="newtv超级体育" start="20240810053000 +0800" stop="20240810060000 +0800">
 		<title lang="zh">实况录像(奥林匹克)-2024年巴黎奥运会 赛艇比赛2</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240810060000 +0800" stop="20240810070000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2024年巴黎奥运会 跳水男子3米板决赛</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -66567,6 +66576,9 @@
 	<programme channel="newtv精品大剧" start="20240810050600 +0800" stop="20240810055100 +0800">
 		<title lang="zh">26_射天狼</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240810055100 +0800" stop="20240810063600 +0800">
+		<title lang="zh">27_射天狼</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -66621,6 +66633,9 @@
 	<programme channel="newtv古装剧场" start="20240810050800 +0800" stop="20240810055200 +0800">
 		<title lang="zh">37_千古玦尘</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240810055200 +0800" stop="20240810063600 +0800">
+		<title lang="zh">38_千古玦尘</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -66644,6 +66659,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240810050600 +0800" stop="20240810055100 +0800">
 		<title lang="zh">08_刀锋乱世情</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240810055100 +0800" stop="20240810063600 +0800">
+		<title lang="zh">09_刀锋乱世情</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -66804,6 +66822,9 @@
 	<programme channel="newtv军事评论" start="20240810050000 +0800" stop="20240810055100 +0800">
 		<title lang="zh">挺进深蓝 南部战区海军某基地 上集</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240810055100 +0800" stop="20240810064300 +0800">
+		<title lang="zh">挺进深蓝 南部战区海军某基地 下集</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -66836,6 +66857,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240810054300 +0800" stop="20240810055600 +0800">
 		<title lang="zh">东方红-饶子龙（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240810055600 +0800" stop="20240810061200 +0800">
+		<title lang="zh">点赞新时代-饶子龙（完整版）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
