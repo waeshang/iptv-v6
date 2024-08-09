@@ -53268,6 +53268,9 @@
 	<programme channel="纯享4K" start="20240810022900 +0800" stop="20240810025600 +0800">
 		<title lang="zh">丛林星球4K 芬芳丛林</title>
 	</programme>
+	<programme channel="纯享4K" start="20240810025600 +0800" stop="20240810031000 +0800">
+		<title lang="zh">跑马溜溜的云上4K 第5集</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -64974,6 +64977,9 @@
 	<programme channel="黑莓动画" start="20240810023000 +0800" stop="20240810025800 +0800">
 		<title lang="zh">07_星辰变第二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240810025800 +0800" stop="20240810032300 +0800">
+		<title lang="zh">08_星辰变第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -65496,6 +65502,9 @@
 	<programme channel="newtv超级电影" start="20240810012700 +0800" stop="20240810030000 +0800">
 		<title lang="zh">冷瞳</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20240810030000 +0800" stop="20240810045500 +0800">
+		<title lang="zh">盲侠</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -65523,6 +65532,9 @@
 	<programme channel="newtv精品大剧" start="20240810020400 +0800" stop="20240810024900 +0800">
 		<title lang="zh">09_暖暖的幸福</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240810024900 +0800" stop="20240810033500 +0800">
+		<title lang="zh">10_暖暖的幸福</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -65537,6 +65549,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240810020100 +0800" stop="20240810030000 +0800">
 		<title lang="zh">逐梦天河</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240810030000 +0800" stop="20240810035500 +0800">
+		<title lang="zh">02_运输机</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -65553,6 +65568,9 @@
 	<programme channel="newtv古装剧场" start="20240810021000 +0800" stop="20240810025100 +0800">
 		<title lang="zh">11_解忧公主</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240810025100 +0800" stop="20240810034100 +0800">
+		<title lang="zh">12_解忧公主</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -65564,6 +65582,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240810020500 +0800" stop="20240810025000 +0800">
 		<title lang="zh">28_奸细</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240810025000 +0800" stop="20240810033600 +0800">
+		<title lang="zh">29_奸细</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -65628,6 +65649,9 @@
 	<programme channel="newtv怡伴健康" start="20240810023200 +0800" stop="20240810025700 +0800">
 		<title lang="zh">在中国大地上边走边跳b7广西站</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240810025700 +0800" stop="20240810032100 +0800">
+		<title lang="zh">在中国大地上边走边跳b7广西南宁站</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -65660,6 +65684,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240810023800 +0800" stop="20240810024600 +0800">
 		<title lang="zh">美丽内蒙古-乌兰图雅（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240810030000 +0800" stop="20240810030900 +0800">
+		<title lang="zh">火辣辣的情歌-乌兰图雅（完整版）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -65744,6 +65771,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240810013200 +0800" stop="20240810025600 +0800">
 		<title lang="zh">孙悟空大战盘丝洞</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240810025600 +0800" stop="20240810042900 +0800">
+		<title lang="zh">江湖英雄联盟之毒手仁心</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
