@@ -93,6 +93,9 @@
 	<programme channel="4K综艺" start="20240809174300 +0800" stop="20240809192500 +0800">
 		<title lang="zh">花儿与少年第一季20140606</title>
 	</programme>
+	<programme channel="4K综艺" start="20240809192500 +0800" stop="20240809195000 +0800">
+		<title lang="zh">少年说听你说20180711</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -28566,6 +28569,9 @@
 	<programme channel="咪咕综合体育" start="20240809185500 +0800" stop="20240809194500 +0800">
 		<title lang="zh">奥运时刻</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20240809194500 +0800" stop="20240809201500 +0800">
+		<title lang="zh">中国榜样</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -28616,6 +28622,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20240809155000 +0800" stop="20240809194000 +0800">
 		<title lang="zh">2024巴黎奥运会 田径 女子100米栏半决赛等 直播</title>
+	</programme>
+	<programme channel="咪咕足球" start="20240809194000 +0800" stop="20240809195000 +0800">
+		<title lang="zh">频道宣传</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -58818,6 +58827,9 @@
 	<programme channel="纯享4K" start="20240809190500 +0800" stop="20240809192900 +0800">
 		<title lang="zh">在乡村4K 第5集 理想的房子</title>
 	</programme>
+	<programme channel="纯享4K" start="20240809192900 +0800" stop="20240809195400 +0800">
+		<title lang="zh">在乡村4K 第6集 从许村到青田</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -71172,6 +71184,12 @@
 	<programme channel="黑莓动画" start="20240809191300 +0800" stop="20240809192400 +0800">
 		<title lang="zh">08_舒克贝塔地下之谜</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240809192400 +0800" stop="20240809193600 +0800">
+		<title lang="zh">09_舒克贝塔地下之谜</title>
+	</programme>
+	<programme channel="黑莓动画" start="20240809194600 +0800" stop="20240809201100 +0800">
+		<title lang="zh">20_德凯奥特曼 普通话版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -71763,6 +71781,9 @@
 	<programme channel="newtv超级综艺" start="20240809180400 +0800" stop="20240809193000 +0800">
 		<title lang="zh">越战越勇</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240809193000 +0800" stop="20240809204300 +0800">
+		<title lang="zh">中国b7保定乡村音乐大会</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -72002,6 +72023,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240809184100 +0800" stop="20240809193300 +0800">
 		<title lang="zh">22_乐游原</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240809193300 +0800" stop="20240809200300 +0800">
+		<title lang="zh">【推广】美丽密码A6版</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -72246,6 +72270,9 @@
 	<programme channel="newtv军旅剧场" start="20240809190100 +0800" stop="20240809193100 +0800">
 		<title lang="zh">【推广】美丽密码A6版</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240809193100 +0800" stop="20240809201700 +0800">
+		<title lang="zh">34_画眉</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -72323,6 +72350,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20240809190500 +0800" stop="20240809193500 +0800">
 		<title lang="zh">【推广】美丽密码A6版</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240809193500 +0800" stop="20240809202000 +0800">
+		<title lang="zh">18_兰桐花开</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -72468,6 +72498,9 @@
 	<programme channel="newtv爱情喜剧" start="20240809185200 +0800" stop="20240809192200 +0800">
 		<title lang="zh">美丽密码-23期</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20240809192200 +0800" stop="20240809200700 +0800">
+		<title lang="zh">24_谁懂女儿心</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -72612,6 +72645,9 @@
 	<programme channel="newtv怡伴健康" start="20240809185300 +0800" stop="20240809193700 +0800">
 		<title lang="zh">四川剑开天门vs贵州混斗联盟 第3局</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240809193700 +0800" stop="20240809200700 +0800">
+		<title lang="zh">美丽密码-23期</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -72692,6 +72728,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240809185600 +0800" stop="20240809192600 +0800">
 		<title lang="zh">美丽密码-23期</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240809192600 +0800" stop="20240809200100 +0800">
+		<title lang="zh">26_西出玉门</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -72792,6 +72831,9 @@
 	<programme channel="newtv军事评论" start="20240809190700 +0800" stop="20240809192900 +0800">
 		<title lang="zh">大三线精编版（一）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240809192900 +0800" stop="20240809195100 +0800">
+		<title lang="zh">大三线精编版（二）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -72890,6 +72932,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240809184900 +0800" stop="20240809193500 +0800">
 		<title lang="zh">26_决胜法庭</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240809193500 +0800" stop="20240809203100 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -73016,6 +73061,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20240809175600 +0800" stop="20240809192800 +0800">
 		<title lang="zh">少女灵异日记</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240809192800 +0800" stop="20240809195800 +0800">
+		<title lang="zh">【推广】美丽密码A6版</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
