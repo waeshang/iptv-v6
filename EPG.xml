@@ -58632,6 +58632,9 @@
 	<programme channel="纯享4K" start="20240809161300 +0800" stop="20240809164100 +0800">
 		<title lang="zh">记住乡愁4K第八季 西安村——药香满山林</title>
 	</programme>
+	<programme channel="纯享4K" start="20240809164100 +0800" stop="20240809170900 +0800">
+		<title lang="zh">记住乡愁4K第八季 南一村——桂北古村 葡萄满园</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -70983,6 +70986,12 @@
 	<programme channel="黑莓动画" start="20240809160600 +0800" stop="20240809163100 +0800">
 		<title lang="zh">32_厨神秘方</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240809163100 +0800" stop="20240809163300 +0800">
+		<title lang="zh">75_蘑菇头和恐龙笨波</title>
+	</programme>
+	<programme channel="黑莓动画" start="20240809164500 +0800" stop="20240809164900 +0800">
+		<title lang="zh">80_蘑菇头和恐龙笨波</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -71574,6 +71583,9 @@
 	<programme channel="newtv超级综艺" start="20240809155100 +0800" stop="20240809163200 +0800">
 		<title lang="zh">我的艺术清单</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240809163200 +0800" stop="20240809180400 +0800">
+		<title lang="zh">此生要去的100个地方</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -71642,6 +71654,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20240809150300 +0800" stop="20240809163000 +0800">
 		<title lang="zh">电影《迷毒之天命圈》</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20240809163000 +0800" stop="20240809175900 +0800">
+		<title lang="zh">电影《龙门镇客栈》</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -71774,6 +71789,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240809154000 +0800" stop="20240809162500 +0800">
 		<title lang="zh">01_春闺梦里人</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240809162500 +0800" stop="20240809170500 +0800">
+		<title lang="zh">琦玉坊和田碧玉飘花手镯-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -71982,6 +72000,9 @@
 	<programme channel="newtv军旅剧场" start="20240809155000 +0800" stop="20240809163600 +0800">
 		<title lang="zh">30_潜行者</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240809163600 +0800" stop="20240809173000 +0800">
+		<title lang="zh">31_潜行者</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -72165,6 +72186,9 @@
 	<programme channel="newtv爱情喜剧" start="20240809155900 +0800" stop="20240809164400 +0800">
 		<title lang="zh">21_谁懂女儿心</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20240809164400 +0800" stop="20240809172900 +0800">
+		<title lang="zh">22_谁懂女儿心</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -72203,6 +72227,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20240809144100 +0800" stop="20240809164200 +0800">
 		<title lang="zh">警察故事续集</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20240809164200 +0800" stop="20240809172700 +0800">
+		<title lang="zh">美国原装ATIP辅酶-渠道（右）</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -72354,6 +72381,9 @@
 	<programme channel="newtv潮妈辣婆" start="20240809154300 +0800" stop="20240809163700 +0800">
 		<title lang="zh">28_三生三世枕上书</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240809163700 +0800" stop="20240809172400 +0800">
+		<title lang="zh">29_三生三世枕上书</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -72431,6 +72461,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240809160600 +0800" stop="20240809163200 +0800">
 		<title lang="zh">950亿军援法案获通过 美继续披着“援助”外衣搞霸权</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240809163200 +0800" stop="20240809165900 +0800">
+		<title lang="zh">穿山越岭</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -72519,6 +72552,9 @@
 	<programme channel="newtv炫舞未来" start="20240809160700 +0800" stop="20240809163500 +0800">
 		<title lang="zh">消失的欠债人（20240329）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240809163500 +0800" stop="20240809172500 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -72582,6 +72618,9 @@
 	<programme channel="newtv精品综合" start="20240809155100 +0800" stop="20240809163600 +0800">
 		<title lang="zh">07_好大一个家</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20240809163600 +0800" stop="20240809172100 +0800">
+		<title lang="zh">08_好大一个家</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -72623,6 +72662,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20240809160300 +0800" stop="20240809164300 +0800">
 		<title lang="zh">琦玉坊和田碧玉飘花手镯-渠道（右）</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240809164300 +0800" stop="20240809175600 +0800">
+		<title lang="zh">萨姆曾在这里</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
