@@ -45,6 +45,9 @@
 	<programme channel="4K综艺" start="20240811003600 +0800" stop="20240811015700 +0800">
 		<title lang="zh">奇兵神犬20171229</title>
 	</programme>
+	<programme channel="4K综艺" start="20240811015700 +0800" stop="20240811032300 +0800">
+		<title lang="zh">奇兵神犬20180105</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -65205,6 +65208,9 @@
 	<programme channel="黑莓动画" start="20240811013800 +0800" stop="20240811014800 +0800">
 		<title lang="zh">31_我靠充值当武帝</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240811014800 +0800" stop="20240811021000 +0800">
+		<title lang="zh">01_骸骨骑士大人奇幻世界冒险中</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -65772,6 +65778,9 @@
 	<programme channel="newtv古装剧场" start="20240811010800 +0800" stop="20240811014900 +0800">
 		<title lang="zh">14_解忧公主</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240811014900 +0800" stop="20240811023000 +0800">
+		<title lang="zh">15_解忧公主</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -65814,6 +65823,9 @@
 	<programme channel="newtv动作电影" start="20240811001200 +0800" stop="20240811014700 +0800">
 		<title lang="zh">军火厂</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20240811014700 +0800" stop="20240811025800 +0800">
+		<title lang="zh">封神榜：托塔天王</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -65852,6 +65864,9 @@
 	</channel>
 	<programme channel="newtv精品综合" start="20240811001300 +0800" stop="20240811015800 +0800">
 		<title lang="zh">乔纳森</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240811015800 +0800" stop="20240811033400 +0800">
+		<title lang="zh">跃上高阶职场</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
