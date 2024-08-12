@@ -33459,6 +33459,9 @@
 	<programme channel="纯享4K" start="20240813002400 +0800" stop="20240813005200 +0800">
 		<title lang="zh">记住乡愁4K第八季 花茂村——黔北小村 陶韵悠然</title>
 	</programme>
+	<programme channel="纯享4K" start="20240813005200 +0800" stop="20240813012000 +0800">
+		<title lang="zh">记住乡愁4K第八季 半月里村——百年畲寨 家园相守</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -41589,6 +41592,9 @@
 	<programme channel="黑莓动画" start="20240813003400 +0800" stop="20240813005800 +0800">
 		<title lang="zh">15_一人之下第二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240813005800 +0800" stop="20240813012200 +0800">
+		<title lang="zh">16_一人之下第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -41955,6 +41961,9 @@
 	<programme channel="newtv精品大剧" start="20240813000300 +0800" stop="20240813004900 +0800">
 		<title lang="zh">21_暖暖的幸福</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240813004900 +0800" stop="20240813013400 +0800">
+		<title lang="zh">22_暖暖的幸福</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -41967,6 +41976,9 @@
 	<programme channel="newtv古装剧场" start="20240813001700 +0800" stop="20240813005800 +0800">
 		<title lang="zh">23_解忧公主</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240813005800 +0800" stop="20240813013900 +0800">
+		<title lang="zh">24_解忧公主</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -41978,6 +41990,9 @@
 	</channel>
 	<programme channel="newtv家庭剧场" start="20240813000200 +0800" stop="20240813004700 +0800">
 		<title lang="zh">06_幸福的错觉</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240813004700 +0800" stop="20240813013200 +0800">
+		<title lang="zh">07_幸福的错觉</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -42044,6 +42059,9 @@
 	</channel>
 	<programme channel="newtv惊悚悬疑" start="20240813001200 +0800" stop="20240813010100 +0800">
 		<title lang="zh">福禧来红珊瑚龙凤挂牌套组-渠道（右）</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240813010100 +0800" stop="20240813022500 +0800">
+		<title lang="zh">火线追凶2之夺命书院</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
