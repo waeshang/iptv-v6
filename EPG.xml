@@ -64935,6 +64935,9 @@
 	<programme channel="黑莓动画" start="20240814042600 +0800" stop="20240814044800 +0800">
 		<title lang="zh">23_马达加斯加企鹅第二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240814044800 +0800" stop="20240814051300 +0800">
+		<title lang="zh">24_入间同学入魔了</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -64946,6 +64949,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20240814031400 +0800" stop="20240814045800 +0800">
 		<title lang="zh">外星追缉令</title>
+	</programme>
+	<programme channel="黑莓电影" start="20240814045800 +0800" stop="20240814062300 +0800">
+		<title lang="zh">唐门之神犼双雄</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -65397,6 +65403,9 @@
 	<programme channel="newtv超级电视剧" start="20240814041800 +0800" stop="20240814050300 +0800">
 		<title lang="zh">26_青山不墨</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240814050300 +0800" stop="20240814054900 +0800">
+		<title lang="zh">27_青山不墨</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -65568,6 +65577,9 @@
 	<programme channel="newtv动作电影" start="20240814032300 +0800" stop="20240814045200 +0800">
 		<title lang="zh">鲨卷风3</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20240814045200 +0800" stop="20240814061100 +0800">
+		<title lang="zh">夺命剑之风云再起</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -65619,6 +65631,9 @@
 	<programme channel="newtv潮妈辣婆" start="20240814041100 +0800" stop="20240814045600 +0800">
 		<title lang="zh">26_大都市小爱情</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240814045600 +0800" stop="20240814054200 +0800">
+		<title lang="zh">27_大都市小爱情</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -65649,6 +65664,9 @@
 	<programme channel="newtv炫舞未来" start="20240814032000 +0800" stop="20240814045100 +0800">
 		<title lang="zh">经典咏流传b7正青春（20230702）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240814045700 +0800" stop="20240814050500 +0800">
+		<title lang="zh">《广场舞》 花儿香第二讲_幸福的花儿香</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -65663,6 +65681,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240814041400 +0800" stop="20240814045800 +0800">
 		<title lang="zh">39_百战天狼</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240814045800 +0800" stop="20240814053700 +0800">
+		<title lang="zh">01_使徒行者3</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
