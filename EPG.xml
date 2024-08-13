@@ -26331,6 +26331,9 @@
 	<programme channel="咪咕综合体育" start="20240814022500 +0800" stop="20240814040500 +0800">
 		<title lang="zh">足球世界-2024欧洲杯 决赛 西班牙-英格兰</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20240814040500 +0800" stop="20240814041000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -52917,6 +52920,9 @@
 	<programme channel="纯享4K" start="20240814030600 +0800" stop="20240814034800 +0800">
 		<title lang="zh">远方的家4K 长江行 向东是大海</title>
 	</programme>
+	<programme channel="纯享4K" start="20240814034800 +0800" stop="20240814042900 +0800">
+		<title lang="zh">远方的家4K 长江行 科技引领上海“智”造</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -64956,6 +64962,9 @@
 	<programme channel="newtv超级体育" start="20240814030000 +0800" stop="20240814040000 +0800">
 		<title lang="zh">实况录像(奥林匹克)-2024年巴黎奥运会 举重男子61公斤级决赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240814040000 +0800" stop="20240814053000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2024年巴黎奥运会 羽毛球比赛</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -64964,6 +64973,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20240814021400 +0800" stop="20240814035100 +0800">
 		<title lang="zh">绝对底线</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20240814035100 +0800" stop="20240814053300 +0800">
+		<title lang="zh">恩里科b7比亚乔——意大利之梦</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -65001,6 +65013,9 @@
 	<programme channel="newtv精品大剧" start="20240814030400 +0800" stop="20240814034900 +0800">
 		<title lang="zh">30_暖暖的幸福</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240814034900 +0800" stop="20240814043400 +0800">
+		<title lang="zh">31_暖暖的幸福</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -65024,6 +65039,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240814033300 +0800" stop="20240814035600 +0800">
 		<title lang="zh">03_如火如歌</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240814035600 +0800" stop="20240814041100 +0800">
+		<title lang="zh">04_智教序章</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -65063,6 +65081,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240814031000 +0800" stop="20240814035500 +0800">
 		<title lang="zh">10_光影</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240814035500 +0800" stop="20240814044000 +0800">
+		<title lang="zh">27_刀锋乱世情</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -65145,6 +65166,9 @@
 	<programme channel="newtv怡伴健康" start="20240814032700 +0800" stop="20240814035200 +0800">
 		<title lang="zh">舞蹈世界</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240814035200 +0800" stop="20240814041700 +0800">
+		<title lang="zh">贵州村超</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -65207,6 +65231,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20240814021900 +0800" stop="20240814034900 +0800">
 		<title lang="zh">夜半梳头</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240814034900 +0800" stop="20240814055700 +0800">
+		<title lang="zh">谷粒</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
