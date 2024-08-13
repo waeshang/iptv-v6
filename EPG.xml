@@ -51,6 +51,9 @@
 	<programme channel="4K综艺" start="20240814000000 +0800" stop="20240814004900 +0800">
 		<title lang="zh">真心大冒险20180512</title>
 	</programme>
+	<programme channel="4K综艺" start="20240814004900 +0800" stop="20240814022700 +0800">
+		<title lang="zh">真心大冒险20180519</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -52803,6 +52806,9 @@
 	<programme channel="纯享4K" start="20240814003000 +0800" stop="20240814005800 +0800">
 		<title lang="zh">记住乡愁4K第八季 清水河村——幸福像花儿一样</title>
 	</programme>
+	<programme channel="纯享4K" start="20240814005800 +0800" stop="20240814015800 +0800">
+		<title lang="zh">乐享汇4K “爱的致意”演唱会</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -64269,6 +64275,9 @@
 	<programme channel="黑莓动画" start="20240814003300 +0800" stop="20240814005700 +0800">
 		<title lang="zh">17_一人之下第二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240814005700 +0800" stop="20240814012100 +0800">
+		<title lang="zh">18_一人之下第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -64692,6 +64701,9 @@
 	<programme channel="newtv精品大剧" start="20240814000200 +0800" stop="20240814004700 +0800">
 		<title lang="zh">26_暖暖的幸福</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240814004700 +0800" stop="20240814013300 +0800">
+		<title lang="zh">27_暖暖的幸福</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -64716,11 +64728,17 @@
 	<programme channel="newtv军旅剧场" start="20240814001400 +0800" stop="20240814005700 +0800">
 		<title lang="zh">06_光影</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240814005700 +0800" stop="20240814014200 +0800">
+		<title lang="zh">07_光影</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
 	<programme channel="newtv家庭剧场" start="20240814000100 +0800" stop="20240814004600 +0800">
 		<title lang="zh">11_幸福的错觉</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240814004600 +0800" stop="20240814013100 +0800">
+		<title lang="zh">12_幸福的错觉</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -64749,6 +64767,9 @@
 	<programme channel="newtv怡伴健康" start="20240814004600 +0800" stop="20240814005900 +0800">
 		<title lang="zh">小品《最佳蠢友》 表演：陈宣铭 刘斌 古十八</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240814005900 +0800" stop="20240814011100 +0800">
+		<title lang="zh">小品《走过场》 表演：马丽 沈腾</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -64776,41 +64797,8 @@
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
-	<programme channel="newtv惊悚悬疑" start="20240814000000 +0800" stop="20240814020000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv惊悚悬疑" start="20240814020000 +0800" stop="20240814040000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv惊悚悬疑" start="20240814060000 +0800" stop="20240814080000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv惊悚悬疑" start="20240814080000 +0800" stop="20240814100600 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv惊悚悬疑" start="20240814100600 +0800" stop="20240814120000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv惊悚悬疑" start="20240814120000 +0800" stop="20240814140000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv惊悚悬疑" start="20240814140000 +0800" stop="20240814160000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv惊悚悬疑" start="20240814160000 +0800" stop="20240814180000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv惊悚悬疑" start="20240814180000 +0800" stop="20240814190000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv惊悚悬疑" start="20240814190000 +0800" stop="20240814200000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv惊悚悬疑" start="20240814200000 +0800" stop="20240814220000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv惊悚悬疑" start="20240814220000 +0800" stop="20240814235900 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="newtv惊悚悬疑" start="20240814005600 +0800" stop="20240814021900 +0800">
+		<title lang="zh">诡劫</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
