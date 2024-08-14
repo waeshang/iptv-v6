@@ -63777,6 +63777,9 @@
 	<programme channel="黑莓动画" start="20240815043000 +0800" stop="20240815045300 +0800">
 		<title lang="zh">25_马达加斯加企鹅第二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240815045300 +0800" stop="20240815051700 +0800">
+		<title lang="zh">26_入间同学入魔了</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -64296,6 +64299,9 @@
 	<programme channel="newtv超级体育" start="20240815040000 +0800" stop="20240815050000 +0800">
 		<title lang="zh">实况录像(奥林匹克)-2024年巴黎奥运会 羽毛球男单决赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240815050000 +0800" stop="20240815053000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2024年巴黎奥运会 花样游泳集体技术自选</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -64352,6 +64358,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240815040700 +0800" stop="20240815045300 +0800">
 		<title lang="zh">02_冷风暴</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240815045300 +0800" stop="20240815053500 +0800">
+		<title lang="zh">10_北部湾人家</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -64427,6 +64436,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240815041500 +0800" stop="20240815045900 +0800">
 		<title lang="zh">03_对与决</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240815045900 +0800" stop="20240815054400 +0800">
+		<title lang="zh">04_对与决</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -64548,6 +64560,9 @@
 	<programme channel="newtv潮妈辣婆" start="20240815041400 +0800" stop="20240815050000 +0800">
 		<title lang="zh">31_大都市小爱情</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240815050000 +0800" stop="20240815054500 +0800">
+		<title lang="zh">32_大都市小爱情</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -64556,6 +64571,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240815040700 +0800" stop="20240815045900 +0800">
 		<title lang="zh">无坚不摧金刚钻 《谁是终极英雄》国防知识挑战赛走进金刚钻部队</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240815045900 +0800" stop="20240815055100 +0800">
+		<title lang="zh">军民共建谱华章 走进双拥模范城——辽宁阜新</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -64691,6 +64709,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240815033100 +0800" stop="20240815050000 +0800">
 		<title lang="zh">大匠春秋之西苑日落</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240815050000 +0800" stop="20240815055000 +0800">
+		<title lang="zh">女子枪术</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
