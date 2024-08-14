@@ -28641,6 +28641,9 @@
 	<programme channel="咪咕综合体育" start="20240815053500 +0800" stop="20240815055700 +0800">
 		<title lang="zh">超对话第2期-詹俊专访武磊</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20240815055700 +0800" stop="20240815061000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -67689,6 +67692,9 @@
 	<programme channel="newtv超级体育" start="20240815053000 +0800" stop="20240815060000 +0800">
 		<title lang="zh">实况录像(奥林匹克)-2024年巴黎奥运会 射击比赛4</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240815060000 +0800" stop="20240815063000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2024年巴黎奥运会 皮划艇比赛1</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -67730,6 +67736,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20240815051000 +0800" stop="20240815055500 +0800">
 		<title lang="zh">31_青山不墨</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240815055500 +0800" stop="20240815064100 +0800">
+		<title lang="zh">32_青山不墨</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -67872,6 +67881,9 @@
 	<programme channel="newtv家庭剧场" start="20240815051300 +0800" stop="20240815055800 +0800">
 		<title lang="zh">30_我和我的他们</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240815055800 +0800" stop="20240815064200 +0800">
+		<title lang="zh">31_我和我的他们</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -68004,6 +68016,9 @@
 	<programme channel="newtv军事评论" start="20240815045900 +0800" stop="20240815055100 +0800">
 		<title lang="zh">军民共建谱华章 走进双拥模范城——辽宁阜新</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240815055100 +0800" stop="20240815064300 +0800">
+		<title lang="zh">红军传人心向党 国防知识挑战赛走进新疆军区某红军师</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -68037,6 +68052,9 @@
 	<programme channel="newtv炫舞未来" start="20240815041400 +0800" stop="20240815054900 +0800">
 		<title lang="zh">第8期加长版：郭晓婷再现黑化眼神杀</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240815054900 +0800" stop="20240815060300 +0800">
+		<title lang="zh">东方红-饶子龙（完整版）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -68055,6 +68073,9 @@
 	<programme channel="newtv精品综合" start="20240815050800 +0800" stop="20240815055400 +0800">
 		<title lang="zh">06_使徒行者3</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20240815055400 +0800" stop="20240815063800 +0800">
+		<title lang="zh">07_使徒行者3</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -68066,6 +68087,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20240815042900 +0800" stop="20240815060100 +0800">
 		<title lang="zh">魔戟战神</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240815060100 +0800" stop="20240815073100 +0800">
+		<title lang="zh">绣春刀：无间炼狱</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
@@ -68147,6 +68171,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240815050000 +0800" stop="20240815055000 +0800">
 		<title lang="zh">女子枪术</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240815055000 +0800" stop="20240815065200 +0800">
+		<title lang="zh">女子刀术</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
