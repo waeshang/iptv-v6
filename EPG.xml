@@ -63,6 +63,9 @@
 	<programme channel="4K综艺" start="20240817023100 +0800" stop="20240817035100 +0800">
 		<title lang="zh">小小的追球20200114</title>
 	</programme>
+	<programme channel="4K综艺" start="20240817035100 +0800" stop="20240817052300 +0800">
+		<title lang="zh">妻子的浪漫旅行第三季20191225</title>
+	</programme>
 	<channel id="CCTV1">
 		<display-name lang="zh">CCTV1</display-name>
 	</channel>
@@ -34275,6 +34278,9 @@
 	<programme channel="纯享4K" start="20240817030700 +0800" stop="20240817034900 +0800">
 		<title lang="zh">远方的家4K 长江行（2） 相逢在长江源</title>
 	</programme>
+	<programme channel="纯享4K" start="20240817034900 +0800" stop="20240817043100 +0800">
+		<title lang="zh">远方的家4K 长江行 金沙江河谷的春天</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -43137,6 +43143,9 @@
 	<programme channel="newtv超级体育" start="20240817033500 +0800" stop="20240817040000 +0800">
 		<title lang="zh">实况录像(奥林匹克)-2024年巴黎奥运会 射击比赛4</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240817040000 +0800" stop="20240817053000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2024年巴黎奥运会 羽毛球女双决赛</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -43227,6 +43236,9 @@
 	<programme channel="newtv古装剧场" start="20240817031200 +0800" stop="20240817035800 +0800">
 		<title lang="zh">05_扶摇</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240817035800 +0800" stop="20240817043800 +0800">
+		<title lang="zh">21_民国恩仇录</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -43292,6 +43304,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20240817014300 +0800" stop="20240817035500 +0800">
 		<title lang="zh">星际迷航2：暗黑无界</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20240817035500 +0800" stop="20240817052700 +0800">
+		<title lang="zh">绝世低手之夺命玉玺</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -43380,6 +43395,9 @@
 	<programme channel="newtv精品综合" start="20240817030200 +0800" stop="20240817034600 +0800">
 		<title lang="zh">14_使徒行者3</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20240817034600 +0800" stop="20240817043100 +0800">
+		<title lang="zh">15_使徒行者3</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -43388,6 +43406,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20240817023200 +0800" stop="20240817040000 +0800">
 		<title lang="zh">第三个人</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240817040000 +0800" stop="20240817052700 +0800">
+		<title lang="zh">夜惊魂</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
