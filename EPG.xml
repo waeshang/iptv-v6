@@ -34269,6 +34269,9 @@
 	<programme channel="纯享4K" start="20240817023700 +0800" stop="20240817025200 +0800">
 		<title lang="zh">艺术里的奥林匹克4K 鎏金舞马衔杯纹银壶</title>
 	</programme>
+	<programme channel="纯享4K" start="20240817025200 +0800" stop="20240817030700 +0800">
+		<title lang="zh">艺术里的奥林匹克4K 投壶图</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -43128,6 +43131,9 @@
 	<programme channel="newtv超级电影" start="20240817005000 +0800" stop="20240817025100 +0800">
 		<title lang="zh">唐人街探案2</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20240817025100 +0800" stop="20240817041500 +0800">
+		<title lang="zh">不怕贼惦记</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -43154,6 +43160,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240817020500 +0800" stop="20240817025100 +0800">
 		<title lang="zh">11_冷风暴</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240817025100 +0800" stop="20240817033700 +0800">
+		<title lang="zh">12_冷风暴</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -43272,6 +43281,9 @@
 	<programme channel="newtv怡伴健康" start="20240817021000 +0800" stop="20240817025500 +0800">
 		<title lang="zh">19_向往的生活</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240817025500 +0800" stop="20240817034100 +0800">
+		<title lang="zh">20_向往的生活</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -43307,6 +43319,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240817023700 +0800" stop="20240817025100 +0800">
 		<title lang="zh">领航-李萍（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240817025900 +0800" stop="20240817030300 +0800">
+		<title lang="zh">草原上升起不落的太阳-毕刚（舞蹈展示）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
