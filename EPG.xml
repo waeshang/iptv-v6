@@ -52623,6 +52623,9 @@
 	<programme channel="纯享4K" start="20240818030200 +0800" stop="20240818034400 +0800">
 		<title lang="zh">远方的家4K 长江行 金沙江：探秘香格里拉</title>
 	</programme>
+	<programme channel="纯享4K" start="20240818034400 +0800" stop="20240818042600 +0800">
+		<title lang="zh">远方的家4K 长江行 金沙江水润丽江</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -64179,6 +64182,9 @@
 	<programme channel="黑莓动画" start="20240818023200 +0800" stop="20240818031800 +0800">
 		<title lang="zh">星辰变第二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240818031800 +0800" stop="20240818035500 +0800">
+		<title lang="zh">全职法师第1季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -64187,6 +64193,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20240818015700 +0800" stop="20240818034400 +0800">
 		<title lang="zh">为你取名的那一天</title>
+	</programme>
+	<programme channel="黑莓电影" start="20240818034400 +0800" stop="20240818051300 +0800">
+		<title lang="zh">顿悟之白骨美人心</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -64656,6 +64665,9 @@
 	<programme channel="newtv超级综艺" start="20240818020300 +0800" stop="20240818033400 +0800">
 		<title lang="zh">综艺喜乐汇</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240818033400 +0800" stop="20240818050400 +0800">
+		<title lang="zh">首届青年京剧演员大会</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -64682,6 +64694,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20240818020000 +0800" stop="20240818032700 +0800">
 		<title lang="zh">老兵（2012）</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20240818032700 +0800" stop="20240818035200 +0800">
+		<title lang="zh">舞动人生（上）</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -64715,6 +64730,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240818024100 +0800" stop="20240818032600 +0800">
 		<title lang="zh">18_冷风暴</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240818032600 +0800" stop="20240818041200 +0800">
+		<title lang="zh">19_冷风暴</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -64788,6 +64806,9 @@
 	<programme channel="newtv家庭剧场" start="20240818030000 +0800" stop="20240818034500 +0800">
 		<title lang="zh">38_幸福的错觉</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240818034500 +0800" stop="20240818043000 +0800">
+		<title lang="zh">39_幸福的错觉</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -64818,6 +64839,9 @@
 	<programme channel="newtv动作电影" start="20240818013900 +0800" stop="20240818033700 +0800">
 		<title lang="zh">星际迷航3：超越星辰</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20240818033700 +0800" stop="20240818051300 +0800">
+		<title lang="zh">敦刻尔克行动</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -64839,6 +64863,9 @@
 	<programme channel="newtv怡伴健康" start="20240818023800 +0800" stop="20240818032400 +0800">
 		<title lang="zh">23_向往的生活</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240818032400 +0800" stop="20240818034800 +0800">
+		<title lang="zh">中国舞蹈b7非遗 云上舞</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -64850,6 +64877,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240818023300 +0800" stop="20240818031800 +0800">
 		<title lang="zh">14_家有喜妇（DVD版）</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240818031800 +0800" stop="20240818040300 +0800">
+		<title lang="zh">15_家有喜妇（DVD版）</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -64875,6 +64905,9 @@
 	<programme channel="newtv炫舞未来" start="20240818024700 +0800" stop="20240818034600 +0800">
 		<title lang="zh">8岁像风一样的女子 跨栏跑出虚影 曾被奥运冠军刘翔点赞（20231214）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240818034600 +0800" stop="20240818035000 +0800">
+		<title lang="zh">中国吉祥-毕刚（舞蹈展示）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -64883,6 +64916,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240818020000 +0800" stop="20240818031900 +0800">
 		<title lang="zh">跃上高阶职场</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240818031900 +0800" stop="20240818040400 +0800">
+		<title lang="zh">19_使徒行者3</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -64907,6 +64943,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20240818015300 +0800" stop="20240818033400 +0800">
 		<title lang="zh">2023-24赛季德甲第31轮：莱比锡VS多特蒙德</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20240818033400 +0800" stop="20240818051600 +0800">
+		<title lang="zh">2023-24赛季德甲第26轮：达姆施塔特VS拜仁慕尼黑</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
