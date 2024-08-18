@@ -38547,6 +38547,9 @@
 	<programme channel="黑莓动画" start="20240819031900 +0800" stop="20240819035400 +0800">
 		<title lang="zh">全职法师第1季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240819035400 +0800" stop="20240819043900 +0800">
+		<title lang="zh">马达加斯加企鹅第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -38829,6 +38832,9 @@
 	<programme channel="newtv超级电影" start="20240819021800 +0800" stop="20240819035700 +0800">
 		<title lang="zh">血滴子秘史</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20240819035700 +0800" stop="20240819052300 +0800">
+		<title lang="zh">我为猪狂</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -38946,6 +38952,9 @@
 	<programme channel="newtv家庭剧场" start="20240819031300 +0800" stop="20240819040100 +0800">
 		<title lang="zh">02_故乡，别来无恙</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240819040100 +0800" stop="20240819045600 +0800">
+		<title lang="zh">03_故乡，别来无恙</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -39005,6 +39014,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240819033100 +0800" stop="20240819035600 +0800">
 		<title lang="zh">中国舞蹈b7非遗 山中舞</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240819035600 +0800" stop="20240819042100 +0800">
+		<title lang="zh">中国舞蹈b7非遗 海边舞</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
