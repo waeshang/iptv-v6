@@ -34632,6 +34632,9 @@
 	<programme channel="纯享4K" start="20240820025600 +0800" stop="20240820034800 +0800">
 		<title lang="zh">乘火车看中国4K 第四集 成吉思汗之路</title>
 	</programme>
+	<programme channel="纯享4K" start="20240820034800 +0800" stop="20240820043000 +0800">
+		<title lang="zh">远方的家4K 长沙贡玛国家级自然保护区 长沙贡玛：探秘“最美高原湿地”</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -43563,6 +43566,9 @@
 	<programme channel="newtv超级电视剧" start="20240820031900 +0800" stop="20240820040400 +0800">
 		<title lang="zh">17_红蔷薇</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240820040400 +0800" stop="20240820045000 +0800">
+		<title lang="zh">17_天下粮仓</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -43680,6 +43686,9 @@
 	<programme channel="newtv爱情喜剧" start="20240820020900 +0800" stop="20240820035400 +0800">
 		<title lang="zh">跑调天后</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20240820035400 +0800" stop="20240820044700 +0800">
+		<title lang="zh">23_春光灿烂猪九妹</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -43766,6 +43775,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240820030200 +0800" stop="20240820034800 +0800">
 		<title lang="zh">29_使徒行者3</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240820034800 +0800" stop="20240820043100 +0800">
+		<title lang="zh">30_使徒行者3</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
