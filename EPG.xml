@@ -14757,6 +14757,9 @@
 	<programme channel="咪咕综合体育" start="20240820010500 +0800" stop="20240820024500 +0800">
 		<title lang="zh">中超来噜-2024赛季中超 第22轮 青岛西海岸-北京国安</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20240820024500 +0800" stop="20240820052500 +0800">
+		<title lang="zh">英超赛场-24/25赛季英超 第1轮 莱斯特城-托特纳姆热刺 直播</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -14765,6 +14768,12 @@
 	</programme>
 	<programme channel="咪咕足球" start="20240820012600 +0800" stop="20240820022600 +0800">
 		<title lang="zh">超级三对三-2024超三联赛</title>
+	</programme>
+	<programme channel="咪咕足球" start="20240820022600 +0800" stop="20240820024100 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20240820024100 +0800" stop="20240820042100 +0800">
+		<title lang="zh">当燃CBA 23/24季后赛1/4决赛G2 广东华南虎-浙江东阳光药</title>
 	</programme>
 	<channel id="四川卫视">
 		<display-name lang="zh">四川卫视</display-name>
@@ -34614,6 +34623,9 @@
 	<programme channel="纯享4K" start="20240820021600 +0800" stop="20240820023100 +0800">
 		<title lang="zh">艺术里的奥林匹克4K 安法拉瓶</title>
 	</programme>
+	<programme channel="纯享4K" start="20240820023100 +0800" stop="20240820025600 +0800">
+		<title lang="zh">辣椒的征途4K 第2集 谁是辣中霸主</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -43149,6 +43161,9 @@
 	<programme channel="黑莓动画" start="20240820015300 +0800" stop="20240820024100 +0800">
 		<title lang="zh">骸骨骑士大人奇幻世界冒险中</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240820024100 +0800" stop="20240820033200 +0800">
+		<title lang="zh">星辰变 第一季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -43497,6 +43512,9 @@
 	<programme channel="newtv超级综艺" start="20240820020500 +0800" stop="20240820025200 +0800">
 		<title lang="zh">02_我们的婚姻</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240820025200 +0800" stop="20240820045400 +0800">
+		<title lang="zh">综艺喜乐汇</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -43524,6 +43542,9 @@
 	<programme channel="newtv超级电视剧" start="20240820014300 +0800" stop="20240820023100 +0800">
 		<title lang="zh">15_红蔷薇</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240820023100 +0800" stop="20240820031900 +0800">
+		<title lang="zh">16_红蔷薇</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -43535,6 +43556,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240820020000 +0800" stop="20240820024600 +0800">
 		<title lang="zh">29_冷风暴</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240820024600 +0800" stop="20240820033100 +0800">
+		<title lang="zh">30_冷风暴</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -43550,6 +43574,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240820015200 +0800" stop="20240820022600 +0800">
 		<title lang="zh">04_巴斯德喊你回家打疫苗</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240820022600 +0800" stop="20240820025100 +0800">
+		<title lang="zh">第7集：毛茂德|从虎牙直播，看技术如何驱动效能提升</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -43632,6 +43659,9 @@
 	<programme channel="newtv怡伴健康" start="20240820013800 +0800" stop="20240820022300 +0800">
 		<title lang="zh">28_向往的生活</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240820022300 +0800" stop="20240820031800 +0800">
+		<title lang="zh">29_向往的生活</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -43653,6 +43683,12 @@
 	<programme channel="newtv炫舞未来" start="20240820011700 +0800" stop="20240820022500 +0800">
 		<title lang="zh">“书法少年”展现巨幅书法作品震撼全场（20240323）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240820022900 +0800" stop="20240820023300 +0800">
+		<title lang="zh">不惜时光-毕刚（舞蹈展示）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240820024400 +0800" stop="20240820024800 +0800">
+		<title lang="zh">在灿烂阳光下—毕刚（舞蹈展示）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -43667,6 +43703,9 @@
 	</channel>
 	<programme channel="newtv惊悚悬疑" start="20240820010200 +0800" stop="20240820022600 +0800">
 		<title lang="zh">法医秦明之致命小说</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240820022600 +0800" stop="20240820034600 +0800">
+		<title lang="zh">山海经之伏魔正道</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
