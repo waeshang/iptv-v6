@@ -11520,6 +11520,9 @@
 	<programme channel="咪咕综合体育" start="20240821022000 +0800" stop="20240821040000 +0800">
 		<title lang="zh">足球世界-足球热身赛 皇家马德里-巴塞罗那</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20240821040000 +0800" stop="20240821040500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -30594,6 +30597,9 @@
 	<programme channel="纯享4K" start="20240821025800 +0800" stop="20240821034900 +0800">
 		<title lang="zh">乘火车看中国4K 第五集 世界屋脊之路</title>
 	</programme>
+	<programme channel="纯享4K" start="20240821034900 +0800" stop="20240821043100 +0800">
+		<title lang="zh">远方的家4K 楠溪江国家级风景名胜区 楠溪江：一江秀水出青山</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -38388,6 +38394,9 @@
 	<programme channel="黑莓动画" start="20240821025200 +0800" stop="20240821034700 +0800">
 		<title lang="zh">星辰变 第一季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240821034700 +0800" stop="20240821042400 +0800">
+		<title lang="zh">全职法师第1季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -38820,6 +38829,9 @@
 	<programme channel="newtv精品纪录" start="20240821032200 +0800" stop="20240821040100 +0800">
 		<title lang="zh">第4集 鲍捷：穿越人工智能的冬天，迎接大模型时代的“恒纪元”</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240821040100 +0800" stop="20240821045000 +0800">
+		<title lang="zh">蓝色能源 海盐</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -38834,6 +38846,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20240821031000 +0800" stop="20240821035500 +0800">
 		<title lang="zh">24_扶摇</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20240821035500 +0800" stop="20240821044900 +0800">
+		<title lang="zh">25_扶摇</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -38870,6 +38885,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20240821030700 +0800" stop="20240821035100 +0800">
 		<title lang="zh">14_故乡，别来无恙</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240821035100 +0800" stop="20240821044200 +0800">
+		<title lang="zh">15_故乡，别来无恙</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -38927,6 +38945,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240821025800 +0800" stop="20240821035300 +0800">
 		<title lang="zh">32_向往的生活</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240821035300 +0800" stop="20240821041700 +0800">
+		<title lang="zh">在中国大地上边走边跳b7广西北海站</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -38990,6 +39011,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240821031200 +0800" stop="20240821035500 +0800">
 		<title lang="zh">34_使徒行者3</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240821035500 +0800" stop="20240821044600 +0800">
+		<title lang="zh">35_使徒行者3</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
