@@ -40,8 +40,8 @@ jobs:
         
         # 数字源
         rm -f DTV.m3u && wget https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u -O DTV.m3u
-        sed -i -n '/CHC高清电影\|CHC家庭影院\|CHC动作电影\|兵器科技\|怀旧剧场\|世界地理\|文化精品\|央视台球\|央视高网\|风云剧场\|风云音乐\|第一剧场\|女性时尚\|风云足球\|黑莓电影\|黑莓动画\|数字\+/,+1p' DTV.m3u
-        sed -i 's/央视频道/数字/;s/卫视频道/数字/;s/地方/数字/' DTV.m3u
+        sed -i -n sed -i -n '/CHC影迷电影\|CHC家庭影院\|CHC动作电影\|欢笑剧场\|都市剧场\|黑莓电影\|黑莓动画\|newtv\+/,+1p' DTV.m3u
+        sed -i 's/央视频道/数字/;s/卫视频道/数字/;s/地方/数字/;s/数字频道/数字/' DTV.m3u
         sed -i '1i #EXTM3U' DTV.m3u
         sed -i '/^\s*$/d' DTV.m3u
         
