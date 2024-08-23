@@ -60,6 +60,9 @@
 	<programme channel="4K综艺" start="20240824020100 +0800" stop="20240824033300 +0800">
 		<title lang="zh">妻子的浪漫旅行第三季20200122</title>
 	</programme>
+	<programme channel="4K综艺" start="20240824033300 +0800" stop="20240824050400 +0800">
+		<title lang="zh">妻子的浪漫旅行第三季20200129</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -51573,6 +51576,9 @@
 	<programme channel="纯享4K" start="20240824022800 +0800" stop="20240824031700 +0800">
 		<title lang="zh">大敦煌4K 第3集 文明舞台</title>
 	</programme>
+	<programme channel="纯享4K" start="20240824031700 +0800" stop="20240824040700 +0800">
+		<title lang="zh">大敦煌4K 第4集 再造敦煌</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -63558,6 +63564,9 @@
 	<programme channel="newtv古装剧场" start="20240824024500 +0800" stop="20240824033900 +0800">
 		<title lang="zh">39_扶摇</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240824033900 +0800" stop="20240824042400 +0800">
+		<title lang="zh">40_扶摇</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -63573,6 +63582,9 @@
 	<programme channel="newtv军旅剧场" start="20240824022400 +0800" stop="20240824031800 +0800">
 		<title lang="zh">16_秘密列车</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240824031800 +0800" stop="20240824040300 +0800">
+		<title lang="zh">17_秘密列车</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -63587,6 +63599,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20240824023600 +0800" stop="20240824032400 +0800">
 		<title lang="zh">31_故乡，别来无恙</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240824032400 +0800" stop="20240824041100 +0800">
+		<title lang="zh">32_故乡，别来无恙</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -63677,6 +63692,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240824031000 +0800" stop="20240824033200 +0800">
 		<title lang="zh">漩涡之中的“风暴阴影”</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240824033200 +0800" stop="20240824035400 +0800">
+		<title lang="zh">英国海军难治“装备病”</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
