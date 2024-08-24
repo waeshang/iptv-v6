@@ -57,6 +57,9 @@
 	<programme channel="4K综艺" start="20240825021400 +0800" stop="20240825025700 +0800">
 		<title lang="zh">我最爱的女人们20190727</title>
 	</programme>
+	<programme channel="4K综艺" start="20240825025700 +0800" stop="20240825034000 +0800">
+		<title lang="zh">我最爱的女人们20190802</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -51741,6 +51744,9 @@
 	<programme channel="纯享4K" start="20240825022000 +0800" stop="20240825030900 +0800">
 		<title lang="zh">世界遗产漫步4K 第1集 丽江</title>
 	</programme>
+	<programme channel="纯享4K" start="20240825031600 +0800" stop="20240825035700 +0800">
+		<title lang="zh">远方的家4K 长江行（96） 多元文化 活力上海</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -63228,11 +63234,17 @@
 	<programme channel="黑莓动画" start="20240825020800 +0800" stop="20240825025400 +0800">
 		<title lang="zh">骸骨骑士大人奇幻世界冒险中</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240825025400 +0800" stop="20240825034400 +0800">
+		<title lang="zh">星辰变第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
 	<programme channel="黑莓电影" start="20240825015200 +0800" stop="20240825031500 +0800">
 		<title lang="zh">等不到的黎明</title>
+	</programme>
+	<programme channel="黑莓电影" start="20240825031500 +0800" stop="20240825051900 +0800">
+		<title lang="zh">失忆少女物语</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -63741,6 +63753,9 @@
 	<programme channel="newtv精品大剧" start="20240825021800 +0800" stop="20240825030400 +0800">
 		<title lang="zh">25_壮丁也是兵</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240825030400 +0800" stop="20240825035800 +0800">
+		<title lang="zh">26_壮丁也是兵</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -63768,6 +63783,9 @@
 	<programme channel="newtv古装剧场" start="20240825021100 +0800" stop="20240825025600 +0800">
 		<title lang="zh">43_扶摇</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240825025600 +0800" stop="20240825035000 +0800">
+		<title lang="zh">44_扶摇</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -63794,6 +63812,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20240825014600 +0800" stop="20240825024700 +0800">
 		<title lang="zh">36_故乡，别来无恙</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240825024700 +0800" stop="20240825033300 +0800">
+		<title lang="zh">01_梦中的那片海</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -63855,6 +63876,9 @@
 	<programme channel="newtv潮妈辣婆" start="20240825020700 +0800" stop="20240825025200 +0800">
 		<title lang="zh">08_女人的抗战</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240825025200 +0800" stop="20240825034600 +0800">
+		<title lang="zh">09_女人的抗战</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -63882,6 +63906,9 @@
 	<programme channel="newtv军事评论" start="20240825024300 +0800" stop="20240825030400 +0800">
 		<title lang="zh">俄乌冲突中的远程巡航导弹</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240825030400 +0800" stop="20240825032600 +0800">
+		<title lang="zh">俄乌冲突中的“古董”战车</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -63890,6 +63917,12 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240825020200 +0800" stop="20240825025200 +0800">
 		<title lang="zh">绽放吧！妈妈（20240722）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240825025500 +0800" stop="20240825030400 +0800">
+		<title lang="zh">《广场舞》 羊年吉祥（附教学）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240825031200 +0800" stop="20240825031900 +0800">
+		<title lang="zh">《广场舞》 羊羊得意（附教学）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
