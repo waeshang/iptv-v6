@@ -54891,6 +54891,9 @@
 	<programme channel="纯享4K" start="20240825050400 +0800" stop="20240825054900 +0800">
 		<title lang="zh">传承b7智慧篇4K 第1集 点线之间</title>
 	</programme>
+	<programme channel="纯享4K" start="20240825054900 +0800" stop="20240825063400 +0800">
+		<title lang="zh">传承b7智慧篇4K 第2集 时光之鉴</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -66390,6 +66393,9 @@
 	<programme channel="黑莓动画" start="20240825050600 +0800" stop="20240825055500 +0800">
 		<title lang="zh">入间同学入魔了</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240825055500 +0800" stop="20240825064700 +0800">
+		<title lang="zh">雷欧奥特曼 重制版 普通话版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -67017,6 +67023,9 @@
 	<programme channel="newtv军旅剧场" start="20240825050100 +0800" stop="20240825054700 +0800">
 		<title lang="zh">27_铁道游击队 战后篇</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240825054700 +0800" stop="20240825064100 +0800">
+		<title lang="zh">28_铁道游击队 战后篇</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -67076,6 +67085,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20240825050300 +0800" stop="20240825055400 +0800">
 		<title lang="zh">20_雁归西窗月</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20240825055400 +0800" stop="20240825063700 +0800">
+		<title lang="zh">21_雁归西窗月</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -67197,6 +67209,9 @@
 	<programme channel="newtv军事评论" start="20240825052600 +0800" stop="20240825055100 +0800">
 		<title lang="zh">老兵珍重 第一集 再见，我的冰川哨所</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240825055100 +0800" stop="20240825061700 +0800">
+		<title lang="zh">老兵珍重 第二集 反水雷蛙人退伍倒计时</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -67223,6 +67238,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240825054200 +0800" stop="20240825054800 +0800">
 		<title lang="zh">《广场舞》 花儿香第一讲_相思的方向</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240825055800 +0800" stop="20240825060200 +0800">
+		<title lang="zh">《广场舞》 纳西情歌</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
