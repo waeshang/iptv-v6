@@ -48246,6 +48246,9 @@
 	<programme channel="纯享4K" start="20240826023200 +0800" stop="20240826032100 +0800">
 		<title lang="zh">世界遗产漫步4K 第2集 鼓浪屿</title>
 	</programme>
+	<programme channel="纯享4K" start="20240826032700 +0800" stop="20240826040900 +0800">
+		<title lang="zh">远方的家4K 长江行（104） 万里长江归大海</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -57579,6 +57582,9 @@
 	<programme channel="黑莓动画" start="20240826025100 +0800" stop="20240826034400 +0800">
 		<title lang="zh">星辰变第二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240826034400 +0800" stop="20240826042300 +0800">
+		<title lang="zh">全职法师第1季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -58002,6 +58008,9 @@
 	<programme channel="newtv超级电影" start="20240826020500 +0800" stop="20240826034300 +0800">
 		<title lang="zh">绝地行走</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20240826034300 +0800" stop="20240826051000 +0800">
+		<title lang="zh">洛阳水席</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -58035,6 +58044,9 @@
 	<programme channel="newtv精品大剧" start="20240826022800 +0800" stop="20240826032300 +0800">
 		<title lang="zh">32_壮丁也是兵</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240826032300 +0800" stop="20240826040900 +0800">
+		<title lang="zh">33_壮丁也是兵</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -58052,6 +58064,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240826022200 +0800" stop="20240826032100 +0800">
 		<title lang="zh">05_生命脉动</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240826032100 +0800" stop="20240826041900 +0800">
+		<title lang="zh">05_城市的远见</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -58083,6 +58098,9 @@
 	<programme channel="newtv军旅剧场" start="20240826022800 +0800" stop="20240826031800 +0800">
 		<title lang="zh">02_跨过鸭绿江</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240826031800 +0800" stop="20240826040000 +0800">
+		<title lang="zh">03_跨过鸭绿江</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -58097,6 +58115,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20240826023900 +0800" stop="20240826032500 +0800">
 		<title lang="zh">07_梦中的那片海</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240826032500 +0800" stop="20240826041200 +0800">
+		<title lang="zh">08_梦中的那片海</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -58127,6 +58148,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20240826014700 +0800" stop="20240826032300 +0800">
 		<title lang="zh">圆环行动</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20240826032300 +0800" stop="20240826050400 +0800">
+		<title lang="zh">女刑警之月夜</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -58194,6 +58218,9 @@
 	<programme channel="newtv军事评论" start="20240826030400 +0800" stop="20240826032500 +0800">
 		<title lang="zh">美军直升机坠落事故</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240826032500 +0800" stop="20240826034700 +0800">
+		<title lang="zh">乌军反攻遭遇“钢铁之墙”</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -58220,6 +58247,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240826015800 +0800" stop="20240826032100 +0800">
 		<title lang="zh">少年行</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240826032100 +0800" stop="20240826040500 +0800">
+		<title lang="zh">20_铁血玫瑰</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
