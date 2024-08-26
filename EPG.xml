@@ -50370,6 +50370,9 @@
 	<programme channel="纯享4K" start="20240827040700 +0800" stop="20240827044900 +0800">
 		<title lang="zh">远方的家4K 长江行 共创家园 筑梦上海</title>
 	</programme>
+	<programme channel="纯享4K" start="20240827045900 +0800" stop="20240827051400 +0800">
+		<title lang="zh">跑马溜溜的云上4K 第6集</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -60999,6 +61002,9 @@
 	<programme channel="黑莓动画" start="20240827040900 +0800" stop="20240827045400 +0800">
 		<title lang="zh">马达加斯加企鹅第二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240827045400 +0800" stop="20240827054300 +0800">
+		<title lang="zh">入间同学入魔了</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -61551,6 +61557,9 @@
 	<programme channel="newtv超级电视剧" start="20240827040700 +0800" stop="20240827045200 +0800">
 		<title lang="zh">17_烽火英雄传</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240827045200 +0800" stop="20240827053700 +0800">
+		<title lang="zh">18_烽火英雄传</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -61568,6 +61577,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240827040400 +0800" stop="20240827050000 +0800">
 		<title lang="zh">04_昙花梦</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240827050000 +0800" stop="20240827054600 +0800">
+		<title lang="zh">13_绝地枪王二松花江上的枪声（DVD版）</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -61593,6 +61605,9 @@
 	<programme channel="newtv精品纪录" start="20240827042900 +0800" stop="20240827045400 +0800">
 		<title lang="zh">02_驭梦腾飞</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240827045400 +0800" stop="20240827051800 +0800">
+		<title lang="zh">03_追梦冰壶</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -61610,6 +61625,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20240827040100 +0800" stop="20240827044600 +0800">
 		<title lang="zh">55_扶摇</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20240827044600 +0800" stop="20240827054000 +0800">
+		<title lang="zh">40_燕云台</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -61653,6 +61671,9 @@
 	<programme channel="newtv家庭剧场" start="20240827035800 +0800" stop="20240827045200 +0800">
 		<title lang="zh">15_梦中的那片海</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240827045200 +0800" stop="20240827053800 +0800">
+		<title lang="zh">28_好事成双</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -61667,6 +61688,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20240827035500 +0800" stop="20240827045000 +0800">
 		<title lang="zh">33_梦中的那片海</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20240827045000 +0800" stop="20240827053500 +0800">
+		<title lang="zh">34_梦中的那片海</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -61724,6 +61748,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240827043300 +0800" stop="20240827045700 +0800">
 		<title lang="zh">在中国大地上边走边跳b7广西北海站</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240827045700 +0800" stop="20240827052200 +0800">
+		<title lang="zh">舞蹈世界</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
