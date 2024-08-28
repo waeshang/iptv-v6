@@ -50793,6 +50793,9 @@
 	<programme channel="纯享4K" start="20240829034600 +0800" stop="20240829035300 +0800">
 		<title lang="zh">绿水青山行4K 生态扶贫系列：疯婆娘</title>
 	</programme>
+	<programme channel="纯享4K" start="20240829035300 +0800" stop="20240829043400 +0800">
+		<title lang="zh">远方的家4K 长江行 向东是大海</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -61938,6 +61941,9 @@
 	<programme channel="newtv精品大剧" start="20240829025700 +0800" stop="20240829035300 +0800">
 		<title lang="zh">14_昙花梦</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240829035300 +0800" stop="20240829044000 +0800">
+		<title lang="zh">15_昙花梦</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -61991,6 +61997,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240829025800 +0800" stop="20240829034900 +0800">
 		<title lang="zh">18_跨过鸭绿江</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240829034900 +0800" stop="20240829043000 +0800">
+		<title lang="zh">19_跨过鸭绿江</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -62061,6 +62070,9 @@
 	<programme channel="newtv怡伴健康" start="20240829030600 +0800" stop="20240829040100 +0800">
 		<title lang="zh">21_暖暖的幸福</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240829040100 +0800" stop="20240829042600 +0800">
+		<title lang="zh">舞蹈世界</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -62072,6 +62084,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240829031600 +0800" stop="20240829040100 +0800">
 		<title lang="zh">31_女人的抗战</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240829040100 +0800" stop="20240829045600 +0800">
+		<title lang="zh">32_女人的抗战</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -62103,6 +62118,9 @@
 	<programme channel="newtv军事评论" start="20240829033800 +0800" stop="20240829040000 +0800">
 		<title lang="zh">F-35为何事故频发</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240829040000 +0800" stop="20240829042500 +0800">
+		<title lang="zh">超越自我的成长之路</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -62127,6 +62145,9 @@
 	<programme channel="newtv炫舞未来" start="20240829034200 +0800" stop="20240829035600 +0800">
 		<title lang="zh">Mojito-孙爱迪（完整版）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240829035600 +0800" stop="20240829041200 +0800">
+		<title lang="zh">错位时空-孙爱迪（完整版）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -62148,6 +62169,9 @@
 	<programme channel="newtv惊悚悬疑" start="20240829023200 +0800" stop="20240829035100 +0800">
 		<title lang="zh">曼谷风云</title>
 	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240829035100 +0800" stop="20240829050900 +0800">
+		<title lang="zh">恐龙侵袭</title>
+	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
@@ -62165,6 +62189,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20240829022100 +0800" stop="20240829040100 +0800">
 		<title lang="zh">2024美洲杯小组赛：巴拉圭VS巴西</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20240829040100 +0800" stop="20240829053600 +0800">
+		<title lang="zh">2024美洲杯小组赛：哥伦比亚VS哥斯达黎加</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
