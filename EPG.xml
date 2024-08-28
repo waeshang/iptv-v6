@@ -28575,6 +28575,9 @@
 	<programme channel="咪咕综合体育" start="20240829031500 +0800" stop="20240829055500 +0800">
 		<title lang="zh">足球世界-24/25赛季西甲 第3轮 马德里竞技-西班牙人 直播</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20240829060000 +0800" stop="20240829070000 +0800">
+		<title lang="zh">奥运时刻-射击 男子多向飞碟决赛</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -53835,6 +53838,9 @@
 	<programme channel="纯享4K" start="20240829052600 +0800" stop="20240829055500 +0800">
 		<title lang="zh">旅游指南4K 幸会师父b7洪拳 蔡李佛拳</title>
 	</programme>
+	<programme channel="纯享4K" start="20240829055500 +0800" stop="20240829062500 +0800">
+		<title lang="zh">旅游指南4K 幸会师父b7太极拳</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -64956,6 +64962,9 @@
 	<programme channel="newtv超级体育" start="20240829053000 +0800" stop="20240829060000 +0800">
 		<title lang="zh">实况录像(奥林匹克)-2024年巴黎奥运会 皮划艇比赛2</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240829060000 +0800" stop="20240829063000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2024年巴黎奥运会 射击比赛4</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -65175,6 +65184,9 @@
 	<programme channel="newtv动作电影" start="20240829041000 +0800" stop="20240829054800 +0800">
 		<title lang="zh">冰川鲨鱼</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20240829054800 +0800" stop="20240829072900 +0800">
+		<title lang="zh">英雄泪</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -65315,6 +65327,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240829053200 +0800" stop="20240829054900 +0800">
 		<title lang="zh">第3集：北魏遗珍</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240829054900 +0800" stop="20240829060500 +0800">
+		<title lang="zh">第4集：暗藏玄机</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
