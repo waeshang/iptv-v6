@@ -25722,6 +25722,9 @@
 	<programme channel="咪咕足球" start="20240830024100 +0800" stop="20240830042100 +0800">
 		<title lang="zh">当燃CBA 24/25夏季联赛 浙江稠州金租-深圳马可波罗</title>
 	</programme>
+	<programme channel="咪咕足球" start="20240830043000 +0800" stop="20240830053000 +0800">
+		<title lang="zh">村BA</title>
+	</programme>
 	<channel id="嘉佳卡通">
 		<display-name lang="zh">嘉佳卡通</display-name>
 	</channel>
@@ -50427,6 +50430,9 @@
 	<programme channel="纯享4K" start="20240830034900 +0800" stop="20240830043100 +0800">
 		<title lang="zh">远方的家4K 大运河（19） 航行在苏南运河</title>
 	</programme>
+	<programme channel="纯享4K" start="20240830043100 +0800" stop="20240830051300 +0800">
+		<title lang="zh">远方的家4K 大运河（20） 从枫桥到阊门</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -61431,6 +61437,9 @@
 	<programme channel="newtv超级电视剧" start="20240830040000 +0800" stop="20240830044500 +0800">
 		<title lang="zh">31_烽火英雄传</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240830044500 +0800" stop="20240830053000 +0800">
+		<title lang="zh">32_烽火英雄传</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -61515,6 +61524,9 @@
 	<programme channel="newtv军旅剧场" start="20240830034500 +0800" stop="20240830042600 +0800">
 		<title lang="zh">24_跨过鸭绿江</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240830042600 +0800" stop="20240830051100 +0800">
+		<title lang="zh">17_怒江之战</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -61532,6 +61544,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20240830033900 +0800" stop="20240830042400 +0800">
 		<title lang="zh">31_梦中的那片海</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240830042400 +0800" stop="20240830052000 +0800">
+		<title lang="zh">32_梦中的那片海</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -61596,6 +61611,9 @@
 	<programme channel="newtv怡伴健康" start="20240830033300 +0800" stop="20240830035800 +0800">
 		<title lang="zh">在中国大地上边走边跳b7河南三门峡</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240830042200 +0800" stop="20240830044700 +0800">
+		<title lang="zh">舞蹈世界</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -61644,6 +61662,9 @@
 	<programme channel="newtv军事评论" start="20240830035700 +0800" stop="20240830041900 +0800">
 		<title lang="zh">韩国阅兵式上的新式装备</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240830041900 +0800" stop="20240830044500 +0800">
+		<title lang="zh">多情湖畔 难舍军旅青春</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -61676,6 +61697,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240830040900 +0800" stop="20240830042600 +0800">
 		<title lang="zh">火苗-李莹（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240830042600 +0800" stop="20240830044100 +0800">
+		<title lang="zh">白桦林-李莹（完整版）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -61718,6 +61742,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20240830022700 +0800" stop="20240830041900 +0800">
 		<title lang="zh">2024美洲杯1/4决赛：阿根廷VS厄瓜多尔</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20240830041900 +0800" stop="20240830061300 +0800">
+		<title lang="zh">2024美洲杯1/4决赛：委内瑞拉VS加拿大</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
@@ -61769,6 +61796,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240830025200 +0800" stop="20240830043000 +0800">
 		<title lang="zh">南宋猎人之匹马中原</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240830043000 +0800" stop="20240830053200 +0800">
+		<title lang="zh">女子刀术</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
