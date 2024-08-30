@@ -24999,11 +24999,17 @@
 	<programme channel="咪咕综合体育" start="20240831000000 +0800" stop="20240831012500 +0800">
 		<title lang="zh">英超赛场-24/25赛季英超 第1轮 曼联-富勒姆</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20240831012500 +0800" stop="20240831023000 +0800">
+		<title lang="zh">奥运时刻-10米气步枪混合团体决赛</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
 	<programme channel="咪咕足球" start="20240831000100 +0800" stop="20240831012100 +0800">
 		<title lang="zh">村BA</title>
+	</programme>
+	<programme channel="咪咕足球" start="20240831012600 +0800" stop="20240831022600 +0800">
+		<title lang="zh">超级三对三-2024超三联赛</title>
 	</programme>
 	<channel id="嘉佳卡通">
 		<display-name lang="zh">嘉佳卡通</display-name>
@@ -59679,6 +59685,9 @@
 	<programme channel="黑莓动画" start="20240831003800 +0800" stop="20240831012400 +0800">
 		<title lang="zh">一人之下第二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240831012400 +0800" stop="20240831015400 +0800">
+		<title lang="zh">我靠充值当武帝</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -60144,6 +60153,9 @@
 	<programme channel="newtv超级综艺" start="20240831010300 +0800" stop="20240831013900 +0800">
 		<title lang="zh">09_你是我的荣耀</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240831013900 +0800" stop="20240831021500 +0800">
+		<title lang="zh">10_你是我的荣耀</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -60167,6 +60179,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20240831004800 +0800" stop="20240831013300 +0800">
 		<title lang="zh">21_猫冬</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240831013300 +0800" stop="20240831021800 +0800">
+		<title lang="zh">22_猫冬</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -60194,6 +60209,9 @@
 	</channel>
 	<programme channel="newtv古装剧场" start="20240831003000 +0800" stop="20240831012200 +0800">
 		<title lang="zh">05_祈今朝</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20240831012200 +0800" stop="20240831021300 +0800">
+		<title lang="zh">06_祈今朝</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -60261,6 +60279,9 @@
 	<programme channel="newtv潮妈辣婆" start="20240831000200 +0800" stop="20240831011800 +0800">
 		<title lang="zh">封神：画圣归来</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240831011800 +0800" stop="20240831021300 +0800">
+		<title lang="zh">40_女人的抗战</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -60270,11 +60291,17 @@
 	<programme channel="newtv军事评论" start="20240831005700 +0800" stop="20240831011800 +0800">
 		<title lang="zh">二〇二三全球军用直升机盘点</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240831011800 +0800" stop="20240831014000 +0800">
+		<title lang="zh">二〇二三热点冲突冷思考 主战坦克何去何从</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
 	<programme channel="newtv炫舞未来" start="20240831000600 +0800" stop="20240831012200 +0800">
 		<title lang="zh">四十六岁妈妈零基础学习芭蕾 有效调理身体改善气质（20240828）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240831012200 +0800" stop="20240831021300 +0800">
+		<title lang="zh">打卡穹顶之“花” 感受公共艺术之美（20240821）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
