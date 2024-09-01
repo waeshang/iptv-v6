@@ -32028,6 +32028,9 @@
 	<programme channel="纯享4K" start="20240902001900 +0800" stop="20240902004700 +0800">
 		<title lang="zh">记住乡愁4K第九季 石堰——竹纸之乡 纸薄情深</title>
 	</programme>
+	<programme channel="纯享4K" start="20240902004700 +0800" stop="20240902011500 +0800">
+		<title lang="zh">记住乡愁4K第九季 黄岐半岛——敢闯敢试 海阔天空</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -38583,6 +38586,9 @@
 	<programme channel="newtv精品纪录" start="20240902002200 +0800" stop="20240902004800 +0800">
 		<title lang="zh">07_放射学专家 徐赛英</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240902004800 +0800" stop="20240902012500 +0800">
+		<title lang="zh">08_农村小伙变身哈佛教授 康景轩</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -38594,6 +38600,9 @@
 	</channel>
 	<programme channel="newtv军旅剧场" start="20240902001800 +0800" stop="20240902005900 +0800">
 		<title lang="zh">35_跨过鸭绿江</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240902005900 +0800" stop="20240902015000 +0800">
+		<title lang="zh">36_跨过鸭绿江</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -38630,6 +38639,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240902004100 +0800" stop="20240902005600 +0800">
 		<title lang="zh">小品《真情永驻》 表演：孙涛 闫学晶</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240902005600 +0800" stop="20240902011300 +0800">
+		<title lang="zh">小品《真假老师》 表演：张小斐 贾玲</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
