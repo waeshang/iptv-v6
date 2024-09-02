@@ -42162,6 +42162,9 @@
 	<programme channel="纯享4K" start="20240902204600 +0800" stop="20240902205100 +0800">
 		<title lang="zh">美丽中国自然4K 京城之夏系列 紫竹院公园</title>
 	</programme>
+	<programme channel="纯享4K" start="20240902205700 +0800" stop="20240902212600 +0800">
+		<title lang="zh">旅游指南4K 好吃客b7黄山（上）</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -49794,6 +49797,12 @@
 	<programme channel="黑莓动画" start="20240902203500 +0800" stop="20240902204900 +0800">
 		<title lang="zh">21_托宝战士之银河侦探1</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240902204900 +0800" stop="20240902210200 +0800">
+		<title lang="zh">22_托宝战士之银河侦探1</title>
+	</programme>
+	<programme channel="黑莓动画" start="20240902211400 +0800" stop="20240902212100 +0800">
+		<title lang="zh">27_睡前故事会</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -50070,6 +50079,9 @@
 	<programme channel="newtv超级综艺" start="20240902193000 +0800" stop="20240902205200 +0800">
 		<title lang="zh">开门大吉</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240902205200 +0800" stop="20240902214100 +0800">
+		<title lang="zh">绽放吧！妈妈</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -50250,6 +50262,9 @@
 	<programme channel="newtv超级电视剧" start="20240902202600 +0800" stop="20240902211200 +0800">
 		<title lang="zh">35_承欢记</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240902211200 +0800" stop="20240902215700 +0800">
+		<title lang="zh">04_前夜</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -50330,6 +50345,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240902203000 +0800" stop="20240902211500 +0800">
 		<title lang="zh">36_烟火人家</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240902211500 +0800" stop="20240902214500 +0800">
+		<title lang="zh">美丽密码-25期</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -50424,6 +50442,9 @@
 	<programme channel="newtv精品纪录" start="20240902204600 +0800" stop="20240902210100 +0800">
 		<title lang="zh">第5集：巴蜀烟火 b7 四川简阳羊肉</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240902210100 +0800" stop="20240902213700 +0800">
+		<title lang="zh">第1期：林书豪亲自下厨 为挖掘机司机制作惊喜一餐</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -50504,6 +50525,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20240902203800 +0800" stop="20240902210800 +0800">
 		<title lang="zh">美丽密码-25期</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20240902210800 +0800" stop="20240902215300 +0800">
+		<title lang="zh">18_长相思</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -50586,6 +50610,9 @@
 	<programme channel="newtv军旅剧场" start="20240902200800 +0800" stop="20240902205300 +0800">
 		<title lang="zh">25_烽火英雄传</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240902205300 +0800" stop="20240902212300 +0800">
+		<title lang="zh">美丽密码-26期</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -50666,6 +50693,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20240902201800 +0800" stop="20240902204800 +0800">
 		<title lang="zh">美丽密码-26期</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240902204800 +0800" stop="20240902213500 +0800">
+		<title lang="zh">21_三十而已</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -50804,6 +50834,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20240902202700 +0800" stop="20240902211200 +0800">
 		<title lang="zh">36_新万家灯火</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20240902211200 +0800" stop="20240902214200 +0800">
+		<title lang="zh">【推广】白天鹅红酒20240612</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -50964,6 +50997,9 @@
 	<programme channel="newtv怡伴健康" start="20240902201700 +0800" stop="20240902205600 +0800">
 		<title lang="zh">山西清徐学栋vs北京源莱慧精英 第1局</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240902205600 +0800" stop="20240902212600 +0800">
+		<title lang="zh">美丽密码-24期</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -51044,6 +51080,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240902200400 +0800" stop="20240902205100 +0800">
 		<title lang="zh">35_美人心计</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240902205100 +0800" stop="20240902213700 +0800">
+		<title lang="zh">36_美人心计</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -51315,6 +51354,9 @@
 	<programme channel="newtv炫舞未来" start="20240902201400 +0800" stop="20240902210100 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240902210100 +0800" stop="20240902214700 +0800">
+		<title lang="zh">05_父辈的荣耀</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -51392,6 +51434,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240902204500 +0800" stop="20240902211500 +0800">
 		<title lang="zh">美丽密码-24期</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240902211500 +0800" stop="20240902220200 +0800">
+		<title lang="zh">29_很想很想你</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
