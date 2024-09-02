@@ -17829,6 +17829,9 @@
 	<programme channel="咪咕综合体育" start="20240902222500 +0800" stop="20240902225000 +0800">
 		<title lang="zh">欧陆足球版图</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20240902230000 +0800" stop="20240902000000 +0800">
+		<title lang="zh">网球世界-2024美国网球公开赛 男女单打1/8决赛等</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -49839,6 +49842,9 @@
 	<programme channel="黑莓动画" start="20240902224200 +0800" stop="20240902230100 +0800">
 		<title lang="zh">07_大理寺日志</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240902230100 +0800" stop="20240902232200 +0800">
+		<title lang="zh">08_大理寺日志</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -50229,6 +50235,9 @@
 	<programme channel="newtv超级电影" start="20240902212900 +0800" stop="20240902224800 +0800">
 		<title lang="zh">电影《曼谷风云》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20240902224800 +0800" stop="20240902003500 +0800">
+		<title lang="zh">电影《金刚王：死亡救赎》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -50610,6 +50619,9 @@
 	<programme channel="newtv古装剧场" start="20240902215300 +0800" stop="20240902225100 +0800">
 		<title lang="zh">19_长相思</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240902225100 +0800" stop="20240902233900 +0800">
+		<title lang="zh">20_长相思</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -50699,6 +50711,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240902220900 +0800" stop="20240902225400 +0800">
 		<title lang="zh">29_战寇</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240902225400 +0800" stop="20240902234300 +0800">
+		<title lang="zh">德国卡赫纯钛RO反渗透净水器-渠道（右）</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -51120,6 +51135,9 @@
 	<programme channel="newtv怡伴健康" start="20240902221300 +0800" stop="20240902225800 +0800">
 		<title lang="zh">山西清徐学栋vs北京源莱慧精英 第3局</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240902225800 +0800" stop="20240902233500 +0800">
+		<title lang="zh">山西清徐学栋vs北京源莱慧精英 第4局</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -51360,6 +51378,9 @@
 	<programme channel="newtv军事评论" start="20240902220600 +0800" stop="20240902230000 +0800">
 		<title lang="zh">血与火：第一次世界大战启示录 ④ 燃烧的巴尔干</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240902230000 +0800" stop="20240902235200 +0800">
+		<title lang="zh">血与火：第一次世界大战启示录 ⑤ 海上的较量</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -51584,6 +51605,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240902220200 +0800" stop="20240902225700 +0800">
 		<title lang="zh">30_很想很想你</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240902225700 +0800" stop="20240902002700 +0800">
+		<title lang="zh">一诺千金</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
