@@ -57,6 +57,9 @@
 	<programme channel="4K综艺" start="20240904020200 +0800" stop="20240904035100 +0800">
 		<title lang="zh">真心大冒险20180623</title>
 	</programme>
+	<programme channel="4K综艺" start="20240904035100 +0800" stop="20240904052300 +0800">
+		<title lang="zh">花儿与少年第一季20140523</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -50739,6 +50742,9 @@
 	<programme channel="纯享4K" start="20240904032800 +0800" stop="20240904035200 +0800">
 		<title lang="zh">了不起的冬天4K 第2集 默契</title>
 	</programme>
+	<programme channel="纯享4K" start="20240904035800 +0800" stop="20240904044000 +0800">
+		<title lang="zh">远方的家4K 长沙贡玛国家级自然保护区 长沙贡玛：探秘“最美高原湿地”</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -61413,6 +61419,9 @@
 	<programme channel="黑莓动画" start="20240904032400 +0800" stop="20240904035900 +0800">
 		<title lang="zh">全职法师第1季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240904035900 +0800" stop="20240904044400 +0800">
+		<title lang="zh">马达加斯加企鹅第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -61421,6 +61430,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20240904022700 +0800" stop="20240904035100 +0800">
 		<title lang="zh">寻龙之幽冥地宫</title>
+	</programme>
+	<programme channel="黑莓电影" start="20240904035100 +0800" stop="20240904052500 +0800">
+		<title lang="zh">毒中毒</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -61911,6 +61923,9 @@
 	<programme channel="newtv超级综艺" start="20240904022500 +0800" stop="20240904035200 +0800">
 		<title lang="zh">首届青年京剧演员大会</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240904035200 +0800" stop="20240904052300 +0800">
+		<title lang="zh">诗画中国</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -61922,6 +61937,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20240904023500 +0800" stop="20240904040000 +0800">
 		<title lang="zh">实况录像(奥林匹克)-2024年巴黎奥运会 体操男子团体决赛</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20240904040000 +0800" stop="20240904053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季法国足球甲级联赛第1轮 勒阿弗尔-巴黎圣日耳曼</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -61971,6 +61989,9 @@
 	<programme channel="newtv精品大剧" start="20240904025400 +0800" stop="20240904034900 +0800">
 		<title lang="zh">03_侦察英雄</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240904034900 +0800" stop="20240904043500 +0800">
+		<title lang="zh">04_侦察英雄</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -61988,6 +62009,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240904030200 +0800" stop="20240904040100 +0800">
 		<title lang="zh">第五集 未来已来</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240904040100 +0800" stop="20240904045900 +0800">
+		<title lang="zh">02_无声的功勋（第一季）</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -62051,6 +62075,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20240904031500 +0800" stop="20240904040100 +0800">
 		<title lang="zh">32_欢乐颂4</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20240904040100 +0800" stop="20240904045500 +0800">
+		<title lang="zh">33_欢乐颂4</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -62150,6 +62177,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240904033800 +0800" stop="20240904040000 +0800">
 		<title lang="zh">垂直起降固定翼无人机新动态</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240904040000 +0800" stop="20240904042600 +0800">
+		<title lang="zh">军中状元360 警犬闹新春</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
