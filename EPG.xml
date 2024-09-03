@@ -27981,6 +27981,9 @@
 	<programme channel="咪咕足球" start="20240903140000 +0800" stop="20240903140500 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕足球" start="20240903140500 +0800" stop="20240903152500 +0800">
+		<title lang="zh">村BA</title>
+	</programme>
 	<channel id="嘉佳卡通">
 		<display-name lang="zh">嘉佳卡通</display-name>
 	</channel>
@@ -69567,6 +69570,9 @@
 	<programme channel="黑莓动画" start="20240903135900 +0800" stop="20240903140600 +0800">
 		<title lang="zh">保卫植物</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240903140600 +0800" stop="20240903143400 +0800">
+		<title lang="zh">张大牙爱搞怪第四季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -70218,6 +70224,9 @@
 	<programme channel="newtv超级电影" start="20240903123400 +0800" stop="20240903141200 +0800">
 		<title lang="zh">电影《金喜澡堂》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20240903141200 +0800" stop="20240903155500 +0800">
+		<title lang="zh">电影《舞出我人生》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -70397,6 +70406,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240903134700 +0800" stop="20240903140200 +0800">
 		<title lang="zh">07_苏轼 永不孤独的美食家</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240903140200 +0800" stop="20240903141700 +0800">
+		<title lang="zh">08_曹雪芹 童年百般好，犹忆鸭肉香</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -70611,6 +70623,9 @@
 	<programme channel="newtv热播精选" start="20240903132800 +0800" stop="20240903141200 +0800">
 		<title lang="zh">32_前夜</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20240903141200 +0800" stop="20240903150700 +0800">
+		<title lang="zh">01_潜行者</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -70758,6 +70773,9 @@
 	<programme channel="newtv怡伴健康" start="20240903133400 +0800" stop="20240903140200 +0800">
 		<title lang="zh">水库偷捕者（下）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240903140200 +0800" stop="20240903143000 +0800">
+		<title lang="zh">29_多彩庄家院第二季</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -70814,6 +70832,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240903130700 +0800" stop="20240903140300 +0800">
 		<title lang="zh">27_三十而已</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240903140300 +0800" stop="20240903144900 +0800">
+		<title lang="zh">28_三十而已</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -70982,6 +71003,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240903132000 +0800" stop="20240903140900 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240903141600 +0800" stop="20240903141800 +0800">
+		<title lang="zh">恭喜发财-尚岩（舞蹈展示）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -71189,6 +71213,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240903133300 +0800" stop="20240903141200 +0800">
 		<title lang="zh">中国搏击十年</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240903141200 +0800" stop="20240903145700 +0800">
+		<title lang="zh">29_大秦帝国之纵横</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
