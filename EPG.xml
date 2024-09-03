@@ -69666,6 +69666,9 @@
 	<programme channel="黑莓动画" start="20240903194400 +0800" stop="20240903200900 +0800">
 		<title lang="zh">14_德凯奥特曼 普通话版</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240903200900 +0800" stop="20240903203400 +0800">
+		<title lang="zh">15_德凯奥特曼 普通话版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -70512,6 +70515,9 @@
 	<programme channel="newtv精品大剧" start="20240903190600 +0800" stop="20240903200200 +0800">
 		<title lang="zh">39_烟火人家</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240903200200 +0800" stop="20240903204700 +0800">
+		<title lang="zh">40_烟火人家</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -70601,6 +70607,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240903191800 +0800" stop="20240903201700 +0800">
 		<title lang="zh">02_珠穆朗玛</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240903201700 +0800" stop="20240903210900 +0800">
+		<title lang="zh">01_盐的故事</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -70758,6 +70767,9 @@
 	<programme channel="newtv军旅剧场" start="20240903194000 +0800" stop="20240903202500 +0800">
 		<title lang="zh">27_烽火英雄传</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240903202500 +0800" stop="20240903205500 +0800">
+		<title lang="zh">美丽密码-26期</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -70836,6 +70848,9 @@
 	<programme channel="newtv家庭剧场" start="20240903191500 +0800" stop="20240903200100 +0800">
 		<title lang="zh">25_三十而已</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240903200100 +0800" stop="20240903204700 +0800">
+		<title lang="zh">26_三十而已</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -70911,6 +70926,9 @@
 	<programme channel="newtv热播精选" start="20240903194400 +0800" stop="20240903202700 +0800">
 		<title lang="zh">08_双探</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20240903202700 +0800" stop="20240903210600 +0800">
+		<title lang="zh">09_双探</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -70964,6 +70982,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20240903194000 +0800" stop="20240903202900 +0800">
 		<title lang="zh">PANATO黑果腺助花楸果复合片-渠道（右）</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20240903202900 +0800" stop="20240903211400 +0800">
+		<title lang="zh">39_新万家灯火</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -71126,6 +71147,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240903192700 +0800" stop="20240903200900 +0800">
 		<title lang="zh">北京源莱慧精英vs山东好哥哥 第1局</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240903200900 +0800" stop="20240903205000 +0800">
+		<title lang="zh">北京源莱慧精英vs山东好哥哥 第2局</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -71532,6 +71556,9 @@
 	<programme channel="newtv精品综合" start="20240903193900 +0800" stop="20240903202600 +0800">
 		<title lang="zh">32_很想很想你</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20240903202600 +0800" stop="20240903211500 +0800">
+		<title lang="zh">33_很想很想你</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -71609,6 +71636,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20240903174700 +0800" stop="20240903202300 +0800">
 		<title lang="zh">半熟恋人第2季</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20240903202300 +0800" stop="20240903214700 +0800">
+		<title lang="zh">恰好是少年</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
