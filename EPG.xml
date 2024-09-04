@@ -56859,6 +56859,9 @@
 	<programme channel="纯享4K" start="20240904102100 +0800" stop="20240904103600 +0800">
 		<title lang="zh">艺术里的奥林匹克4K 宴乐渔猎攻战纹图壶</title>
 	</programme>
+	<programme channel="纯享4K" start="20240904103600 +0800" stop="20240904110500 +0800">
+		<title lang="zh">好吃客4K 乌镇</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -69210,6 +69213,9 @@
 	<programme channel="newtv超级综艺" start="20240904092800 +0800" stop="20240904104400 +0800">
 		<title lang="zh">越战越勇</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240904104400 +0800" stop="20240904121200 +0800">
+		<title lang="zh">乐在旅途</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -69305,6 +69311,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20240904095400 +0800" stop="20240904104200 +0800">
 		<title lang="zh">10_繁城之下</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240904104200 +0800" stop="20240904112600 +0800">
+		<title lang="zh">45_大侠霍元甲</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -69708,6 +69717,9 @@
 	<programme channel="newtv潮妈辣婆" start="20240904095600 +0800" stop="20240904104000 +0800">
 		<title lang="zh">22_铁血玫瑰</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240904104000 +0800" stop="20240904113300 +0800">
+		<title lang="zh">23_铁血玫瑰</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -69843,6 +69855,9 @@
 	<programme channel="newtv炫舞未来" start="20240904102000 +0800" stop="20240904103100 +0800">
 		<title lang="zh">阳光彩虹小白马-金洋（完整版）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240904104100 +0800" stop="20240904105500 +0800">
+		<title lang="zh">触电-李萍（完整版）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -69881,6 +69896,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240904095500 +0800" stop="20240904104100 +0800">
 		<title lang="zh">20_长相思 第二季</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240904104100 +0800" stop="20240904112700 +0800">
+		<title lang="zh">21_长相思 第二季</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
