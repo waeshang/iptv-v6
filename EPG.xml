@@ -69216,6 +69216,9 @@
 	<programme channel="黑莓动画" start="20240904214000 +0800" stop="20240904214700 +0800">
 		<title lang="zh">31_月饼太多的烦恼</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240904215400 +0800" stop="20240904220700 +0800">
+		<title lang="zh">33_踢踢和奇奇之魔力课堂 第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -69867,6 +69870,9 @@
 	<programme channel="newtv超级体育" start="20240904213000 +0800" stop="20240904220500 +0800">
 		<title lang="zh">体育世界</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240904220500 +0800" stop="20240904000500 +0800">
+		<title lang="zh">实况录像-2024年巴黎残奥会 田径决赛,游泳决赛(录播)5</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -70088,6 +70094,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240904211800 +0800" stop="20240904214800 +0800">
 		<title lang="zh">美丽密码-25期</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240904214800 +0800" stop="20240904223300 +0800">
+		<title lang="zh">23_谁是真英雄</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -70374,6 +70383,9 @@
 	<programme channel="newtv军旅剧场" start="20240904210700 +0800" stop="20240904215200 +0800">
 		<title lang="zh">31_烽火英雄传</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240904215200 +0800" stop="20240904224700 +0800">
+		<title lang="zh">34_战寇</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -70458,6 +70470,9 @@
 	<programme channel="newtv家庭剧场" start="20240904210500 +0800" stop="20240904214700 +0800">
 		<title lang="zh">28_完美伴侣</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240904214700 +0800" stop="20240904221700 +0800">
+		<title lang="zh">美丽密码-26期</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -70541,6 +70556,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20240904211900 +0800" stop="20240904215200 +0800">
 		<title lang="zh">13_双探</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20240904215200 +0800" stop="20240904222200 +0800">
+		<title lang="zh">美丽密码-31期</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -70655,6 +70673,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20240904211900 +0800" stop="20240904214900 +0800">
 		<title lang="zh">美丽密码-31期</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20240904214900 +0800" stop="20240904231400 +0800">
+		<title lang="zh">不死间谍</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -71297,6 +71318,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20240904210500 +0800" stop="20240904215100 +0800">
 		<title lang="zh">HOKO纯钛富硒RO即热净水机-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20240904215100 +0800" stop="20240904002800 +0800">
+		<title lang="zh">我的艺术清单</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
