@@ -28671,6 +28671,9 @@
 	<programme channel="咪咕足球" start="20240904125000 +0800" stop="20240904130000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕足球" start="20240904130000 +0800" stop="20240904140000 +0800">
+		<title lang="zh">超级三对三-2024超三联赛</title>
+	</programme>
 	<channel id="嘉佳卡通">
 		<display-name lang="zh">嘉佳卡通</display-name>
 	</channel>
@@ -68700,6 +68703,9 @@
 	<programme channel="黑莓动画" start="20240904122500 +0800" stop="20240904130000 +0800">
 		<title lang="zh">嗨道奇第2季中文版</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240904130000 +0800" stop="20240904132600 +0800">
+		<title lang="zh">熊出没之怪兽计划第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -69309,6 +69315,9 @@
 	<programme channel="newtv超级体育" start="20240904123500 +0800" stop="20240904125500 +0800">
 		<title lang="zh">艺术里的奥林匹克</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240904130000 +0800" stop="20240904160000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2024年巴黎奥运会精彩赛事</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -69509,6 +69518,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240904123800 +0800" stop="20240904125300 +0800">
 		<title lang="zh">09_曹雪芹 唯美食与朋友不可辜负</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240904125300 +0800" stop="20240904130800 +0800">
+		<title lang="zh">10_曹雪芹 美食诚可贵，理想价更高</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -69741,6 +69753,9 @@
 	<programme channel="newtv爱情喜剧" start="20240904120000 +0800" stop="20240904125500 +0800">
 		<title lang="zh">15_我的爱对你说</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20240904125500 +0800" stop="20240904134100 +0800">
+		<title lang="zh">16_我的爱对你说</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -69831,6 +69846,9 @@
 	<programme channel="newtv怡伴健康" start="20240904122100 +0800" stop="20240904124900 +0800">
 		<title lang="zh">“守护经济安全”特别策划 伪慈善的真面目（20240513）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240904124900 +0800" stop="20240904131900 +0800">
+		<title lang="zh">31_多彩庄家院第二季</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -69881,6 +69899,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240904123400 +0800" stop="20240904125900 +0800">
 		<title lang="zh">老友生榨粉</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240904125900 +0800" stop="20240904134600 +0800">
+		<title lang="zh">32_三十而已</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -69963,6 +69984,9 @@
 	<programme channel="newtv军事评论" start="20240904123900 +0800" stop="20240904130100 +0800">
 		<title lang="zh">战地现场Ⅱb7韦科尔游击战（下）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240904130100 +0800" stop="20240904132300 +0800">
+		<title lang="zh">战地现场Ⅱb7激战维耶阿芒（上）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -70038,6 +70062,9 @@
 	<programme channel="newtv炫舞未来" start="20240904120100 +0800" stop="20240904125100 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240904125100 +0800" stop="20240904131900 +0800">
+		<title lang="zh">水库偷捕者（上）（20240511）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -70112,6 +70139,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20240904112500 +0800" stop="20240904125600 +0800">
 		<title lang="zh">绝境峭壁岭</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240904125600 +0800" stop="20240904144100 +0800">
+		<title lang="zh">非法制裁</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
