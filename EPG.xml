@@ -61710,6 +61710,9 @@
 	<programme channel="纯享4K" start="20240905182800 +0800" stop="20240905185200 +0800">
 		<title lang="zh">了不起的冬天4K 第3集 捏一把汗的飞行</title>
 	</programme>
+	<programme channel="纯享4K" start="20240905185200 +0800" stop="20240905191600 +0800">
+		<title lang="zh">了不起的冬天4K 第4集 有“范儿”</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -74049,6 +74052,9 @@
 	<programme channel="黑莓动画" start="20240905184200 +0800" stop="20240905185600 +0800">
 		<title lang="zh">01_龙战士星源</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240905185600 +0800" stop="20240905190900 +0800">
+		<title lang="zh">02_龙战士星源</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -74718,6 +74724,9 @@
 	<programme channel="newtv超级电影" start="20240905172800 +0800" stop="20240905190000 +0800">
 		<title lang="zh">电影《超时空救兵》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20240905190000 +0800" stop="20240905211300 +0800">
+		<title lang="zh">电影《还是觉得你最好2》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -74792,6 +74801,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20240905181100 +0800" stop="20240905185700 +0800">
 		<title lang="zh">12_壮丁也是兵</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240905185700 +0800" stop="20240905194100 +0800">
+		<title lang="zh">05_开端</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -75105,6 +75117,9 @@
 	<programme channel="newtv军旅剧场" start="20240905175800 +0800" stop="20240905185200 +0800">
 		<title lang="zh">18_英雄戟</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240905185200 +0800" stop="20240905193700 +0800">
+		<title lang="zh">32_烽火英雄传</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -75245,6 +75260,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20240905183000 +0800" stop="20240905185500 +0800">
 		<title lang="zh">12_德凯奥特曼 普通话版</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20240905185500 +0800" stop="20240905191100 +0800">
+		<title lang="zh">向上</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -75447,6 +75465,9 @@
 	<programme channel="newtv怡伴健康" start="20240905181200 +0800" stop="20240905185200 +0800">
 		<title lang="zh">第二场 重庆XTvs天津兄弟连 第1局</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240905185200 +0800" stop="20240905193700 +0800">
+		<title lang="zh">第二场 重庆XTvs天津兄弟连 第2局</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -75639,6 +75660,9 @@
 	<programme channel="newtv军事评论" start="20240905182700 +0800" stop="20240905185200 +0800">
 		<title lang="zh">美军机在东地中海坠毁 美国防部列出在中东的四个“关键目标”</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240905185200 +0800" stop="20240905191700 +0800">
+		<title lang="zh">以军称已控制加沙城码头 乌首都遭导弹袭击 日本自卫队加速“膨胀”</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -75744,6 +75768,9 @@
 	<programme channel="newtv炫舞未来" start="20240905181600 +0800" stop="20240905185900 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240905185900 +0800" stop="20240905194400 +0800">
+		<title lang="zh">10_父辈的荣耀</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -75815,6 +75842,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240905181600 +0800" stop="20240905190000 +0800">
 		<title lang="zh">06_埃博拉前线</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240905190000 +0800" stop="20240905193000 +0800">
+		<title lang="zh">美丽密码-31期</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -76016,6 +76046,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240905180200 +0800" stop="20240905185100 +0800">
 		<title lang="zh">德国卡赫纯钛RO反渗透净水器-渠道（右）</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240905185100 +0800" stop="20240905193600 +0800">
+		<title lang="zh">40_包青天之七侠五义</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
