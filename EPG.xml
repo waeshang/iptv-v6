@@ -90,6 +90,9 @@
 	<programme channel="4K综艺" start="20240905174000 +0800" stop="20240905184400 +0800">
 		<title lang="zh">小小的追球20200121</title>
 	</programme>
+	<programme channel="4K综艺" start="20240905184400 +0800" stop="20240905193500 +0800">
+		<title lang="zh">小小的追球20200122</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -61704,6 +61707,9 @@
 	<programme channel="纯享4K" start="20240905175900 +0800" stop="20240905182800 +0800">
 		<title lang="zh">好吃客4K 泉州</title>
 	</programme>
+	<programme channel="纯享4K" start="20240905182800 +0800" stop="20240905185200 +0800">
+		<title lang="zh">了不起的冬天4K 第3集 捏一把汗的飞行</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -74040,6 +74046,9 @@
 	<programme channel="黑莓动画" start="20240905175700 +0800" stop="20240905184200 +0800">
 		<title lang="zh">动物兄弟第一季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240905184200 +0800" stop="20240905185600 +0800">
+		<title lang="zh">01_龙战士星源</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -74664,6 +74673,9 @@
 	<programme channel="newtv超级体育" start="20240905180000 +0800" stop="20240905183500 +0800">
 		<title lang="zh">体育新闻</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240905183500 +0800" stop="20240905213000 +0800">
+		<title lang="zh">巴黎残奥会赛事</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -74853,6 +74865,9 @@
 	<programme channel="newtv精品大剧" start="20240905173200 +0800" stop="20240905182700 +0800">
 		<title lang="zh">06_大盛魁</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240905182700 +0800" stop="20240905191200 +0800">
+		<title lang="zh">07_大盛魁</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -74940,6 +74955,9 @@
 	<programme channel="newtv精品纪录" start="20240905173800 +0800" stop="20240905183500 +0800">
 		<title lang="zh">第6集：最坚强宝宝</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240905183500 +0800" stop="20240905192500 +0800">
+		<title lang="zh">04_珠穆朗玛</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -75011,6 +75029,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20240905174300 +0800" stop="20240905182700 +0800">
 		<title lang="zh">63_那年花开月正圆</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20240905182700 +0800" stop="20240905191400 +0800">
+		<title lang="zh">64_那年花开月正圆</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -75156,6 +75177,9 @@
 	<programme channel="newtv家庭剧场" start="20240905175600 +0800" stop="20240905184200 +0800">
 		<title lang="zh">36_三十而已</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240905184200 +0800" stop="20240905193100 +0800">
+		<title lang="zh">AMOS高聚能养生钛锅（新）-渠道（右）</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -75219,6 +75243,9 @@
 	<programme channel="newtv热播精选" start="20240905180500 +0800" stop="20240905183000 +0800">
 		<title lang="zh">11_德凯奥特曼 普通话版</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20240905183000 +0800" stop="20240905185500 +0800">
+		<title lang="zh">12_德凯奥特曼 普通话版</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -75275,6 +75302,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20240905175500 +0800" stop="20240905184400 +0800">
 		<title lang="zh">日本SUSUMOTOYA小分子脑活素-渠道（右）</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20240905184400 +0800" stop="20240905194100 +0800">
+		<title lang="zh">08_我家有喜</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -75605,6 +75635,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240905180100 +0800" stop="20240905182700 +0800">
 		<title lang="zh">以军称控制哈马斯重要基地 美B-21轰炸机首飞</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240905182700 +0800" stop="20240905185200 +0800">
+		<title lang="zh">美军机在东地中海坠毁 美国防部列出在中东的四个“关键目标”</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
