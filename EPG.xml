@@ -61584,6 +61584,9 @@
 	<programme channel="纯享4K" start="20240905140800 +0800" stop="20240905144800 +0800">
 		<title lang="zh">探索b7发现4K 大足石刻：石头上的世界 第4集 造像里的密码</title>
 	</programme>
+	<programme channel="纯享4K" start="20240905144800 +0800" stop="20240905151800 +0800">
+		<title lang="zh">寻古中国4K 寻夏记b7华夏青铜</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -74823,6 +74826,9 @@
 	<programme channel="newtv军旅剧场" start="20240905141000 +0800" stop="20240905145300 +0800">
 		<title lang="zh">03_欢颜</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240905145300 +0800" stop="20240905153200 +0800">
+		<title lang="zh">冯小宁从业48周年亲酿纪念酒-渠道（右）</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -74880,6 +74886,9 @@
 	<programme channel="newtv家庭剧场" start="20240905141200 +0800" stop="20240905145700 +0800">
 		<title lang="zh">33_三十而已</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240905145700 +0800" stop="20240905153600 +0800">
+		<title lang="zh">冯小宁从业48周年亲酿纪念酒-渠道（右）</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -74924,6 +74933,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20240905135200 +0800" stop="20240905144700 +0800">
 		<title lang="zh">09_潜行者</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20240905144700 +0800" stop="20240905153300 +0800">
+		<title lang="zh">10_潜行者</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -75233,6 +75245,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240905143600 +0800" stop="20240905145800 +0800">
 		<title lang="zh">彩色镜头下的二战（4）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240905145800 +0800" stop="20240905151900 +0800">
+		<title lang="zh">轰炸战争（一）</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
