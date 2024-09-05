@@ -27645,6 +27645,78 @@
 	<programme channel="四海钓鱼" start="20240906233500 +0800" stop="20240906234500 +0800">
 		<title lang="zh">钓界新声</title>
 	</programme>
+	<channel id="国会频道1">
+		<display-name lang="zh">国会频道1</display-name>
+	</channel>
+	<programme channel="国会频道1" start="20240906003800 +0800" stop="20240906033800 +0800">
+		<title lang="zh">黨團協商</title>
+	</programme>
+	<programme channel="国会频道1" start="20240906033800 +0800" stop="20240906050800 +0800">
+		<title lang="zh">黨團協商</title>
+	</programme>
+	<programme channel="国会频道1" start="20240906050800 +0800" stop="20240906054000 +0800">
+		<title lang="zh">黨團協商</title>
+	</programme>
+	<programme channel="国会频道1" start="20240906054000 +0800" stop="20240906074900 +0800">
+		<title lang="zh">黨團協商</title>
+	</programme>
+	<programme channel="国会频道1" start="20240906074900 +0800" stop="20240906091100 +0800">
+		<title lang="zh">黨團協商</title>
+	</programme>
+	<programme channel="国会频道1" start="20240906091100 +0800" stop="20240906123200 +0800">
+		<title lang="zh">財政委員會</title>
+	</programme>
+	<programme channel="国会频道1" start="20240906123200 +0800" stop="20240906152700 +0800">
+		<title lang="zh">外交及國防委員會</title>
+	</programme>
+	<programme channel="国会频道1" start="20240906152700 +0800" stop="20240906172600 +0800">
+		<title lang="zh">黨團協商</title>
+	</programme>
+	<programme channel="国会频道1" start="20240906172600 +0800" stop="20240906205600 +0800">
+		<title lang="zh">黨團協商</title>
+	</programme>
+	<programme channel="国会频道1" start="20240906205600 +0800" stop="20240906232900 +0800">
+		<title lang="zh">黨團協商</title>
+	</programme>
+	<programme channel="国会频道1" start="20240906232900 +0800" stop="20240906235900 +0800">
+		<title lang="zh">黨團協商</title>
+	</programme>
+	<channel id="国会频道2">
+		<display-name lang="zh">国会频道2</display-name>
+	</channel>
+	<programme channel="国会频道2" start="20240906011800 +0800" stop="20240906041900 +0800">
+		<title lang="zh">司法及法制委員會</title>
+	</programme>
+	<programme channel="国会频道2" start="20240906041900 +0800" stop="20240906051900 +0800">
+		<title lang="zh">社會福利及衛生環境委員會</title>
+	</programme>
+	<programme channel="国会频道2" start="20240906051900 +0800" stop="20240906072900 +0800">
+		<title lang="zh">社會福利及衛生環境委員會</title>
+	</programme>
+	<programme channel="国会频道2" start="20240906072900 +0800" stop="20240906080000 +0800">
+		<title lang="zh">立法院院會</title>
+	</programme>
+	<programme channel="国会频道2" start="20240906080000 +0800" stop="20240906101100 +0800">
+		<title lang="zh">立法院院會</title>
+	</programme>
+	<programme channel="国会频道2" start="20240906101100 +0800" stop="20240906122700 +0800">
+		<title lang="zh">立法院院會</title>
+	</programme>
+	<programme channel="国会频道2" start="20240906122700 +0800" stop="20240906171500 +0800">
+		<title lang="zh">交通委員會</title>
+	</programme>
+	<programme channel="国会频道2" start="20240906171500 +0800" stop="20240906203000 +0800">
+		<title lang="zh">司法及法制委員會</title>
+	</programme>
+	<programme channel="国会频道2" start="20240906203000 +0800" stop="20240906222000 +0800">
+		<title lang="zh">黨團協商</title>
+	</programme>
+	<programme channel="国会频道2" start="20240906222000 +0800" stop="20240906225800 +0800">
+		<title lang="zh">程序委員會</title>
+	</programme>
+	<programme channel="国会频道2" start="20240906225800 +0800" stop="20240906235900 +0800">
+		<title lang="zh">交通委員會</title>
+	</programme>
 	<channel id="国学">
 		<display-name lang="zh">国学</display-name>
 	</channel>
@@ -54024,6 +54096,9 @@
 	<programme channel="纯享4K" start="20240906040800 +0800" stop="20240906045000 +0800">
 		<title lang="zh">远方的家4K 长江行 卓克河：穿越四季</title>
 	</programme>
+	<programme channel="纯享4K" start="20240906050100 +0800" stop="20240906055000 +0800">
+		<title lang="zh">世界遗产漫步4K 第1集 丽江</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -65955,6 +66030,9 @@
 	<programme channel="newtv超级电视剧" start="20240906042800 +0800" stop="20240906051000 +0800">
 		<title lang="zh">29_我和我的三个姐姐</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240906051000 +0800" stop="20240906055100 +0800">
+		<title lang="zh">30_我和我的三个姐姐</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -66000,6 +66078,9 @@
 	<programme channel="newtv精品纪录" start="20240906041300 +0800" stop="20240906051100 +0800">
 		<title lang="zh">04_无声的功勋（第一季）</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240906051100 +0800" stop="20240906060900 +0800">
+		<title lang="zh">01_家国天下</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -66042,6 +66123,9 @@
 	<programme channel="newtv军旅剧场" start="20240906041700 +0800" stop="20240906050200 +0800">
 		<title lang="zh">08_川流</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240906050200 +0800" stop="20240906055600 +0800">
+		<title lang="zh">09_川流</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -66063,6 +66147,9 @@
 	<programme channel="newtv家庭剧场" start="20240906042900 +0800" stop="20240906051500 +0800">
 		<title lang="zh">40_林深见鹿</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240906051500 +0800" stop="20240906061000 +0800">
+		<title lang="zh">01_我爱男保姆</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -66077,6 +66164,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20240906040400 +0800" stop="20240906045900 +0800">
 		<title lang="zh">05_安家</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20240906045900 +0800" stop="20240906054500 +0800">
+		<title lang="zh">06_安家</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -66095,6 +66185,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20240906040300 +0800" stop="20240906045800 +0800">
 		<title lang="zh">07_天地姻缘七仙女</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20240906045800 +0800" stop="20240906054300 +0800">
+		<title lang="zh">08_天地姻缘七仙女</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -66132,6 +66225,9 @@
 	<programme channel="newtv怡伴健康" start="20240906043300 +0800" stop="20240906050000 +0800">
 		<title lang="zh">冰河时代的烙印（下）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240906050000 +0800" stop="20240906053600 +0800">
+		<title lang="zh">青苔的奇迹（上）</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -66146,6 +66242,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240906040500 +0800" stop="20240906044900 +0800">
 		<title lang="zh">38_独生子女的婆婆妈妈</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240906044900 +0800" stop="20240906054200 +0800">
+		<title lang="zh">39_独生子女的婆婆妈妈</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -66185,6 +66284,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240906042400 +0800" stop="20240906044900 +0800">
 		<title lang="zh">战位上的美食</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240906051400 +0800" stop="20240906054000 +0800">
+		<title lang="zh">代表委员的强军故事 第1集</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -66264,6 +66366,9 @@
 	<programme channel="newtv金牌综艺" start="20240906033800 +0800" stop="20240906051200 +0800">
 		<title lang="zh">舞蹈世界（2022）</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20240906051200 +0800" stop="20240906063900 +0800">
+		<title lang="zh">生活最有戏（2022）</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
@@ -66326,6 +66431,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240906032800 +0800" stop="20240906050300 +0800">
 		<title lang="zh">包公传奇之天长案</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240906050300 +0800" stop="20240906053400 +0800">
+		<title lang="zh">男子太极拳、太极剑全能</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
