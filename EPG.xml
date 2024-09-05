@@ -61608,6 +61608,9 @@
 	<programme channel="纯享4K" start="20240905154800 +0800" stop="20240905161600 +0800">
 		<title lang="zh">记住乡愁4K第九季 雍溪——石堡变金山 花香飘万家</title>
 	</programme>
+	<programme channel="纯享4K" start="20240905161600 +0800" stop="20240905164400 +0800">
+		<title lang="zh">记住乡愁4K第九季 福安——居之安 平之福</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -73893,6 +73896,9 @@
 	<programme channel="黑莓动画" start="20240905155500 +0800" stop="20240905161100 +0800">
 		<title lang="zh">坦克世界动画：新怪物莫迪塔</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240905161100 +0800" stop="20240905162800 +0800">
+		<title lang="zh">小志和玩具第十二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -74550,6 +74556,9 @@
 	<programme channel="newtv超级电影" start="20240905144200 +0800" stop="20240905161200 +0800">
 		<title lang="zh">电影《一诺千金》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20240905161200 +0800" stop="20240905172800 +0800">
+		<title lang="zh">电影《特别有种：致命行动》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -74760,6 +74769,9 @@
 	<programme channel="newtv精品纪录" start="20240905152000 +0800" stop="20240905160900 +0800">
 		<title lang="zh">02_礼玉天工</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240905160900 +0800" stop="20240905170800 +0800">
+		<title lang="zh">04_孤独的路 勇敢的心</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -74822,6 +74834,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20240905151500 +0800" stop="20240905160900 +0800">
 		<title lang="zh">32_灼灼风流</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20240905160900 +0800" stop="20240905165400 +0800">
+		<title lang="zh">62_那年花开月正圆</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -75234,6 +75249,9 @@
 	<programme channel="newtv潮妈辣婆" start="20240905151800 +0800" stop="20240905161200 +0800">
 		<title lang="zh">39_三十而已</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240905161200 +0800" stop="20240905165700 +0800">
+		<title lang="zh">40_三十而已</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -75429,6 +75447,9 @@
 	<programme channel="newtv炫舞未来" start="20240905155500 +0800" stop="20240905160700 +0800">
 		<title lang="zh">02_牧羊曲-李萍（完整版）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240905160700 +0800" stop="20240905162500 +0800">
+		<title lang="zh">10_套马杆-孙爱迪（完整版）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -75521,6 +75542,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20240905152100 +0800" stop="20240905161000 +0800">
 		<title lang="zh">德国卡赫纯钛RO反渗透净水器-渠道（右）</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240905161000 +0800" stop="20240905173600 +0800">
+		<title lang="zh">失踪</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
