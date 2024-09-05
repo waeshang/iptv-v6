@@ -84,6 +84,9 @@
 	<programme channel="4K综艺" start="20240905152300 +0800" stop="20240905164800 +0800">
 		<title lang="zh">奇兵神犬20180105</title>
 	</programme>
+	<programme channel="4K综艺" start="20240905164800 +0800" stop="20240905174000 +0800">
+		<title lang="zh">小小的追球20200115</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -73905,6 +73908,9 @@
 	<programme channel="黑莓动画" start="20240905162800 +0800" stop="20240905165200 +0800">
 		<title lang="zh">甜心格格 第一季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240905165200 +0800" stop="20240905171900 +0800">
+		<title lang="zh">蘑菇头和恐龙笨波</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -74490,6 +74496,9 @@
 	<programme channel="newtv超级综艺" start="20240905154200 +0800" stop="20240905165900 +0800">
 		<title lang="zh">向幸福出发</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240905165900 +0800" stop="20240905180700 +0800">
+		<title lang="zh">中国b7保定乡村音乐大会</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -74700,6 +74709,9 @@
 	<programme channel="newtv精品大剧" start="20240905155800 +0800" stop="20240905164700 +0800">
 		<title lang="zh">日本SUSUMOTOYA小分子脑活素-渠道（右）</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240905164700 +0800" stop="20240905173200 +0800">
+		<title lang="zh">05_大盛魁</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -74846,6 +74858,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20240905160900 +0800" stop="20240905165400 +0800">
 		<title lang="zh">62_那年花开月正圆</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20240905165400 +0800" stop="20240905174300 +0800">
+		<title lang="zh">德国卡赫纯钛RO反渗透净水器-渠道（右）</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -75273,6 +75288,9 @@
 	<programme channel="newtv潮妈辣婆" start="20240905161200 +0800" stop="20240905165700 +0800">
 		<title lang="zh">40_三十而已</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240905165700 +0800" stop="20240905174300 +0800">
+		<title lang="zh">41_三十而已</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -75605,6 +75623,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20240905131600 +0800" stop="20240905165600 +0800">
 		<title lang="zh">德云斗笑社 第2季</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20240905165600 +0800" stop="20240905191900 +0800">
+		<title lang="zh">半熟恋人第2季</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
