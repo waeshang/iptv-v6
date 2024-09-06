@@ -28923,6 +28923,9 @@
 	<programme channel="咪咕足球" start="20240906111000 +0800" stop="20240906125000 +0800">
 		<title lang="zh">当燃CBA 24/25夏季联赛 浙江稠州金租-天津先行者</title>
 	</programme>
+	<programme channel="咪咕足球" start="20240906130000 +0800" stop="20240906140000 +0800">
+		<title lang="zh">超级三对三-2024超三联赛</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -62016,6 +62019,12 @@
 	<programme channel="纯享4K" start="20240906121600 +0800" stop="20240906125800 +0800">
 		<title lang="zh">远方的家4K 长江行 卓克河：穿越四季</title>
 	</programme>
+	<programme channel="纯享4K" start="20240906125800 +0800" stop="20240906130300 +0800">
+		<title lang="zh">美丽中国自然4K 克什克腾的春系列 沙地云杉</title>
+	</programme>
+	<programme channel="纯享4K" start="20240906130800 +0800" stop="20240906135800 +0800">
+		<title lang="zh">世界遗产漫步4K 第1集 丽江</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -75102,6 +75111,9 @@
 	<programme channel="newtv超级体育" start="20240906123500 +0800" stop="20240906125500 +0800">
 		<title lang="zh">艺术里的奥林匹克</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240906130000 +0800" stop="20240906150000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2024年巴黎奥运会</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -75185,6 +75197,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20240906122200 +0800" stop="20240906130300 +0800">
 		<title lang="zh">11_大唐狄公案</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240906130300 +0800" stop="20240906134500 +0800">
+		<title lang="zh">32_猎手</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -75309,6 +75324,9 @@
 	<programme channel="newtv精品纪录" start="20240906122900 +0800" stop="20240906130700 +0800">
 		<title lang="zh">第4集：这一年，你存下钱了吗？</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240906130700 +0800" stop="20240906133100 +0800">
+		<title lang="zh">03_袁枚先生的随园不随便</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -75356,6 +75374,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20240906120500 +0800" stop="20240906125100 +0800">
 		<title lang="zh">HOKO纯钛富硒RO即热净水机-渠道（右）</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20240906125100 +0800" stop="20240906133600 +0800">
+		<title lang="zh">33_灼灼风流</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -75407,6 +75428,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240906122200 +0800" stop="20240906131400 +0800">
 		<title lang="zh">05_欢颜</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240906131400 +0800" stop="20240906135800 +0800">
+		<title lang="zh">06_欢颜</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -75570,6 +75594,9 @@
 	<programme channel="newtv动作电影" start="20240906104400 +0800" stop="20240906124800 +0800">
 		<title lang="zh">侵占</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20240906124800 +0800" stop="20240906133600 +0800">
+		<title lang="zh">AMOS高聚能养生钛锅（新）-渠道（右）</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -75627,6 +75654,9 @@
 	<programme channel="newtv怡伴健康" start="20240906123000 +0800" stop="20240906125800 +0800">
 		<title lang="zh">35_多彩庄家院第二季</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240906125800 +0800" stop="20240906133400 +0800">
+		<title lang="zh">36_多彩庄家院第二季</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -75671,6 +75701,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240906121600 +0800" stop="20240906125400 +0800">
 		<title lang="zh">宵夜江湖第2季</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240906125400 +0800" stop="20240906133900 +0800">
+		<title lang="zh">42_三十而已</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -75746,6 +75779,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240906123300 +0800" stop="20240906125500 +0800">
 		<title lang="zh">直击二战b7强攻卡西诺</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240906125500 +0800" stop="20240906131700 +0800">
+		<title lang="zh">直击二战b7抢滩“奥马哈”</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
