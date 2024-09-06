@@ -93,6 +93,9 @@
 	<programme channel="4K综艺" start="20240906160100 +0800" stop="20240906165900 +0800">
 		<title lang="zh">小小的追球20200218</title>
 	</programme>
+	<programme channel="4K综艺" start="20240906165900 +0800" stop="20240906175300 +0800">
+		<title lang="zh">小小的追球20200219</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -74574,6 +74577,9 @@
 	<programme channel="黑莓动画" start="20240906162900 +0800" stop="20240906165600 +0800">
 		<title lang="zh">蘑菇头和恐龙笨波</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240906165600 +0800" stop="20240906172800 +0800">
+		<title lang="zh">百变校巴之超学先锋2</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -75603,6 +75609,9 @@
 	<programme channel="newtv军旅剧场" start="20240906160600 +0800" stop="20240906170100 +0800">
 		<title lang="zh">19_英雄戟</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240906170100 +0800" stop="20240906174600 +0800">
+		<title lang="zh">20_英雄戟</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -75723,6 +75732,9 @@
 	<programme channel="newtv热播精选" start="20240906160000 +0800" stop="20240906164900 +0800">
 		<title lang="zh">AMOS钛多功能电饭煲惠选款-渠道（右）</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20240906164900 +0800" stop="20240906174400 +0800">
+		<title lang="zh">14_潜行者</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -75773,6 +75785,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20240906150700 +0800" stop="20240906164700 +0800">
 		<title lang="zh">放牛班的交响</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20240906164700 +0800" stop="20240906174000 +0800">
+		<title lang="zh">12_我家有喜</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -75890,6 +75905,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240906163000 +0800" stop="20240906165700 +0800">
 		<title lang="zh">痴情假男友</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240906165700 +0800" stop="20240906174600 +0800">
+		<title lang="zh">日本SUSUMOTOYA小分子脑活素-渠道（右）</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -76155,6 +76173,9 @@
 	<programme channel="newtv炫舞未来" start="20240906160900 +0800" stop="20240906164900 +0800">
 		<title lang="zh">第8期：男友毕业要回农村，妹子穿婚纱上台求婚</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240906164900 +0800" stop="20240906173600 +0800">
+		<title lang="zh">夏秋交替护好心脑血管</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -76214,6 +76235,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240906160900 +0800" stop="20240906164900 +0800">
 		<title lang="zh">10_闪耀的她</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240906164900 +0800" stop="20240906173600 +0800">
+		<title lang="zh">11_闪耀的她</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
