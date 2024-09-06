@@ -53070,6 +53070,9 @@
 	<programme channel="纯享4K" start="20240907023500 +0800" stop="20240907030300 +0800">
 		<title lang="zh">好吃客4K 大同</title>
 	</programme>
+	<programme channel="纯享4K" start="20240907030300 +0800" stop="20240907032700 +0800">
+		<title lang="zh">了不起的冬天4K 第7集 跨界</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -64872,6 +64875,9 @@
 	<programme channel="newtv超级综艺" start="20240907014800 +0800" stop="20240907031400 +0800">
 		<title lang="zh">中国国宝大会 第三季</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240907031400 +0800" stop="20240907042600 +0800">
+		<title lang="zh">诗画中国</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -64890,6 +64896,9 @@
 	<programme channel="newtv超级电影" start="20240907013700 +0800" stop="20240907030300 +0800">
 		<title lang="zh">风流乾隆</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20240907030300 +0800" stop="20240907042800 +0800">
+		<title lang="zh">穿工服的青春</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -64904,6 +64913,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20240907021800 +0800" stop="20240907030000 +0800">
 		<title lang="zh">23_叛逆者</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240907030000 +0800" stop="20240907034100 +0800">
+		<title lang="zh">24_叛逆者</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -64947,6 +64959,9 @@
 	<programme channel="newtv古装剧场" start="20240907015800 +0800" stop="20240907025300 +0800">
 		<title lang="zh">06_上古情歌</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240907025300 +0800" stop="20240907033800 +0800">
+		<title lang="zh">07_上古情歌</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -64958,6 +64973,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240907021600 +0800" stop="20240907031000 +0800">
 		<title lang="zh">22_南侨机工英雄传</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240907031000 +0800" stop="20240907035500 +0800">
+		<title lang="zh">23_南侨机工英雄传</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -64988,6 +65006,9 @@
 	</channel>
 	<programme channel="newtv爱情喜剧" start="20240907011400 +0800" stop="20240907024700 +0800">
 		<title lang="zh">诡劫</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20240907024700 +0800" stop="20240907033200 +0800">
+		<title lang="zh">09_天地姻缘七仙女</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -65031,6 +65052,9 @@
 	<programme channel="newtv潮妈辣婆" start="20240907020500 +0800" stop="20240907025200 +0800">
 		<title lang="zh">01_我和我爸的十七岁</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240907025200 +0800" stop="20240907035200 +0800">
+		<title lang="zh">02_我和我爸的十七岁</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -65055,6 +65079,12 @@
 	<programme channel="newtv军事评论" start="20240907022400 +0800" stop="20240907024600 +0800">
 		<title lang="zh">俄乌冲突深观察 美俄坦克对决</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240907024600 +0800" stop="20240907030800 +0800">
+		<title lang="zh">伊以冲突下的危险博弈</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240907030800 +0800" stop="20240907033000 +0800">
+		<title lang="zh">新质战力淬炼深蓝利剑 1</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -65069,6 +65099,12 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240907024000 +0800" stop="20240907025200 +0800">
 		<title lang="zh">《广场舞》 赞赞赞（附教学）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240907025800 +0800" stop="20240907030200 +0800">
+		<title lang="zh">《广场舞》 谁家的姑娘（正面演示）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240907031200 +0800" stop="20240907044200 +0800">
+		<title lang="zh">经典咏流传b7正青春（20230702）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -65087,6 +65123,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20240907013800 +0800" stop="20240907030700 +0800">
 		<title lang="zh">鲨鱼帝国</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240907030700 +0800" stop="20240907044200 +0800">
+		<title lang="zh">暗语者</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
