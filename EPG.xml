@@ -74538,6 +74538,9 @@
 	<programme channel="黑莓动画" start="20240906143600 +0800" stop="20240906150600 +0800">
 		<title lang="zh">张大牙爱搞怪第三季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240906150600 +0800" stop="20240906153200 +0800">
+		<title lang="zh">笨蛋波波与小宝</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -75258,6 +75261,9 @@
 	<programme channel="newtv超级电视剧" start="20240906142600 +0800" stop="20240906150800 +0800">
 		<title lang="zh">34_猎手</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240906150800 +0800" stop="20240906154900 +0800">
+		<title lang="zh">35_猎手</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -75314,6 +75320,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240906141100 +0800" stop="20240906150600 +0800">
 		<title lang="zh">11_江河之上</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240906150600 +0800" stop="20240906155100 +0800">
+		<title lang="zh">12_江河之上</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -75456,6 +75465,9 @@
 	<programme channel="newtv古装剧场" start="20240906143200 +0800" stop="20240906151500 +0800">
 		<title lang="zh">35_灼灼风流</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240906151500 +0800" stop="20240906155400 +0800">
+		<title lang="zh">36_灼灼风流</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -75573,6 +75585,9 @@
 	<programme channel="newtv家庭剧场" start="20240906142100 +0800" stop="20240906150700 +0800">
 		<title lang="zh">38_三十而已</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240906150700 +0800" stop="20240906154600 +0800">
+		<title lang="zh">冯小宁从业48周年亲酿纪念酒-渠道（右）</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -75620,6 +75635,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20240906142000 +0800" stop="20240906151500 +0800">
 		<title lang="zh">12_潜行者</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20240906151500 +0800" stop="20240906160000 +0800">
+		<title lang="zh">13_潜行者</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -75669,6 +75687,9 @@
 	<programme channel="newtv爱情喜剧" start="20240906141800 +0800" stop="20240906150700 +0800">
 		<title lang="zh">日本SUSUMOTOYA小分子脑活素-渠道（右）</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20240906150700 +0800" stop="20240906164700 +0800">
+		<title lang="zh">放牛班的交响</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -75698,6 +75719,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20240906133600 +0800" stop="20240906151300 +0800">
 		<title lang="zh">九十二任务</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20240906151300 +0800" stop="20240906171600 +0800">
+		<title lang="zh">怒战狂心</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -75831,6 +75855,9 @@
 	<programme channel="newtv潮妈辣婆" start="20240906142600 +0800" stop="20240906150500 +0800">
 		<title lang="zh">冯小宁从业48周年亲酿纪念酒-渠道（右）</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240906150500 +0800" stop="20240906155100 +0800">
+		<title lang="zh">01_欢乐颂4</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -75924,6 +75951,9 @@
 	<programme channel="newtv军事评论" start="20240906144400 +0800" stop="20240906150600 +0800">
 		<title lang="zh">女性与一战（上）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240906150600 +0800" stop="20240906152800 +0800">
+		<title lang="zh">女性与一战（下）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -76007,6 +76037,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240906144900 +0800" stop="20240906151500 +0800">
 		<title lang="zh">TOP音乐咖（20240623）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240906151500 +0800" stop="20240906155400 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
