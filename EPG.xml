@@ -61989,6 +61989,9 @@
 	<programme channel="纯享4K" start="20240906101000 +0800" stop="20240906103900 +0800">
 		<title lang="zh">好吃客4K 西安</title>
 	</programme>
+	<programme channel="纯享4K" start="20240906103900 +0800" stop="20240906110300 +0800">
+		<title lang="zh">了不起的冬天4K 第5集 刀尖之争</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -75213,6 +75216,9 @@
 	<programme channel="newtv精品纪录" start="20240906102100 +0800" stop="20240906103500 +0800">
 		<title lang="zh">03_竹内亮</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240906103500 +0800" stop="20240906105000 +0800">
+		<title lang="zh">04_费嘉炯</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -75432,6 +75438,9 @@
 	<programme channel="newtv动作电影" start="20240906083700 +0800" stop="20240906104400 +0800">
 		<title lang="zh">佣兵传奇</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20240906104400 +0800" stop="20240906124800 +0800">
+		<title lang="zh">侵占</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -75515,6 +75524,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240906095400 +0800" stop="20240906103900 +0800">
 		<title lang="zh">32_铁血玫瑰</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240906103900 +0800" stop="20240906113200 +0800">
+		<title lang="zh">33_铁血玫瑰</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -75704,6 +75716,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20240906090700 +0800" stop="20240906103500 +0800">
 		<title lang="zh">南宋猎人之灵蛊魅影</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240906103500 +0800" stop="20240906115100 +0800">
+		<title lang="zh">大明诡事录</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
