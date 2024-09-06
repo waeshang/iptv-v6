@@ -64830,6 +64830,9 @@
 	<programme channel="黑莓电影" start="20240907031700 +0800" stop="20240907045700 +0800">
 		<title lang="zh">再吻我一次</title>
 	</programme>
+	<programme channel="黑莓电影" start="20240907045700 +0800" stop="20240907070300 +0800">
+		<title lang="zh">碟中谍3</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -65355,6 +65358,9 @@
 	<programme channel="newtv超级电视剧" start="20240907042300 +0800" stop="20240907050400 +0800">
 		<title lang="zh">34_我和我的三个姐姐</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240907050400 +0800" stop="20240907054600 +0800">
+		<title lang="zh">35_我和我的三个姐姐</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -65438,6 +65444,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240907035500 +0800" stop="20240907044900 +0800">
 		<title lang="zh">24_南侨机工英雄传</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240907044900 +0800" stop="20240907053400 +0800">
+		<title lang="zh">13_川流</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -65532,6 +65541,9 @@
 	<programme channel="newtv怡伴健康" start="20240907043400 +0800" stop="20240907050100 +0800">
 		<title lang="zh">青苔的奇迹（下）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240907050100 +0800" stop="20240907053700 +0800">
+		<title lang="zh">风暴之子（一）</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -65615,6 +65627,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240907044600 +0800" stop="20240907044900 +0800">
 		<title lang="zh">《广场舞》 花样年华表演</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240907045700 +0800" stop="20240907050200 +0800">
+		<title lang="zh">《广场舞》 我爱的人在新疆第三讲_爱的力量</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
