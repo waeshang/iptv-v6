@@ -74730,6 +74730,9 @@
 	<programme channel="黑莓动画" start="20240906214000 +0800" stop="20240906214700 +0800">
 		<title lang="zh">36_脸盲征候群</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240906220000 +0800" stop="20240906221400 +0800">
+		<title lang="zh">38_踢踢和奇奇之魔力课堂 第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -75381,6 +75384,9 @@
 	<programme channel="newtv超级体育" start="20240906211500 +0800" stop="20240906220000 +0800">
 		<title lang="zh">实况录像-2024年巴黎残奥会 坐式排球 女子半决赛(录播)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240906220000 +0800" stop="20240906223500 +0800">
+		<title lang="zh">体育世界</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -75605,6 +75611,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240906212000 +0800" stop="20240906215000 +0800">
 		<title lang="zh">美丽密码-28期</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240906215000 +0800" stop="20240906223600 +0800">
+		<title lang="zh">31_谁是真英雄</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -76718,6 +76727,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240906211700 +0800" stop="20240906214700 +0800">
 		<title lang="zh">美丽密码-31期</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240906214700 +0800" stop="20240906223300 +0800">
+		<title lang="zh">13_埃博拉前线</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
