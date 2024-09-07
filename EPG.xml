@@ -75429,6 +75429,9 @@
 	<programme channel="黑莓动画" start="20240907162800 +0800" stop="20240907165600 +0800">
 		<title lang="zh">蘑菇头和恐龙笨波</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240907165600 +0800" stop="20240907172700 +0800">
+		<title lang="zh">百变校巴之超学先锋2</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -76362,6 +76365,9 @@
 	<programme channel="newtv古装剧场" start="20240907160200 +0800" stop="20240907165200 +0800">
 		<title lang="zh">40_灼灼风流</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240907165200 +0800" stop="20240907174100 +0800">
+		<title lang="zh">德国卡赫纯钛RO反渗透净水器-渠道（右）</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -76548,6 +76554,9 @@
 	<programme channel="newtv热播精选" start="20240907160900 +0800" stop="20240907165800 +0800">
 		<title lang="zh">AMOS钛多功能电饭煲惠选款-渠道（右）</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20240907165800 +0800" stop="20240907175200 +0800">
+		<title lang="zh">18_潜行者</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -76595,6 +76604,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20240907152100 +0800" stop="20240907165400 +0800">
 		<title lang="zh">精武青春</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20240907165400 +0800" stop="20240907181700 +0800">
+		<title lang="zh">一刻十年</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -76718,6 +76730,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240907160600 +0800" stop="20240907165500 +0800">
 		<title lang="zh">AMOS钛多功能电饭煲惠选款-渠道（右）</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240907165500 +0800" stop="20240907173400 +0800">
+		<title lang="zh">第四场 湖南星火燎原vs天津兄弟连 第2局</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -76892,6 +76907,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240907162600 +0800" stop="20240907165100 +0800">
 		<title lang="zh">美日韩欲推进对朝“新策略” 拜登政府紧急对以出售万枚炮弹</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240907165100 +0800" stop="20240907171600 +0800">
+		<title lang="zh">仁爱礁海域多次发生紧急事态 外交部：责任完全在菲方 乌方称俄军全线进攻</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -77108,6 +77126,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20240907125100 +0800" stop="20240907170800 +0800">
 		<title lang="zh">德云斗笑社 第2季</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20240907170800 +0800" stop="20240907194200 +0800">
+		<title lang="zh">半熟恋人第2季</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
