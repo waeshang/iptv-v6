@@ -51636,6 +51636,9 @@
 	<programme channel="纯享4K" start="20240908023200 +0800" stop="20240908025600 +0800">
 		<title lang="zh">了不起的冬天4K 第9集 瞬间的奥秘</title>
 	</programme>
+	<programme channel="纯享4K" start="20240908025600 +0800" stop="20240908032100 +0800">
+		<title lang="zh">了不起的冬天4K 第10集 了不起的冬天</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -63783,6 +63786,9 @@
 	<programme channel="newtv精品大剧" start="20240908020800 +0800" stop="20240908025400 +0800">
 		<title lang="zh">22_侦察英雄</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240908025400 +0800" stop="20240908034900 +0800">
+		<title lang="zh">23_侦察英雄</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -63825,6 +63831,9 @@
 	<programme channel="newtv军旅剧场" start="20240908020400 +0800" stop="20240908025800 +0800">
 		<title lang="zh">27_南侨机工英雄传</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240908025800 +0800" stop="20240908035300 +0800">
+		<title lang="zh">28_南侨机工英雄传</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -63854,6 +63863,9 @@
 	</channel>
 	<programme channel="newtv爱情喜剧" start="20240908011200 +0800" stop="20240908025500 +0800">
 		<title lang="zh">武林外传</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20240908025500 +0800" stop="20240908035000 +0800">
+		<title lang="zh">14_天地姻缘七仙女</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -63918,6 +63930,9 @@
 	<programme channel="newtv军事评论" start="20240908023200 +0800" stop="20240908025400 +0800">
 		<title lang="zh">七零八碎的菲军装备</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240908025400 +0800" stop="20240908031600 +0800">
+		<title lang="zh">俄乌冲突深观察 无人机的革命</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -63935,6 +63950,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240908024500 +0800" stop="20240908025400 +0800">
 		<title lang="zh">中国力量-李萍（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240908025800 +0800" stop="20240908030200 +0800">
+		<title lang="zh">不惜时光-毕刚（舞蹈展示）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
