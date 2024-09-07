@@ -62901,6 +62901,9 @@
 	<programme channel="纯享4K" start="20240907143700 +0800" stop="20240907150600 +0800">
 		<title lang="zh">寻古中国4K 玉石记b7神玉寻踪</title>
 	</programme>
+	<programme channel="纯享4K" start="20240907150600 +0800" stop="20240907153600 +0800">
+		<title lang="zh">寻古中国4K 玉石记b7古玉之谜</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -75387,6 +75390,9 @@
 	<programme channel="黑莓动画" start="20240907142900 +0800" stop="20240907145500 +0800">
 		<title lang="zh">张大牙爱搞怪第三季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240907145500 +0800" stop="20240907152400 +0800">
+		<title lang="zh">笨蛋波波与小宝</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -75416,6 +75422,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20240907135300 +0800" stop="20240907151000 +0800">
 		<title lang="zh">大神猴1降妖篇</title>
+	</programme>
+	<programme channel="黑莓电影" start="20240907151000 +0800" stop="20240907172900 +0800">
+		<title lang="zh">人工智能</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -76092,6 +76101,9 @@
 	<programme channel="newtv超级电视剧" start="20240907142100 +0800" stop="20240907150200 +0800">
 		<title lang="zh">38_猎手</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240907150200 +0800" stop="20240907154400 +0800">
+		<title lang="zh">39_猎手</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -76218,6 +76230,9 @@
 	<programme channel="newtv精品纪录" start="20240907142700 +0800" stop="20240907150600 +0800">
 		<title lang="zh">千城百味（十）</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240907150600 +0800" stop="20240907155300 +0800">
+		<title lang="zh">新安沉船（上）</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -76274,6 +76289,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20240907141200 +0800" stop="20240907151200 +0800">
 		<title lang="zh">38_灼灼风流</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20240907151200 +0800" stop="20240907160200 +0800">
+		<title lang="zh">39_灼灼风流</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -76388,6 +76406,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20240907140200 +0800" stop="20240907144700 +0800">
 		<title lang="zh">17_守婚如玉</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240907144700 +0800" stop="20240907152600 +0800">
+		<title lang="zh">冯小宁从业48周年亲酿纪念酒-渠道（右）</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -76593,6 +76614,9 @@
 	<programme channel="newtv怡伴健康" start="20240907142500 +0800" stop="20240907145200 +0800">
 		<title lang="zh">自导自演入牢狱</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240907145200 +0800" stop="20240907152800 +0800">
+		<title lang="zh">痴情假男友</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -76646,6 +76670,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240907143300 +0800" stop="20240907151200 +0800">
 		<title lang="zh">冯小宁从业48周年亲酿纪念酒-渠道（右）</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240907151200 +0800" stop="20240907155800 +0800">
+		<title lang="zh">06_欢乐颂4</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -76742,6 +76769,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240907143200 +0800" stop="20240907145400 +0800">
 		<title lang="zh">“惩戒行动”始末b7万事俱备</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240907145400 +0800" stop="20240907151600 +0800">
+		<title lang="zh">角逐地中海（中）</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -76874,6 +76904,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240907144400 +0800" stop="20240907150900 +0800">
 		<title lang="zh">29_名侦探柯南（一）</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240907150900 +0800" stop="20240907155800 +0800">
+		<title lang="zh">德国卡赫纯钛RO反渗透净水器-渠道（右）</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
