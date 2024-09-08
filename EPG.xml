@@ -84,6 +84,9 @@
 	<programme channel="4K综艺" start="20240908094500 +0800" stop="20240908105900 +0800">
 		<title lang="zh">我最爱的女人们20190601</title>
 	</programme>
+	<programme channel="4K综艺" start="20240908105900 +0800" stop="20240908115800 +0800">
+		<title lang="zh">真心大冒险20180428</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -29981,6 +29984,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20240908092500 +0800" stop="20240908110500 +0800">
 		<title lang="zh">2024NBL季后赛半决赛G3 长沙湾田永胜-香港金牛</title>
+	</programme>
+	<programme channel="咪咕足球" start="20240908111000 +0800" stop="20240908125000 +0800">
+		<title lang="zh">当燃CBA 24/25夏季联赛 江苏肯帝亚-天津先行者</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -62883,6 +62889,9 @@
 	<programme channel="纯享4K" start="20240908103500 +0800" stop="20240908105900 +0800">
 		<title lang="zh">了不起的冬天4K 第9集 瞬间的奥秘</title>
 	</programme>
+	<programme channel="纯享4K" start="20240908105900 +0800" stop="20240908112300 +0800">
+		<title lang="zh">了不起的冬天4K 第10集 了不起的冬天</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -76290,6 +76299,9 @@
 	<programme channel="newtv精品大剧" start="20240908100900 +0800" stop="20240908105500 +0800">
 		<title lang="zh">11_蝶影</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240908105500 +0800" stop="20240908114400 +0800">
+		<title lang="zh">AMOS钛多功能电饭煲惠选款-渠道（右）</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -76385,6 +76397,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20240908101700 +0800" stop="20240908110100 +0800">
 		<title lang="zh">11_春光灿烂猪九妹</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20240908110100 +0800" stop="20240908114400 +0800">
+		<title lang="zh">12_春光灿烂猪九妹</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -76506,6 +76521,9 @@
 	<programme channel="newtv热播精选" start="20240908101100 +0800" stop="20240908105500 +0800">
 		<title lang="zh">16_星汉灿烂</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20240908105500 +0800" stop="20240908115400 +0800">
+		<title lang="zh">AMOS钛多功能电饭煲惠选款-渠道（右）</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -76607,6 +76625,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240908101700 +0800" stop="20240908105600 +0800">
 		<title lang="zh">美国云杉新一代止疼再生精油-渠道（右）</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240908105600 +0800" stop="20240908113200 +0800">
+		<title lang="zh">39_多彩庄家院第二季</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -76827,6 +76848,9 @@
 	<programme channel="newtv精品综合" start="20240908100700 +0800" stop="20240908105400 +0800">
 		<title lang="zh">17_三生三世枕上书</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20240908105400 +0800" stop="20240908113700 +0800">
+		<title lang="zh">18_三生三世枕上书</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -76976,6 +77000,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240908101400 +0800" stop="20240908110000 +0800">
 		<title lang="zh">23_雪鹰领主</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240908110000 +0800" stop="20240908115300 +0800">
+		<title lang="zh">24_雪鹰领主</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
