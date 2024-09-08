@@ -76719,6 +76719,9 @@
 	<programme channel="newtv超级电视剧" start="20240908192300 +0800" stop="20240908201500 +0800">
 		<title lang="zh">15_开端</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240908201500 +0800" stop="20240908210000 +0800">
+		<title lang="zh">01_侦察英雄</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
