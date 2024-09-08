@@ -117,6 +117,9 @@
 	<programme channel="4K综艺" start="20240908223300 +0800" stop="20240908231500 +0800">
 		<title lang="zh">我最爱的女人们20190622</title>
 	</programme>
+	<programme channel="4K综艺" start="20240908231500 +0800" stop="20240908000000 +0800">
+		<title lang="zh">儿行千里20170827</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -30074,6 +30077,9 @@
 	</programme>
 	<programme channel="咪咕综合体育" start="20240908220500 +0800" stop="20240908225800 +0800">
 		<title lang="zh">拜仁慕尼黑：传奇背后 第6集：终局之战</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20240908230000 +0800" stop="20240908000000 +0800">
+		<title lang="zh">国球荣耀-WTT重庆冠军赛 男单 1/4决赛</title>
 	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
@@ -76038,6 +76044,9 @@
 	<programme channel="黑莓动画" start="20240908223700 +0800" stop="20240908230000 +0800">
 		<title lang="zh">20_咒术回战</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240908230000 +0800" stop="20240908231900 +0800">
+		<title lang="zh">07_大理寺日志</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -76626,6 +76635,9 @@
 	<programme channel="newtv超级综艺" start="20240908221800 +0800" stop="20240908230800 +0800">
 		<title lang="zh">妙语连珠</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240908230800 +0800" stop="20240908000000 +0800">
+		<title lang="zh">17_乐游原</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -76722,6 +76734,9 @@
 	<programme channel="newtv超级电影" start="20240908213600 +0800" stop="20240908230700 +0800">
 		<title lang="zh">电影《绝世低手之夺命玉玺》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20240908230700 +0800" stop="20240908002900 +0800">
+		<title lang="zh">电影《迷毒之东风破》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -76817,6 +76832,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20240908222500 +0800" stop="20240908230500 +0800">
 		<title lang="zh">24_前夜</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240908230500 +0800" stop="20240908002700 +0800">
+		<title lang="zh">07_漫长的季节</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -77205,6 +77223,9 @@
 	<programme channel="newtv军旅剧场" start="20240908221800 +0800" stop="20240908230300 +0800">
 		<title lang="zh">08_上海滩生死较量</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240908230300 +0800" stop="20240908235200 +0800">
+		<title lang="zh">AMOS钛多功能电饭煲惠选款-渠道（右）</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -77375,6 +77396,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20240908220800 +0800" stop="20240908224700 +0800">
 		<title lang="zh">19_闪耀的她</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20240908224700 +0800" stop="20240908232500 +0800">
+		<title lang="zh">PASSEZLA抗皱紧致淡纹霜贡献组-渠道（右）</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -77619,6 +77643,9 @@
 	<programme channel="newtv怡伴健康" start="20240908224400 +0800" stop="20240908225900 +0800">
 		<title lang="zh">小品《一波三折》 表演：贾玲 张小斐</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240908225900 +0800" stop="20240908231800 +0800">
+		<title lang="zh">小品《男子汉大丈夫》 表演：郭冬临 牛莉</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -77859,6 +77886,9 @@
 	<programme channel="newtv军事评论" start="20240908222900 +0800" stop="20240908225500 +0800">
 		<title lang="zh">白宫解密情报：瓦格纳准备向伊朗提供武器 美媒声称武装力量将开辟新战线</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240908225500 +0800" stop="20240908232000 +0800">
+		<title lang="zh">加沙战火重燃 菲再向仁爱礁送“补给” 德空军将“领衔”亚太演习之旅</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -77963,6 +77993,12 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240908224100 +0800" stop="20240908230000 +0800">
 		<title lang="zh">最好的舞台-李萍（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240908230000 +0800" stop="20240908231300 +0800">
+		<title lang="zh">领航-李萍（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240908231200 +0800" stop="20240908231600 +0800">
+		<title lang="zh">在灿烂阳光下—毕刚（舞蹈展示）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -78201,6 +78237,9 @@
 	<programme channel="newtv精品体育" start="20240908212400 +0800" stop="20240908225700 +0800">
 		<title lang="zh">【NBA赛场】23-24赛季附加赛：勇士VS国王</title>
 	</programme>
+	<programme channel="newtv精品体育" start="20240908225700 +0800" stop="20240908234300 +0800">
+		<title lang="zh">重温经典 欧洲杯百大进球</title>
+	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
 	</channel>
@@ -78320,6 +78359,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240908222900 +0800" stop="20240908231400 +0800">
 		<title lang="zh">19_天龙八部</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240908231400 +0800" stop="20240908003900 +0800">
+		<title lang="zh">黄飞鸿之武神林世荣</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
