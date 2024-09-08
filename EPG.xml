@@ -29994,6 +29994,9 @@
 	<programme channel="咪咕足球" start="20240908111000 +0800" stop="20240908125000 +0800">
 		<title lang="zh">当燃CBA 24/25夏季联赛 江苏肯帝亚-天津先行者</title>
 	</programme>
+	<programme channel="咪咕足球" start="20240908130000 +0800" stop="20240908140000 +0800">
+		<title lang="zh">超级三对三-2024超三联赛</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -62904,6 +62907,9 @@
 	<programme channel="纯享4K" start="20240908121200 +0800" stop="20240908125400 +0800">
 		<title lang="zh">远方的家4K 长江行 金沙江：公主起舞的乐园</title>
 	</programme>
+	<programme channel="纯享4K" start="20240908125900 +0800" stop="20240908130500 +0800">
+		<title lang="zh">美丽中国自然4K 巫山系列 小娃娃鱼</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -76224,6 +76230,9 @@
 	<programme channel="newtv超级体育" start="20240908123500 +0800" stop="20240908125500 +0800">
 		<title lang="zh">艺术里的奥林匹克</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240908130000 +0800" stop="20240908143500 +0800">
+		<title lang="zh">2024年世界职业拳王争霸赛</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -76356,6 +76365,9 @@
 	<programme channel="newtv精品大剧" start="20240908114400 +0800" stop="20240908123900 +0800">
 		<title lang="zh">12_蝶影</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240908123900 +0800" stop="20240908132500 +0800">
+		<title lang="zh">19_江河之上</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -76415,6 +76427,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240908120800 +0800" stop="20240908124200 +0800">
 		<title lang="zh">第6集：这一年，你UP了吗？</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240908124200 +0800" stop="20240908131400 +0800">
+		<title lang="zh">07_陆游 卷王美食诗人的养成之路</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -76514,6 +76529,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240908120000 +0800" stop="20240908124200 +0800">
 		<title lang="zh">07_北国英雄</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240908124200 +0800" stop="20240908133600 +0800">
+		<title lang="zh">13_欢颜</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -76641,6 +76659,9 @@
 	<programme channel="newtv爱情喜剧" start="20240908120100 +0800" stop="20240908125600 +0800">
 		<title lang="zh">37_我的爱对你说</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20240908125600 +0800" stop="20240908134100 +0800">
+		<title lang="zh">38_我的爱对你说</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -76728,6 +76749,9 @@
 	<programme channel="newtv怡伴健康" start="20240908121900 +0800" stop="20240908123200 +0800">
 		<title lang="zh">小品《快递小乔》 表演：乔杉 娄艺潇</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240908125400 +0800" stop="20240908130800 +0800">
+		<title lang="zh">小品《快乐其实很简单》 表演：孙涛 闫妮</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -76772,6 +76796,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240908122400 +0800" stop="20240908125800 +0800">
 		<title lang="zh">宵夜江湖第2季</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240908125800 +0800" stop="20240908134300 +0800">
+		<title lang="zh">09_欢乐颂4</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -76857,6 +76884,9 @@
 	<programme channel="newtv军事评论" start="20240908123000 +0800" stop="20240908125100 +0800">
 		<title lang="zh">诺曼底水下探秘（二）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240908125100 +0800" stop="20240908131300 +0800">
+		<title lang="zh">诺曼底水下探秘（三）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -76920,6 +76950,9 @@
 	<programme channel="newtv炫舞未来" start="20240908112500 +0800" stop="20240908124200 +0800">
 		<title lang="zh">此“扬帆”非彼杨帆 杨帆竟然偷偷发展副业？（20240311）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240908124200 +0800" stop="20240908133200 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -76967,6 +77000,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240908122300 +0800" stop="20240908130100 +0800">
 		<title lang="zh">PASSEZLA抗皱紧致淡纹霜贡献组-渠道（右）</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240908130100 +0800" stop="20240908143900 +0800">
+		<title lang="zh">李时，你是真顽皮</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
