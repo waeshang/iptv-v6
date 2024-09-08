@@ -75630,6 +75630,9 @@
 	<programme channel="黑莓动画" start="20240908120100 +0800" stop="20240908122700 +0800">
 		<title lang="zh">超级飞侠第15季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240908122700 +0800" stop="20240908130200 +0800">
+		<title lang="zh">嗨道奇第2季中文版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -76218,6 +76221,9 @@
 	<programme channel="newtv超级体育" start="20240908120000 +0800" stop="20240908123500 +0800">
 		<title lang="zh">体坛快讯</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240908123500 +0800" stop="20240908125500 +0800">
+		<title lang="zh">艺术里的奥林匹克</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -76298,6 +76304,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20240908120400 +0800" stop="20240908124600 +0800">
 		<title lang="zh">19_大唐狄公案</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240908124600 +0800" stop="20240908133000 +0800">
+		<title lang="zh">40_猎手</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -76455,6 +76464,9 @@
 	<programme channel="newtv古装剧场" start="20240908114400 +0800" stop="20240908122300 +0800">
 		<title lang="zh">美国云杉新一代止疼再生精油-渠道（右）</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240908122300 +0800" stop="20240908130700 +0800">
+		<title lang="zh">13_春光灿烂猪九妹</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -76550,6 +76562,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20240908113400 +0800" stop="20240908122000 +0800">
 		<title lang="zh">20_守婚如玉</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240908122000 +0800" stop="20240908130900 +0800">
+		<title lang="zh">AMOS高聚能养生钛锅（新）-渠道（右）</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -76653,6 +76668,9 @@
 	<programme channel="newtv动作电影" start="20240908103300 +0800" stop="20240908122700 +0800">
 		<title lang="zh">上海王</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20240908122700 +0800" stop="20240908130600 +0800">
+		<title lang="zh">美国云杉新一代止疼再生精油-渠道（右）</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -76707,6 +76725,9 @@
 	<programme channel="newtv怡伴健康" start="20240908120800 +0800" stop="20240908121900 +0800">
 		<title lang="zh">小品《快乐老爸》 表演：冯巩 徐帆</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240908121900 +0800" stop="20240908123200 +0800">
+		<title lang="zh">小品《快递小乔》 表演：乔杉 娄艺潇</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -76748,6 +76769,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240908112700 +0800" stop="20240908122400 +0800">
 		<title lang="zh">07_梦华录</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240908122400 +0800" stop="20240908125800 +0800">
+		<title lang="zh">宵夜江湖第2季</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -76829,6 +76853,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240908104500 +0800" stop="20240908113700 +0800">
 		<title lang="zh">矢志空天研为战</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240908123000 +0800" stop="20240908125100 +0800">
+		<title lang="zh">诺曼底水下探秘（二）</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -76938,6 +76965,9 @@
 	<programme channel="newtv精品综合" start="20240908113700 +0800" stop="20240908122300 +0800">
 		<title lang="zh">19_三生三世枕上书</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20240908122300 +0800" stop="20240908130100 +0800">
+		<title lang="zh">PASSEZLA抗皱紧致淡纹霜贡献组-渠道（右）</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -76967,6 +76997,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20240908113900 +0800" stop="20240908122800 +0800">
 		<title lang="zh">日本SUSUMOTOYA小分子脑活素-渠道（右）</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240908122800 +0800" stop="20240908132800 +0800">
+		<title lang="zh">魔游纪1：盘古之心</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
