@@ -75672,6 +75672,9 @@
 	<programme channel="黑莓动画" start="20240908142900 +0800" stop="20240908145400 +0800">
 		<title lang="zh">张大牙爱搞怪第三季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240908145400 +0800" stop="20240908152600 +0800">
+		<title lang="zh">笨蛋波波与小宝</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -76308,6 +76311,9 @@
 	<programme channel="newtv超级电影" start="20240908133100 +0800" stop="20240908145600 +0800">
 		<title lang="zh">电影《公证人之金手指》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20240908145600 +0800" stop="20240908162500 +0800">
+		<title lang="zh">电影《我的美女室友》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -76370,6 +76376,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20240908141500 +0800" stop="20240908145600 +0800">
 		<title lang="zh">02_幸福有配方</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240908145600 +0800" stop="20240908153800 +0800">
+		<title lang="zh">03_幸福有配方</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -76673,6 +76682,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20240908140400 +0800" stop="20240908144900 +0800">
 		<title lang="zh">22_守婚如玉</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240908144900 +0800" stop="20240908153800 +0800">
+		<title lang="zh">AMOS钛多功能电饭煲惠选款-渠道（右）</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -77193,6 +77205,9 @@
 	<programme channel="newtv惊悚悬疑" start="20240908132800 +0800" stop="20240908145900 +0800">
 		<title lang="zh">河神b7诡水怪谈</title>
 	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240908145900 +0800" stop="20240908162600 +0800">
+		<title lang="zh">喀纳斯水怪</title>
+	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
@@ -77339,6 +77354,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240908142300 +0800" stop="20240908145300 +0800">
 		<title lang="zh">中国搏击十年</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240908145300 +0800" stop="20240908154800 +0800">
+		<title lang="zh">49_大秦帝国之纵横</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
