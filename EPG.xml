@@ -65820,6 +65820,9 @@
 	<programme channel="newtv超级体育" start="20240910053000 +0800" stop="20240910060000 +0800">
 		<title lang="zh">实况录像-2024年世界田联钻石联赛 巴黎站</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240910060000 +0800" stop="20240910063000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2024年巴黎奥运会 射击比赛2</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -65988,6 +65991,9 @@
 	<programme channel="newtv家庭剧场" start="20240910045300 +0800" stop="20240910054800 +0800">
 		<title lang="zh">18_我爱男保姆</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240910054800 +0800" stop="20240910063300 +0800">
+		<title lang="zh">19_我爱男保姆</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -66005,6 +66011,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20240910051000 +0800" stop="20240910055600 +0800">
 		<title lang="zh">23_安家</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20240910055600 +0800" stop="20240910065100 +0800">
+		<title lang="zh">24_安家</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -66135,6 +66144,9 @@
 	<programme channel="newtv军事评论" start="20240910053200 +0800" stop="20240910055800 +0800">
 		<title lang="zh">直击“国际军事比赛-2024”——“萨彦岭行军”</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240910055800 +0800" stop="20240910062300 +0800">
+		<title lang="zh">军营里的好搭档</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -66230,6 +66242,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20240910041500 +0800" stop="20240910055700 +0800">
 		<title lang="zh">2024-25赛季法甲联赛第3轮：里尔VS巴黎圣日耳曼</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20240910055700 +0800" stop="20240910074300 +0800">
+		<title lang="zh">2024-25赛季法甲联赛第3轮：摩纳哥VS朗斯</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
