@@ -93,6 +93,9 @@
 	<programme channel="4K综艺" start="20240909172800 +0800" stop="20240909190000 +0800">
 		<title lang="zh">我最爱的女人们20190628</title>
 	</programme>
+	<programme channel="4K综艺" start="20240909190000 +0800" stop="20240909194200 +0800">
+		<title lang="zh">我最爱的女人们20190629</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -28835,6 +28838,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20240909173000 +0800" stop="20240909190000 +0800">
 		<title lang="zh">篮球：为爱而生07 飞人乔丹</title>
+	</programme>
+	<programme channel="咪咕足球" start="20240909190500 +0800" stop="20240909193000 +0800">
+		<title lang="zh">NBA周刊</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -70143,6 +70149,9 @@
 	<programme channel="黑莓动画" start="20240909183800 +0800" stop="20240909185200 +0800">
 		<title lang="zh">10_龙战士星源</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240909185200 +0800" stop="20240909190600 +0800">
+		<title lang="zh">09_咖宝车神第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -70980,6 +70989,9 @@
 	<programme channel="newtv精品纪录" start="20240909175800 +0800" stop="20240909185500 +0800">
 		<title lang="zh">黄石公园——火与冰</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240909185500 +0800" stop="20240909192000 +0800">
+		<title lang="zh">06_山河并流</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -71123,6 +71135,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240909180300 +0800" stop="20240909184800 +0800">
 		<title lang="zh">31_英雄戟</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240909184800 +0800" stop="20240909193400 +0800">
+		<title lang="zh">06_军刺</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -71322,6 +71337,9 @@
 	<programme channel="newtv爱情喜剧" start="20240909181100 +0800" stop="20240909185700 +0800">
 		<title lang="zh">30_我家有喜</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20240909185700 +0800" stop="20240909194500 +0800">
+		<title lang="zh">金加瀛清新系列桑蚕长丝贡被200*230cm/金加瀛清新系列桑蚕长丝贡被220*240cm-渠道（右）</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -71447,6 +71465,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240909181000 +0800" stop="20240909184600 +0800">
 		<title lang="zh">第七场 天津兄弟连vs北京东炸团 第2局</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240909184600 +0800" stop="20240909192400 +0800">
+		<title lang="zh">第七场 天津兄弟连vs北京东炸团 第3局</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -71805,6 +71826,9 @@
 	<programme channel="newtv精品综合" start="20240909180500 +0800" stop="20240909185100 +0800">
 		<title lang="zh">22_埃博拉前线</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20240909185100 +0800" stop="20240909193000 +0800">
+		<title lang="zh">美国云杉新一代止疼再生精油-渠道（右）</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -71909,6 +71933,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20240909170300 +0800" stop="20240909185700 +0800">
 		<title lang="zh">23-24赛季NBA季后赛：掘金VS森林狼</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20240909185700 +0800" stop="20240909201800 +0800">
+		<title lang="zh">23-24赛季NBA季后赛：凯尔特人VS骑士</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
