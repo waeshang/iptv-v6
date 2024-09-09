@@ -62817,6 +62817,9 @@
 	<programme channel="newtv超级电视剧" start="20240910021700 +0800" stop="20240910025900 +0800">
 		<title lang="zh">38_叛逆者</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240910025900 +0800" stop="20240910034000 +0800">
+		<title lang="zh">39_叛逆者</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -62843,6 +62846,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240910021900 +0800" stop="20240910025700 +0800">
 		<title lang="zh">第一集 往事千年</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240910025700 +0800" stop="20240910032700 +0800">
+		<title lang="zh">第二集 中国探月</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -62979,6 +62985,9 @@
 	<programme channel="newtv炫舞未来" start="20240910024200 +0800" stop="20240910024600 +0800">
 		<title lang="zh">《广场舞》 花姑娘（正面演示）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240910025400 +0800" stop="20240910034400 +0800">
+		<title lang="zh">绽放吧！妈妈（20240826）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -62993,6 +63002,9 @@
 	</channel>
 	<programme channel="newtv惊悚悬疑" start="20240910012500 +0800" stop="20240910025500 +0800">
 		<title lang="zh">亡命演说</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240910025500 +0800" stop="20240910041900 +0800">
+		<title lang="zh">怪兽2：史前异种</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
