@@ -73176,6 +73176,9 @@
 	<programme channel="黑莓电影" start="20240911132500 +0800" stop="20240911144700 +0800">
 		<title lang="zh">黑猫警长之翡翠之星</title>
 	</programme>
+	<programme channel="黑莓电影" start="20240911144700 +0800" stop="20240911163500 +0800">
+		<title lang="zh">北京纽约</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -73761,6 +73764,9 @@
 	<programme channel="newtv超级电影" start="20240911133400 +0800" stop="20240911145600 +0800">
 		<title lang="zh">电影《加油二师兄》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20240911145600 +0800" stop="20240911161700 +0800">
+		<title lang="zh">电影《跨越时空去爱你》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -73877,6 +73883,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240911140200 +0800" stop="20240911144800 +0800">
 		<title lang="zh">33_江河之上</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240911144800 +0800" stop="20240911153300 +0800">
+		<title lang="zh">34_江河之上</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -74165,6 +74174,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20240911140500 +0800" stop="20240911150000 +0800">
 		<title lang="zh">29_潜行者</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20240911150000 +0800" stop="20240911154600 +0800">
+		<title lang="zh">30_潜行者</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -74601,6 +74613,9 @@
 	<programme channel="newtv精品综合" start="20240911142900 +0800" stop="20240911145400 +0800">
 		<title lang="zh">33_名侦探柯南（一）</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20240911145400 +0800" stop="20240911154300 +0800">
+		<title lang="zh">PANATO黑果腺助花楸果复合片-渠道（右）</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -74783,6 +74798,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240911140100 +0800" stop="20240911145000 +0800">
 		<title lang="zh">PANATO黑果腺助花楸果复合片-渠道（右）</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240911145000 +0800" stop="20240911153500 +0800">
+		<title lang="zh">08_大秦帝国之裂变</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
