@@ -27297,6 +27297,9 @@
 	<programme channel="咪咕综合体育" start="20240912044500 +0800" stop="20240912055500 +0800">
 		<title lang="zh">排场纵横-23/24赛季中国男排超级联赛 决赛首回合 北京北汽-上海光明</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20240912060000 +0800" stop="20240912063500 +0800">
+		<title lang="zh">国球荣耀-WTT球星挑战赛卢布尔雅那站 混双 决赛</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -62178,6 +62181,9 @@
 	<programme channel="newtv超级体育" start="20240912053000 +0800" stop="20240912060000 +0800">
 		<title lang="zh">实况录像-2024年世界田联钻石联赛 洛桑站</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240912060000 +0800" stop="20240912063000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2024年巴黎奥运会 射击比赛4</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -62246,6 +62252,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240912045100 +0800" stop="20240912054600 +0800">
 		<title lang="zh">11_特战行动</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240912054600 +0800" stop="20240912063200 +0800">
+		<title lang="zh">12_特战行动</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -62325,6 +62334,9 @@
 	<programme channel="newtv军旅剧场" start="20240912051000 +0800" stop="20240912055400 +0800">
 		<title lang="zh">01_黎明决战</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240912055400 +0800" stop="20240912064700 +0800">
+		<title lang="zh">02_黎明决战</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -62367,6 +62379,9 @@
 	<programme channel="newtv热播精选" start="20240912051200 +0800" stop="20240912055800 +0800">
 		<title lang="zh">31_安家</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20240912055800 +0800" stop="20240912065400 +0800">
+		<title lang="zh">32_安家</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -62387,6 +62402,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20240912050400 +0800" stop="20240912055900 +0800">
 		<title lang="zh">38_天地姻缘七仙女</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20240912055900 +0800" stop="20240912072700 +0800">
+		<title lang="zh">猪太狼的夏天</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -62535,6 +62553,9 @@
 	<programme channel="newtv炫舞未来" start="20240912054100 +0800" stop="20240912055700 +0800">
 		<title lang="zh">笑纳-李萍（完整版）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240912055700 +0800" stop="20240912061100 +0800">
+		<title lang="zh">饿狼传说-毕刚（完整版）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -62549,6 +62570,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240912045300 +0800" stop="20240912054800 +0800">
 		<title lang="zh">15_黄河在咆哮</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240912054800 +0800" stop="20240912063300 +0800">
+		<title lang="zh">16_黄河在咆哮</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
