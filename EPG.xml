@@ -60915,6 +60915,9 @@
 	<programme channel="纯享4K" start="20240911213600 +0800" stop="20240911222100 +0800">
 		<title lang="zh">传承b7智慧篇4K 第5集 美学之码</title>
 	</programme>
+	<programme channel="纯享4K" start="20240911222100 +0800" stop="20240911230600 +0800">
+		<title lang="zh">传承b7智慧篇4K 第6集 动静之力</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -73305,6 +73308,9 @@
 	<programme channel="黑莓动画" start="20240911220900 +0800" stop="20240911222300 +0800">
 		<title lang="zh">48_踢踢和奇奇之魔力课堂 第二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240911222300 +0800" stop="20240911224700 +0800">
+		<title lang="zh"> 01_咒术回战第2季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -73842,6 +73848,9 @@
 	<programme channel="newtv超级综艺" start="20240911215200 +0800" stop="20240911224700 +0800">
 		<title lang="zh">幸福账单-勇者之战</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240911224700 +0800" stop="20240911233700 +0800">
+		<title lang="zh">29_乐游原</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -73956,6 +73965,9 @@
 	<programme channel="newtv超级电影" start="20240911201900 +0800" stop="20240911222400 +0800">
 		<title lang="zh">电影《扫毒3：人在天涯》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20240911222400 +0800" stop="20240911000600 +0800">
+		<title lang="zh">电影《坚强的心》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -74048,6 +74060,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20240911220200 +0800" stop="20240911224600 +0800">
 		<title lang="zh">32_前夜</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240911224600 +0800" stop="20240911232900 +0800">
+		<title lang="zh">01_岁岁青莲</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -74240,6 +74255,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240911221000 +0800" stop="20240911222900 +0800">
 		<title lang="zh">第11集：延吉冷面</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240911222900 +0800" stop="20240911232200 +0800">
+		<title lang="zh">第五集 谋攻</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -74670,6 +74688,9 @@
 	<programme channel="newtv爱情喜剧" start="20240911214300 +0800" stop="20240911223400 +0800">
 		<title lang="zh">10_我的博士老公</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20240911223400 +0800" stop="20240911000000 +0800">
+		<title lang="zh">最强王者</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -74913,6 +74934,9 @@
 	<programme channel="newtv潮妈辣婆" start="20240911213400 +0800" stop="20240911223000 +0800">
 		<title lang="zh">33_玉骨遥</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240911223000 +0800" stop="20240911233500 +0800">
+		<title lang="zh">收官！S-TEAM为世界杯提案获赞</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -75072,6 +75096,9 @@
 	<programme channel="newtv军事评论" start="20240911220200 +0800" stop="20240911222700 +0800">
 		<title lang="zh">侵蚀欧洲 搅动亚太 “美式霸权”穿梭套利收割全球</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240911222700 +0800" stop="20240911225300 +0800">
+		<title lang="zh">台当局计划成立“自主紧急应变队” 澳增投百亿扩建海军</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -75164,6 +75191,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240911214700 +0800" stop="20240911224300 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240911224300 +0800" stop="20240911230200 +0800">
+		<title lang="zh">最好的舞台-李萍（完整版）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
