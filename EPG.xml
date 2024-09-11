@@ -189,6 +189,9 @@
 	<programme channel="4K综艺" start="20240911171600 +0800" stop="20240911184800 +0800">
 		<title lang="zh">妻子的浪漫旅行第三季20191225</title>
 	</programme>
+	<programme channel="4K综艺" start="20240911184800 +0800" stop="20240911202100 +0800">
+		<title lang="zh">妻子的浪漫旅行第三季20200101</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -60870,6 +60873,9 @@
 	<programme channel="纯享4K" start="20240911182000 +0800" stop="20240911184900 +0800">
 		<title lang="zh">好吃客4K 北京素食</title>
 	</programme>
+	<programme channel="纯享4K" start="20240911184900 +0800" stop="20240911191800 +0800">
+		<title lang="zh">好吃客4K 京郊长城</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -73224,6 +73230,9 @@
 	<programme channel="黑莓动画" start="20240911183300 +0800" stop="20240911184700 +0800">
 		<title lang="zh">13_龙战士星源</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240911190000 +0800" stop="20240911191400 +0800">
+		<title lang="zh">13_咖宝车神第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -73926,6 +73935,9 @@
 	<programme channel="newtv超级电视剧" start="20240911181200 +0800" stop="20240911185800 +0800">
 		<title lang="zh">33_壮丁也是兵</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240911185800 +0800" stop="20240911194300 +0800">
+		<title lang="zh">08_侦察英雄</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -74157,6 +74169,9 @@
 	<programme channel="newtv古装剧场" start="20240911180600 +0800" stop="20240911185400 +0800">
 		<title lang="zh">12_星汉灿烂</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240911185400 +0800" stop="20240911192400 +0800">
+		<title lang="zh">【美好生活】八段锦长寿操</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -74228,6 +74243,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240911181100 +0800" stop="20240911185600 +0800">
 		<title lang="zh">12_军刺</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240911185600 +0800" stop="20240911192600 +0800">
+		<title lang="zh">《美丽密码》推荐第38期</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -74429,6 +74447,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20240911180000 +0800" stop="20240911184900 +0800">
 		<title lang="zh">AMOS钛多功能电饭煲惠选款-渠道（右）</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20240911184900 +0800" stop="20240911194000 +0800">
+		<title lang="zh">07_我的博士老公</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -74918,6 +74939,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240911183300 +0800" stop="20240911185400 +0800">
 		<title lang="zh">闪亮的日子第2季</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240911185400 +0800" stop="20240911195000 +0800">
+		<title lang="zh">美康利健心血通激光治疗仪升级款-渠道（右）</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
