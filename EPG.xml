@@ -24672,6 +24672,12 @@
 	<programme channel="咪咕足球" start="20240912012600 +0800" stop="20240912022600 +0800">
 		<title lang="zh">超级三对三-2024超三联赛</title>
 	</programme>
+	<programme channel="咪咕足球" start="20240912022600 +0800" stop="20240912024100 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20240912024100 +0800" stop="20240912042100 +0800">
+		<title lang="zh">2024NBL第9轮 香港金牛-石家庄翔蓝</title>
+	</programme>
 	<channel id="嘉佳卡通">
 		<display-name lang="zh">嘉佳卡通</display-name>
 	</channel>
@@ -47913,6 +47919,9 @@
 	<programme channel="纯享4K" start="20240912020700 +0800" stop="20240912022200 +0800">
 		<title lang="zh">艺术里的奥林匹克4K 太极雕塑b7单鞭下势</title>
 	</programme>
+	<programme channel="纯享4K" start="20240912022200 +0800" stop="20240912025000 +0800">
+		<title lang="zh">好吃客4K 药食同源</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -58590,6 +58599,9 @@
 	<programme channel="newtv超级电视剧" start="20240912014200 +0800" stop="20240912022700 +0800">
 		<title lang="zh">04_蝶影</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240912022700 +0800" stop="20240912031200 +0800">
+		<title lang="zh">05_蝶影</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -58626,6 +58638,9 @@
 	<programme channel="newtv古装剧场" start="20240912012700 +0800" stop="20240912022000 +0800">
 		<title lang="zh">30_上古情歌</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240912022000 +0800" stop="20240912030500 +0800">
+		<title lang="zh">31_上古情歌</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -58635,6 +58650,9 @@
 	<programme channel="newtv军旅剧场" start="20240912012800 +0800" stop="20240912022300 +0800">
 		<title lang="zh">04_关中义事</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240912022300 +0800" stop="20240912031900 +0800">
+		<title lang="zh">05_关中义事</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -58643,6 +58661,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20240912012400 +0800" stop="20240912022100 +0800">
 		<title lang="zh">51_安家</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240912022100 +0800" stop="20240912030800 +0800">
+		<title lang="zh">52_安家</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -58662,6 +58683,9 @@
 	<programme channel="newtv爱情喜剧" start="20240912012500 +0800" stop="20240912022000 +0800">
 		<title lang="zh">34_天地姻缘七仙女</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20240912022000 +0800" stop="20240912031400 +0800">
+		<title lang="zh">35_天地姻缘七仙女</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -58679,6 +58703,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240912014100 +0800" stop="20240912022700 +0800">
 		<title lang="zh">28_我和我的儿女们</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240912022700 +0800" stop="20240912032000 +0800">
+		<title lang="zh">29_我和我的儿女们</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -58707,6 +58734,9 @@
 	<programme channel="newtv军事评论" start="20240912015600 +0800" stop="20240912021800 +0800">
 		<title lang="zh">揭秘美军高超音速武器</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240912021800 +0800" stop="20240912024000 +0800">
+		<title lang="zh">美“鱼鹰”复飞之路再遇坎坷</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -58722,6 +58752,9 @@
 	<programme channel="newtv精品综合" start="20240912002600 +0800" stop="20240912021900 +0800">
 		<title lang="zh">侠捕之夺命红莲</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20240912021900 +0800" stop="20240912040700 +0800">
+		<title lang="zh">令人心动的offer第4季</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -58736,6 +58769,9 @@
 	</channel>
 	<programme channel="newtv金牌综艺" start="20240912003800 +0800" stop="20240912023000 +0800">
 		<title lang="zh">艺览天下（2022）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20240912023000 +0800" stop="20240912042900 +0800">
+		<title lang="zh">舞蹈世界（2022）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
