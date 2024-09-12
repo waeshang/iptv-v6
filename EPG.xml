@@ -29583,6 +29583,9 @@
 	<programme channel="咪咕足球" start="20240912140000 +0800" stop="20240912140500 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕足球" start="20240912140500 +0800" stop="20240912152500 +0800">
+		<title lang="zh">村BA</title>
+	</programme>
 	<channel id="嘉佳卡通">
 		<display-name lang="zh">嘉佳卡通</display-name>
 	</channel>
@@ -70803,6 +70806,9 @@
 	<programme channel="黑莓动画" start="20240912134100 +0800" stop="20240912140400 +0800">
 		<title lang="zh">一只笨笨的小恐龙</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240912141300 +0800" stop="20240912144900 +0800">
+		<title lang="zh">张大牙爱搞怪第三季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -70829,6 +70835,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20240912123100 +0800" stop="20240912140100 +0800">
 		<title lang="zh">宅门里的女人们</title>
+	</programme>
+	<programme channel="黑莓电影" start="20240912140100 +0800" stop="20240912153600 +0800">
+		<title lang="zh">战金刚</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -71376,6 +71385,9 @@
 	<programme channel="newtv超级综艺" start="20240912125700 +0800" stop="20240912141300 +0800">
 		<title lang="zh">开门大吉</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240912141300 +0800" stop="20240912152200 +0800">
+		<title lang="zh">中国b7保定乡村音乐大会</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -71501,6 +71513,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20240912132200 +0800" stop="20240912140300 +0800">
 		<title lang="zh">16_幸福有配方</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240912140300 +0800" stop="20240912144500 +0800">
+		<title lang="zh">17_幸福有配方</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -71628,6 +71643,9 @@
 	<programme channel="newtv精品纪录" start="20240912135500 +0800" stop="20240912140400 +0800">
 		<title lang="zh">第10集 石斛粽子：妈妈的思念</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240912141300 +0800" stop="20240912145900 +0800">
+		<title lang="zh">千城百味（十五）</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -71681,6 +71699,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20240912131500 +0800" stop="20240912140400 +0800">
 		<title lang="zh">05_大舜</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20240912140400 +0800" stop="20240912144600 +0800">
+		<title lang="zh">17_女医明妃传</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -71786,6 +71807,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20240912131000 +0800" stop="20240912140500 +0800">
 		<title lang="zh">37_守婚如玉</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240912140500 +0800" stop="20240912145000 +0800">
+		<title lang="zh">38_守婚如玉</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -71909,6 +71933,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20240912132900 +0800" stop="20240912140800 +0800">
 		<title lang="zh">Baclayon巴康洋聚合钛凝胶缓压枕-渠道（右）</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20240912140800 +0800" stop="20240912155600 +0800">
+		<title lang="zh">毒。诫</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -72107,6 +72134,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240912134000 +0800" stop="20240912140200 +0800">
 		<title lang="zh">突袭海岛</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240912140200 +0800" stop="20240912142400 +0800">
+		<title lang="zh">港口爆破</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -72338,6 +72368,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20240912120500 +0800" stop="20240912141200 +0800">
 		<title lang="zh">23-24赛季CBA季后赛：东阳光药VS广东</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20240912141200 +0800" stop="20240912160400 +0800">
+		<title lang="zh">23-24赛季CBA季后赛：广州VS青岛</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
