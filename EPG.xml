@@ -59148,6 +59148,9 @@
 	<programme channel="newtv家庭剧场" start="20240913001300 +0800" stop="20240913005800 +0800">
 		<title lang="zh">01_小棉袄</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240913005800 +0800" stop="20240913015200 +0800">
+		<title lang="zh">02_小棉袄</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -59157,41 +59160,8 @@
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
-	<programme channel="newtv爱情喜剧" start="20240913000000 +0800" stop="20240913020000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv爱情喜剧" start="20240913020000 +0800" stop="20240913040000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv爱情喜剧" start="20240913060000 +0800" stop="20240913080000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv爱情喜剧" start="20240913080000 +0800" stop="20240913100600 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv爱情喜剧" start="20240913100600 +0800" stop="20240913120000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv爱情喜剧" start="20240913120000 +0800" stop="20240913140000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv爱情喜剧" start="20240913140000 +0800" stop="20240913160000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv爱情喜剧" start="20240913160000 +0800" stop="20240913180000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv爱情喜剧" start="20240913180000 +0800" stop="20240913190000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv爱情喜剧" start="20240913190000 +0800" stop="20240913200000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv爱情喜剧" start="20240913200000 +0800" stop="20240913220000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv爱情喜剧" start="20240913220000 +0800" stop="20240913235900 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="newtv爱情喜剧" start="20240913004800 +0800" stop="20240913022700 +0800">
+		<title lang="zh">生活修理师</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -59238,6 +59208,9 @@
 	<programme channel="newtv怡伴健康" start="20240913000200 +0800" stop="20240913005100 +0800">
 		<title lang="zh">PANATO黑果腺助花楸果复合片-渠道（右）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240913005100 +0800" stop="20240913013600 +0800">
+		<title lang="zh">30_我和我的儿女们</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -59252,6 +59225,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240913003400 +0800" stop="20240913005600 +0800">
 		<title lang="zh">“舰”证新时代 逐梦向深蓝</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240913005600 +0800" stop="20240913011800 +0800">
+		<title lang="zh">屡遭摧毁的“艾布拉姆斯”坦克</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
