@@ -59568,6 +59568,9 @@
 	<programme channel="纯享4K" start="20240912162400 +0800" stop="20240912165100 +0800">
 		<title lang="zh">记住乡愁4K第九季 寿光——蔬菜之乡 绿潮竞涌</title>
 	</programme>
+	<programme channel="纯享4K" start="20240912165100 +0800" stop="20240912175100 +0800">
+		<title lang="zh">乐享汇4K “雕刻记忆”演唱会（四）</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -70887,6 +70890,9 @@
 	<programme channel="黑莓电影" start="20240912153600 +0800" stop="20240912165600 +0800">
 		<title lang="zh">谁动了我的运气</title>
 	</programme>
+	<programme channel="黑莓电影" start="20240912165600 +0800" stop="20240912183900 +0800">
+		<title lang="zh">玩家</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -71481,6 +71487,9 @@
 	<programme channel="newtv超级体育" start="20240912163000 +0800" stop="20240912170000 +0800">
 		<title lang="zh">实况录像(奥林匹克)-2024年巴黎奥运会 花样游泳集体技巧自选</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240912170000 +0800" stop="20240912180000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2024年巴黎残奥会 田径比赛2</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -71591,6 +71600,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20240912160800 +0800" stop="20240912165400 +0800">
 		<title lang="zh">34_壮丁也是兵</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240912165400 +0800" stop="20240912174000 +0800">
+		<title lang="zh">35_壮丁也是兵</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -71807,6 +71819,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20240912161800 +0800" stop="20240912170000 +0800">
 		<title lang="zh">20_女医明妃传</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20240912170000 +0800" stop="20240912173900 +0800">
+		<title lang="zh">Baclayon巴康洋聚合钛凝胶缓压枕-渠道（右）</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -72048,6 +72063,9 @@
 	<programme channel="newtv爱情喜剧" start="20240912161500 +0800" stop="20240912165700 +0800">
 		<title lang="zh">12_我的博士老公</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20240912165700 +0800" stop="20240912173800 +0800">
+		<title lang="zh">13_我的博士老公</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -72164,6 +72182,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240912161500 +0800" stop="20240912165000 +0800">
 		<title lang="zh">靠不住的婚姻保险</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240912165000 +0800" stop="20240912172800 +0800">
+		<title lang="zh">巧用运动来止痛（四）</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -72530,6 +72551,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20240912150200 +0800" stop="20240912164800 +0800">
 		<title lang="zh">夺命手机</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240912164800 +0800" stop="20240912173500 +0800">
+		<title lang="zh">同仁堂海参滋养超值组-渠道（右）</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
