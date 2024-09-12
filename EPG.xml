@@ -59535,6 +59535,9 @@
 	<programme channel="纯享4K" start="20240912133200 +0800" stop="20240912141700 +0800">
 		<title lang="zh">传承b7智慧篇4K 第7集 数据之恒</title>
 	</programme>
+	<programme channel="纯享4K" start="20240912142700 +0800" stop="20240912145600 +0800">
+		<title lang="zh">旅游指南4K 幸会师父b7咏春拳</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -71457,6 +71460,9 @@
 	<programme channel="newtv超级电影" start="20240912133000 +0800" stop="20240912144600 +0800">
 		<title lang="zh">电影《大力出奇迹》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20240912144600 +0800" stop="20240912160100 +0800">
+		<title lang="zh">电影《狄仁杰之伏妖篇》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -71517,6 +71523,9 @@
 	<programme channel="newtv超级电视剧" start="20240912140300 +0800" stop="20240912144500 +0800">
 		<title lang="zh">17_幸福有配方</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240912144500 +0800" stop="20240912152600 +0800">
+		<title lang="zh">18_幸福有配方</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -71570,6 +71579,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240912134400 +0800" stop="20240912143200 +0800">
 		<title lang="zh">04_完美伴侣</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240912143200 +0800" stop="20240912150700 +0800">
+		<title lang="zh">05_完美伴侣</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -71757,6 +71769,9 @@
 	<programme channel="newtv军旅剧场" start="20240912134600 +0800" stop="20240912143200 +0800">
 		<title lang="zh">13_血誓</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240912143200 +0800" stop="20240912151700 +0800">
+		<title lang="zh">14_血誓</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -71856,6 +71871,9 @@
 	<programme channel="newtv热播精选" start="20240912134700 +0800" stop="20240912143200 +0800">
 		<title lang="zh">31_潜行者</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20240912143200 +0800" stop="20240912152700 +0800">
+		<title lang="zh">32_潜行者</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -71903,6 +71921,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20240912131000 +0800" stop="20240912143800 +0800">
 		<title lang="zh">两个人的房间</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20240912143800 +0800" stop="20240912151900 +0800">
+		<title lang="zh">11_我的博士老公</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -72000,6 +72021,12 @@
 	<programme channel="newtv怡伴健康" start="20240912140000 +0800" stop="20240912142400 +0800">
 		<title lang="zh">小品《婆婆妈妈》 表演：贾玲 张小斐</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240912142400 +0800" stop="20240912143800 +0800">
+		<title lang="zh">小品《学车》 表演：蔡明 潘长江</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240912143800 +0800" stop="20240912144900 +0800">
+		<title lang="zh">小品《实诚人》 表演：郭冬临 黄晓娟</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -72050,6 +72077,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240912133300 +0800" stop="20240912141800 +0800">
 		<title lang="zh">26_欢乐颂4</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240912141800 +0800" stop="20240912150700 +0800">
+		<title lang="zh">AMOS钛多功能电饭煲惠选款-渠道（右）</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -72138,6 +72168,12 @@
 	<programme channel="newtv军事评论" start="20240912140200 +0800" stop="20240912142400 +0800">
 		<title lang="zh">港口爆破</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240912142400 +0800" stop="20240912144600 +0800">
+		<title lang="zh">攻占杰拉港</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240912144600 +0800" stop="20240912150800 +0800">
+		<title lang="zh">破坏重水厂</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -72222,6 +72258,9 @@
 	<programme channel="newtv炫舞未来" start="20240912135800 +0800" stop="20240912143100 +0800">
 		<title lang="zh">第5期：美女为爱减肥暴瘦70斤，网恋男友变心写信说分手</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240912143100 +0800" stop="20240912152700 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -72269,6 +72308,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240912130400 +0800" stop="20240912144000 +0800">
 		<title lang="zh">乌龙兄弟</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240912144000 +0800" stop="20240912150500 +0800">
+		<title lang="zh">34_名侦探柯南（一）</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -72341,6 +72383,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20240912130600 +0800" stop="20240912144300 +0800">
 		<title lang="zh">德云斗笑社 第2季</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20240912144300 +0800" stop="20240912152300 +0800">
+		<title lang="zh">石药牌水溶性叶黄素粉固体饮料-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
@@ -72455,6 +72500,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240912134500 +0800" stop="20240912143400 +0800">
 		<title lang="zh">PANATO黑果腺助花楸果复合片-渠道（右）</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240912143400 +0800" stop="20240912152000 +0800">
+		<title lang="zh">11_大秦帝国之裂变</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
