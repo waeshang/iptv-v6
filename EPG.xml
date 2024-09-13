@@ -60036,6 +60036,9 @@
 	<programme channel="纯享4K" start="20240913162300 +0800" stop="20240913165100 +0800">
 		<title lang="zh">记住乡愁4K第九季 白沙——黎寨稻香茶意浓</title>
 	</programme>
+	<programme channel="纯享4K" start="20240913165100 +0800" stop="20240913175000 +0800">
+		<title lang="zh">乐享汇4K “新的唱响”演唱会</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -71241,6 +71244,9 @@
 	<programme channel="黑莓动画" start="20240913160800 +0800" stop="20240913165400 +0800">
 		<title lang="zh">蘑菇头和恐龙笨波</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240913165400 +0800" stop="20240913172500 +0800">
+		<title lang="zh">百变校巴之超学先锋2</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -71273,6 +71279,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20240913153000 +0800" stop="20240913170100 +0800">
 		<title lang="zh">牛头不对马嘴</title>
+	</programme>
+	<programme channel="黑莓电影" start="20240913170100 +0800" stop="20240913183700 +0800">
+		<title lang="zh">御医传奇</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -71771,6 +71780,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20240913160000 +0800" stop="20240913170000 +0800">
 		<title lang="zh">实况录像(奥林匹克)-2024年巴黎奥运会 举重女子81公斤以上级决赛</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20240913170000 +0800" stop="20240913180000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2024年巴黎残奥会 轮椅篮球女子比赛1</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -72327,6 +72339,9 @@
 	<programme channel="newtv爱情喜剧" start="20240913161100 +0800" stop="20240913164900 +0800">
 		<title lang="zh">石药牌鲨鱼软骨氨糖软骨素特惠组新-渠道（右）</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20240913164900 +0800" stop="20240913185400 +0800">
+		<title lang="zh">朋友</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -72362,6 +72377,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20240913153000 +0800" stop="20240913165700 +0800">
 		<title lang="zh">血战狙击岭</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20240913165700 +0800" stop="20240913174400 +0800">
+		<title lang="zh">同仁堂海参滋养超值组-渠道（右）</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -72443,6 +72461,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240913160900 +0800" stop="20240913164800 +0800">
 		<title lang="zh">小心致盲眼病盯上你</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240913164800 +0800" stop="20240913173600 +0800">
+		<title lang="zh">AMOS钛多功能电饭煲惠选款-渠道（右）</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -72611,6 +72632,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240913163200 +0800" stop="20240913165700 +0800">
 		<title lang="zh">瑞典正式“入约” 马克龙称援乌“不设底线” 美上百架军机秘密向以运弹药</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240913165700 +0800" stop="20240913172300 +0800">
+		<title lang="zh">组团援乌？法国拟组建联盟向乌派兵 美F-35A战机获核弹携带认证</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
