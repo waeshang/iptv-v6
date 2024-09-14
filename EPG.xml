@@ -61749,6 +61749,9 @@
 	<programme channel="纯享4K" start="20240914161900 +0800" stop="20240914164700 +0800">
 		<title lang="zh">记住乡愁4K第九季 柏桥——千年荔乡 甜美家园</title>
 	</programme>
+	<programme channel="纯享4K" start="20240914164700 +0800" stop="20240914174600 +0800">
+		<title lang="zh">乐享汇4K “新的唱响”演唱会 二</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -73266,6 +73269,9 @@
 	<programme channel="黑莓动画" start="20240914163800 +0800" stop="20240914170000 +0800">
 		<title lang="zh">蘑菇头和恐龙笨波</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240914170000 +0800" stop="20240914173200 +0800">
+		<title lang="zh">百变校巴之超学先锋2</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -73890,6 +73896,9 @@
 	<programme channel="newtv超级体育" start="20240914160500 +0800" stop="20240914170500 +0800">
 		<title lang="zh">实况录像(奥林匹克)-2024年巴黎奥运会 举重男子102公斤级决赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240914170500 +0800" stop="20240914180000 +0800">
+		<title lang="zh">足球之夜</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -73928,6 +73937,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20240914153900 +0800" stop="20240914170500 +0800">
 		<title lang="zh">电影《永不消失的广播》</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20240914170500 +0800" stop="20240914182000 +0800">
+		<title lang="zh">电影《说谎者游戏》</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -74139,6 +74151,9 @@
 	<programme channel="newtv精品纪录" start="20240914161400 +0800" stop="20240914165600 +0800">
 		<title lang="zh">第1集：脊梁</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240914165600 +0800" stop="20240914175200 +0800">
+		<title lang="zh">美康利健心血通激光治疗仪升级款-渠道（右）</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -74204,6 +74219,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20240914161300 +0800" stop="20240914165600 +0800">
 		<title lang="zh">28_女医明妃传</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20240914165600 +0800" stop="20240914174500 +0800">
+		<title lang="zh">AMOS钛多功能电饭煲惠选款-渠道（右）</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -74333,6 +74351,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20240914155300 +0800" stop="20240914164800 +0800">
 		<title lang="zh">28_儿女情更长</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240914164800 +0800" stop="20240914173300 +0800">
+		<title lang="zh">29_儿女情更长</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -74555,6 +74576,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240914161900 +0800" stop="20240914165300 +0800">
 		<title lang="zh">弄假成真的官司</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240914165300 +0800" stop="20240914173200 +0800">
+		<title lang="zh">拨开迷雾话哮喘</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -74814,6 +74838,9 @@
 	<programme channel="newtv炫舞未来" start="20240914160600 +0800" stop="20240914165600 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240914165600 +0800" stop="20240914180600 +0800">
+		<title lang="zh">调皮老师超会模仿 唱歌跳舞体验节日氛围（20240720）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -74981,6 +75008,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20240914145900 +0800" stop="20240914165700 +0800">
 		<title lang="zh">2024世界女排联赛中国香港站：中国VS土耳其</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20240914165700 +0800" stop="20240914182100 +0800">
+		<title lang="zh">【NBA赛场】23-24赛季常规赛：森林狼VS国王</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
