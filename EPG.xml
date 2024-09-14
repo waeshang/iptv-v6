@@ -61872,6 +61872,9 @@
 	<programme channel="纯享4K" start="20240914202900 +0800" stop="20240914203400 +0800">
 		<title lang="zh">美丽中国自然4K 皖南系列 黄山松</title>
 	</programme>
+	<programme channel="纯享4K" start="20240914203900 +0800" stop="20240914211800 +0800">
+		<title lang="zh">探索b7发现4K 江口明末战场考古大揭秘（3）</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -73461,6 +73464,9 @@
 	<programme channel="黑莓动画" start="20240914201000 +0800" stop="20240914203500 +0800">
 		<title lang="zh">08_德凯奥特曼 普通话版</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240914203500 +0800" stop="20240914205900 +0800">
+		<title lang="zh">09_德凯奥特曼 普通话版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -74316,6 +74322,9 @@
 	<programme channel="newtv精品大剧" start="20240914201200 +0800" stop="20240914204200 +0800">
 		<title lang="zh">《美丽密码》推荐第40期</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240914204200 +0800" stop="20240914212700 +0800">
+		<title lang="zh">46_大盛魁</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -74838,6 +74847,9 @@
 	<programme channel="newtv动作电影" start="20240914191600 +0800" stop="20240914204600 +0800">
 		<title lang="zh">雷霆行动</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20240914204600 +0800" stop="20240914211600 +0800">
+		<title lang="zh">【美好生活】八段锦长寿操</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -74930,6 +74942,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240914201300 +0800" stop="20240914204300 +0800">
 		<title lang="zh">【美好生活】八段锦长寿操</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240914204300 +0800" stop="20240914212100 +0800">
+		<title lang="zh">第五场 天津津门荣耀vs海南四海 第4局</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
