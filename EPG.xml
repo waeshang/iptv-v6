@@ -57,6 +57,9 @@
 	<programme channel="4K综艺" start="20240915022000 +0800" stop="20240915025700 +0800">
 		<title lang="zh">重返地球20180202</title>
 	</programme>
+	<programme channel="4K综艺" start="20240915025700 +0800" stop="20240915035300 +0800">
+		<title lang="zh">我最爱的女人们20190608</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -49959,6 +49962,9 @@
 	<programme channel="纯享4K" start="20240915021900 +0800" stop="20240915024800 +0800">
 		<title lang="zh">好吃客4K 海口</title>
 	</programme>
+	<programme channel="纯享4K" start="20240915024800 +0800" stop="20240915031700 +0800">
+		<title lang="zh">好吃客4K 海南四大名菜</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -60495,6 +60501,9 @@
 	<programme channel="newtv超级电视剧" start="20240915020200 +0800" stop="20240915024700 +0800">
 		<title lang="zh">19_蝶影</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240915024700 +0800" stop="20240915033300 +0800">
+		<title lang="zh">20_蝶影</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -60522,6 +60531,9 @@
 	<programme channel="newtv精品纪录" start="20240915022400 +0800" stop="20240915025700 +0800">
 		<title lang="zh">06_寻找精准医学之路</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240915025700 +0800" stop="20240915035400 +0800">
+		<title lang="zh">第四集 造血通脉</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -60533,6 +60545,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20240915015400 +0800" stop="20240915024700 +0800">
 		<title lang="zh">46_上古情歌</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20240915024700 +0800" stop="20240915033300 +0800">
+		<title lang="zh">47_上古情歌</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -60546,6 +60561,9 @@
 	<programme channel="newtv军旅剧场" start="20240915020000 +0800" stop="20240915025600 +0800">
 		<title lang="zh">19_关中义事</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240915025600 +0800" stop="20240915035100 +0800">
+		<title lang="zh">20_关中义事</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -60557,6 +60575,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20240915020800 +0800" stop="20240915025300 +0800">
 		<title lang="zh">09_小棉袄</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240915025300 +0800" stop="20240915034800 +0800">
+		<title lang="zh">10_小棉袄</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -60606,6 +60627,9 @@
 	<programme channel="newtv潮妈辣婆" start="20240915020100 +0800" stop="20240915025700 +0800">
 		<title lang="zh">17_守婚如玉</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240915025700 +0800" stop="20240915035200 +0800">
+		<title lang="zh">18_守婚如玉</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -60629,6 +60653,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240915024200 +0800" stop="20240915024700 +0800">
 		<title lang="zh">不惜时光-毕刚（舞蹈展示）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240915025800 +0800" stop="20240915041500 +0800">
+		<title lang="zh">爱要勇敢说出来 男嘉宾借采访表白（20240709）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
