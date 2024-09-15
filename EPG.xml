@@ -62964,6 +62964,9 @@
 	<programme channel="纯享4K" start="20240915162600 +0800" stop="20240915165400 +0800">
 		<title lang="zh">记住乡愁4K第九季 溪口——创客云集 打造未来乡村</title>
 	</programme>
+	<programme channel="纯享4K" start="20240915165400 +0800" stop="20240915175400 +0800">
+		<title lang="zh">乐享汇4K “新的唱响”演唱会 三</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -74130,6 +74133,9 @@
 	<programme channel="黑莓动画" start="20240915162600 +0800" stop="20240915165100 +0800">
 		<title lang="zh">蘑菇头和恐龙笨波</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240915165100 +0800" stop="20240915172200 +0800">
+		<title lang="zh">百变校巴之超学先锋2</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -74751,6 +74757,9 @@
 	<programme channel="newtv超级体育" start="20240915153000 +0800" stop="20240915170000 +0800">
 		<title lang="zh">实况录像(奥林匹克)-2024年巴黎奥运会 网球比赛2</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240915170000 +0800" stop="20240915180000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2024年巴黎残奥会 坐式排球女子比赛</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -75006,6 +75015,9 @@
 	<programme channel="newtv精品纪录" start="20240915160500 +0800" stop="20240915164700 +0800">
 		<title lang="zh">第2集：求是</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240915164700 +0800" stop="20240915174300 +0800">
+		<title lang="zh">美康利健心血通激光治疗仪升级款-渠道（右）</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -75204,6 +75216,9 @@
 	<programme channel="newtv家庭剧场" start="20240915161200 +0800" stop="20240915165700 +0800">
 		<title lang="zh">32_儿女情更长</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240915165700 +0800" stop="20240915175300 +0800">
+		<title lang="zh">美康利健心血通激光治疗仪升级款-渠道（右）</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -75351,6 +75366,9 @@
 	<programme channel="newtv动作电影" start="20240915152500 +0800" stop="20240915165700 +0800">
 		<title lang="zh">火线追凶2之夺命书院</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20240915165700 +0800" stop="20240915174600 +0800">
+		<title lang="zh">AMOS钛多功能电饭煲惠选款-渠道（右）</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -75423,6 +75441,9 @@
 	<programme channel="newtv怡伴健康" start="20240915162100 +0800" stop="20240915170000 +0800">
 		<title lang="zh">控糖也要看体形</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240915170000 +0800" stop="20240915174900 +0800">
+		<title lang="zh">BEYONPAN钛锅升级款-渠道（右）</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -75482,6 +75503,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240915160800 +0800" stop="20240915165400 +0800">
 		<title lang="zh">03_倚天屠龙记</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240915165400 +0800" stop="20240915174300 +0800">
+		<title lang="zh">AMOS高聚能养生钛锅（新）-渠道（右）</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
