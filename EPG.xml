@@ -87,6 +87,9 @@
 	<programme channel="4K综艺" start="20240915131200 +0800" stop="20240915145100 +0800">
 		<title lang="zh">妻子的浪漫旅行第三季20191106</title>
 	</programme>
+	<programme channel="4K综艺" start="20240915145100 +0800" stop="20240915163900 +0800">
+		<title lang="zh">妻子的浪漫旅行第三季20191113</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -62934,6 +62937,9 @@
 	<programme channel="纯享4K" start="20240915143000 +0800" stop="20240915145800 +0800">
 		<title lang="zh">旅游指南4K 打卡中国b7湖州</title>
 	</programme>
+	<programme channel="纯享4K" start="20240915145800 +0800" stop="20240915152800 +0800">
+		<title lang="zh">寻古中国4K 古蜀记b7古蜀之源</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -74088,6 +74094,9 @@
 	<programme channel="黑莓动画" start="20240915142900 +0800" stop="20240915145800 +0800">
 		<title lang="zh">笨蛋波波与小宝</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240915145800 +0800" stop="20240915151500 +0800">
+		<title lang="zh">坦克世界</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -74655,6 +74664,9 @@
 	<programme channel="newtv超级综艺" start="20240915133500 +0800" stop="20240915150300 +0800">
 		<title lang="zh">乐在旅途 第二季</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240915150300 +0800" stop="20240915164300 +0800">
+		<title lang="zh">开播吧！国潮</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -75144,6 +75156,9 @@
 	<programme channel="newtv热播精选" start="20240915135600 +0800" stop="20240915144900 +0800">
 		<title lang="zh">05_欢颜</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20240915144900 +0800" stop="20240915154300 +0800">
+		<title lang="zh">06_欢颜</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -75291,6 +75306,9 @@
 	<programme channel="newtv怡伴健康" start="20240915143100 +0800" stop="20240915145800 +0800">
 		<title lang="zh">妻子报案有蹊跷</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240915145800 +0800" stop="20240915154700 +0800">
+		<title lang="zh">PANATO黑果腺助花楸果复合片-渠道（右）</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -75407,6 +75425,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240915142600 +0800" stop="20240915144800 +0800">
 		<title lang="zh">马奇诺防线的秘密（下）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240915144800 +0800" stop="20240915151000 +0800">
+		<title lang="zh">一战沙场 维耶阿芒（上）</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -75531,6 +75552,9 @@
 	<programme channel="newtv精品综合" start="20240915143100 +0800" stop="20240915145700 +0800">
 		<title lang="zh">37_名侦探柯南（一）</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20240915145700 +0800" stop="20240915154500 +0800">
+		<title lang="zh">林格贝尔野生蓝莓原浆新-渠道（右）</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -75564,6 +75588,9 @@
 	<programme channel="newtv惊悚悬疑" start="20240915130700 +0800" stop="20240915145000 +0800">
 		<title lang="zh">深海越狱（英语版）</title>
 	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240915145000 +0800" stop="20240915164300 +0800">
+		<title lang="zh">狩猎</title>
+	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
@@ -75593,6 +75620,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20240915125900 +0800" stop="20240915150000 +0800">
 		<title lang="zh">德云斗笑社 第2季</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20240915150000 +0800" stop="20240915155000 +0800">
+		<title lang="zh">HAOWEKRBEECHR智能马桶一体机-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
