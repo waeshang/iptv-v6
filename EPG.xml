@@ -32547,6 +32547,9 @@
 	<programme channel="咪咕综合体育" start="20240915154500 +0800" stop="20240915161000 +0800">
 		<title lang="zh">欧陆足球版图</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20240915161500 +0800" stop="20240915175000 +0800">
+		<title lang="zh">纪录片-阿尔塞纳b7温格：不败之师</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -62952,6 +62955,9 @@
 	<programme channel="纯享4K" start="20240915152800 +0800" stop="20240915155800 +0800">
 		<title lang="zh">寻古中国4K 河洛记b7兼收并蓄</title>
 	</programme>
+	<programme channel="纯享4K" start="20240915155800 +0800" stop="20240915162600 +0800">
+		<title lang="zh">记住乡愁4K第九季 梧林——故林归宿处 一叶下梧桐</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -74838,6 +74844,9 @@
 	<programme channel="newtv超级电视剧" start="20240915151300 +0800" stop="20240915155500 +0800">
 		<title lang="zh">30_幸福有配方</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240915155500 +0800" stop="20240915163700 +0800">
+		<title lang="zh">31_幸福有配方</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -74897,6 +74906,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240915151400 +0800" stop="20240915155200 +0800">
 		<title lang="zh">21_完美伴侣</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240915155200 +0800" stop="20240915162700 +0800">
+		<title lang="zh">22_完美伴侣</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -74972,6 +74984,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240915151700 +0800" stop="20240915160500 +0800">
 		<title lang="zh">第十集 极限制造</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240915160500 +0800" stop="20240915164700 +0800">
+		<title lang="zh">第2集：求是</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -75099,6 +75114,9 @@
 	<programme channel="newtv军旅剧场" start="20240915150600 +0800" stop="20240915155400 +0800">
 		<title lang="zh">林格贝尔野生蓝莓原浆新-渠道（右）</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240915155400 +0800" stop="20240915164000 +0800">
+		<title lang="zh">11_无间</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -75158,6 +75176,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20240915151600 +0800" stop="20240915161200 +0800">
 		<title lang="zh">09_皎洁的月亮</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240915161200 +0800" stop="20240915165700 +0800">
+		<title lang="zh">32_儿女情更长</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -75366,6 +75387,9 @@
 	<programme channel="newtv怡伴健康" start="20240915145800 +0800" stop="20240915154700 +0800">
 		<title lang="zh">PANATO黑果腺助花楸果复合片-渠道（右）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240915154700 +0800" stop="20240915162100 +0800">
+		<title lang="zh">收养的是与非</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -75422,6 +75446,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240915152200 +0800" stop="20240915160800 +0800">
 		<title lang="zh">02_倚天屠龙记</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240915160800 +0800" stop="20240915165400 +0800">
+		<title lang="zh">03_倚天屠龙记</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -75494,6 +75521,12 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240915153200 +0800" stop="20240915155400 +0800">
 		<title lang="zh">一战沙场b7凡尔登（上）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240915155400 +0800" stop="20240915161600 +0800">
+		<title lang="zh">一战沙场b7凡尔登（中）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240915161600 +0800" stop="20240915164100 +0800">
+		<title lang="zh">俄称莫斯科恐袭有新线索 北约部队在乌境内遇袭不触发“集体防御条款”？</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -75824,6 +75857,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240915151200 +0800" stop="20240915155200 +0800">
 		<title lang="zh">石药牌水溶性叶黄素粉固体饮料-渠道（右）</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240915155200 +0800" stop="20240915163800 +0800">
+		<title lang="zh">20_大秦帝国之裂变</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
