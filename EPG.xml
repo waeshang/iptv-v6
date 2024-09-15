@@ -63279,6 +63279,9 @@
 	<programme channel="纯享4K" start="20240915222500 +0800" stop="20240915225300 +0800">
 		<title lang="zh">旅游指南4K 打卡中国b7湖州</title>
 	</programme>
+	<programme channel="纯享4K" start="20240915225300 +0800" stop="20240915232300 +0800">
+		<title lang="zh">寻古中国4K 古蜀记b7古蜀之源</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -74523,6 +74526,9 @@
 	<programme channel="黑莓动画" start="20240915223400 +0800" stop="20240915225800 +0800">
 		<title lang="zh">10_咒术回战第2季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240915225800 +0800" stop="20240915231700 +0800">
+		<title lang="zh">09_大理寺日志</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -75221,6 +75227,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20240915212800 +0800" stop="20240915225700 +0800">
 		<title lang="zh">电影《异度迷局》</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20240915225700 +0800" stop="20240915002900 +0800">
+		<title lang="zh">电影《昆仑神宫》</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -75999,6 +76008,9 @@
 	<programme channel="newtv动作电影" start="20240915213100 +0800" stop="20240915225600 +0800">
 		<title lang="zh">特遣部队</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20240915225600 +0800" stop="20240915003300 +0800">
+		<title lang="zh">皇牌空战</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -76184,6 +76196,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240915220500 +0800" stop="20240915225300 +0800">
 		<title lang="zh">06_长相思</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240915225300 +0800" stop="20240915233200 +0800">
+		<title lang="zh">女孩换装展示身体缺陷，现场告白挽留真爱</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -76407,6 +76422,9 @@
 	<programme channel="newtv炫舞未来" start="20240915223200 +0800" stop="20240915224600 +0800">
 		<title lang="zh">韭菜花儿开-孙爱迪（完整版）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240915224600 +0800" stop="20240915230500 +0800">
+		<title lang="zh">最好的舞台-李萍（完整版）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -76493,6 +76511,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240915221300 +0800" stop="20240915230000 +0800">
 		<title lang="zh">29_你是我的荣耀</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240915230000 +0800" stop="20240915002900 +0800">
+		<title lang="zh">倾城</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -76766,6 +76787,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240915222200 +0800" stop="20240915225200 +0800">
 		<title lang="zh">【美好生活】八段锦长寿操</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240915225200 +0800" stop="20240915003200 +0800">
+		<title lang="zh">射雕英雄传之九阴白骨爪</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
