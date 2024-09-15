@@ -60780,6 +60780,9 @@
 	<programme channel="newtv超级体育" start="20240916053000 +0800" stop="20240916060000 +0800">
 		<title lang="zh">实况录像-2024年世界田联钻石联赛 摩纳哥站</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240916060000 +0800" stop="20240916063000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2024年巴黎奥运会 皮划艇比赛1</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -60821,6 +60824,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20240916050800 +0800" stop="20240916060400 +0800">
 		<title lang="zh">36_启航：当风起时</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240916060400 +0800" stop="20240916064900 +0800">
+		<title lang="zh">01_再造之恩</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -60894,6 +60900,9 @@
 	<programme channel="newtv古装剧场" start="20240916050100 +0800" stop="20240916055300 +0800">
 		<title lang="zh">01_解忧公主</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240916055300 +0800" stop="20240916063400 +0800">
+		<title lang="zh">02_解忧公主</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -60960,6 +60969,9 @@
 	<programme channel="newtv热播精选" start="20240916050500 +0800" stop="20240916055300 +0800">
 		<title lang="zh">47_安家</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20240916055300 +0800" stop="20240916065100 +0800">
+		<title lang="zh">48_安家</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -60974,6 +60986,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20240916050400 +0800" stop="20240916055900 +0800">
 		<title lang="zh">05_兰桐花开</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20240916055900 +0800" stop="20240916064500 +0800">
+		<title lang="zh">06_兰桐花开</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -61085,6 +61100,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240916053100 +0800" stop="20240916054600 +0800">
 		<title lang="zh">笑纳-李萍（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240916060000 +0800" stop="20240916061300 +0800">
+		<title lang="zh">卡路里-李萍（完整版）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
