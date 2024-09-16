@@ -30771,6 +30771,9 @@
 	<programme channel="咪咕足球" start="20240916140000 +0800" stop="20240916140500 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕足球" start="20240916140500 +0800" stop="20240916152500 +0800">
+		<title lang="zh">村BA</title>
+	</programme>
 	<channel id="嘉佳卡通">
 		<display-name lang="zh">嘉佳卡通</display-name>
 	</channel>
@@ -69501,6 +69504,9 @@
 	<programme channel="黑莓动画" start="20240916135800 +0800" stop="20240916140700 +0800">
 		<title lang="zh">植物大战僵尸动画：猕猴桃悟空VS僵尸小将，戴夫的脑子保住了！</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240916140700 +0800" stop="20240916144300 +0800">
+		<title lang="zh">大牙DIY超级香的恐龙香皂</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -70038,6 +70044,9 @@
 	<programme channel="newtv超级电影" start="20240916123500 +0800" stop="20240916140500 +0800">
 		<title lang="zh">电影《连城诀》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20240916140500 +0800" stop="20240916150700 +0800">
+		<title lang="zh">电影《一路囧途》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -70148,6 +70157,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240916133600 +0800" stop="20240916141300 +0800">
 		<title lang="zh">24_完美伴侣</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240916141300 +0800" stop="20240916150100 +0800">
+		<title lang="zh">25_完美伴侣</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -70422,6 +70434,9 @@
 	<programme channel="newtv热播精选" start="20240916120000 +0800" stop="20240916140200 +0800">
 		<title lang="zh">长安伏妖</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20240916140200 +0800" stop="20240916144700 +0800">
+		<title lang="zh">08_欢颜</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -70463,6 +70478,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20240916131200 +0800" stop="20240916140800 +0800">
 		<title lang="zh">04_非常有喜</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20240916140800 +0800" stop="20240916145400 +0800">
+		<title lang="zh">05_非常有喜</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -70547,6 +70565,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240916131600 +0800" stop="20240916141200 +0800">
 		<title lang="zh">美康利健心血通激光治疗仪升级款-渠道（右）</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240916141200 +0800" stop="20240916142600 +0800">
+		<title lang="zh">小品《父母爱情》 表演：郭涛 梅婷</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -70649,6 +70670,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240916134200 +0800" stop="20240916140400 +0800">
 		<title lang="zh">一战沙场b7贵妇小径（上）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240916140400 +0800" stop="20240916142600 +0800">
+		<title lang="zh">一战沙场b7贵妇小径（中）</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
