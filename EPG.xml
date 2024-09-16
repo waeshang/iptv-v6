@@ -25473,11 +25473,17 @@
 	<programme channel="咪咕综合体育" start="20240917004500 +0800" stop="20240917012500 +0800">
 		<title lang="zh">网球世界-2024美国网球公开赛 女单第1轮 王雅繁-萨卡里</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20240917012500 +0800" stop="20240917030500 +0800">
+		<title lang="zh">英超赛场-24/25赛季英超 第3轮 西汉姆联-曼城</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
 	<programme channel="咪咕足球" start="20240917000100 +0800" stop="20240917012100 +0800">
 		<title lang="zh">村BA</title>
+	</programme>
+	<programme channel="咪咕足球" start="20240917012600 +0800" stop="20240917022600 +0800">
+		<title lang="zh">超级三对三-2024超三联赛</title>
 	</programme>
 	<channel id="嘉佳卡通">
 		<display-name lang="zh">嘉佳卡通</display-name>
@@ -59403,6 +59409,9 @@
 	<programme channel="黑莓动画" start="20240917003000 +0800" stop="20240917012300 +0800">
 		<title lang="zh">一人之下第二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240917012300 +0800" stop="20240917015000 +0800">
+		<title lang="zh">我靠充值当武帝</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -59916,6 +59925,9 @@
 	<programme channel="newtv超级电视剧" start="20240917005900 +0800" stop="20240917014500 +0800">
 		<title lang="zh">28_蝶影</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240917014500 +0800" stop="20240917022800 +0800">
+		<title lang="zh">29_蝶影</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -59949,17 +59961,26 @@
 	<programme channel="newtv军旅剧场" start="20240917002500 +0800" stop="20240917012100 +0800">
 		<title lang="zh">27_关中义事</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240917012100 +0800" stop="20240917021500 +0800">
+		<title lang="zh">28_关中义事</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
 	<programme channel="newtv家庭剧场" start="20240917004000 +0800" stop="20240917012600 +0800">
 		<title lang="zh">15_小棉袄</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240917012600 +0800" stop="20240917022100 +0800">
+		<title lang="zh">16_小棉袄</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
 	<programme channel="newtv热播精选" start="20240917001000 +0800" stop="20240917013100 +0800">
 		<title lang="zh">狼人杀b7启源</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20240917013100 +0800" stop="20240917025200 +0800">
+		<title lang="zh">白垩纪世界</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -59985,11 +60006,17 @@
 	<programme channel="newtv怡伴健康" start="20240917005300 +0800" stop="20240917014000 +0800">
 		<title lang="zh">07_清平乐[DVD版]</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240917014000 +0800" stop="20240917022500 +0800">
+		<title lang="zh">08_清平乐[DVD版]</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
 	<programme channel="newtv潮妈辣婆" start="20240917001500 +0800" stop="20240917012700 +0800">
 		<title lang="zh">忘川茶舍之铸剑祭魂</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240917012700 +0800" stop="20240917021300 +0800">
+		<title lang="zh">27_守婚如玉</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -60003,6 +60030,9 @@
 	<programme channel="newtv炫舞未来" start="20240917002500 +0800" stop="20240917014000 +0800">
 		<title lang="zh">天台篇（20240908）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240917014300 +0800" stop="20240917015100 +0800">
+		<title lang="zh">《广场舞》 羊年吉祥（附教学）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -60014,6 +60044,9 @@
 	</channel>
 	<programme channel="newtv惊悚悬疑" start="20240917004100 +0800" stop="20240917013000 +0800">
 		<title lang="zh">AMOS高聚能养生钛锅（新）-渠道（右）</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240917013000 +0800" stop="20240917024100 +0800">
+		<title lang="zh">东北传说之猎狐</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
