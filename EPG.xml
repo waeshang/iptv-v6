@@ -27954,6 +27954,9 @@
 	<programme channel="咪咕综合体育" start="20240917045000 +0800" stop="20240917060000 +0800">
 		<title lang="zh">网球世界-2024美国网球公开赛 女双第1轮 张帅/梅拉德诺维奇-梅尔滕斯/谢淑薇</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20240917060000 +0800" stop="20240917061000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -63276,6 +63279,9 @@
 	<programme channel="newtv超级体育" start="20240917053000 +0800" stop="20240917060000 +0800">
 		<title lang="zh">实况录像-2024年世界田联钻石联赛 洛桑站</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240917060000 +0800" stop="20240917063000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2024年巴黎奥运会 皮划艇比赛2</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -63368,6 +63374,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240917051800 +0800" stop="20240917054800 +0800">
 		<title lang="zh">潘天寿 第二集 风华正茂</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240917054800 +0800" stop="20240917062600 +0800">
+		<title lang="zh">傅抱石 第三集 往往醉后</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -63477,6 +63486,9 @@
 	<programme channel="newtv爱情喜剧" start="20240917050500 +0800" stop="20240917060000 +0800">
 		<title lang="zh">10_兰桐花开</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20240917060000 +0800" stop="20240917065500 +0800">
+		<title lang="zh">11_兰桐花开</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -63540,6 +63552,9 @@
 	<programme channel="newtv潮妈辣婆" start="20240917045800 +0800" stop="20240917055300 +0800">
 		<title lang="zh">31_守婚如玉</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240917055300 +0800" stop="20240917064800 +0800">
+		<title lang="zh">32_守婚如玉</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -63554,6 +63569,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240917052300 +0800" stop="20240917054800 +0800">
 		<title lang="zh">美日演练离岛夺控共进退 美在菲东部增设军事基地</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240917054800 +0800" stop="20240917061400 +0800">
+		<title lang="zh">俄A-50U预警机投入实战 美首批“艾布拉姆斯”提前援乌</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -63590,6 +63608,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240917051800 +0800" stop="20240917054800 +0800">
 		<title lang="zh">绽放吧！妈妈（20240801）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240917054800 +0800" stop="20240917061000 +0800">
+		<title lang="zh">民族风健身舞《金风吹来的时候》（20240513）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -63704,6 +63725,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240917052300 +0800" stop="20240917055000 +0800">
 		<title lang="zh">男子长拳、刀术、棍术全能</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240917055000 +0800" stop="20240917064900 +0800">
+		<title lang="zh">女子枪术</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
