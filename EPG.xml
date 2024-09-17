@@ -31608,6 +31608,9 @@
 	<programme channel="咪咕足球" start="20240917125000 +0800" stop="20240917130000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕足球" start="20240917130000 +0800" stop="20240917140000 +0800">
+		<title lang="zh">超级三对三-2024超三联赛</title>
+	</programme>
 	<channel id="嘉佳卡通">
 		<display-name lang="zh">嘉佳卡通</display-name>
 	</channel>
@@ -73830,6 +73833,9 @@
 	<programme channel="newtv超级体育" start="20240917123500 +0800" stop="20240917125500 +0800">
 		<title lang="zh">艺术里的奥林匹克</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240917130000 +0800" stop="20240917140000 +0800">
+		<title lang="zh">赛事集锦-2024年世界山地自行车锦标赛2</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -73914,6 +73920,9 @@
 	<programme channel="newtv超级电视剧" start="20240917122000 +0800" stop="20240917130500 +0800">
 		<title lang="zh">24_公诉</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240917130500 +0800" stop="20240917135100 +0800">
+		<title lang="zh">25_公诉</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -73961,6 +73970,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240917120500 +0800" stop="20240917125000 +0800">
 		<title lang="zh">16_父亲的草原母亲的河</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240917125000 +0800" stop="20240917134500 +0800">
+		<title lang="zh">17_父亲的草原母亲的河</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -74021,6 +74033,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240917115300 +0800" stop="20240917125000 +0800">
 		<title lang="zh">第8集：根茎春秋志 </title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240917125000 +0800" stop="20240917131900 +0800">
+		<title lang="zh">原味乡间b7福泉篇</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -74349,6 +74364,9 @@
 	<programme channel="newtv怡伴健康" start="20240917124400 +0800" stop="20240917125800 +0800">
 		<title lang="zh">小品《车站奇遇》 表演：潘长江 蔡明</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240917125800 +0800" stop="20240917131300 +0800">
+		<title lang="zh">小品《每逢佳节被催婚》 表演：任嘉伦 万茜</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -74526,6 +74544,9 @@
 	<programme channel="newtv炫舞未来" start="20240917122100 +0800" stop="20240917124800 +0800">
 		<title lang="zh">买的车不见了（20220113）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240917124800 +0800" stop="20240917133700 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -74603,6 +74624,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20240917120800 +0800" stop="20240917125700 +0800">
 		<title lang="zh">AMOS钛多功能电饭煲惠选款-渠道（右）</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240917125700 +0800" stop="20240917142900 +0800">
+		<title lang="zh">绝命藏宝图</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
