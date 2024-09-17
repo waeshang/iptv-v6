@@ -73614,6 +73614,9 @@
 	<programme channel="黑莓动画" start="20240917204400 +0800" stop="20240917210900 +0800">
 		<title lang="zh">15_德凯奥特曼 普通话版</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240917210900 +0800" stop="20240917212200 +0800">
+		<title lang="zh">25_托宝战士之银河侦探1</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -74259,6 +74262,9 @@
 	<programme channel="newtv超级电影" start="20240917194800 +0800" stop="20240917211900 +0800">
 		<title lang="zh">电影《国宝迷踪》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20240917211900 +0800" stop="20240917225400 +0800">
+		<title lang="zh">电影《不速之客》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -74346,6 +74352,9 @@
 	<programme channel="newtv超级电视剧" start="20240917201800 +0800" stop="20240917210400 +0800">
 		<title lang="zh">28_侦察英雄</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240917210400 +0800" stop="20240917213900 +0800">
+		<title lang="zh">17_岁岁青莲</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -74429,6 +74438,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240917204200 +0800" stop="20240917211200 +0800">
 		<title lang="zh">《美丽密码》推荐第40期</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240917211200 +0800" stop="20240917215600 +0800">
+		<title lang="zh">02_花琉璃轶闻</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -74528,6 +74540,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240917205600 +0800" stop="20240917211000 +0800">
 		<title lang="zh">06_守望萤火</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240917211000 +0800" stop="20240917212400 +0800">
+		<title lang="zh">07_梦幻花园</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -74778,6 +74793,9 @@
 	<programme channel="newtv家庭剧场" start="20240917202700 +0800" stop="20240917211200 +0800">
 		<title lang="zh">43_儿女情更长</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240917211200 +0800" stop="20240917214200 +0800">
+		<title lang="zh">《美丽密码》推荐第40期</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -74976,6 +74994,9 @@
 	<programme channel="newtv动作电影" start="20240917193800 +0800" stop="20240917210400 +0800">
 		<title lang="zh">火线追凶2之乱世残局</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20240917210400 +0800" stop="20240917213400 +0800">
+		<title lang="zh">【美好生活】八段锦长寿操</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -75074,6 +75095,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240917203700 +0800" stop="20240917210700 +0800">
 		<title lang="zh">【美好生活】八段锦长寿操</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240917210700 +0800" stop="20240917214700 +0800">
+		<title lang="zh">第一场 四川K2vs浙江放牛娃 第4局</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -75260,6 +75284,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240917203600 +0800" stop="20240917210300 +0800">
 		<title lang="zh">穿山越岭</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240917210300 +0800" stop="20240917212900 +0800">
+		<title lang="zh">智战 智造铁马骋未来</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -75450,6 +75477,9 @@
 	<programme channel="newtv精品综合" start="20240917204400 +0800" stop="20240917211400 +0800">
 		<title lang="zh">《美丽密码》推荐第40期</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20240917211400 +0800" stop="20240917220200 +0800">
+		<title lang="zh">04_我，喜欢你</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -75503,6 +75533,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20240917200900 +0800" stop="20240917211100 +0800">
 		<title lang="zh">剑影喋血</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240917211100 +0800" stop="20240917214100 +0800">
+		<title lang="zh">【美好生活】八段锦长寿操</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
