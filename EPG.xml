@@ -73863,6 +73863,9 @@
 	<programme channel="newtv超级综艺" start="20240917150100 +0800" stop="20240917161300 +0800">
 		<title lang="zh">越战越勇</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240917161300 +0800" stop="20240917175800 +0800">
+		<title lang="zh">国家宝藏 第四季</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -74906,6 +74909,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20240917151700 +0800" stop="20240917160700 +0800">
 		<title lang="zh">HAOWEKRBEECHR智能马桶一体机-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20240917160700 +0800" stop="20240917184200 +0800">
+		<title lang="zh">灿烂的前行</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
