@@ -114,6 +114,9 @@
 	<programme channel="4K综艺" start="20240917205000 +0800" stop="20240917220000 +0800">
 		<title lang="zh">儿行千里20171022</title>
 	</programme>
+	<programme channel="4K综艺" start="20240917220000 +0800" stop="20240917231100 +0800">
+		<title lang="zh">儿行千里20171029</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -31736,6 +31739,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20240917205500 +0800" stop="20240917215500 +0800">
 		<title lang="zh">超级三对三-2024超三联赛</title>
+	</programme>
+	<programme channel="咪咕足球" start="20240917215500 +0800" stop="20240917222000 +0800">
+		<title lang="zh">频道宣传</title>
 	</programme>
 	<channel id="嘉佳卡通">
 		<display-name lang="zh">嘉佳卡通</display-name>
@@ -73626,6 +73632,9 @@
 	<programme channel="黑莓动画" start="20240917214100 +0800" stop="20240917214600 +0800">
 		<title lang="zh">09_以横破纵</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240917220000 +0800" stop="20240917221300 +0800">
+		<title lang="zh">07_踢踢和奇奇之魔力课堂 第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -73664,6 +73673,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20240917201300 +0800" stop="20240917215700 +0800">
 		<title lang="zh">夏洛特烦恼</title>
+	</programme>
+	<programme channel="黑莓电影" start="20240917215700 +0800" stop="20240917000700 +0800">
+		<title lang="zh">一代宗师</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -74172,6 +74184,9 @@
 	<programme channel="newtv超级综艺" start="20240917200000 +0800" stop="20240917220100 +0800">
 		<title lang="zh">中央广播电视总台2024年中秋晚会</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240917220100 +0800" stop="20240917231900 +0800">
+		<title lang="zh">戏韵系列秋水相连照月明中秋国风音乐会</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -74457,6 +74472,9 @@
 	<programme channel="newtv精品大剧" start="20240917211200 +0800" stop="20240917215600 +0800">
 		<title lang="zh">02_花琉璃轶闻</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240917215600 +0800" stop="20240917224000 +0800">
+		<title lang="zh">26_流光之城</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -74561,6 +74579,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240917212400 +0800" stop="20240917214600 +0800">
 		<title lang="zh">08_锦上添花</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240917214600 +0800" stop="20240917224400 +0800">
+		<title lang="zh">第五集 天地的承诺</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -74904,6 +74925,9 @@
 	<programme channel="newtv热播精选" start="20240917211800 +0800" stop="20240917215500 +0800">
 		<title lang="zh">22_西出玉门</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20240917215500 +0800" stop="20240917232100 +0800">
+		<title lang="zh">灿烂的前行</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -75135,6 +75159,9 @@
 	<programme channel="newtv怡伴健康" start="20240917210700 +0800" stop="20240917214700 +0800">
 		<title lang="zh">第一场 四川K2vs浙江放牛娃 第4局</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240917214700 +0800" stop="20240917221700 +0800">
+		<title lang="zh">【美好生活】八段锦长寿操</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -75329,6 +75356,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240917212900 +0800" stop="20240917215500 +0800">
 		<title lang="zh">低空利刃</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240917215500 +0800" stop="20240917222200 +0800">
+		<title lang="zh">潜伏敌后</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
