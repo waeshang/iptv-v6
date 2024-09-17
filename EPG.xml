@@ -18369,8 +18369,11 @@
 	<programme channel="东方卫视" start="20240917094200 +0800" stop="20240917094600 +0800">
 		<title lang="zh">好妻子精编（42）</title>
 	</programme>
-	<programme channel="东方卫视" start="20240917094600 +0800" stop="20240917100000 +0800">
+	<programme channel="东方卫视" start="20240917094600 +0800" stop="20240917095100 +0800">
 		<title lang="zh">＜山花烂漫时＞精彩看点</title>
+	</programme>
+	<programme channel="东方卫视" start="20240917095100 +0800" stop="20240917100000 +0800">
+		<title lang="zh">＜东滩＞先导片</title>
 	</programme>
 	<programme channel="东方卫视" start="20240917100000 +0800" stop="20240917110000 +0800">
 		<title lang="zh">甲午海战爆发130周年特别报道</title>
@@ -18420,10 +18423,10 @@
 	<programme channel="东方卫视" start="20240917190000 +0800" stop="20240917193000 +0800">
 		<title lang="zh">转播中央台新闻联播</title>
 	</programme>
-	<programme channel="东方卫视" start="20240917193000 +0800" stop="20240917204100 +0800">
+	<programme channel="东方卫视" start="20240917193000 +0800" stop="20240917203900 +0800">
 		<title lang="zh">朤月东方·中秋奇妙夜</title>
 	</programme>
-	<programme channel="东方卫视" start="20240917204100 +0800" stop="20240917212000 +0800">
+	<programme channel="东方卫视" start="20240917203900 +0800" stop="20240917212000 +0800">
 		<title lang="zh">中秋金曲大赏</title>
 	</programme>
 	<programme channel="东方卫视" start="20240917212000 +0800" stop="20240917215900 +0800">
@@ -18435,10 +18438,10 @@
 	<programme channel="东方卫视" start="20240917220000 +0800" stop="20240917222500 +0800">
 		<title lang="zh">永远的行走－与中国相遇第三季（2）</title>
 	</programme>
-	<programme channel="东方卫视" start="20240917222500 +0800" stop="20240917233600 +0800">
+	<programme channel="东方卫视" start="20240917222500 +0800" stop="20240917233400 +0800">
 		<title lang="zh">朤月东方·中秋奇妙夜</title>
 	</programme>
-	<programme channel="东方卫视" start="20240917233600 +0800" stop="20240917235900 +0800">
+	<programme channel="东方卫视" start="20240917233400 +0800" stop="20240917235900 +0800">
 		<title lang="zh">梦想改造家第十季精编（3）</title>
 	</programme>
 	<channel id="东方电影">
@@ -61971,6 +61974,9 @@
 	<programme channel="纯享4K" start="20240917180400 +0800" stop="20240917181900 +0800">
 		<title lang="zh">艺术里的奥林匹克4K 敦煌壁画b7剑术组图</title>
 	</programme>
+	<programme channel="纯享4K" start="20240917181900 +0800" stop="20240917190800 +0800">
+		<title lang="zh">大敦煌4K 第1集 何以敦煌</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -74145,6 +74151,9 @@
 	<programme channel="newtv超级体育" start="20240917180000 +0800" stop="20240917183500 +0800">
 		<title lang="zh">体育新闻</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240917183500 +0800" stop="20240917200000 +0800">
+		<title lang="zh">实况录像-2024年世界田联钻石联赛 苏黎世站</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -74183,6 +74192,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20240917170400 +0800" stop="20240917184000 +0800">
 		<title lang="zh">电影《十八勇士》</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20240917184000 +0800" stop="20240917194800 +0800">
+		<title lang="zh">电影《机械玩家》</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -74261,6 +74273,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20240917180600 +0800" stop="20240917184800 +0800">
 		<title lang="zh">16_走向大西南</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240917184800 +0800" stop="20240917193300 +0800">
+		<title lang="zh">26_侦察英雄</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -74564,6 +74579,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240917174100 +0800" stop="20240917182600 +0800">
 		<title lang="zh">19_无间</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240917182600 +0800" stop="20240917191200 +0800">
+		<title lang="zh">30_军刺</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -75042,6 +75060,9 @@
 	<programme channel="newtv军事评论" start="20240917180500 +0800" stop="20240917183000 +0800">
 		<title lang="zh">朝鲜举行核反击演习 美向乌抛出“救生索” 欲开发新核弹头</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240917183000 +0800" stop="20240917185500 +0800">
+		<title lang="zh">俄媒称俄乌冲突5月或将升级？日本首次向亚太派遣“特别警备队”</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -75141,6 +75162,9 @@
 	<programme channel="newtv炫舞未来" start="20240917171800 +0800" stop="20240917181800 +0800">
 		<title lang="zh">退休公务员大爷来相亲，直言要找门当户对引不满</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240917181800 +0800" stop="20240917190700 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -75203,6 +75227,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240917174000 +0800" stop="20240917182600 +0800">
 		<title lang="zh">17_三十而已</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240917182600 +0800" stop="20240917185100 +0800">
+		<title lang="zh">闪亮的日子第2季</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -75284,6 +75311,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20240917160700 +0800" stop="20240917184200 +0800">
 		<title lang="zh">灿烂的前行</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20240917184200 +0800" stop="20240917191200 +0800">
+		<title lang="zh">【美好生活】八段锦长寿操</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
@@ -75419,6 +75449,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240917173200 +0800" stop="20240917181800 +0800">
 		<title lang="zh">28_大秦帝国之裂变</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240917181800 +0800" stop="20240917184800 +0800">
+		<title lang="zh">【美好生活】八段锦长寿操</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
