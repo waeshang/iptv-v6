@@ -49794,6 +49794,9 @@
 	<programme channel="纯享4K" start="20240918022000 +0800" stop="20240918030900 +0800">
 		<title lang="zh">大敦煌4K 第3集 文明舞台</title>
 	</programme>
+	<programme channel="纯享4K" start="20240918030900 +0800" stop="20240918035800 +0800">
+		<title lang="zh">大敦煌4K 第4集 再造敦煌</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -60849,6 +60852,9 @@
 	<programme channel="newtv精品大剧" start="20240918015600 +0800" stop="20240918025100 +0800">
 		<title lang="zh">06_公诉</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240918025100 +0800" stop="20240918034600 +0800">
+		<title lang="zh">07_公诉</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -60863,6 +60869,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240918023100 +0800" stop="20240918030300 +0800">
 		<title lang="zh">06_换一颗心</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240918030300 +0800" stop="20240918040100 +0800">
+		<title lang="zh">第七集 智造先锋</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -60888,6 +60897,9 @@
 	<programme channel="newtv军旅剧场" start="20240918015400 +0800" stop="20240918024900 +0800">
 		<title lang="zh">04_南侨机工英雄传</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240918024900 +0800" stop="20240918034400 +0800">
+		<title lang="zh">05_南侨机工英雄传</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -60912,11 +60924,17 @@
 	<programme channel="newtv热播精选" start="20240918013200 +0800" stop="20240918030900 +0800">
 		<title lang="zh">举起手来！（修复版）</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20240918030900 +0800" stop="20240918035300 +0800">
+		<title lang="zh">01_遍地书香</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
 	<programme channel="newtv爱情喜剧" start="20240918011100 +0800" stop="20240918025900 +0800">
 		<title lang="zh">霸王别姬（京剧）</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20240918025900 +0800" stop="20240918043800 +0800">
+		<title lang="zh">发明之父</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -60951,6 +60969,9 @@
 	<programme channel="newtv潮妈辣婆" start="20240918015300 +0800" stop="20240918024700 +0800">
 		<title lang="zh">33_守婚如玉</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240918024700 +0800" stop="20240918034200 +0800">
+		<title lang="zh">34_守婚如玉</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -60975,6 +60996,9 @@
 	<programme channel="newtv军事评论" start="20240918024400 +0800" stop="20240918030900 +0800">
 		<title lang="zh">国防军事早报（20231129）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240918030900 +0800" stop="20240918033300 +0800">
+		<title lang="zh">国防军事早报（20231130）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -60992,6 +61016,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240918024300 +0800" stop="20240918024700 +0800">
 		<title lang="zh">阿里山的姑娘-毕刚（舞蹈展示）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240918025000 +0800" stop="20240918040700 +0800">
+		<title lang="zh">爱要勇敢说出来 男嘉宾借采访表白（20240709）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -61076,6 +61103,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240918014700 +0800" stop="20240918030800 +0800">
 		<title lang="zh">封神榜：托塔天王</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240918030800 +0800" stop="20240918044700 +0800">
+		<title lang="zh">侠义神捕之诡影</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
