@@ -73887,6 +73887,9 @@
 	<programme channel="黑莓动画" start="20240918205800 +0800" stop="20240918211100 +0800">
 		<title lang="zh">02_托宝战士之银河侦探1</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240918211600 +0800" stop="20240918212000 +0800">
+		<title lang="zh">11_乱世巨贾</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -73928,6 +73931,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20240918194100 +0800" stop="20240918210700 +0800">
 		<title lang="zh">少年当自强</title>
+	</programme>
+	<programme channel="黑莓电影" start="20240918210700 +0800" stop="20240918225100 +0800">
+		<title lang="zh">走走停停</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -74997,6 +75003,9 @@
 	<programme channel="newtv军旅剧场" start="20240918203000 +0800" stop="20240918210900 +0800">
 		<title lang="zh">05_黑白密码</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240918210900 +0800" stop="20240918213900 +0800">
+		<title lang="zh">【美好生活】八段锦长寿操</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -75228,6 +75237,9 @@
 	<programme channel="newtv爱情喜剧" start="20240918203700 +0800" stop="20240918210700 +0800">
 		<title lang="zh">《美丽密码》第41期</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20240918210700 +0800" stop="20240918215800 +0800">
+		<title lang="zh">08_运河边的人们</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -75377,6 +75389,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240918203800 +0800" stop="20240918210800 +0800">
 		<title lang="zh">【美好生活】八段锦长寿操</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240918210800 +0800" stop="20240918215300 +0800">
+		<title lang="zh">第二场 湖南名将vs福建梦幻风华正兴 第5局</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -75591,6 +75606,9 @@
 	<programme channel="newtv军事评论" start="20240918204400 +0800" stop="20240918210600 +0800">
 		<title lang="zh">他们与天地永存 第二季 第七集 先生（上）（20230217）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240918210600 +0800" stop="20240918212800 +0800">
+		<title lang="zh">他们与天地永存 第二季 第八集 先生（下）（20230220）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -75689,6 +75707,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240918202900 +0800" stop="20240918211300 +0800">
 		<title lang="zh">第10期：白月光or朱砂痣？柳岩点破男生心结</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240918211300 +0800" stop="20240918220900 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
