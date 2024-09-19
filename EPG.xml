@@ -73314,6 +73314,9 @@
 	<programme channel="黑莓动画" start="20240919161900 +0800" stop="20240919165800 +0800">
 		<title lang="zh">蘑菇头和恐龙笨波</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240919165800 +0800" stop="20240919173000 +0800">
+		<title lang="zh">百变校巴之超学先锋2</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -73905,6 +73908,9 @@
 	<programme channel="newtv超级体育" start="20240919140000 +0800" stop="20240919170000 +0800">
 		<title lang="zh">2024年中国羽毛球公开赛-第2轮</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240919170000 +0800" stop="20240919180000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2024年巴黎残奥会 坐式排球女子比赛</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -74012,6 +74018,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20240919161800 +0800" stop="20240919170000 +0800">
 		<title lang="zh">20_走向大西南</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240919170000 +0800" stop="20240919174100 +0800">
+		<title lang="zh">21_走向大西南</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -74345,6 +74354,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20240919160400 +0800" stop="20240919164900 +0800">
 		<title lang="zh">05_真情给你</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240919164900 +0800" stop="20240919174500 +0800">
+		<title lang="zh">美康利健心血通激光治疗仪升级款-渠道（右）</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -74709,6 +74721,9 @@
 	<programme channel="newtv军事评论" start="20240919162800 +0800" stop="20240919165400 +0800">
 		<title lang="zh">拜登承认美国武器造成加沙平民伤亡 俄乌冲突暴露美军武器“致命缺陷”</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240919165400 +0800" stop="20240919171900 +0800">
+		<title lang="zh">以军打响拉法“决战” 俄首次公开宣布“战术核军演” “滑跃甲板”</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -74786,6 +74801,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240919160700 +0800" stop="20240919165700 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240919165700 +0800" stop="20240919181300 +0800">
+		<title lang="zh">英语老师秒变“天津大姨” 外国老公大胆追爱尽显甜蜜（20240904）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
