@@ -62904,6 +62904,9 @@
 	<programme channel="newtv超级综艺" start="20240920043000 +0800" stop="20240920060400 +0800">
 		<title lang="zh">此生要去的100个地方</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240920060400 +0800" stop="20240920063500 +0800">
+		<title lang="zh">TOP音乐咖</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -62915,6 +62918,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20240920053000 +0800" stop="20240920060000 +0800">
 		<title lang="zh">实况录像-2024年世界田联钻石联赛 苏黎世站</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20240920060000 +0800" stop="20240920063000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2024年巴黎奥运会 男子霹雳舞比赛</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -62930,6 +62936,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20240920043100 +0800" stop="20240920055100 +0800">
 		<title lang="zh">十二怒汉（下）</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20240920055100 +0800" stop="20240920062000 +0800">
+		<title lang="zh">我和我的祖国：前夜</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -63003,6 +63012,9 @@
 	<programme channel="newtv精品纪录" start="20240920051100 +0800" stop="20240920054800 +0800">
 		<title lang="zh">潘天寿 第二集 风华正茂</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240920054800 +0800" stop="20240920061800 +0800">
+		<title lang="zh">潘天寿 第三集 中流砥柱</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -63047,6 +63059,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240920051100 +0800" stop="20240920055600 +0800">
 		<title lang="zh">02_怒放</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240920055600 +0800" stop="20240920065100 +0800">
+		<title lang="zh">03_怒放</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -63186,6 +63201,9 @@
 	<programme channel="newtv军事评论" start="20240920053400 +0800" stop="20240920060000 +0800">
 		<title lang="zh">台媒妄言饱和攻击可“重创解放军航母” 美被曝计划助菲修复“坐滩”军舰</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240920060000 +0800" stop="20240920062500 +0800">
+		<title lang="zh">俄乌爆发“导弹袭城大战” 伊朗军舰进入红海 美战略抽身或成泡影？</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -63212,6 +63230,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240920053900 +0800" stop="20240920054800 +0800">
 		<title lang="zh">《广场舞》 天马（附教学）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240920054800 +0800" stop="20240920060400 +0800">
+		<title lang="zh">说出愿望吧-応子（完整）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
