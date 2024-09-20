@@ -60,6 +60,9 @@
 	<programme channel="4K综艺" start="20240921014600 +0800" stop="20240921024900 +0800">
 		<title lang="zh">我最爱的女人们20190525</title>
 	</programme>
+	<programme channel="4K综艺" start="20240921024900 +0800" stop="20240921042800 +0800">
+		<title lang="zh">我最爱的女人们20190531</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -59748,6 +59751,9 @@
 	<programme channel="黑莓电影" start="20240921005000 +0800" stop="20240921025100 +0800">
 		<title lang="zh">老无所依</title>
 	</programme>
+	<programme channel="黑莓电影" start="20240921025100 +0800" stop="20240921043700 +0800">
+		<title lang="zh">沉睡烈犬</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -60306,6 +60312,9 @@
 	<programme channel="newtv军旅剧场" start="20240921020800 +0800" stop="20240921030100 +0800">
 		<title lang="zh">19_南侨机工英雄传</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240921030100 +0800" stop="20240921035500 +0800">
+		<title lang="zh">20_南侨机工英雄传</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -60393,6 +60402,9 @@
 	<programme channel="newtv炫舞未来" start="20240921023800 +0800" stop="20240921025000 +0800">
 		<title lang="zh">浪子闲话-饶子龙（完整版）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240921025000 +0800" stop="20240921030400 +0800">
+		<title lang="zh">触电-李萍（完整版）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -60476,6 +60488,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240921014000 +0800" stop="20240921025100 +0800">
 		<title lang="zh">无名客栈之麒麟觉醒</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240921025100 +0800" stop="20240921042800 +0800">
+		<title lang="zh">江湖英雄联盟之奇门惊情</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
