@@ -99,6 +99,9 @@
 	<programme channel="4K综艺" start="20240920222400 +0800" stop="20240920224700 +0800">
 		<title lang="zh">少年说听你说20180627</title>
 	</programme>
+	<programme channel="4K综艺" start="20240920224700 +0800" stop="20240920230200 +0800">
+		<title lang="zh">少年说听你说20180703</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -61833,6 +61836,9 @@
 	<programme channel="纯享4K" start="20240920222700 +0800" stop="20240920225700 +0800">
 		<title lang="zh">寻古中国4K 云梦记b7楚韵回响</title>
 	</programme>
+	<programme channel="纯享4K" start="20240920225700 +0800" stop="20240920232700 +0800">
+		<title lang="zh">寻古中国4K 云梦记b7探秘秦简</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -73644,6 +73650,9 @@
 	<programme channel="黑莓电影" start="20240920204600 +0800" stop="20240920230100 +0800">
 		<title lang="zh">异人之下</title>
 	</programme>
+	<programme channel="黑莓电影" start="20240920230100 +0800" stop="20240920005000 +0800">
+		<title lang="zh">大黄蜂</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -75039,6 +75048,9 @@
 	<programme channel="newtv爱情喜剧" start="20240920220100 +0800" stop="20240920225300 +0800">
 		<title lang="zh">20_运河边的人们</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20240920225300 +0800" stop="20240920234400 +0800">
+		<title lang="zh">21_运河边的人们</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -75195,6 +75207,9 @@
 	<programme channel="newtv怡伴健康" start="20240920222300 +0800" stop="20240920225300 +0800">
 		<title lang="zh">【美好生活】八段锦长寿操</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240920225300 +0800" stop="20240920233100 +0800">
+		<title lang="zh">我的同桌是妈妈</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -75278,6 +75293,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240920220900 +0800" stop="20240920225800 +0800">
 		<title lang="zh">26_长相思</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240920225800 +0800" stop="20240920234400 +0800">
+		<title lang="zh">未婚夫前女友突然怀孕，女孩竟遭到退婚？！</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -75507,6 +75525,9 @@
 	<programme channel="newtv炫舞未来" start="20240920224500 +0800" stop="20240920225400 +0800">
 		<title lang="zh">女儿情-李萍</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240920225400 +0800" stop="20240920230800 +0800">
+		<title lang="zh">枉凝眉-完整（无二维码）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -75585,6 +75606,9 @@
 	<programme channel="newtv精品综合" start="20240920215500 +0800" stop="20240920224900 +0800">
 		<title lang="zh">17_我，喜欢你</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20240920224900 +0800" stop="20240920001200 +0800">
+		<title lang="zh">双生赤狐</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -75647,6 +75671,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20240920212000 +0800" stop="20240920225300 +0800">
 		<title lang="zh">侠捕之夺命红莲</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240920225300 +0800" stop="20240920000900 +0800">
+		<title lang="zh">傀儡门之惊天魔局</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
