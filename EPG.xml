@@ -49362,6 +49362,9 @@
 	<programme channel="纯享4K" start="20240921002300 +0800" stop="20240921005100 +0800">
 		<title lang="zh">记住乡愁4K第十季 橘乡少年扬帆归来</title>
 	</programme>
+	<programme channel="纯享4K" start="20240921005100 +0800" stop="20240921011900 +0800">
+		<title lang="zh">记住乡愁4K第十季 谭队长和他的足球村</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -59526,6 +59529,12 @@
 	<programme channel="黑莓动画" start="20240921003100 +0800" stop="20240921012200 +0800">
 		<title lang="zh">一人之下第二季</title>
 	</programme>
+	<channel id="黑莓电影">
+		<display-name lang="zh">黑莓电影</display-name>
+	</channel>
+	<programme channel="黑莓电影" start="20240921005000 +0800" stop="20240921025100 +0800">
+		<title lang="zh">老无所依</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -60006,6 +60015,9 @@
 	<programme channel="newtv超级电视剧" start="20240921000800 +0800" stop="20240921005300 +0800">
 		<title lang="zh">07_天底良知</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240921005300 +0800" stop="20240921013800 +0800">
+		<title lang="zh">08_天底良知</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -60038,6 +60050,9 @@
 	</channel>
 	<programme channel="newtv家庭剧场" start="20240921000100 +0800" stop="20240921004600 +0800">
 		<title lang="zh">30_小棉袄</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240921004600 +0800" stop="20240921013900 +0800">
+		<title lang="zh">31_小棉袄</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -60096,6 +60111,9 @@
 	<programme channel="newtv怡伴健康" start="20240921000100 +0800" stop="20240921005000 +0800">
 		<title lang="zh">AMOS高聚能养生钛锅（新）-渠道（右）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240921005000 +0800" stop="20240921013600 +0800">
+		<title lang="zh">19_清平乐[DVD版]</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -60125,6 +60143,9 @@
 	</channel>
 	<programme channel="newtv惊悚悬疑" start="20240921000900 +0800" stop="20240921005800 +0800">
 		<title lang="zh">BEYONPAN钛锅升级款-渠道（右）</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240921005800 +0800" stop="20240921021600 +0800">
+		<title lang="zh">蜀山2剑魔篇</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
