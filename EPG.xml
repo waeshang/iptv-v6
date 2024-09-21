@@ -72048,6 +72048,9 @@
 	<programme channel="newtv超级体育" start="20240921193000 +0800" stop="20240921220000 +0800">
 		<title lang="zh">2024年中国羽毛球公开赛-半决赛2</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240921220000 +0800" stop="20240921001000 +0800">
+		<title lang="zh">2024/2025英格兰足球超级联赛-第5轮(利物浦-伯恩茅斯)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
