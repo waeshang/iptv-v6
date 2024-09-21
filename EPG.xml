@@ -32181,6 +32181,9 @@
 	<programme channel="咪咕足球" start="20240921155000 +0800" stop="20240921185000 +0800">
 		<title lang="zh">CBA季前赛 深圳马可波罗-北京北汽 直播</title>
 	</programme>
+	<programme channel="咪咕足球" start="20240921185000 +0800" stop="20240921191000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="嘉佳卡通">
 		<display-name lang="zh">嘉佳卡通</display-name>
 	</channel>
@@ -59877,6 +59880,9 @@
 	<programme channel="纯享4K" start="20240921175800 +0800" stop="20240921184700 +0800">
 		<title lang="zh">大运河之歌4K 第1集 整理河山</title>
 	</programme>
+	<programme channel="纯享4K" start="20240921184700 +0800" stop="20240921192700 +0800">
+		<title lang="zh">荣宝斋4K 第5集 脉动新声</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -71343,6 +71349,9 @@
 	<programme channel="黑莓动画" start="20240921184200 +0800" stop="20240921185600 +0800">
 		<title lang="zh">07_龙战士星源</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240921185600 +0800" stop="20240921191000 +0800">
+		<title lang="zh">08_龙战士星源</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -71375,6 +71384,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20240921170000 +0800" stop="20240921185800 +0800">
 		<title lang="zh">星际迷航3：超越星辰</title>
+	</programme>
+	<programme channel="黑莓电影" start="20240921185800 +0800" stop="20240921205300 +0800">
+		<title lang="zh">你的婚礼</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -72078,6 +72090,9 @@
 	<programme channel="newtv超级电视剧" start="20240921180400 +0800" stop="20240921184600 +0800">
 		<title lang="zh">06_滹沱儿女</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240921184600 +0800" stop="20240921193100 +0800">
+		<title lang="zh">06_女人的抗战</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -72146,6 +72161,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240921180300 +0800" stop="20240921184800 +0800">
 		<title lang="zh">16_花琉璃轶闻</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240921184800 +0800" stop="20240921191800 +0800">
+		<title lang="zh">《美丽密码》推荐第37期</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -72531,6 +72549,9 @@
 	<programme channel="newtv热播精选" start="20240921175200 +0800" stop="20240921184900 +0800">
 		<title lang="zh">技术指针第2季</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20240921184900 +0800" stop="20240921192300 +0800">
+		<title lang="zh">35_西出玉门</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -72587,6 +72608,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20240921182000 +0800" stop="20240921185000 +0800">
 		<title lang="zh">《美丽密码》推荐第39期</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20240921185000 +0800" stop="20240921201600 +0800">
+		<title lang="zh">弗兰西斯b7哈</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -72879,6 +72903,9 @@
 	<programme channel="newtv军事评论" start="20240921182100 +0800" stop="20240921184700 +0800">
 		<title lang="zh">台军叫嚣解放军入台12海里可行使“自卫权”？北约打造“陆地走廊”</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240921184700 +0800" stop="20240921191200 +0800">
+		<title lang="zh">美对台军售武装台岛 怂恿菲搅局南海 胡塞武装称继续打击美航母</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -73031,6 +73058,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240921181700 +0800" stop="20240921185000 +0800">
 		<title lang="zh">当燃是少年第2季</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240921185000 +0800" stop="20240921192000 +0800">
+		<title lang="zh">《美丽密码》推荐第39期</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
