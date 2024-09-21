@@ -32049,6 +32049,12 @@
 	<programme channel="咪咕综合体育" start="20240921105000 +0800" stop="20240921120000 +0800">
 		<title lang="zh">国球荣耀-WTT常规挑战赛太原站 女单 决赛</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20240921120000 +0800" stop="20240921121000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20240921121000 +0800" stop="20240921135000 +0800">
+		<title lang="zh">我的赛场你做主</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -71616,6 +71622,9 @@
 	<programme channel="newtv超级体育" start="20240921103000 +0800" stop="20240921120000 +0800">
 		<title lang="zh">实况录像-2024年世乒联冠军赛 中国澳门站 1</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240921120000 +0800" stop="20240921123500 +0800">
+		<title lang="zh">体坛快讯</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -71642,6 +71651,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20240921101700 +0800" stop="20240921121500 +0800">
 		<title lang="zh">峰爆</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20240921121500 +0800" stop="20240921134700 +0800">
+		<title lang="zh">电影《昆仑神宫》</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -71693,6 +71705,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20240921112600 +0800" stop="20240921121100 +0800">
 		<title lang="zh">40_公诉</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240921121100 +0800" stop="20240921125800 +0800">
+		<title lang="zh">01_雁归西窗月</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -71799,6 +71814,9 @@
 	<programme channel="newtv精品纪录" start="20240921111400 +0800" stop="20240921114700 +0800">
 		<title lang="zh">第10集：退休</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240921114700 +0800" stop="20240921123600 +0800">
+		<title lang="zh">BEYONPAN钛锅升级款-渠道（右）</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -71844,6 +71862,9 @@
 	<programme channel="newtv古装剧场" start="20240921112400 +0800" stop="20240921120900 +0800">
 		<title lang="zh">13_新西厢记</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240921120900 +0800" stop="20240921125700 +0800">
+		<title lang="zh">林格贝尔野生蓝莓原浆新-渠道（右）</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -71888,6 +71909,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240921112600 +0800" stop="20240921121500 +0800">
 		<title lang="zh">Vigray墨脱石多功能养生锅-渠道（右）</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240921121500 +0800" stop="20240921130000 +0800">
+		<title lang="zh">17_绝密使命</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -71979,6 +72003,9 @@
 	<programme channel="newtv热播精选" start="20240921111000 +0800" stop="20240921115900 +0800">
 		<title lang="zh">AMOS钛多功能电饭煲惠选款-渠道（右）</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20240921115900 +0800" stop="20240921131800 +0800">
+		<title lang="zh">六扇门之血手奇谭</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -72008,6 +72035,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20240921101100 +0800" stop="20240921120300 +0800">
 		<title lang="zh">男孩瑞吉</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20240921120300 +0800" stop="20240921124900 +0800">
+		<title lang="zh">27_非常有喜</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -72078,6 +72108,9 @@
 	<programme channel="newtv怡伴健康" start="20240921113000 +0800" stop="20240921120800 +0800">
 		<title lang="zh">假戏成真</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240921120800 +0800" stop="20240921125000 +0800">
+		<title lang="zh">17_好妻子</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -72119,6 +72152,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240921111800 +0800" stop="20240921120300 +0800">
 		<title lang="zh">32_我的爱对你说</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240921120300 +0800" stop="20240921130300 +0800">
+		<title lang="zh">我的美食向导</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -72167,6 +72203,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240921112400 +0800" stop="20240921115100 +0800">
 		<title lang="zh">库存老枪大揭秘（上）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240921115100 +0800" stop="20240921121700 +0800">
+		<title lang="zh">库存老枪大揭秘（下）</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -72228,6 +72267,9 @@
 	<programme channel="newtv炫舞未来" start="20240921113000 +0800" stop="20240921115400 +0800">
 		<title lang="zh">回家吃饭（20240109）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240921115400 +0800" stop="20240921124300 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -72269,6 +72311,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240921113000 +0800" stop="20240921121600 +0800">
 		<title lang="zh">28_长歌行</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240921121600 +0800" stop="20240921130400 +0800">
+		<title lang="zh">AMOS钛多功能电饭煲惠选款-渠道（右）</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -72443,6 +72488,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240921113100 +0800" stop="20240921121600 +0800">
 		<title lang="zh">35_少林寺传奇藏经阁</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240921121600 +0800" stop="20240921130800 +0800">
+		<title lang="zh">36_少林寺传奇藏经阁</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
