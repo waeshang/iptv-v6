@@ -32169,6 +32169,9 @@
 	<programme channel="咪咕足球" start="20240922111000 +0800" stop="20240922125000 +0800">
 		<title lang="zh">当燃CBA 24/25夏季联赛 青岛国信制药-山西汾酒</title>
 	</programme>
+	<programme channel="咪咕足球" start="20240922130000 +0800" stop="20240922140000 +0800">
+		<title lang="zh">超级三对三-2024超三联赛</title>
+	</programme>
 	<channel id="嘉佳卡通">
 		<display-name lang="zh">嘉佳卡通</display-name>
 	</channel>
@@ -74373,6 +74376,9 @@
 	<programme channel="黑莓动画" start="20240922122400 +0800" stop="20240922125200 +0800">
 		<title lang="zh">嗨道奇第2季中文版</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240922125200 +0800" stop="20240922131800 +0800">
+		<title lang="zh">熊出没之怪兽计划第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -74967,6 +74973,9 @@
 	<programme channel="newtv超级体育" start="20240922123500 +0800" stop="20240922125500 +0800">
 		<title lang="zh">艺术里的奥林匹克</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240922130000 +0800" stop="20240922140000 +0800">
+		<title lang="zh">2024年世界职业拳王争霸赛</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -74993,6 +75002,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20240922115500 +0800" stop="20240922125900 +0800">
 		<title lang="zh">电影《一票混蛋》</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20240922125900 +0800" stop="20240922143100 +0800">
+		<title lang="zh">电影《我们的十年》</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -75095,6 +75107,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240922120500 +0800" stop="20240922124600 +0800">
 		<title lang="zh">03_乐游原</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240922124600 +0800" stop="20240922133600 +0800">
+		<title lang="zh">04_乐游原</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -75474,6 +75489,9 @@
 	<programme channel="newtv怡伴健康" start="20240922115300 +0800" stop="20240922124600 +0800">
 		<title lang="zh">20_好妻子</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240922125400 +0800" stop="20240922130900 +0800">
+		<title lang="zh">相声《劝架》 表演：陈印泉 侯振鹏</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -75518,6 +75536,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240922115900 +0800" stop="20240922125100 +0800">
 		<title lang="zh">我的美食向导</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240922125100 +0800" stop="20240922133600 +0800">
+		<title lang="zh">28_倚天屠龙记</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -75668,6 +75689,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240922120300 +0800" stop="20240922125100 +0800">
 		<title lang="zh">AMOS钛多功能电饭煲惠选款-渠道（右）</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240922125100 +0800" stop="20240922142700 +0800">
+		<title lang="zh">热血上海滩之未知任务</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -75830,6 +75854,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240922120000 +0800" stop="20240922125200 +0800">
 		<title lang="zh">40_少林寺传奇藏经阁</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240922125200 +0800" stop="20240922140000 +0800">
+		<title lang="zh">中国搏击十年</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
