@@ -56331,6 +56331,9 @@
 	<programme channel="黑莓动画" start="20240923031600 +0800" stop="20240923035000 +0800">
 		<title lang="zh">全职法师第1季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240923035000 +0800" stop="20240923043500 +0800">
+		<title lang="zh">马达加斯加企鹅第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -56751,6 +56754,9 @@
 	<programme channel="newtv超级体育" start="20240923023800 +0800" stop="20240923040000 +0800">
 		<title lang="zh">实况录像(奥林匹克)-2024年巴黎奥运会 男足决赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240923040000 +0800" stop="20240923060000 +0800">
+		<title lang="zh">实况录像-2024年美国网球公开赛 女单第四轮 郑钦文-维基奇</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -56796,6 +56802,9 @@
 	<programme channel="newtv精品大剧" start="20240923025600 +0800" stop="20240923035100 +0800">
 		<title lang="zh">32_公诉</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240923035100 +0800" stop="20240923044500 +0800">
+		<title lang="zh">33_公诉</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -56813,6 +56822,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240923030300 +0800" stop="20240923035800 +0800">
 		<title lang="zh">03_火车</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240923035800 +0800" stop="20240923042200 +0800">
+		<title lang="zh">03_谜之星汉</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -56861,6 +56873,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20240923025500 +0800" stop="20240923034800 +0800">
 		<title lang="zh">05_千金保姆</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240923034800 +0800" stop="20240923043600 +0800">
+		<title lang="zh">12_真情到永远</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -56913,6 +56928,9 @@
 	<programme channel="newtv怡伴健康" start="20240923032100 +0800" stop="20240923035700 +0800">
 		<title lang="zh">聆听雨林的心跳</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240923035700 +0800" stop="20240923043400 +0800">
+		<title lang="zh">漫步山间小径</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -56951,6 +56969,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240923033400 +0800" stop="20240923034800 +0800">
 		<title lang="zh">触电-李萍（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240923034800 +0800" stop="20240923040400 +0800">
+		<title lang="zh">护花使者-毕刚（完整版）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
