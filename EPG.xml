@@ -105,6 +105,9 @@
 	<programme channel="4K综艺" start="20240922200800 +0800" stop="20240922210700 +0800">
 		<title lang="zh">小小的追球20191225</title>
 	</programme>
+	<programme channel="4K综艺" start="20240922210700 +0800" stop="20240922222600 +0800">
+		<title lang="zh">小小的追球20191231</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -62937,6 +62940,9 @@
 	<programme channel="纯享4K" start="20240922203000 +0800" stop="20240922211200 +0800">
 		<title lang="zh">远方的家4K 长江行 相逢在长江源</title>
 	</programme>
+	<programme channel="纯享4K" start="20240922211200 +0800" stop="20240922211700 +0800">
+		<title lang="zh">美丽中国自然4K 环青海湖系列 草原的故事</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -74736,6 +74742,9 @@
 	<programme channel="黑莓动画" start="20240922205700 +0800" stop="20240922211000 +0800">
 		<title lang="zh">09_托宝战士之银河侦探1</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240922211000 +0800" stop="20240922212400 +0800">
+		<title lang="zh">10_托宝战士之银河侦探1</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -76137,6 +76146,9 @@
 	<programme channel="newtv动作电影" start="20240922195300 +0800" stop="20240922210400 +0800">
 		<title lang="zh">夺命巨鳄</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20240922210400 +0800" stop="20240922213400 +0800">
+		<title lang="zh">八段锦推荐第四期</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -76229,6 +76241,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240922203300 +0800" stop="20240922210300 +0800">
 		<title lang="zh">八段锦推荐第四期</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240922210300 +0800" stop="20240922214200 +0800">
+		<title lang="zh">第五场 天津狼图腾vs福建梦幻风华正兴 第4局</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -76413,6 +76428,9 @@
 	<programme channel="newtv军事评论" start="20240922204200 +0800" stop="20240922210400 +0800">
 		<title lang="zh">先辈的旗帜（1）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240922210400 +0800" stop="20240922212600 +0800">
+		<title lang="zh">先辈的旗帜（2）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -76575,6 +76593,9 @@
 	<programme channel="newtv精品综合" start="20240922203400 +0800" stop="20240922210400 +0800">
 		<title lang="zh">八段锦推荐第四期</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20240922210400 +0800" stop="20240922214500 +0800">
+		<title lang="zh">24_我，喜欢你</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -76619,6 +76640,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20240922193500 +0800" stop="20240922210200 +0800">
 		<title lang="zh">孤狼</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240922210200 +0800" stop="20240922213200 +0800">
+		<title lang="zh">八段锦推荐第四期</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
@@ -76667,6 +76691,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20240922205200 +0800" stop="20240922212200 +0800">
 		<title lang="zh">八段锦推荐第四期</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20240922212200 +0800" stop="20240922224800 +0800">
+		<title lang="zh">偶然的煮意</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
