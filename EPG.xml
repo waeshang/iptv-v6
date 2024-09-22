@@ -32151,6 +32151,9 @@
 	<programme channel="咪咕足球" start="20240922092500 +0800" stop="20240922110500 +0800">
 		<title lang="zh">2024NBL季后赛半决赛G2 安徽文一-石家庄翔蓝</title>
 	</programme>
+	<programme channel="咪咕足球" start="20240922110500 +0800" stop="20240922111000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="嘉佳卡通">
 		<display-name lang="zh">嘉佳卡通</display-name>
 	</channel>
@@ -75239,6 +75242,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20240922100900 +0800" stop="20240922110100 +0800">
 		<title lang="zh">12_女医明妃传</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20240922110100 +0800" stop="20240922115000 +0800">
+		<title lang="zh">AMOS钛多功能电饭煲惠选款-渠道（右）</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
