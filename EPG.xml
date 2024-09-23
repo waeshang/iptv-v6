@@ -84,6 +84,9 @@
 	<programme channel="4K综艺" start="20240923135900 +0800" stop="20240923142100 +0800">
 		<title lang="zh">少年说听你说20180719</title>
 	</programme>
+	<programme channel="4K综艺" start="20240923142100 +0800" stop="20240923145900 +0800">
+		<title lang="zh">重返地球20180309</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -59277,6 +59280,9 @@
 	<programme channel="纯享4K" start="20240923140400 +0800" stop="20240923142900 +0800">
 		<title lang="zh">了不起的冬天4K 第5集 刀尖之争</title>
 	</programme>
+	<programme channel="纯享4K" start="20240923142900 +0800" stop="20240923145300 +0800">
+		<title lang="zh">了不起的冬天4K 第6集 气喘吁吁</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -69381,6 +69387,9 @@
 	<programme channel="黑莓动画" start="20240923141600 +0800" stop="20240923142200 +0800">
 		<title lang="zh">保卫植物</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240923142200 +0800" stop="20240923144800 +0800">
+		<title lang="zh">张大牙爱搞怪第三季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -69876,6 +69885,9 @@
 	<programme channel="newtv超级综艺" start="20240923134100 +0800" stop="20240923144100 +0800">
 		<title lang="zh">非常6+1</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240923144100 +0800" stop="20240923161700 +0800">
+		<title lang="zh">此生要去的100个地方</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -69914,6 +69926,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20240923130000 +0800" stop="20240923143000 +0800">
 		<title lang="zh">实况录像-2024年中国羽毛球公开赛 1</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20240923143000 +0800" stop="20240923160000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季英超联赛第5轮 利物浦-伯恩茅斯</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -70010,6 +70025,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20240923135900 +0800" stop="20240923144500 +0800">
 		<title lang="zh">23_天龙八部</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240923144500 +0800" stop="20240923153000 +0800">
+		<title lang="zh">24_天龙八部</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -70247,6 +70265,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240923134200 +0800" stop="20240923142700 +0800">
 		<title lang="zh">27_绝密使命</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240923142700 +0800" stop="20240923151200 +0800">
+		<title lang="zh">28_绝密使命</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -70548,6 +70569,9 @@
 	<programme channel="newtv潮妈辣婆" start="20240923134000 +0800" stop="20240923142600 +0800">
 		<title lang="zh">33_倚天屠龙记</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240923142600 +0800" stop="20240923151500 +0800">
+		<title lang="zh">BEYONPAN钛锅升级款-渠道（右）</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -70598,6 +70622,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240923135600 +0800" stop="20240923142300 +0800">
 		<title lang="zh">探访“第一军规”诞生地</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240923142300 +0800" stop="20240923144900 +0800">
+		<title lang="zh">玩转2023天津直博会</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -70718,6 +70745,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240923125300 +0800" stop="20240923142900 +0800">
 		<title lang="zh">锦衣卫之初露锋芒</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240923142900 +0800" stop="20240923145400 +0800">
+		<title lang="zh">45_名侦探柯南（一）</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
