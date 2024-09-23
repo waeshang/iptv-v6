@@ -69,6 +69,9 @@
 	<programme channel="4K综艺" start="20240923092700 +0800" stop="20240923111200 +0800">
 		<title lang="zh">花儿与少年第一季20140530</title>
 	</programme>
+	<programme channel="4K综艺" start="20240923111200 +0800" stop="20240923125500 +0800">
+		<title lang="zh">花儿与少年第一季20140606</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -30701,6 +30704,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20240923092500 +0800" stop="20240923110500 +0800">
 		<title lang="zh">2024NBL季后赛半决赛G3 长沙湾田永胜-香港金牛</title>
+	</programme>
+	<programme channel="咪咕足球" start="20240923111000 +0800" stop="20240923125000 +0800">
+		<title lang="zh">当燃CBA 24/25夏季联赛 江苏肯帝亚-上海久事</title>
 	</programme>
 	<channel id="嘉佳卡通">
 		<display-name lang="zh">嘉佳卡通</display-name>
@@ -69303,6 +69309,9 @@
 	<programme channel="黑莓动画" start="20240923101700 +0800" stop="20240923110400 +0800">
 		<title lang="zh">汪汪队立大功第3季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240923110400 +0800" stop="20240923113100 +0800">
+		<title lang="zh">钶龙战记</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -69783,6 +69792,9 @@
 	<programme channel="newtv超级综艺" start="20240923100200 +0800" stop="20240923111100 +0800">
 		<title lang="zh">中国b7保定乡村音乐大会</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240923111100 +0800" stop="20240923124100 +0800">
+		<title lang="zh">一馔千年</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -70077,6 +70089,9 @@
 	<programme channel="newtv军旅剧场" start="20240923103300 +0800" stop="20240923111400 +0800">
 		<title lang="zh">18_谍战深海之惊蛰</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240923111400 +0800" stop="20240923120300 +0800">
+		<title lang="zh">Vigray墨脱石多功能养生锅-渠道（右）</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -70158,6 +70173,9 @@
 	<programme channel="newtv热播精选" start="20240923103100 +0800" stop="20240923111300 +0800">
 		<title lang="zh">16_女医明妃传</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20240923111300 +0800" stop="20240923120900 +0800">
+		<title lang="zh">AMOS钛多功能电饭煲惠选款-渠道（右）</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -70211,6 +70229,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20240923095000 +0800" stop="20240923111300 +0800">
 		<title lang="zh">洛城疑云</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20240923111300 +0800" stop="20240923131400 +0800">
+		<title lang="zh">悍匪夺金</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -70301,6 +70322,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240923102300 +0800" stop="20240923110900 +0800">
 		<title lang="zh">41_我的爱对你说</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240923110900 +0800" stop="20240923120200 +0800">
+		<title lang="zh">42_我的爱对你说</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
