@@ -30738,6 +30738,9 @@
 	<programme channel="咪咕足球" start="20240923140000 +0800" stop="20240923140500 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕足球" start="20240923140500 +0800" stop="20240923152500 +0800">
+		<title lang="zh">村BA</title>
+	</programme>
 	<channel id="嘉佳卡通">
 		<display-name lang="zh">嘉佳卡通</display-name>
 	</channel>
@@ -59271,6 +59274,9 @@
 	<programme channel="纯享4K" start="20240923132400 +0800" stop="20240923140400 +0800">
 		<title lang="zh">探索b7发现4K 探秘云梦古墓（1）</title>
 	</programme>
+	<programme channel="纯享4K" start="20240923140400 +0800" stop="20240923142900 +0800">
+		<title lang="zh">了不起的冬天4K 第5集 刀尖之争</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -69372,6 +69378,9 @@
 	<programme channel="黑莓动画" start="20240923134900 +0800" stop="20240923141600 +0800">
 		<title lang="zh">一只笨笨的小恐龙</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240923141600 +0800" stop="20240923142200 +0800">
+		<title lang="zh">保卫植物</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -70125,6 +70134,9 @@
 	<programme channel="newtv精品纪录" start="20240923134000 +0800" stop="20240923140900 +0800">
 		<title lang="zh">原味乡间b7开平篇</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240923140900 +0800" stop="20240923144900 +0800">
+		<title lang="zh">原味乡间b7房山篇</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -70338,6 +70350,9 @@
 	<programme channel="newtv热播精选" start="20240923133200 +0800" stop="20240923140500 +0800">
 		<title lang="zh">19_鬼吹灯之精绝古城</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20240923140500 +0800" stop="20240923144600 +0800">
+		<title lang="zh">20_鬼吹灯之精绝古城</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -70410,6 +70425,9 @@
 	<programme channel="newtv动作电影" start="20240923131400 +0800" stop="20240923140200 +0800">
 		<title lang="zh">林格贝尔野生蓝莓原浆新-渠道（右）</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20240923140200 +0800" stop="20240923154000 +0800">
+		<title lang="zh">鲨卷风5：全球鲨暴</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -70475,6 +70493,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240923135800 +0800" stop="20240923140400 +0800">
 		<title lang="zh">小品《喜从天降》 表演：巩汉林 张嘉倪</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240923141400 +0800" stop="20240923143800 +0800">
+		<title lang="zh">小品《大城小爱》 表演：白鸽 刘亮</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -70871,6 +70892,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240923130200 +0800" stop="20240923141000 +0800">
 		<title lang="zh">中国搏击十年</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240923141000 +0800" stop="20240923145900 +0800">
+		<title lang="zh">BEYONPAN钛锅升级款-渠道（右）</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
