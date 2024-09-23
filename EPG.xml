@@ -30699,6 +30699,9 @@
 	<programme channel="咪咕综合体育" start="20240923154000 +0800" stop="20240923154800 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20240923154800 +0800" stop="20240923164000 +0800">
+		<title lang="zh">2024国际马联赛浪琴国家联赛 阿布扎比站</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -30755,6 +30758,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20240923153000 +0800" stop="20240923160500 +0800">
 		<title lang="zh">西班牙篮球黄金一代02篮球万岁</title>
+	</programme>
+	<programme channel="咪咕足球" start="20240923161000 +0800" stop="20240923171000 +0800">
+		<title lang="zh">超级三对三-2024超三联赛</title>
 	</programme>
 	<channel id="嘉佳卡通">
 		<display-name lang="zh">嘉佳卡通</display-name>
@@ -59301,6 +59307,9 @@
 	<programme channel="纯享4K" start="20240923152300 +0800" stop="20240923155300 +0800">
 		<title lang="zh">寻古中国4K 稻谷记b7一望万年</title>
 	</programme>
+	<programme channel="纯享4K" start="20240923155300 +0800" stop="20240923162000 +0800">
+		<title lang="zh">记住乡愁4K第十季 把青春写在家乡的梯田上</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -69417,6 +69426,9 @@
 	<programme channel="黑莓动画" start="20240923153100 +0800" stop="20240923155200 +0800">
 		<title lang="zh">小志和玩具第十二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240923155200 +0800" stop="20240923164000 +0800">
+		<title lang="zh">甜心格格 第一季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -69918,6 +69930,9 @@
 	<programme channel="newtv超级综艺" start="20240923144100 +0800" stop="20240923161700 +0800">
 		<title lang="zh">此生要去的100个地方</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240923161700 +0800" stop="20240923180400 +0800">
+		<title lang="zh">国家宝藏 第四季</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -69959,6 +69974,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20240923143000 +0800" stop="20240923160000 +0800">
 		<title lang="zh">国际足球赛场-24-25赛季英超联赛第5轮 利物浦-伯恩茅斯</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20240923160000 +0800" stop="20240923180000 +0800">
+		<title lang="zh">2024年美国网球公开赛-男单半决赛</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -70064,6 +70082,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20240923153000 +0800" stop="20240923161600 +0800">
 		<title lang="zh">25_天龙八部</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240923161600 +0800" stop="20240923165700 +0800">
+		<title lang="zh">10_滹沱儿女</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -70325,6 +70346,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240923151200 +0800" stop="20240923154600 +0800">
 		<title lang="zh">AMOS全自动漩涡钛健康果蔬净化机-渠道（右）</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240923154600 +0800" stop="20240923163200 +0800">
+		<title lang="zh">36_无间</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -70662,6 +70686,9 @@
 	<programme channel="newtv潮妈辣婆" start="20240923151500 +0800" stop="20240923160000 +0800">
 		<title lang="zh">34_倚天屠龙记</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240923160000 +0800" stop="20240923164500 +0800">
+		<title lang="zh">35_倚天屠龙记</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -70896,6 +70923,9 @@
 	<programme channel="newtv惊悚悬疑" start="20240923143100 +0800" stop="20240923155000 +0800">
 		<title lang="zh">曼谷风云</title>
 	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240923155000 +0800" stop="20240923163900 +0800">
+		<title lang="zh">AMOS钛多功能电饭煲惠选款-渠道（右）</title>
+	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
@@ -70928,6 +70958,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20240923150000 +0800" stop="20240923154800 +0800">
 		<title lang="zh">AMOS钛多功能电饭煲惠选款-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20240923154800 +0800" stop="20240923181600 +0800">
+		<title lang="zh">现在就告白 第3季</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
