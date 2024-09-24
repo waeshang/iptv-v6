@@ -59925,6 +59925,9 @@
 	<programme channel="黑莓动画" start="20240925020300 +0800" stop="20240925025100 +0800">
 		<title lang="zh">骸骨骑士大人奇幻世界冒险中</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240925025100 +0800" stop="20240925034200 +0800">
+		<title lang="zh">星辰变 第一季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -60438,6 +60441,9 @@
 	<programme channel="newtv超级综艺" start="20240925022300 +0800" stop="20240925031300 +0800">
 		<title lang="zh">一笑一周</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240925031300 +0800" stop="20240925040300 +0800">
+		<title lang="zh">黄金100秒</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -60459,6 +60465,9 @@
 	<programme channel="newtv超级电影" start="20240925013100 +0800" stop="20240925030100 +0800">
 		<title lang="zh">大国手之首席棋待诏</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20240925030100 +0800" stop="20240925043500 +0800">
+		<title lang="zh">风流理发师</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -60471,6 +60480,9 @@
 	<programme channel="newtv超级电视剧" start="20240925021100 +0800" stop="20240925025600 +0800">
 		<title lang="zh">29_天底良知</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240925025600 +0800" stop="20240925034100 +0800">
+		<title lang="zh">30_天底良知</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -60482,6 +60494,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240925020000 +0800" stop="20240925025200 +0800">
 		<title lang="zh">01_照亮你</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240925025200 +0800" stop="20240925034400 +0800">
+		<title lang="zh">02_照亮你</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -60534,6 +60549,9 @@
 	<programme channel="newtv家庭剧场" start="20240925020200 +0800" stop="20240925024700 +0800">
 		<title lang="zh">12_千金保姆</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240925024700 +0800" stop="20240925034200 +0800">
+		<title lang="zh">13_千金保姆</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -60585,6 +60603,9 @@
 	<programme channel="newtv潮妈辣婆" start="20240925015800 +0800" stop="20240925025500 +0800">
 		<title lang="zh">29_三国机密</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240925025500 +0800" stop="20240925035100 +0800">
+		<title lang="zh">30_三国机密</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -60599,6 +60620,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240925013500 +0800" stop="20240925025200 +0800">
 		<title lang="zh">星光大篷车开到江西！听一听井冈山上的“百灵鸟”（20240817）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240925025200 +0800" stop="20240925030500 +0800">
+		<title lang="zh">浪子闲话-饶子龙（完整版）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
