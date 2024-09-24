@@ -60564,6 +60564,9 @@
 	<programme channel="纯享4K" start="20240924141100 +0800" stop="20240924143500 +0800">
 		<title lang="zh">了不起的冬天4K 第7集 跨界</title>
 	</programme>
+	<programme channel="纯享4K" start="20240924143500 +0800" stop="20240924145900 +0800">
+		<title lang="zh">了不起的冬天4K 第8集 小算盘</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -72027,6 +72030,9 @@
 	<programme channel="黑莓动画" start="20240924135600 +0800" stop="20240924142000 +0800">
 		<title lang="zh">71_一只笨笨的小恐龙</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240924142800 +0800" stop="20240924145300 +0800">
+		<title lang="zh">张大牙爱搞怪第三季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -72056,6 +72062,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20240924123100 +0800" stop="20240924143100 +0800">
 		<title lang="zh">金属之声</title>
+	</programme>
+	<programme channel="黑莓电影" start="20240924143100 +0800" stop="20240924162400 +0800">
+		<title lang="zh">侠探杰克：永不回头</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -72663,6 +72672,9 @@
 	<programme channel="newtv超级体育" start="20240924130000 +0800" stop="20240924143000 +0800">
 		<title lang="zh">实况录像-2024年中国羽毛球公开赛 2</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240924143000 +0800" stop="20240924160000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季英超联赛第5轮 布赖顿-诺丁汉森林</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -72758,6 +72770,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20240924134200 +0800" stop="20240924142800 +0800">
 		<title lang="zh">27_天龙八部</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240924142800 +0800" stop="20240924151300 +0800">
+		<title lang="zh">28_天龙八部</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -72885,6 +72900,9 @@
 	<programme channel="newtv精品纪录" start="20240924140600 +0800" stop="20240924143600 +0800">
 		<title lang="zh">原味乡间b7播州篇（下）</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240924143600 +0800" stop="20240924152400 +0800">
+		<title lang="zh">千城百味（二十七）</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -72995,6 +73013,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240924134700 +0800" stop="20240924143200 +0800">
 		<title lang="zh">31_绝密使命</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240924143200 +0800" stop="20240924151800 +0800">
+		<title lang="zh">32_绝密使命</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -73254,6 +73275,9 @@
 	<programme channel="newtv怡伴健康" start="20240924141000 +0800" stop="20240924143300 +0800">
 		<title lang="zh">相声《年三十的歌》岳云鹏、孙越</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240924143300 +0800" stop="20240924150000 +0800">
+		<title lang="zh">法官解案b7亲子疑云</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -73305,6 +73329,9 @@
 	<programme channel="newtv潮妈辣婆" start="20240924133800 +0800" stop="20240924142300 +0800">
 		<title lang="zh">37_倚天屠龙记</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240924142300 +0800" stop="20240924151200 +0800">
+		<title lang="zh">BEYONPAN钛锅升级款-渠道（右）</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -73346,6 +73373,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240924141400 +0800" stop="20240924143900 +0800">
 		<title lang="zh">走进机务兵的摇篮</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240924143900 +0800" stop="20240924150400 +0800">
+		<title lang="zh">明星战机重生记</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -73472,6 +73502,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240924125100 +0800" stop="20240924142700 +0800">
 		<title lang="zh">一生有你</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240924142700 +0800" stop="20240924145200 +0800">
+		<title lang="zh">46_名侦探柯南（一）</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
