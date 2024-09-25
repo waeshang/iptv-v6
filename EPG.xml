@@ -60,6 +60,9 @@
 	<programme channel="4K综艺" start="20240926014400 +0800" stop="20240926022700 +0800">
 		<title lang="zh">我最爱的女人们20190802</title>
 	</programme>
+	<programme channel="4K综艺" start="20240926022700 +0800" stop="20240926035200 +0800">
+		<title lang="zh">亲爱的客栈第三季20200103</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -25437,6 +25440,12 @@
 	<programme channel="咪咕综合体育" start="20240926005000 +0800" stop="20240926023000 +0800">
 		<title lang="zh">中超来噜-2024赛季中超 第23轮 上海申花-上海海港</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20240926023000 +0800" stop="20240926024500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20240926024500 +0800" stop="20240926052500 +0800">
+		<title lang="zh">足球世界-24/25赛季西甲 第7轮 巴塞罗那-赫塔菲 直播</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -25448,6 +25457,12 @@
 	</programme>
 	<programme channel="咪咕足球" start="20240926012600 +0800" stop="20240926022600 +0800">
 		<title lang="zh">超级三对三-2024超三联赛</title>
+	</programme>
+	<programme channel="咪咕足球" start="20240926022600 +0800" stop="20240926024100 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20240926024100 +0800" stop="20240926042100 +0800">
+		<title lang="zh">2024NBL第5轮 香港金牛-广西威壮</title>
 	</programme>
 	<channel id="嘉佳卡通">
 		<display-name lang="zh">嘉佳卡通</display-name>
@@ -49404,6 +49419,9 @@
 	<programme channel="纯享4K" start="20240926013300 +0800" stop="20240926023200 +0800">
 		<title lang="zh">乐享汇4K “最美的时光”演唱会（二）</title>
 	</programme>
+	<programme channel="纯享4K" start="20240926023200 +0800" stop="20240926024700 +0800">
+		<title lang="zh">艺术里的奥林匹克4K 永恒的运转</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -60132,6 +60150,9 @@
 	<programme channel="newtv超级电影" start="20240926010400 +0800" stop="20240926023400 +0800">
 		<title lang="zh">大国手之秦淮风月</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20240926023400 +0800" stop="20240926053900 +0800">
+		<title lang="zh">大国手之扬州论枰</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -60143,6 +60164,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20240926015600 +0800" stop="20240926024100 +0800">
 		<title lang="zh">34_天底良知</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240926024100 +0800" stop="20240926032600 +0800">
+		<title lang="zh">01_珠江人家</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -60168,6 +60192,9 @@
 	<programme channel="newtv精品纪录" start="20240926020800 +0800" stop="20240926023600 +0800">
 		<title lang="zh">15_让肿瘤不再可怕 顾晋</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240926023600 +0800" stop="20240926025100 +0800">
+		<title lang="zh">01_医路前行</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -60176,6 +60203,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20240926014100 +0800" stop="20240926023600 +0800">
 		<title lang="zh">16_聊斋先生</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20240926023600 +0800" stop="20240926033100 +0800">
+		<title lang="zh">17_聊斋先生</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -60240,6 +60270,9 @@
 	<programme channel="newtv怡伴健康" start="20240926013400 +0800" stop="20240926022000 +0800">
 		<title lang="zh">35_清平乐[DVD版]</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240926022000 +0800" stop="20240926031500 +0800">
+		<title lang="zh">36_清平乐[DVD版]</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -60266,6 +60299,12 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240926021200 +0800" stop="20240926022000 +0800">
 		<title lang="zh">《广场舞》 羊年吉祥（附教学）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240926022800 +0800" stop="20240926023600 +0800">
+		<title lang="zh">《广场舞》 羊羊得意（附教学）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240926023600 +0800" stop="20240926024800 +0800">
+		<title lang="zh">《广场舞》 赞赞赞（附教学）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
