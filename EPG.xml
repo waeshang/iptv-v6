@@ -73929,6 +73929,12 @@
 	<programme channel="黑莓动画" start="20240926114800 +0800" stop="20240926122500 +0800">
 		<title lang="zh">百变布鲁可第4季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240926122500 +0800" stop="20240926123800 +0800">
+		<title lang="zh">超级飞侠第15季</title>
+	</programme>
+	<programme channel="黑莓动画" start="20240926123800 +0800" stop="20240926131300 +0800">
+		<title lang="zh">嗨道奇第2季中文版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -73952,6 +73958,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20240926105000 +0800" stop="20240926122500 +0800">
 		<title lang="zh">外八门之局中局</title>
+	</programme>
+	<programme channel="黑莓电影" start="20240926122500 +0800" stop="20240926141500 +0800">
+		<title lang="zh">碟中谍</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -74538,6 +74547,9 @@
 	<programme channel="newtv超级体育" start="20240926120000 +0800" stop="20240926123500 +0800">
 		<title lang="zh">体坛快讯</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240926123500 +0800" stop="20240926125500 +0800">
+		<title lang="zh">艺术里的奥林匹克</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -74772,6 +74784,9 @@
 	<programme channel="newtv古装剧场" start="20240926114400 +0800" stop="20240926123200 +0800">
 		<title lang="zh">AMOS钛多功能电饭煲惠选款-渠道（右）</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240926123200 +0800" stop="20240926131700 +0800">
+		<title lang="zh">07_天地姻缘七仙女</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -74820,6 +74835,9 @@
 	<programme channel="newtv军旅剧场" start="20240926115300 +0800" stop="20240926124100 +0800">
 		<title lang="zh">林格贝尔野生蓝莓原浆新-渠道（右）</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240926124100 +0800" stop="20240926132600 +0800">
+		<title lang="zh">05_风声</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -74867,6 +74885,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20240926113400 +0800" stop="20240926122900 +0800">
 		<title lang="zh">26_我的爱对你说</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240926122900 +0800" stop="20240926131400 +0800">
+		<title lang="zh">27_我的爱对你说</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -74949,6 +74970,9 @@
 	<programme channel="newtv爱情喜剧" start="20240926115200 +0800" stop="20240926123700 +0800">
 		<title lang="zh">22_我，喜欢你</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20240926123700 +0800" stop="20240926132500 +0800">
+		<title lang="zh">美国RN原装进口鲨鱼神经酸-渠道（右）</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -74975,6 +74999,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20240926110000 +0800" stop="20240926123500 +0800">
 		<title lang="zh">海平面上升</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20240926123500 +0800" stop="20240926132300 +0800">
+		<title lang="zh">AMOS钛多功能电饭煲惠选款-渠道（右）</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -75029,6 +75056,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240926114200 +0800" stop="20240926123300 +0800">
 		<title lang="zh">28_好妻子</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240926123300 +0800" stop="20240926124800 +0800">
+		<title lang="zh">相声《诗人的一天》 表演：李寅飞 叶蓬</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -75111,6 +75141,9 @@
 	<programme channel="newtv军事评论" start="20240926121200 +0800" stop="20240926123800 +0800">
 		<title lang="zh">探访“云峰八寨”</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240926123800 +0800" stop="20240926130500 +0800">
+		<title lang="zh">军迷越南游记（上）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -75180,6 +75213,9 @@
 	<programme channel="newtv炫舞未来" start="20240926113900 +0800" stop="20240926122700 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240926122700 +0800" stop="20240926125400 +0800">
+		<title lang="zh">无法兑现的承诺（20220111）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -75228,6 +75264,9 @@
 	<programme channel="newtv精品综合" start="20240926121100 +0800" stop="20240926123600 +0800">
 		<title lang="zh">锐杰斯笑得甜热感焕白牙膏家庭组30分钟-渠道（右）</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20240926123600 +0800" stop="20240926140600 +0800">
+		<title lang="zh">我是哪吒</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -75254,6 +75293,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20240926112900 +0800" stop="20240926121700 +0800">
 		<title lang="zh">AMOS钛多功能电饭煲惠选款-渠道（右）</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240926121700 +0800" stop="20240926134400 +0800">
+		<title lang="zh">侠探锦毛鼠之鹧鸪天</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
