@@ -62589,6 +62589,9 @@
 	<programme channel="纯享4K" start="20240926134900 +0800" stop="20240926141400 +0800">
 		<title lang="zh">了不起的冬天4K 第10集 了不起的冬天</title>
 	</programme>
+	<programme channel="纯享4K" start="20240926141400 +0800" stop="20240926143800 +0800">
+		<title lang="zh">辣椒的征途4K 第3集 北粉南酱 辣不一样</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -73995,6 +73998,9 @@
 	<programme channel="黑莓电影" start="20240926122500 +0800" stop="20240926141500 +0800">
 		<title lang="zh">碟中谍</title>
 	</programme>
+	<programme channel="黑莓电影" start="20240926141500 +0800" stop="20240926154800 +0800">
+		<title lang="zh">斗破苍穹b7觉醒</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -74799,6 +74805,9 @@
 	<programme channel="newtv精品纪录" start="20240926132700 +0800" stop="20240926141500 +0800">
 		<title lang="zh">千城百味（二十九）</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240926141500 +0800" stop="20240926151300 +0800">
+		<title lang="zh">01_要塞危急</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -74849,6 +74858,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20240926131700 +0800" stop="20240926140300 +0800">
 		<title lang="zh">24_长歌行</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20240926140300 +0800" stop="20240926145700 +0800">
+		<title lang="zh">25_长歌行</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -74957,6 +74969,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20240926131400 +0800" stop="20240926140200 +0800">
 		<title lang="zh">AMOS钛多功能电饭煲惠选款-渠道（右）</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240926140200 +0800" stop="20240926144800 +0800">
+		<title lang="zh">28_我的爱对你说</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -75150,6 +75165,9 @@
 	<programme channel="newtv怡伴健康" start="20240926134900 +0800" stop="20240926140900 +0800">
 		<title lang="zh">相声《诗鲜》 表演：贾旭明 郑健</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240926140900 +0800" stop="20240926142200 +0800">
+		<title lang="zh">相声《说你什么好》 表演：曹云金 刘云天</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -75327,6 +75345,9 @@
 	<programme channel="newtv炫舞未来" start="20240926132000 +0800" stop="20240926140800 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240926140800 +0800" stop="20240926152100 +0800">
+		<title lang="zh">万物皆用毛线编织 巧手实现女儿童年梦想（20240717）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -75377,6 +75398,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240926123600 +0800" stop="20240926140600 +0800">
 		<title lang="zh">我是哪吒</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240926140600 +0800" stop="20240926143100 +0800">
+		<title lang="zh">48_名侦探柯南（一）</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
