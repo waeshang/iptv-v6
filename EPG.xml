@@ -90,6 +90,9 @@
 	<programme channel="4K综艺" start="20240927134900 +0800" stop="20240927150300 +0800">
 		<title lang="zh">我最爱的女人们20190601</title>
 	</programme>
+	<programme channel="4K综艺" start="20240927150300 +0800" stop="20240927160200 +0800">
+		<title lang="zh">真心大冒险20180428</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -62631,6 +62634,9 @@
 	<programme channel="纯享4K" start="20240927142000 +0800" stop="20240927151000 +0800">
 		<title lang="zh">国家公园——万物共生之境4K 第4集 回归之路</title>
 	</programme>
+	<programme channel="纯享4K" start="20240927151000 +0800" stop="20240927160000 +0800">
+		<title lang="zh">国家公园——万物共生之境4K 第5集 万物生息</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -74223,6 +74229,9 @@
 	<programme channel="黑莓动画" start="20240927142000 +0800" stop="20240927145900 +0800">
 		<title lang="zh">张大牙爱搞怪第三季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240927145900 +0800" stop="20240927152900 +0800">
+		<title lang="zh">笨蛋波波与小宝</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -74802,6 +74811,9 @@
 	<programme channel="newtv超级综艺" start="20240927140100 +0800" stop="20240927151800 +0800">
 		<title lang="zh">向幸福出发</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240927151800 +0800" stop="20240927164800 +0800">
+		<title lang="zh">乐在旅途 第二季</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -74844,6 +74856,9 @@
 	<programme channel="newtv超级体育" start="20240927130000 +0800" stop="20240927150500 +0800">
 		<title lang="zh">2024年中国网球公开赛-女单第2轮1</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240927150500 +0800" stop="20240927153500 +0800">
+		<title lang="zh">实况录像-2024年世界技巧运动锦标赛 4</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -74882,6 +74897,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20240927132300 +0800" stop="20240927150600 +0800">
 		<title lang="zh">电影《欢迎来到我身边》</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20240927150600 +0800" stop="20240927164100 +0800">
+		<title lang="zh">电影《燕赤霞猎妖传》</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -74946,6 +74964,9 @@
 	<programme channel="newtv超级电视剧" start="20240927140900 +0800" stop="20240927145400 +0800">
 		<title lang="zh">39_天龙八部</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240927145400 +0800" stop="20240927154000 +0800">
+		<title lang="zh">40_天龙八部</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -75002,6 +75023,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240927140900 +0800" stop="20240927145500 +0800">
 		<title lang="zh">15_我知道我爱你</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240927145500 +0800" stop="20240927154000 +0800">
+		<title lang="zh">16_我知道我爱你</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -75137,6 +75161,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20240927140400 +0800" stop="20240927150000 +0800">
 		<title lang="zh">29_长歌行</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20240927150000 +0800" stop="20240927154600 +0800">
+		<title lang="zh">30_长歌行</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -75360,6 +75387,9 @@
 	<programme channel="newtv爱情喜剧" start="20240927141600 +0800" stop="20240927150100 +0800">
 		<title lang="zh">05_都市外乡人</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20240927150100 +0800" stop="20240927154900 +0800">
+		<title lang="zh">AMOS钛多功能电饭煲惠选款-渠道（右）</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -75392,6 +75422,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20240927131500 +0800" stop="20240927150700 +0800">
 		<title lang="zh">极速生活</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20240927150700 +0800" stop="20240927170100 +0800">
+		<title lang="zh">夺命手机</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -75446,6 +75479,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240927143200 +0800" stop="20240927144600 +0800">
 		<title lang="zh">小品《每逢佳节被催婚》 表演：任嘉伦 万茜</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240927145600 +0800" stop="20240927152100 +0800">
+		<title lang="zh">锐杰斯笑得甜热感焕白牙膏家庭组30分钟-渠道（右）</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -75542,6 +75578,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240927143700 +0800" stop="20240927150400 +0800">
 		<title lang="zh">寻踪邛崃阻击战</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240927150400 +0800" stop="20240927153100 +0800">
+		<title lang="zh">先秦战车之谜</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
