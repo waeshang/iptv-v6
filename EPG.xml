@@ -24195,6 +24195,9 @@
 	<programme channel="咪咕足球" start="20240929042100 +0800" stop="20240929043000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕足球" start="20240929043000 +0800" stop="20240929053000 +0800">
+		<title lang="zh">村BA</title>
+	</programme>
 	<channel id="唯心电视">
 		<display-name lang="zh">唯心电视</display-name>
 	</channel>
@@ -42705,6 +42708,9 @@
 	<programme channel="纯享4K" start="20240929040300 +0800" stop="20240929044500 +0800">
 		<title lang="zh">远方的家4K 大运河（19） 航行在苏南运河</title>
 	</programme>
+	<programme channel="纯享4K" start="20240929044500 +0800" stop="20240929052700 +0800">
+		<title lang="zh">远方的家4K 大运河（20） 从枫桥到阊门</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -49743,6 +49749,9 @@
 	<programme channel="黑莓动画" start="20240929035000 +0800" stop="20240929042700 +0800">
 		<title lang="zh">全职法师第2季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240929042700 +0800" stop="20240929051200 +0800">
+		<title lang="zh">马达加斯加企鹅第一季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -49998,6 +50007,9 @@
 	<programme channel="newtv超级综艺" start="20240929032800 +0800" stop="20240929044600 +0800">
 		<title lang="zh">乐在旅途</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240929044600 +0800" stop="20240929054600 +0800">
+		<title lang="zh">非常6+1</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -50049,6 +50061,9 @@
 	<programme channel="newtv超级电视剧" start="20240929040700 +0800" stop="20240929045000 +0800">
 		<title lang="zh">20_牧马人</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240929045000 +0800" stop="20240929053100 +0800">
+		<title lang="zh">21_牧马人</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -50066,6 +50081,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240929034000 +0800" stop="20240929043200 +0800">
 		<title lang="zh">23_照亮你</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240929043200 +0800" stop="20240929052300 +0800">
+		<title lang="zh">28_牧马人</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -50127,6 +50145,9 @@
 	<programme channel="newtv军旅剧场" start="20240929034200 +0800" stop="20240929043700 +0800">
 		<title lang="zh">19_雪域天路</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240929043700 +0800" stop="20240929053100 +0800">
+		<title lang="zh">08_刀锋乱世情</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -50175,6 +50196,9 @@
 	<programme channel="newtv爱情喜剧" start="20240929035000 +0800" stop="20240929044200 +0800">
 		<title lang="zh">27_好大一个家</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20240929044200 +0800" stop="20240929053400 +0800">
+		<title lang="zh">28_好大一个家</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -50207,6 +50231,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240929034400 +0800" stop="20240929042000 +0800">
 		<title lang="zh">沸腾的半岛——从草原到河口（上）</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240929042000 +0800" stop="20240929065000 +0800">
+		<title lang="zh">黄梅戏《红丝错》</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -50264,6 +50291,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240929034500 +0800" stop="20240929043600 +0800">
 		<title lang="zh">15_谁是真英雄</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240929043600 +0800" stop="20240929052700 +0800">
+		<title lang="zh">16_谁是真英雄</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
