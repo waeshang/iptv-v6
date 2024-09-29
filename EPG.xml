@@ -62493,6 +62493,9 @@
 	<programme channel="黑莓动画" start="20240929223500 +0800" stop="20240929225900 +0800">
 		<title lang="zh">15_咒术回战</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240929225900 +0800" stop="20240929231700 +0800">
+		<title lang="zh">01_大理寺日志</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -62907,6 +62910,9 @@
 	<programme channel="newtv超级体育" start="20240929210000 +0800" stop="20240929230500 +0800">
 		<title lang="zh">2024年中国网球公开赛-女单第3轮2</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240929230500 +0800" stop="20240929003000 +0800">
+		<title lang="zh">实况录像-2024年世乒联冠军赛 中国澳门站 5</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -63051,6 +63057,9 @@
 	<programme channel="newtv超级电视剧" start="20240929220500 +0800" stop="20240929225000 +0800">
 		<title lang="zh">19_江河之上</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240929225000 +0800" stop="20240929233500 +0800">
+		<title lang="zh">13_花琉璃轶闻</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -63140,6 +63149,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240929220800 +0800" stop="20240929225800 +0800">
 		<title lang="zh">24_兰闺喜事</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240929225800 +0800" stop="20240929234300 +0800">
+		<title lang="zh">01_灼灼风流</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -63432,6 +63444,9 @@
 	<programme channel="newtv军旅剧场" start="20240929220500 +0800" stop="20240929225100 +0800">
 		<title lang="zh">36_百战天狼</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240929225100 +0800" stop="20240929232100 +0800">
+		<title lang="zh">【五脏自愈操】推荐第一期</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -63530,6 +63545,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20240929215700 +0800" stop="20240929224900 +0800">
 		<title lang="zh">17_我和我的三个姐姐</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240929224900 +0800" stop="20240929233000 +0800">
+		<title lang="zh">18_我和我的三个姐姐</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -63942,6 +63960,9 @@
 	<programme channel="newtv潮妈辣婆" start="20240929221300 +0800" stop="20240929230000 +0800">
 		<title lang="zh">03_小日子</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240929230000 +0800" stop="20240929233900 +0800">
+		<title lang="zh">女孩和闺蜜同时爱上一个男生，谁才是真正的女友？</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -64049,6 +64070,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240929223300 +0800" stop="20240929225500 +0800">
 		<title lang="zh">“匕首”对决“爱国者”</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240929225500 +0800" stop="20240929231700 +0800">
+		<title lang="zh">聚焦巴以冲突 火上浇油的美军航母</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -64523,6 +64547,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240929222700 +0800" stop="20240929225700 +0800">
 		<title lang="zh">【五脏自愈操】推荐第一期</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240929225700 +0800" stop="20240929002100 +0800">
+		<title lang="zh">大偃术师</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
