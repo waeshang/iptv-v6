@@ -78,6 +78,9 @@
 	<programme channel="4K综艺" start="20240929112500 +0800" stop="20240929123100 +0800">
 		<title lang="zh">真心大冒险20180602</title>
 	</programme>
+	<programme channel="4K综艺" start="20240929123100 +0800" stop="20240929135400 +0800">
+		<title lang="zh">真心大冒险20180609</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -54312,6 +54315,9 @@
 	<programme channel="纯享4K" start="20240929115600 +0800" stop="20240929123800 +0800">
 		<title lang="zh">远方的家4K 大运河（19） 航行在苏南运河</title>
 	</programme>
+	<programme channel="纯享4K" start="20240929123800 +0800" stop="20240929131900 +0800">
+		<title lang="zh">远方的家4K 大运河（20） 从枫桥到阊门</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -62118,6 +62124,9 @@
 	<programme channel="黑莓动画" start="20240929121400 +0800" stop="20240929124000 +0800">
 		<title lang="zh">超级飞侠第15季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240929124000 +0800" stop="20240929131500 +0800">
+		<title lang="zh">嗨道奇第2季中文版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -62484,6 +62493,9 @@
 	<programme channel="newtv超级体育" start="20240929120000 +0800" stop="20240929123000 +0800">
 		<title lang="zh">体坛快讯</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240929123000 +0800" stop="20240929150000 +0800">
+		<title lang="zh">2024年世乒联大满贯赛(北京站)-第1轮1</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -62615,6 +62627,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240929113300 +0800" stop="20240929121900 +0800">
 		<title lang="zh">38_乐游原</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240929121900 +0800" stop="20240929131400 +0800">
+		<title lang="zh">39_乐游原</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -62774,6 +62789,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240929114100 +0800" stop="20240929122600 +0800">
 		<title lang="zh">17_风声</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240929122600 +0800" stop="20240929132000 +0800">
+		<title lang="zh">18_风声</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -62943,6 +62961,9 @@
 	<programme channel="newtv动作电影" start="20240929105400 +0800" stop="20240929123900 +0800">
 		<title lang="zh">乔纳森</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20240929123900 +0800" stop="20240929132800 +0800">
+		<title lang="zh">YOHOKA钛健康双胆多用饭煲-渠道（右）</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -62994,6 +63015,9 @@
 	<programme channel="newtv怡伴健康" start="20240929114300 +0800" stop="20240929123500 +0800">
 		<title lang="zh">34_好妻子</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240929123500 +0800" stop="20240929125200 +0800">
+		<title lang="zh">小品《啼笑皆非》 表演：贾玲 张小斐</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -63038,6 +63062,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240929121600 +0800" stop="20240929122600 +0800">
 		<title lang="zh">人间有味山河鲜第2季</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240929123900 +0800" stop="20240929132000 +0800">
+		<title lang="zh">06_灼灼风流</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -63222,6 +63249,9 @@
 	<programme channel="newtv惊悚悬疑" start="20240929114100 +0800" stop="20240929123000 +0800">
 		<title lang="zh">新西兰跨境五层龙血糖分解酶-渠道（右）</title>
 	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240929123000 +0800" stop="20240929134800 +0800">
+		<title lang="zh">法医秦明之雨中协奏曲</title>
+	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
@@ -63266,6 +63296,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20240929103500 +0800" stop="20240929121900 +0800">
 		<title lang="zh">23-24赛季CBA总决赛G3：新疆VS辽宁</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20240929121900 +0800" stop="20240929140400 +0800">
+		<title lang="zh">23-24赛季CBA总决赛G4：新疆VS辽宁</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
@@ -63341,6 +63374,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240929115100 +0800" stop="20240929123600 +0800">
 		<title lang="zh">04_大秦帝国之纵横</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240929123600 +0800" stop="20240929133200 +0800">
+		<title lang="zh">05_大秦帝国之纵横</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
