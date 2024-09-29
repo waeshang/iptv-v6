@@ -62154,6 +62154,9 @@
 	<programme channel="黑莓动画" start="20240929134100 +0800" stop="20240929140800 +0800">
 		<title lang="zh">猪猪侠之超星五灵侠6</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240929140800 +0800" stop="20240929143400 +0800">
+		<title lang="zh">一只笨笨的小恐龙</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -62856,6 +62859,9 @@
 	<programme channel="newtv军旅剧场" start="20240929132000 +0800" stop="20240929140600 +0800">
 		<title lang="zh">19_风声</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240929140600 +0800" stop="20240929145100 +0800">
+		<title lang="zh">20_风声</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -63108,6 +63114,9 @@
 	<programme channel="newtv怡伴健康" start="20240929134600 +0800" stop="20240929140500 +0800">
 		<title lang="zh">小品《吃饺子》 表演：赵丽蓉 李文启</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240929140500 +0800" stop="20240929141600 +0800">
+		<title lang="zh">小品《吃面条》 表演：陈佩斯 朱时茂</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -63158,6 +63167,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240929132000 +0800" stop="20240929140300 +0800">
 		<title lang="zh">07_灼灼风流</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240929140300 +0800" stop="20240929145200 +0800">
+		<title lang="zh">Vigray墨脱石多功能养生锅-渠道（右）</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -63419,6 +63431,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20240929121900 +0800" stop="20240929140400 +0800">
 		<title lang="zh">23-24赛季CBA总决赛G4：新疆VS辽宁</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20240929140400 +0800" stop="20240929154500 +0800">
+		<title lang="zh">2024赛季中超联赛第12轮：山东泰山VS深圳新鹏城</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
