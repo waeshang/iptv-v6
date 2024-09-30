@@ -54594,6 +54594,9 @@
 	<programme channel="纯享4K" start="20241001022400 +0800" stop="20241001025400 +0800">
 		<title lang="zh">美丽中国说4K 生态海岸</title>
 	</programme>
+	<programme channel="纯享4K" start="20241001025400 +0800" stop="20241001033400 +0800">
+		<title lang="zh">荣宝斋4K 第5集 脉动新声</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -65670,6 +65673,9 @@
 	<programme channel="黑莓动画" start="20241001020000 +0800" stop="20241001024700 +0800">
 		<title lang="zh">骸骨骑士大人奇幻世界冒险中</title>
 	</programme>
+	<programme channel="黑莓动画" start="20241001024700 +0800" stop="20241001034100 +0800">
+		<title lang="zh">星辰变第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -65678,6 +65684,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20241001013400 +0800" stop="20241001030200 +0800">
 		<title lang="zh">我们的黄金年代</title>
+	</programme>
+	<programme channel="黑莓电影" start="20241001030200 +0800" stop="20241001042900 +0800">
+		<title lang="zh">圆环行动</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -66168,6 +66177,9 @@
 	<programme channel="newtv超级综艺" start="20241001020200 +0800" stop="20241001031200 +0800">
 		<title lang="zh">会唱歌的院子</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20241001031200 +0800" stop="20241001040200 +0800">
+		<title lang="zh">一笑一周</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -66201,6 +66213,9 @@
 	<programme channel="newtv超级电视剧" start="20241001021900 +0800" stop="20241001030400 +0800">
 		<title lang="zh">26_珠江人家</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20241001030400 +0800" stop="20241001035000 +0800">
+		<title lang="zh">27_珠江人家</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -66233,6 +66248,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20241001020700 +0800" stop="20241001024600 +0800">
 		<title lang="zh">01_AI脑力觉醒</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20241001024600 +0800" stop="20241001031600 +0800">
+		<title lang="zh">02_AI脑力觉醒</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
