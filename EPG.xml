@@ -69315,6 +69315,9 @@
 	<programme channel="newtv军旅剧场" start="20240930105100 +0800" stop="20240930114000 +0800">
 		<title lang="zh">Vigray墨脱石多功能养生锅-渠道（右）</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240930114000 +0800" stop="20240930122500 +0800">
+		<title lang="zh">21_风声</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -69516,6 +69519,9 @@
 	<programme channel="newtv怡伴健康" start="20240930105700 +0800" stop="20240930114000 +0800">
 		<title lang="zh">35_好妻子</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240930114000 +0800" stop="20240930123300 +0800">
+		<title lang="zh">36_好妻子</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -69639,6 +69645,9 @@
 	<programme channel="newtv炫舞未来" start="20240930105600 +0800" stop="20240930113900 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240930113900 +0800" stop="20240930120300 +0800">
+		<title lang="zh">回家吃饭（20240115）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -69674,6 +69683,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240930105000 +0800" stop="20240930113400 +0800">
 		<title lang="zh">23_女医明妃传</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240930113400 +0800" stop="20240930121600 +0800">
+		<title lang="zh">24_女医明妃传</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
