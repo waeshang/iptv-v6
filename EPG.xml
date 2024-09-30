@@ -63,6 +63,9 @@
 	<programme channel="4K综艺" start="20241001032700 +0800" stop="20241001044800 +0800">
 		<title lang="zh">奇兵神犬20171229</title>
 	</programme>
+	<programme channel="4K综艺" start="20241001044800 +0800" stop="20241001061400 +0800">
+		<title lang="zh">奇兵神犬20180105</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -54981,6 +54984,9 @@
 	<programme channel="纯享4K" start="20241001041600 +0800" stop="20241001045800 +0800">
 		<title lang="zh">远方的家4K 长江行 金沙江河谷的春天</title>
 	</programme>
+	<programme channel="纯享4K" start="20241001045800 +0800" stop="20241001050300 +0800">
+		<title lang="zh">美丽中国自然4K 察青松多系列 雏鸟成长记</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -66696,6 +66702,9 @@
 	<programme channel="newtv古装剧场" start="20241001034600 +0800" stop="20241001044700 +0800">
 		<title lang="zh">18_乐游原</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20241001044700 +0800" stop="20241001054100 +0800">
+		<title lang="zh">29_大戏法</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -66846,6 +66855,9 @@
 	<programme channel="newtv炫舞未来" start="20241001042500 +0800" stop="20241001044700 +0800">
 		<title lang="zh">民族健身舞《上海产的半导体》（20231023）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20241001044700 +0800" stop="20241001050400 +0800">
+		<title lang="zh">草原的月亮-孙爱迪（完整版）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -66857,6 +66869,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20241001035800 +0800" stop="20241001045000 +0800">
 		<title lang="zh">23_谁是真英雄</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20241001045000 +0800" stop="20241001054100 +0800">
+		<title lang="zh">24_谁是真英雄</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -66944,6 +66959,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20241001032100 +0800" stop="20241001045400 +0800">
 		<title lang="zh">热血杨家将</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20241001045400 +0800" stop="20241001055100 +0800">
+		<title lang="zh">男子棍术</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
