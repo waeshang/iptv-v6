@@ -34485,11 +34485,29 @@
 	<programme channel="国会频道1" start="20240930084700 +0800" stop="20240930090000 +0800">
 		<title lang="zh">週一會議預報</title>
 	</programme>
-	<programme channel="国会频道1" start="20240930090000 +0800" stop="20240930180000 +0800">
+	<programme channel="国会频道1" start="20240930090000 +0800" stop="20240930121800 +0800">
 		<title lang="zh">立法院會議直播</title>
 	</programme>
-	<programme channel="国会频道1" start="20240930180000 +0800" stop="20240930235900 +0800">
-		<title lang="zh">當日立法院會議轉播</title>
+	<programme channel="国会频道1" start="20240930121800 +0800" stop="20240930122300 +0800">
+		<title lang="zh">週一會議預報</title>
+	</programme>
+	<programme channel="国会频道1" start="20240930122300 +0800" stop="20240930154300 +0800">
+		<title lang="zh">內政委員會</title>
+	</programme>
+	<programme channel="国会频道1" start="20240930154300 +0800" stop="20240930154800 +0800">
+		<title lang="zh">週一會議預報</title>
+	</programme>
+	<programme channel="国会频道1" start="20240930154800 +0800" stop="20240930185900 +0800">
+		<title lang="zh">經濟委員會</title>
+	</programme>
+	<programme channel="国会频道1" start="20240930185900 +0800" stop="20240930190400 +0800">
+		<title lang="zh">週一會議預報</title>
+	</programme>
+	<programme channel="国会频道1" start="20240930190400 +0800" stop="20240930222500 +0800">
+		<title lang="zh">內政委員會</title>
+	</programme>
+	<programme channel="国会频道1" start="20240930222500 +0800" stop="20240930235900 +0800">
+		<title lang="zh">經濟委員會</title>
 	</programme>
 	<channel id="国会频道2">
 		<display-name lang="zh">国会频道2</display-name>
@@ -34509,11 +34527,26 @@
 	<programme channel="国会频道2" start="20240930084700 +0800" stop="20240930090000 +0800">
 		<title lang="zh">週一會議預報</title>
 	</programme>
-	<programme channel="国会频道2" start="20240930090000 +0800" stop="20240930180000 +0800">
+	<programme channel="国会频道2" start="20240930090000 +0800" stop="20240930132100 +0800">
 		<title lang="zh">立法院會議直播</title>
 	</programme>
-	<programme channel="国会频道2" start="20240930180000 +0800" stop="20240930235900 +0800">
-		<title lang="zh">當日立法院會議轉播</title>
+	<programme channel="国会频道2" start="20240930132100 +0800" stop="20240930132600 +0800">
+		<title lang="zh">週一會議預報</title>
+	</programme>
+	<programme channel="国会频道2" start="20240930132600 +0800" stop="20240930173100 +0800">
+		<title lang="zh">交通委員會</title>
+	</programme>
+	<programme channel="国会频道2" start="20240930173100 +0800" stop="20240930173600 +0800">
+		<title lang="zh">週一會議預報</title>
+	</programme>
+	<programme channel="国会频道2" start="20240930173600 +0800" stop="20240930210200 +0800">
+		<title lang="zh">司法及法制委員會</title>
+	</programme>
+	<programme channel="国会频道2" start="20240930210200 +0800" stop="20240930210700 +0800">
+		<title lang="zh">週一會議預報</title>
+	</programme>
+	<programme channel="国会频道2" start="20240930210700 +0800" stop="20240930235900 +0800">
+		<title lang="zh">教育及文化委員會</title>
 	</programme>
 	<channel id="国兴卫视">
 		<display-name lang="zh">国兴卫视</display-name>
@@ -68748,6 +68781,9 @@
 	<programme channel="黑莓动画" start="20240930155000 +0800" stop="20240930161400 +0800">
 		<title lang="zh">甜心格格 第一季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240930161400 +0800" stop="20240930163800 +0800">
+		<title lang="zh">蘑菇头和恐龙笨波</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -69330,6 +69366,9 @@
 	<programme channel="newtv精品大剧" start="20240930152400 +0800" stop="20240930160700 +0800">
 		<title lang="zh">07_重紫</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240930160700 +0800" stop="20240930165500 +0800">
+		<title lang="zh">美国RN原装进口鲨鱼神经酸-渠道（右）</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -69404,6 +69443,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240930153700 +0800" stop="20240930160100 +0800">
 		<title lang="zh">01_赌城危局</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240930160100 +0800" stop="20240930163500 +0800">
+		<title lang="zh">02_赌城危局</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -69656,6 +69698,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20240930152200 +0800" stop="20240930160600 +0800">
 		<title lang="zh">26_怒海潜沙秦岭神树</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20240930160600 +0800" stop="20240930170100 +0800">
+		<title lang="zh">神飞航天研究院骨胶原蛋白肽-渠道（右）</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -70145,6 +70190,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20240930153300 +0800" stop="20240930161800 +0800">
 		<title lang="zh">神飞航天研究院骨胶原蛋白肽-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20240930161800 +0800" stop="20240930182900 +0800">
+		<title lang="zh">势均力敌的我们</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
