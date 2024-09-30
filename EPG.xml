@@ -33546,6 +33546,9 @@
 	<programme channel="咪咕综合体育" start="20240930170000 +0800" stop="20240930223000 +0800">
 		<title lang="zh">国球荣耀-WTT中国大满贯 男女单打第1轮、男女双打24进16 直播</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20240930223500 +0800" stop="20240930230000 +0800">
+		<title lang="zh">欧陆足球版图</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -33623,6 +33626,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20240930221500 +0800" stop="20240930222000 +0800">
 		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20240930222000 +0800" stop="20240930000000 +0800">
+		<title lang="zh">2024NBL季后赛半决赛G4 长沙湾田永胜-香港金牛</title>
 	</programme>
 	<channel id="唯心电视">
 		<display-name lang="zh">唯心电视</display-name>
@@ -69180,6 +69186,9 @@
 	<programme channel="黑莓动画" start="20240930220800 +0800" stop="20240930223200 +0800">
 		<title lang="zh">16_咒术回战</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240930223200 +0800" stop="20240930225600 +0800">
+		<title lang="zh">17_咒术回战</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -69573,6 +69582,9 @@
 	<programme channel="newtv超级综艺" start="20240930214300 +0800" stop="20240930224000 +0800">
 		<title lang="zh">绽放吧！妈妈</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240930224000 +0800" stop="20240930232500 +0800">
+		<title lang="zh">21_欢迎光临</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -69684,6 +69696,9 @@
 	<programme channel="newtv超级电影" start="20240930213000 +0800" stop="20240930223500 +0800">
 		<title lang="zh">电影《特种兵归来2：黑色罂粟》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20240930223500 +0800" stop="20240930000500 +0800">
+		<title lang="zh">电影《窃听者》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -69777,6 +69792,9 @@
 	<programme channel="newtv超级电视剧" start="20240930214700 +0800" stop="20240930223200 +0800">
 		<title lang="zh">22_江河之上</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240930223200 +0800" stop="20240930231800 +0800">
+		<title lang="zh">15_花琉璃轶闻</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -69866,6 +69884,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240930215100 +0800" stop="20240930224100 +0800">
 		<title lang="zh">03_灼灼风流</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240930224100 +0800" stop="20240930232300 +0800">
+		<title lang="zh">04_灼灼风流</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -69971,6 +69992,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240930220400 +0800" stop="20240930222800 +0800">
 		<title lang="zh">03_衡漳韵味</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240930222800 +0800" stop="20240930225300 +0800">
+		<title lang="zh">01_立夏</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -70563,6 +70587,9 @@
 	<programme channel="newtv怡伴健康" start="20240930215000 +0800" stop="20240930222900 +0800">
 		<title lang="zh">第六场 山西清徐学栋vs山东好哥哥 第3局</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240930222900 +0800" stop="20240930225900 +0800">
+		<title lang="zh">【五脏自愈操】推荐第一期</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -70755,6 +70782,9 @@
 	<programme channel="newtv军事评论" start="20240930221300 +0800" stop="20240930223300 +0800">
 		<title lang="zh">俄乌坦克近距离对攻</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240930223300 +0800" stop="20240930225500 +0800">
+		<title lang="zh">聚焦巴以冲突加沙“地道战”</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -70928,6 +70958,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240930213300 +0800" stop="20240930221800 +0800">
 		<title lang="zh">33_小风暴之时间的玫瑰</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240930221800 +0800" stop="20240930230200 +0800">
+		<title lang="zh">34_小风暴之时间的玫瑰</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -71216,6 +71249,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240930214300 +0800" stop="20240930222400 +0800">
 		<title lang="zh">09_飞狐外传</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240930222400 +0800" stop="20240930225400 +0800">
+		<title lang="zh">【五脏自愈操】推荐第一期</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
