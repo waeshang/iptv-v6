@@ -68706,6 +68706,9 @@
 	<programme channel="黑莓动画" start="20240930134700 +0800" stop="20240930140900 +0800">
 		<title lang="zh">一只笨笨的小恐龙</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240930140900 +0800" stop="20240930141700 +0800">
+		<title lang="zh">保卫植物</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -69066,6 +69069,9 @@
 	<programme channel="newtv超级综艺" start="20240930130100 +0800" stop="20240930141800 +0800">
 		<title lang="zh">星光大道</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240930141800 +0800" stop="20240930153300 +0800">
+		<title lang="zh">会唱歌的院子</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -69200,6 +69206,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20240930132600 +0800" stop="20240930141200 +0800">
 		<title lang="zh">01_那年花开月正圆</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240930141200 +0800" stop="20240930145800 +0800">
+		<title lang="zh">02_那年花开月正圆</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -69381,6 +69390,9 @@
 	<programme channel="newtv古装剧场" start="20240930132900 +0800" stop="20240930141500 +0800">
 		<title lang="zh">40_长歌行</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240930141500 +0800" stop="20240930151000 +0800">
+		<title lang="zh">41_长歌行</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -69434,6 +69446,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240930131900 +0800" stop="20240930140400 +0800">
 		<title lang="zh">23_风声</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240930140400 +0800" stop="20240930144800 +0800">
+		<title lang="zh">24_风声</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -69678,6 +69693,9 @@
 	<programme channel="newtv怡伴健康" start="20240930134400 +0800" stop="20240930140300 +0800">
 		<title lang="zh">相声《婚礼漫谈》 表演：卢鑫 玉浩</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240930141400 +0800" stop="20240930142300 +0800">
+		<title lang="zh">相声《学唱歌》 表演者：姜昆 唐杰忠</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -69729,6 +69747,9 @@
 	<programme channel="newtv潮妈辣婆" start="20240930132300 +0800" stop="20240930140600 +0800">
 		<title lang="zh">12_灼灼风流</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240930140600 +0800" stop="20240930145500 +0800">
+		<title lang="zh">Vigray墨脱石多功能养生锅-渠道（右）</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -69776,6 +69797,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240930134800 +0800" stop="20240930141000 +0800">
 		<title lang="zh">北极战争b7北欧争夺战（上）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240930141000 +0800" stop="20240930143200 +0800">
+		<title lang="zh">北极战争b7北欧争夺战（下）</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
