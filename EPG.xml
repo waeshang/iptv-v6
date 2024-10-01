@@ -30237,6 +30237,12 @@
 	<programme channel="咪咕足球" start="20241002012600 +0800" stop="20241002022600 +0800">
 		<title lang="zh">超级三对三-2024超三联赛</title>
 	</programme>
+	<programme channel="咪咕足球" start="20241002022600 +0800" stop="20241002024100 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20241002024100 +0800" stop="20241002042100 +0800">
+		<title lang="zh">2024NBL第1轮 江西赣驰-香港金牛</title>
+	</programme>
 	<channel id="唯心电视">
 		<display-name lang="zh">唯心电视</display-name>
 	</channel>
@@ -55884,6 +55890,12 @@
 	<programme channel="纯享4K" start="20241002020400 +0800" stop="20241002021900 +0800">
 		<title lang="zh">艺术里的奥林匹克4K 雪如意</title>
 	</programme>
+	<programme channel="纯享4K" start="20241002021900 +0800" stop="20241002024300 +0800">
+		<title lang="zh">魅力智利4K 第1集 靠近星星的你</title>
+	</programme>
+	<programme channel="纯享4K" start="20241002024300 +0800" stop="20241002030800 +0800">
+		<title lang="zh">魅力智利4K 第2集 山与海的盛宴</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -66981,11 +66993,17 @@
 	<programme channel="黑莓动画" start="20241002015700 +0800" stop="20241002024300 +0800">
 		<title lang="zh">骸骨骑士大人奇幻世界冒险中</title>
 	</programme>
+	<programme channel="黑莓动画" start="20241002024300 +0800" stop="20241002033200 +0800">
+		<title lang="zh">星辰变第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
 	<programme channel="黑莓电影" start="20241002005200 +0800" stop="20241002022200 +0800">
 		<title lang="zh">国宝迷踪</title>
+	</programme>
+	<programme channel="黑莓电影" start="20241002022200 +0800" stop="20241002041000 +0800">
+		<title lang="zh">照相师</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -67383,6 +67401,9 @@
 	<programme channel="newtv超级体育" start="20241002013500 +0800" stop="20241002023500 +0800">
 		<title lang="zh">实况录像-2024年世界公路自行车锦标赛 女子决赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20241002023500 +0800" stop="20241002040000 +0800">
+		<title lang="zh">实况录像-2024年中国羽毛球公开赛 1</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -67515,6 +67536,9 @@
 	<programme channel="newtv怡伴健康" start="20241002013500 +0800" stop="20241002022000 +0800">
 		<title lang="zh">53_清平乐[DVD版]</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20241002022000 +0800" stop="20241002031600 +0800">
+		<title lang="zh">54_清平乐</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -67523,6 +67547,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20241002014700 +0800" stop="20241002024000 +0800">
 		<title lang="zh">17_流光之城</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20241002024000 +0800" stop="20241002033500 +0800">
+		<title lang="zh">18_流光之城</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -67538,6 +67565,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20241002014100 +0800" stop="20241002024100 +0800">
 		<title lang="zh">萌娃出题官各怀本领 新疆小美女艾莉雯既爱吃美食又爱跳舞（20240926）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20241002024100 +0800" stop="20241002025000 +0800">
+		<title lang="zh">哎呀呀-璞玉（完整版）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
