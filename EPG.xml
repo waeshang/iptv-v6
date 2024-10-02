@@ -36558,6 +36558,9 @@
 	<programme channel="咪咕足球" start="20241002140000 +0800" stop="20241002140500 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕足球" start="20241002140500 +0800" stop="20241002152500 +0800">
+		<title lang="zh">村BA</title>
+	</programme>
 	<channel id="唯心电视">
 		<display-name lang="zh">唯心电视</display-name>
 	</channel>
@@ -65769,6 +65772,9 @@
 	<programme channel="纯享4K" start="20241002132300 +0800" stop="20241002140300 +0800">
 		<title lang="zh">探索b7发现4K 探秘三星堆 第2集</title>
 	</programme>
+	<programme channel="纯享4K" start="20241002140300 +0800" stop="20241002144300 +0800">
+		<title lang="zh">探索b7发现4K 探秘三星堆 第3集</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -78057,6 +78063,9 @@
 	<programme channel="黑莓动画" start="20241002134300 +0800" stop="20241002141200 +0800">
 		<title lang="zh">一只笨笨的小恐龙</title>
 	</programme>
+	<programme channel="黑莓动画" start="20241002141200 +0800" stop="20241002142200 +0800">
+		<title lang="zh">保卫植物</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -78537,6 +78546,9 @@
 	<programme channel="newtv超级综艺" start="20241002131100 +0800" stop="20241002141100 +0800">
 		<title lang="zh">选对健康</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20241002141100 +0800" stop="20241002155200 +0800">
+		<title lang="zh">开播吧！国潮</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -78912,6 +78924,9 @@
 	<programme channel="newtv军旅剧场" start="20241002131800 +0800" stop="20241002140200 +0800">
 		<title lang="zh">31_风声</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20241002140200 +0800" stop="20241002144700 +0800">
+		<title lang="zh">32_风声</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -79104,6 +79119,9 @@
 	<programme channel="newtv动作电影" start="20241002132700 +0800" stop="20241002141500 +0800">
 		<title lang="zh">日本进口富山藤氏白雪茸健康组-渠道（右）</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20241002141500 +0800" stop="20241002161500 +0800">
+		<title lang="zh">陆小凤传奇之陆小凤前传</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -79167,6 +79185,9 @@
 	<programme channel="newtv怡伴健康" start="20241002134200 +0800" stop="20241002140100 +0800">
 		<title lang="zh">相声《我忍不了》 表演：岳云鹏 孙越</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20241002141600 +0800" stop="20241002143100 +0800">
+		<title lang="zh">相声《新论捧逗》 表演：高晓攀 王佩元</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -79218,6 +79239,9 @@
 	<programme channel="newtv潮妈辣婆" start="20241002132000 +0800" stop="20241002140500 +0800">
 		<title lang="zh">22_灼灼风流</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20241002140500 +0800" stop="20241002145300 +0800">
+		<title lang="zh">林格贝尔野生蓝莓原浆新-渠道（右）</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -79262,6 +79286,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20241002134000 +0800" stop="20241002140200 +0800">
 		<title lang="zh">诺曼底水下探秘（三）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20241002140200 +0800" stop="20241002142400 +0800">
+		<title lang="zh">诺曼底水下探秘（四）</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -79382,6 +79409,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20241002123100 +0800" stop="20241002141000 +0800">
 		<title lang="zh">武林外传</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20241002141000 +0800" stop="20241002143200 +0800">
+		<title lang="zh">01_马达加斯加企鹅第一季</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
