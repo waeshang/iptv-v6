@@ -90,6 +90,9 @@
 	<programme channel="4K综艺" start="20241002131400 +0800" stop="20241002143400 +0800">
 		<title lang="zh">亲爱的客栈第三季20200110</title>
 	</programme>
+	<programme channel="4K综艺" start="20241002143400 +0800" stop="20241002152900 +0800">
+		<title lang="zh">我最爱的女人们20190504</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -65775,6 +65778,9 @@
 	<programme channel="纯享4K" start="20241002140300 +0800" stop="20241002144300 +0800">
 		<title lang="zh">探索b7发现4K 探秘三星堆 第3集</title>
 	</programme>
+	<programme channel="纯享4K" start="20241002144300 +0800" stop="20241002144800 +0800">
+		<title lang="zh">听起来很好吃 第二季4K 重庆小面</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -78066,6 +78072,9 @@
 	<programme channel="黑莓动画" start="20241002141200 +0800" stop="20241002142200 +0800">
 		<title lang="zh">保卫植物</title>
 	</programme>
+	<programme channel="黑莓动画" start="20241002142200 +0800" stop="20241002144800 +0800">
+		<title lang="zh">张大牙爱搞怪第三季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -78696,6 +78705,9 @@
 	<programme channel="newtv超级电视剧" start="20241002135100 +0800" stop="20241002143800 +0800">
 		<title lang="zh">09_那年花开月正圆</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20241002143800 +0800" stop="20241002152300 +0800">
+		<title lang="zh">10_那年花开月正圆</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -78749,6 +78761,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20241002133600 +0800" stop="20241002141900 +0800">
 		<title lang="zh">14_重紫</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20241002141900 +0800" stop="20241002150400 +0800">
+		<title lang="zh">15_重紫</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -78819,6 +78834,9 @@
 	<programme channel="newtv精品纪录" start="20241002135100 +0800" stop="20241002142100 +0800">
 		<title lang="zh">原味乡间b7镇雄篇</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20241002142100 +0800" stop="20241002150900 +0800">
+		<title lang="zh">千城百味（三十五）</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -78872,6 +78890,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20241002134900 +0800" stop="20241002144300 +0800">
 		<title lang="zh">49_长歌行</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20241002144300 +0800" stop="20241002152600 +0800">
+		<title lang="zh">01_岁岁青莲</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -78990,6 +79011,9 @@
 	<programme channel="newtv家庭剧场" start="20241002135500 +0800" stop="20241002144200 +0800">
 		<title lang="zh">13_我家有喜</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20241002144200 +0800" stop="20241002153800 +0800">
+		<title lang="zh">14_我家有喜</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -79038,6 +79062,9 @@
 	<programme channel="newtv热播精选" start="20241002135400 +0800" stop="20241002143800 +0800">
 		<title lang="zh">31_怒海潜沙秦岭神树</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20241002143800 +0800" stop="20241002153200 +0800">
+		<title lang="zh">32_怒海潜沙秦岭神树</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -79085,6 +79112,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20241002134400 +0800" stop="20241002142900 +0800">
 		<title lang="zh">07_绝密隐私</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20241002142900 +0800" stop="20241002151800 +0800">
+		<title lang="zh">泰国进口泰米拉石墨烯乳胶床垫（1.8米）/1.5米/单人/乳胶枕-渠道（右）</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -79188,6 +79218,9 @@
 	<programme channel="newtv怡伴健康" start="20241002141600 +0800" stop="20241002143100 +0800">
 		<title lang="zh">相声《新论捧逗》 表演：高晓攀 王佩元</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20241002143100 +0800" stop="20241002145800 +0800">
+		<title lang="zh">失踪的妻子</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -79290,6 +79323,12 @@
 	<programme channel="newtv军事评论" start="20241002140200 +0800" stop="20241002142400 +0800">
 		<title lang="zh">诺曼底水下探秘（四）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20241002142400 +0800" stop="20241002144400 +0800">
+		<title lang="zh">战争影像（一）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20241002144400 +0800" stop="20241002150500 +0800">
+		<title lang="zh">战争影像（二）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -79365,6 +79404,9 @@
 	<programme channel="newtv炫舞未来" start="20241002134500 +0800" stop="20241002142800 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20241002142800 +0800" stop="20241002154500 +0800">
+		<title lang="zh">教师节来临 共赴一场奇妙的缘分之约（20240910）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -79412,6 +79454,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20241002141000 +0800" stop="20241002143200 +0800">
 		<title lang="zh">01_马达加斯加企鹅第一季</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20241002143200 +0800" stop="20241002151200 +0800">
+		<title lang="zh">24_妻子的新世界</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -79595,6 +79640,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20241002133000 +0800" stop="20241002141900 +0800">
 		<title lang="zh">泰国进口泰米拉石墨烯乳胶床垫（1.8米）/1.5米/单人/乳胶枕-渠道（右）</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20241002141900 +0800" stop="20241002144900 +0800">
+		<title lang="zh">中国搏击十年</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
