@@ -35112,6 +35112,9 @@
 	<programme channel="咪咕足球" start="20241005140000 +0800" stop="20241005140500 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕足球" start="20241005140500 +0800" stop="20241005152500 +0800">
+		<title lang="zh">村BA</title>
+	</programme>
 	<channel id="唯心电视">
 		<display-name lang="zh">唯心电视</display-name>
 	</channel>
@@ -79353,6 +79356,9 @@
 	<programme channel="黑莓动画" start="20241005134500 +0800" stop="20241005141200 +0800">
 		<title lang="zh">一只笨笨的小恐龙</title>
 	</programme>
+	<programme channel="黑莓动画" start="20241005141200 +0800" stop="20241005141900 +0800">
+		<title lang="zh">保卫植物</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -80052,6 +80058,9 @@
 	<programme channel="newtv超级电视剧" start="20241005132100 +0800" stop="20241005140800 +0800">
 		<title lang="zh">20_那年花开月正圆</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20241005140800 +0800" stop="20241005145600 +0800">
+		<title lang="zh">21_那年花开月正圆</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -80105,6 +80114,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20241005131900 +0800" stop="20241005140800 +0800">
 		<title lang="zh">29_重紫</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20241005140800 +0800" stop="20241005145100 +0800">
+		<title lang="zh">30_重紫</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -80276,6 +80288,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20241005132500 +0800" stop="20241005141000 +0800">
 		<title lang="zh">05_铁血武工队传奇</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20241005141000 +0800" stop="20241005145500 +0800">
+		<title lang="zh">06_铁血武工队传奇</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -80529,6 +80544,9 @@
 	<programme channel="newtv怡伴健康" start="20241005135700 +0800" stop="20241005140600 +0800">
 		<title lang="zh">小品《青春之约》 表演者：郭达 唐静</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20241005140600 +0800" stop="20241005142700 +0800">
+		<title lang="zh">小品《面试》 表演：郭冬临 魏积安</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -80580,6 +80598,9 @@
 	<programme channel="newtv潮妈辣婆" start="20241005132500 +0800" stop="20241005141100 +0800">
 		<title lang="zh">37_灼灼风流</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20241005141100 +0800" stop="20241005150100 +0800">
+		<title lang="zh">康企半导体激光治疗仪买一送一特惠组-渠道（右）</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -80621,6 +80642,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20241005134700 +0800" stop="20241005140800 +0800">
 		<title lang="zh">轰炸战争（一）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20241005140800 +0800" stop="20241005143000 +0800">
+		<title lang="zh">轰炸战争（二）</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
