@@ -66639,6 +66639,9 @@
 	<programme channel="newtv超级体育" start="20241007053000 +0800" stop="20241007060000 +0800">
 		<title lang="zh">实况录像-2024年世界田联钻石联赛 布鲁塞尔站</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20241007060000 +0800" stop="20241007063000 +0800">
+		<title lang="zh">实况录像-2024年世界健美操锦标赛</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
