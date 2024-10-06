@@ -53430,6 +53430,9 @@
 	<programme channel="纯享4K" start="20241007025800 +0800" stop="20241007034800 +0800">
 		<title lang="zh">航拍中国 第二季4K 浙江</title>
 	</programme>
+	<programme channel="纯享4K" start="20241007034800 +0800" stop="20241007043000 +0800">
+		<title lang="zh">远方的家4K 西藏类乌齐马鹿国家级自然保护区 高原之上 马鹿的家</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -63588,6 +63591,9 @@
 	<programme channel="newtv超级体育" start="20241007023800 +0800" stop="20241007040000 +0800">
 		<title lang="zh">实况录像-2024年中国羽毛球公开赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20241007040000 +0800" stop="20241007053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季英格兰足球超级联赛第2轮 曼彻斯特城-伊普斯威奇</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -63615,6 +63621,9 @@
 	<programme channel="newtv超级电视剧" start="20241007031200 +0800" stop="20241007035800 +0800">
 		<title lang="zh">22_碧海雄心</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20241007035800 +0800" stop="20241007044300 +0800">
+		<title lang="zh">18_平凡之路</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -63629,6 +63638,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20241007030400 +0800" stop="20241007034600 +0800">
 		<title lang="zh">26_余生，请多指教</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20241007034600 +0800" stop="20241007042600 +0800">
+		<title lang="zh">27_余生，请多指教</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -63662,6 +63674,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20241007025300 +0800" stop="20241007034700 +0800">
 		<title lang="zh">04_扶摇</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20241007034700 +0800" stop="20241007044200 +0800">
+		<title lang="zh">05_扶摇</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -63786,6 +63801,9 @@
 	<programme channel="newtv炫舞未来" start="20241007033700 +0800" stop="20241007035000 +0800">
 		<title lang="zh">浪子闲话-饶子龙（完整版）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20241007035000 +0800" stop="20241007040400 +0800">
+		<title lang="zh">触电-李萍（完整版）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -63884,6 +63902,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20241007022200 +0800" stop="20241007035000 +0800">
 		<title lang="zh">兵临城下-虎贲</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20241007035000 +0800" stop="20241007053400 +0800">
+		<title lang="zh">九纹龙史进之除恶史家村</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
