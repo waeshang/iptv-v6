@@ -36663,6 +36663,12 @@
 	<programme channel="咪咕综合体育" start="20241007201500 +0800" stop="20241007215500 +0800">
 		<title lang="zh">英超赛场-24/25赛季英超 第3轮 阿森纳-布莱顿</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20241007215500 +0800" stop="20241007221300 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20241007221300 +0800" stop="20241007230500 +0800">
+		<title lang="zh">2024国际马联赛浪琴国家联赛 阿布扎比站</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -36743,6 +36749,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20241007211500 +0800" stop="20241007221500 +0800">
 		<title lang="zh">超级三对三-2024超三联赛</title>
+	</programme>
+	<programme channel="咪咕足球" start="20241007221500 +0800" stop="20241007222000 +0800">
+		<title lang="zh">频道宣传</title>
 	</programme>
 	<channel id="唯心电视">
 		<display-name lang="zh">唯心电视</display-name>
@@ -64461,6 +64470,9 @@
 	<programme channel="纯享4K" start="20241007211000 +0800" stop="20241007215000 +0800">
 		<title lang="zh">探索b7发现4K 塞上胡杨 第3集 居延胡杨</title>
 	</programme>
+	<programme channel="纯享4K" start="20241007215000 +0800" stop="20241007221700 +0800">
+		<title lang="zh">好吃客4K 大同</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -75489,6 +75501,9 @@
 	<programme channel="黑莓动画" start="20241007214300 +0800" stop="20241007215000 +0800">
 		<title lang="zh">45_雪天毛怪</title>
 	</programme>
+	<programme channel="黑莓动画" start="20241007215700 +0800" stop="20241007221000 +0800">
+		<title lang="zh">46_踢踢和奇奇之魔力课堂 第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -76065,6 +76080,9 @@
 	<programme channel="newtv超级体育" start="20241007213000 +0800" stop="20241007220500 +0800">
 		<title lang="zh">体育世界</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20241007220500 +0800" stop="20241007233500 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季英超联赛第7轮 曼城-富勒姆</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -76298,6 +76316,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20241007211000 +0800" stop="20241007215100 +0800">
 		<title lang="zh">26_灼灼风流</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20241007215100 +0800" stop="20241007223300 +0800">
+		<title lang="zh">27_灼灼风流</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -76743,6 +76764,9 @@
 	<programme channel="newtv热播精选" start="20241007205400 +0800" stop="20241007214700 +0800">
 		<title lang="zh">11_致我们暖暖的小时光（普通话版）</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20241007214700 +0800" stop="20241007221700 +0800">
+		<title lang="zh">【五脏自愈操】推荐第一期</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -77178,6 +77202,9 @@
 	<programme channel="newtv军事评论" start="20241007213200 +0800" stop="20241007215400 +0800">
 		<title lang="zh">俄乌冲突中的高空侦察机</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20241007215400 +0800" stop="20241007221600 +0800">
+		<title lang="zh">俄乌冲突中的无人偷袭</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -77268,6 +77295,9 @@
 	<programme channel="newtv炫舞未来" start="20241007210500 +0800" stop="20241007215500 +0800">
 		<title lang="zh">于建英把《京华春早》唱给你听 “流行”“曲艺”“说唱”完美融合（20230606）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20241007215500 +0800" stop="20241007224400 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -77345,6 +77375,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20241007210200 +0800" stop="20241007214800 +0800">
 		<title lang="zh">21_很想很想你</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20241007214800 +0800" stop="20241007223400 +0800">
+		<title lang="zh">22_很想很想你</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -77606,6 +77639,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20241007211600 +0800" stop="20241007215700 +0800">
 		<title lang="zh">36_飞狐外传</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20241007215700 +0800" stop="20241007223800 +0800">
+		<title lang="zh">37_飞狐外传</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
