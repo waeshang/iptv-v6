@@ -36642,6 +36642,9 @@
 	<programme channel="咪咕足球" start="20241007104500 +0800" stop="20241007111000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕足球" start="20241007111000 +0800" stop="20241007125000 +0800">
+		<title lang="zh">当燃CBA 24/25季前赛 上海久事-山东高速</title>
+	</programme>
 	<channel id="唯心电视">
 		<display-name lang="zh">唯心电视</display-name>
 	</channel>
@@ -75576,6 +75579,9 @@
 	<programme channel="newtv超级电影" start="20241007095100 +0800" stop="20241007111500 +0800">
 		<title lang="zh">志愿军：雄兵出击(下)</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20241007111500 +0800" stop="20241007112400 +0800">
+		<title lang="zh">音乐电影欣赏</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -75716,6 +75722,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20241007104200 +0800" stop="20241007111000 +0800">
 		<title lang="zh">被套路的鉴定</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20241007111000 +0800" stop="20241007114600 +0800">
+		<title lang="zh">真假“古玉镯”</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -76074,6 +76083,9 @@
 	<programme channel="newtv军事评论" start="20241007104700 +0800" stop="20241007111300 +0800">
 		<title lang="zh">巴以临时停火协议正式生效 朝鲜成功发射侦察卫星</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20241007111300 +0800" stop="20241007113800 +0800">
+		<title lang="zh">白宫解密情报：瓦格纳准备向伊朗提供武器 美媒声称武装力量将开辟新战线</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -76161,6 +76173,9 @@
 	<programme channel="newtv精品综合" start="20241007103000 +0800" stop="20241007111500 +0800">
 		<title lang="zh">07_星汉灿烂</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20241007111500 +0800" stop="20241007120200 +0800">
+		<title lang="zh">08_星汉灿烂</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -76184,6 +76199,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20241007084800 +0800" stop="20241007110900 +0800">
 		<title lang="zh">寻找雅克</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20241007110900 +0800" stop="20241007123500 +0800">
+		<title lang="zh">窒息</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
