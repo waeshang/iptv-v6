@@ -76032,6 +76032,9 @@
 	<programme channel="newtv超级电影" start="20241007174000 +0800" stop="20241007185600 +0800">
 		<title lang="zh">电影《六扇门之嫣州八艳》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20241007185600 +0800" stop="20241007195800 +0800">
+		<title lang="zh">电影《势不可挡》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -76109,6 +76112,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20241007180900 +0800" stop="20241007185400 +0800">
 		<title lang="zh">27_我爱男保姆</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20241007185400 +0800" stop="20241007193700 +0800">
+		<title lang="zh">14_故乡，别来无恙</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -76416,6 +76422,9 @@
 	<programme channel="newtv军旅剧场" start="20241007180800 +0800" stop="20241007185300 +0800">
 		<title lang="zh">36_谁是真英雄</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20241007185300 +0800" stop="20241007192300 +0800">
+		<title lang="zh">【五脏自愈操】推荐第一期</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -76635,6 +76644,9 @@
 	<programme channel="newtv爱情喜剧" start="20241007182800 +0800" stop="20241007185800 +0800">
 		<title lang="zh">《美丽密码》推荐第44期</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20241007185800 +0800" stop="20241007194500 +0800">
+		<title lang="zh">15_我的博士老公</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -76673,6 +76685,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20241007165300 +0800" stop="20241007184700 +0800">
 		<title lang="zh">追凶十九年</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20241007184700 +0800" stop="20241007191700 +0800">
+		<title lang="zh">【五脏自愈操】推荐第一期</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -76926,6 +76941,9 @@
 	<programme channel="newtv军事评论" start="20241007183700 +0800" stop="20241007185900 +0800">
 		<title lang="zh">代号221精编版 第2集 出征（下）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20241007185900 +0800" stop="20241007192100 +0800">
+		<title lang="zh">代号221精编版 第3集 巨响（上）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -77070,6 +77088,9 @@
 	<programme channel="newtv精品综合" start="20241007180700 +0800" stop="20241007185200 +0800">
 		<title lang="zh">20_向幸福出发</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20241007185200 +0800" stop="20241007192200 +0800">
+		<title lang="zh">《美丽密码》推荐第44期</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -77156,6 +77177,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20241007183800 +0800" stop="20241007190800 +0800">
 		<title lang="zh">《美丽密码》推荐第43期</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20241007190800 +0800" stop="20241007210700 +0800">
+		<title lang="zh">五十公里桃花坞第4季</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
@@ -77291,6 +77315,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20241007175800 +0800" stop="20241007185600 +0800">
 		<title lang="zh">18_有翡</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20241007185600 +0800" stop="20241007192600 +0800">
+		<title lang="zh">【五脏自愈操】推荐第一期</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
