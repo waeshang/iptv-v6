@@ -67146,6 +67146,9 @@
 	<programme channel="newtv超级电视剧" start="20241008020800 +0800" stop="20241008025400 +0800">
 		<title lang="zh">25_碧海雄心</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20241008025400 +0800" stop="20241008033900 +0800">
+		<title lang="zh">26_碧海雄心</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -67160,6 +67163,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20241008022000 +0800" stop="20241008030100 +0800">
 		<title lang="zh">31_余生，请多指教</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20241008030100 +0800" stop="20241008035300 +0800">
+		<title lang="zh">32_余生，请多指教</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -67187,6 +67193,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20241008020700 +0800" stop="20241008030100 +0800">
 		<title lang="zh">08_扶摇</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20241008030100 +0800" stop="20241008035600 +0800">
+		<title lang="zh">09_扶摇</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -67242,6 +67251,9 @@
 	<programme channel="newtv动作电影" start="20241008015400 +0800" stop="20241008030600 +0800">
 		<title lang="zh">烈火营救</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20241008030600 +0800" stop="20241008044000 +0800">
+		<title lang="zh">黄飞鸿之武神林世荣</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -67287,6 +67299,12 @@
 	<programme channel="newtv炫舞未来" start="20241008024400 +0800" stop="20241008025200 +0800">
 		<title lang="zh">《广场舞》 纳西情歌（附教学）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20241008030000 +0800" stop="20241008031200 +0800">
+		<title lang="zh">《广场舞》 赞赞赞（附教学）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20241008031500 +0800" stop="20241008031900 +0800">
+		<title lang="zh">《广场舞》 花姑娘（正面演示）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -67313,6 +67331,9 @@
 	</channel>
 	<programme channel="newtv金牌综艺" start="20241008003500 +0800" stop="20241008030900 +0800">
 		<title lang="zh">向幸福出发（2024）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20241008030900 +0800" stop="20241008052800 +0800">
+		<title lang="zh">舞台2023</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
@@ -67370,6 +67391,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20241008014200 +0800" stop="20241008030700 +0800">
 		<title lang="zh">齐天大圣b7无双</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20241008030700 +0800" stop="20241008044400 +0800">
+		<title lang="zh">南宋猎人之匹马中原</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
