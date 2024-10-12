@@ -34428,6 +34428,9 @@
 	<programme channel="咪咕综合体育" start="20241012214500 +0800" stop="20241012215000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20241012215000 +0800" stop="20241012232700 +0800">
+		<title lang="zh">纪录片-天才之击</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -77840,6 +77843,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20241012193000 +0800" stop="20241012220500 +0800">
 		<title lang="zh">2024/2025赛季中国男子篮球职业联赛常规赛-第1轮 (辽宁本钢-浙江稠州金租)</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20241012220500 +0800" stop="20241012233500 +0800">
+		<title lang="zh">实况录像-2024年世乒联大满贯赛 北京站 6</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
