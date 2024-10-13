@@ -37237,6 +37237,9 @@
 	<programme channel="咪咕足球" start="20241013111000 +0800" stop="20241013125000 +0800">
 		<title lang="zh">当燃CBA 24/25赛季季前赛 新疆伊力特-四川丰谷酒业</title>
 	</programme>
+	<programme channel="咪咕足球" start="20241013130000 +0800" stop="20241013140000 +0800">
+		<title lang="zh">超级三对三-2024超三联赛</title>
+	</programme>
 	<channel id="唯心电视">
 		<display-name lang="zh">唯心电视</display-name>
 	</channel>
@@ -67477,6 +67480,12 @@
 	<programme channel="纯享4K" start="20241013121500 +0800" stop="20241013125700 +0800">
 		<title lang="zh">远方的家4K 长江行 科技引领上海“智”造</title>
 	</programme>
+	<programme channel="纯享4K" start="20241013125700 +0800" stop="20241013130200 +0800">
+		<title lang="zh">美丽中国自然4K 冰雪川西系列 白首之狐</title>
+	</programme>
+	<programme channel="纯享4K" start="20241013130700 +0800" stop="20241013134600 +0800">
+		<title lang="zh">探索b7发现4K 仰韶故事 第3集 舌尖上的仰韶</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -78925,6 +78934,9 @@
 	<programme channel="黑莓动画" start="20241013124500 +0800" stop="20241013131100 +0800">
 		<title lang="zh">熊出没之怪兽计划第二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20241013131100 +0800" stop="20241013133800 +0800">
+		<title lang="zh">猪猪侠之超星五灵侠6</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -79471,6 +79483,9 @@
 	<programme channel="newtv超级体育" start="20241013123500 +0800" stop="20241013125500 +0800">
 		<title lang="zh">艺术里的奥林匹克</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20241013130000 +0800" stop="20241013133000 +0800">
+		<title lang="zh">2024国际皮划艇联合会“杭州超级杯”-静水双人艇 决赛</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -79558,6 +79573,9 @@
 	<programme channel="newtv超级电视剧" start="20241013122700 +0800" stop="20241013130800 +0800">
 		<title lang="zh">18_我们的队伍向太阳</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20241013130800 +0800" stop="20241013135400 +0800">
+		<title lang="zh">52_那年花开月正圆</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -79605,6 +79623,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20241013122300 +0800" stop="20241013130800 +0800">
 		<title lang="zh">28_山河锦绣</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20241013130800 +0800" stop="20241013140300 +0800">
+		<title lang="zh">29_山河锦绣</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -79710,6 +79731,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20241013121000 +0800" stop="20241013125800 +0800">
 		<title lang="zh">Healthwow100%南极磷虾油高吸收尊贵组-渠道（右）</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20241013125800 +0800" stop="20241013134000 +0800">
+		<title lang="zh">07_凤弈</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -79924,6 +79948,9 @@
 	<programme channel="newtv动作电影" start="20241013114500 +0800" stop="20241013130800 +0800">
 		<title lang="zh">维和冲锋：绝境求生</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20241013130800 +0800" stop="20241013135600 +0800">
+		<title lang="zh">POKONDA智能四轮电动代步车-渠道（右）</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -79983,6 +80010,12 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20241013123200 +0800" stop="20241013125600 +0800">
 		<title lang="zh">小品《发红包》表演者：贾冰、沙溢、包贝尔等</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20241013125600 +0800" stop="20241013130700 +0800">
+		<title lang="zh">小品《吃面条》 表演：陈佩斯 朱时茂</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20241013130700 +0800" stop="20241013131700 +0800">
+		<title lang="zh">小品《吃饺子》 表演：赵丽蓉 李文启</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -80155,6 +80188,12 @@
 	<programme channel="newtv炫舞未来" start="20241013120200 +0800" stop="20241013125100 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20241013125100 +0800" stop="20241013130700 +0800">
+		<title lang="zh">太想念-毕刚（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20241013131100 +0800" stop="20241013132000 +0800">
+		<title lang="zh">点赞新时代-乌兰图雅</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -80250,6 +80289,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20241013092400 +0800" stop="20241013131300 +0800">
 		<title lang="zh">令人心动的offer第5季</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20241013131300 +0800" stop="20241013140100 +0800">
+		<title lang="zh">Healthwow100%南极磷虾油高吸收尊贵组-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
