@@ -78546,6 +78546,9 @@
 	<programme channel="黑莓动画" start="20241014205000 +0800" stop="20241014211500 +0800">
 		<title lang="zh">21_德凯奥特曼 普通话版</title>
 	</programme>
+	<programme channel="黑莓动画" start="20241014211500 +0800" stop="20241014212800 +0800">
+		<title lang="zh">20_托宝战士之银河侦探1</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -79331,6 +79334,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20241014203400 +0800" stop="20241014210400 +0800">
 		<title lang="zh">《美丽密码》推荐第45期</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20241014210400 +0800" stop="20241014214500 +0800">
+		<title lang="zh">19_运河边的人们</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -80184,6 +80190,9 @@
 	<programme channel="newtv军事评论" start="20241014204400 +0800" stop="20241014210600 +0800">
 		<title lang="zh">深海利剑</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20241014210600 +0800" stop="20241014212800 +0800">
+		<title lang="zh">美空军高调展示AI战机意欲何为</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -80366,6 +80375,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20241014203400 +0800" stop="20241014210400 +0800">
 		<title lang="zh">八段锦推荐第四期</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20241014210400 +0800" stop="20241014214900 +0800">
+		<title lang="zh">17_如朕亲临</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
