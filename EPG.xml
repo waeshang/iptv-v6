@@ -55263,6 +55263,9 @@
 	<programme channel="纯享4K" start="20241015030000 +0800" stop="20241015033000 +0800">
 		<title lang="zh">味道4K 原味乡间b7襄阳篇 1</title>
 	</programme>
+	<programme channel="纯享4K" start="20241015033000 +0800" stop="20241015042000 +0800">
+		<title lang="zh">航拍中国 第三季4K 一同飞越 吉林</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -66204,6 +66207,9 @@
 	<programme channel="黑莓动画" start="20241015022400 +0800" stop="20241015031600 +0800">
 		<title lang="zh">星辰变第二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20241015031600 +0800" stop="20241015035000 +0800">
+		<title lang="zh">全职法师第1季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -66810,6 +66816,9 @@
 	<programme channel="newtv军旅剧场" start="20241015022600 +0800" stop="20241015032000 +0800">
 		<title lang="zh">22_山村大爷</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20241015032000 +0800" stop="20241015041500 +0800">
+		<title lang="zh">23_山村大爷</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -66843,6 +66852,9 @@
 	<programme channel="newtv爱情喜剧" start="20241015015200 +0800" stop="20241015033700 +0800">
 		<title lang="zh">午夜邂逅</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20241015033700 +0800" stop="20241015043100 +0800">
+		<title lang="zh">19_向幸福出发</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -66870,6 +66882,9 @@
 	<programme channel="newtv怡伴健康" start="20241015031200 +0800" stop="20241015033900 +0800">
 		<title lang="zh">自然回归——修复泥炭地（上）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20241015033900 +0800" stop="20241015041500 +0800">
+		<title lang="zh">自然回归——修复泥炭地（下）</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -66881,6 +66896,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20241015024200 +0800" stop="20241015033700 +0800">
 		<title lang="zh">19_山河锦绣</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20241015033700 +0800" stop="20241015043200 +0800">
+		<title lang="zh">20_山河锦绣</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -66909,6 +66927,9 @@
 	<programme channel="newtv军事评论" start="20241015030000 +0800" stop="20241015032500 +0800">
 		<title lang="zh">美日在我周边演练“夺岛” 菲律宾企图“引狼入室”？</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20241015032500 +0800" stop="20241015035000 +0800">
+		<title lang="zh">台军防空导弹阵地被美曝光 日本紧随美国脚步拉拢文莱</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -66930,6 +66951,9 @@
 	<programme channel="newtv炫舞未来" start="20241015031600 +0800" stop="20241015033100 +0800">
 		<title lang="zh">青苹果乐园—毕刚（完整版）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20241015033100 +0800" stop="20241015034600 +0800">
+		<title lang="zh">执迷不悟-孙爱迪</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -66947,6 +66971,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20241015020400 +0800" stop="20241015033000 +0800">
 		<title lang="zh">生死游戏</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20241015033000 +0800" stop="20241015043300 +0800">
+		<title lang="zh">铁甲狂猴之亡命雷霆</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
