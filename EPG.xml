@@ -55242,6 +55242,9 @@
 	<programme channel="纯享4K" start="20241015012700 +0800" stop="20241015021600 +0800">
 		<title lang="zh">智造美好生活4K 第3集 慧 城市</title>
 	</programme>
+	<programme channel="纯享4K" start="20241015021600 +0800" stop="20241015023000 +0800">
+		<title lang="zh">艺术里的奥林匹克4K 水墨人物画b7冰上运动</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -55679,6 +55682,126 @@
 	</programme>
 	<programme channel="翡翠台" start="20241015050000 +0800" stop="20241015060000 +0800">
 		<title lang="zh">是日播映完畢</title>
+	</programme>
+	<programme channel="翡翠台" start="20241015060000 +0800" stop="20241015074000 +0800">
+		<title lang="zh">香港早晨[粵] 及 交通消息[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20241015074000 +0800" stop="20241015074500 +0800">
+		<title lang="zh">環球新聞檔案[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20241015074500 +0800" stop="20241015081000 +0800">
+		<title lang="zh">香港早晨[粵] 及 交通消息[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20241015081000 +0800" stop="20241015084000 +0800">
+		<title lang="zh">香港早晨[粵] 及 交通消息[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20241015084000 +0800" stop="20241015090000 +0800">
+		<title lang="zh">香港早晨[粵] 及 橫琴新動線[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20241015090000 +0800" stop="20241015100000 +0800">
+		<title lang="zh">交易現場[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20241015100000 +0800" stop="20241015100500 +0800">
+		<title lang="zh">勁歌推介[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20241015100500 +0800" stop="20241015103500 +0800">
+		<title lang="zh">婆媽女婿#45[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20241015103500 +0800" stop="20241015113500 +0800">
+		<title lang="zh">機智女法醫#6[粵/普][PG]</title>
+	</programme>
+	<programme channel="翡翠台" start="20241015113500 +0800" stop="20241015114000 +0800">
+		<title lang="zh">宣傳易[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20241015114000 +0800" stop="20241015121500 +0800">
+		<title lang="zh">交易現場[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20241015121500 +0800" stop="20241015125000 +0800">
+		<title lang="zh">新派煮意[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20241015125000 +0800" stop="20241015125500 +0800">
+		<title lang="zh">宣傳易[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20241015125500 +0800" stop="20241015130000 +0800">
+		<title lang="zh">積金好「僱」事[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20241015130000 +0800" stop="20241015132000 +0800">
+		<title lang="zh">午間新聞[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20241015132000 +0800" stop="20241015143000 +0800">
+		<title lang="zh">流行都市[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20241015143000 +0800" stop="20241015143500 +0800">
+		<title lang="zh">橫琴新動線[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20241015143500 +0800" stop="20241015144500 +0800">
+		<title lang="zh">宣傳易[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20241015144500 +0800" stop="20241015154500 +0800">
+		<title lang="zh">警犬巴打#6[粵][PG]</title>
+	</programme>
+	<programme channel="翡翠台" start="20241015154500 +0800" stop="20241015162000 +0800">
+		<title lang="zh">交易現場[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20241015162000 +0800" stop="20241015165000 +0800">
+		<title lang="zh">KERORO 軍曹[粵/日]</title>
+	</programme>
+	<programme channel="翡翠台" start="20241015165000 +0800" stop="20241015172000 +0800">
+		<title lang="zh">Hands Up[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20241015172000 +0800" stop="20241015175000 +0800">
+		<title lang="zh">星夢頻道[粵/日]</title>
+	</programme>
+	<programme channel="翡翠台" start="20241015175000 +0800" stop="20241015180000 +0800">
+		<title lang="zh">財經新聞[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20241015180000 +0800" stop="20241015182500 +0800">
+		<title lang="zh">最強生命線[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20241015182500 +0800" stop="20241015183000 +0800">
+		<title lang="zh">新聞檔案[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20241015183000 +0800" stop="20241015192000 +0800">
+		<title lang="zh">六點半新聞報道[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20241015192000 +0800" stop="20241015192500 +0800">
+		<title lang="zh">世界觀[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20241015192500 +0800" stop="20241015193000 +0800">
+		<title lang="zh">天氣報告[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20241015193000 +0800" stop="20241015193500 +0800">
+		<title lang="zh">積金好「僱」事[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20241015193500 +0800" stop="20241015200000 +0800">
+		<title lang="zh">東張西望[粵] 及 橫琴新動線[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20241015200000 +0800" stop="20241015203000 +0800">
+		<title lang="zh">愛．回家之開心速遞#2400[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20241015203000 +0800" stop="20241015213000 +0800">
+		<title lang="zh">企業強人#22[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20241015213000 +0800" stop="20241015223000 +0800">
+		<title lang="zh">玫瑰的故事#17[粵/普][PG]</title>
+	</programme>
+	<programme channel="翡翠台" start="20241015223000 +0800" stop="20241015230500 +0800">
+		<title lang="zh">瑞士潮什麼[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20241015230500 +0800" stop="20241015231500 +0800">
+		<title lang="zh">娛樂頭條[粵] 及 環球新聞檔案[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20241015231500 +0800" stop="20241015234500 +0800">
+		<title lang="zh">晚間新聞[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20241015234500 +0800" stop="20241015235000 +0800">
+		<title lang="zh">新聞檔案[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20241015235000 +0800" stop="20241015235500 +0800">
+		<title lang="zh">天氣報告[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20241015235500 +0800" stop="20241015235900 +0800">
+		<title lang="zh">鹿鼎記#5[粵]</title>
 	</programme>
 	<channel id="老故事">
 		<display-name lang="zh">老故事</display-name>
@@ -66558,6 +66681,9 @@
 	<programme channel="newtv超级综艺" start="20241015011900 +0800" stop="20241015020400 +0800">
 		<title lang="zh">40_追爱家族</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20241015020400 +0800" stop="20241015025400 +0800">
+		<title lang="zh">一笑一周</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -66620,6 +66746,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20241015011100 +0800" stop="20241015020500 +0800">
 		<title lang="zh">42_扶摇</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20241015020500 +0800" stop="20241015025900 +0800">
+		<title lang="zh">43_扶摇</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -66702,6 +66831,9 @@
 	<programme channel="newtv军事评论" start="20241015014300 +0800" stop="20241015020900 +0800">
 		<title lang="zh">瑞典正式“入约” 马克龙称援乌“不设底线” 美上百架军机秘密向以运弹药</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20241015020900 +0800" stop="20241015023400 +0800">
+		<title lang="zh">组团援乌？法国拟组建联盟向乌派兵 美F-35A战机获核弹携带认证</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -66722,6 +66854,9 @@
 	</channel>
 	<programme channel="newtv惊悚悬疑" start="20241015012600 +0800" stop="20241015020400 +0800">
 		<title lang="zh">轻又清菊粉复合益生元-渠道（右）</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20241015020400 +0800" stop="20241015033000 +0800">
+		<title lang="zh">生死游戏</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
