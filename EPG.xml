@@ -37692,6 +37692,9 @@
 	<programme channel="咪咕综合体育" start="20241014192000 +0800" stop="20241014210000 +0800">
 		<title lang="zh">足球世界-2024赛季 中超 第27轮 北京国安-长春亚泰</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20241014210500 +0800" stop="20241014224500 +0800">
+		<title lang="zh">足球世界-24/25赛季 西甲 第7轮 皇家马德里-阿拉维斯</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -78540,6 +78543,9 @@
 	<programme channel="黑莓动画" start="20241014202500 +0800" stop="20241014205000 +0800">
 		<title lang="zh">20_德凯奥特曼 普通话版</title>
 	</programme>
+	<programme channel="黑莓动画" start="20241014205000 +0800" stop="20241014211500 +0800">
+		<title lang="zh">21_德凯奥特曼 普通话版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -78581,6 +78587,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20241014192300 +0800" stop="20241014205400 +0800">
 		<title lang="zh">欢天喜地天蓬传</title>
+	</programme>
+	<programme channel="黑莓电影" start="20241014205400 +0800" stop="20241014222000 +0800">
+		<title lang="zh">永不消失的广播</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -79050,6 +79059,9 @@
 	<programme channel="newtv超级综艺" start="20241014193000 +0800" stop="20241014205200 +0800">
 		<title lang="zh">开门大吉</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20241014205200 +0800" stop="20241014214100 +0800">
+		<title lang="zh">绽放吧！妈妈</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -79148,6 +79160,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20241014185900 +0800" stop="20241014205100 +0800">
 		<title lang="zh">电影《超能一家人》</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20241014205100 +0800" stop="20241014223300 +0800">
+		<title lang="zh">电影《怒火冲天》</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -79485,6 +79500,9 @@
 	<programme channel="newtv古装剧场" start="20241014202800 +0800" stop="20241014205700 +0800">
 		<title lang="zh">八段锦推荐第四期</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20241014205700 +0800" stop="20241014214100 +0800">
+		<title lang="zh">49_三生三世枕上书</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -79649,6 +79667,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20241014200900 +0800" stop="20241014205500 +0800">
 		<title lang="zh">13_兰桐花开</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20241014205500 +0800" stop="20241014212500 +0800">
+		<title lang="zh">《美丽密码》推荐第45期</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -79953,6 +79974,9 @@
 	<programme channel="newtv怡伴健康" start="20241014203000 +0800" stop="20241014210000 +0800">
 		<title lang="zh">八段锦推荐第四期</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20241014210000 +0800" stop="20241014214600 +0800">
+		<title lang="zh">决赛 山东好哥哥vs山西浪人秦 第2局</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -80030,6 +80054,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20241014202200 +0800" stop="20241014205600 +0800">
 		<title lang="zh">09_双世宠妃2</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20241014205600 +0800" stop="20241014213200 +0800">
+		<title lang="zh">10_双世宠妃2</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -80430,6 +80457,9 @@
 	<programme channel="newtv金牌综艺" start="20241014192200 +0800" stop="20241014205100 +0800">
 		<title lang="zh">一馔千年</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20241014205100 +0800" stop="20241014212100 +0800">
+		<title lang="zh">八段锦推荐第四期</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
@@ -80579,6 +80609,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20241014200900 +0800" stop="20241014205300 +0800">
 		<title lang="zh">23_千古玦尘</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20241014205300 +0800" stop="20241014212300 +0800">
+		<title lang="zh">八段锦推荐第四期</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
