@@ -60978,6 +60978,9 @@
 	<programme channel="纯享4K" start="20241018040500 +0800" stop="20241018044700 +0800">
 		<title lang="zh">远方的家4K 长江行 古韵夔州 精诚奉节</title>
 	</programme>
+	<programme channel="纯享4K" start="20241018045700 +0800" stop="20241018053700 +0800">
+		<title lang="zh">探索b7发现4K 祁连大墓（上）</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -72840,6 +72843,9 @@
 	<programme channel="黑莓电影" start="20241018032000 +0800" stop="20241018044800 +0800">
 		<title lang="zh">勇敢往事</title>
 	</programme>
+	<programme channel="黑莓电影" start="20241018044800 +0800" stop="20241018063100 +0800">
+		<title lang="zh">申纪兰</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -73362,6 +73368,9 @@
 	<programme channel="newtv超级电影" start="20241018040500 +0800" stop="20241018045200 +0800">
 		<title lang="zh">爱丽丝（下）</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20241018045200 +0800" stop="20241018052500 +0800">
+		<title lang="zh">我和我的家乡：神笔马亮</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -73467,6 +73476,9 @@
 	<programme channel="newtv军旅剧场" start="20241018040600 +0800" stop="20241018050100 +0800">
 		<title lang="zh">06_刀锋乱世情</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20241018050100 +0800" stop="20241018054400 +0800">
+		<title lang="zh">19_黑狐之风影（修复版）</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -73518,6 +73530,9 @@
 	<programme channel="newtv爱情喜剧" start="20241018040500 +0800" stop="20241018050000 +0800">
 		<title lang="zh">34_向幸福出发</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20241018050000 +0800" stop="20241018055400 +0800">
+		<title lang="zh">35_向幸福出发</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -73529,6 +73544,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20241018032300 +0800" stop="20241018045800 +0800">
 		<title lang="zh">另类民兵葛二蛋</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20241018045800 +0800" stop="20241018061900 +0800">
+		<title lang="zh">最后的武林2铁砂掌</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -73611,6 +73629,9 @@
 	<programme channel="newtv军事评论" start="20241018043000 +0800" stop="20241018045200 +0800">
 		<title lang="zh">锻造防空利箭</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20241018045200 +0800" stop="20241018051400 +0800">
+		<title lang="zh">逐梦军营</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -73638,6 +73659,9 @@
 	<programme channel="newtv炫舞未来" start="20241018032100 +0800" stop="20241018044600 +0800">
 		<title lang="zh">金牌喜剧班（20210417）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20241018044600 +0800" stop="20241018050800 +0800">
+		<title lang="zh">亲子版《冠军带我练》（20240902）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -73661,6 +73685,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20241018032400 +0800" stop="20241018044800 +0800">
 		<title lang="zh">重案行动之连环凶杀（普通话版）</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20241018044800 +0800" stop="20241018062200 +0800">
+		<title lang="zh">鲨卷风2</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
