@@ -24345,6 +24345,9 @@
 	<programme channel="咪咕足球" start="20241019022600 +0800" stop="20241019024100 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕足球" start="20241019024100 +0800" stop="20241019042100 +0800">
+		<title lang="zh">2024NBL第9轮 武汉鲲鹏-江苏汤沟国藏</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -62004,6 +62007,9 @@
 	<programme channel="newtv超级综艺" start="20241019021800 +0800" stop="20241019030800 +0800">
 		<title lang="zh">绽放吧！妈妈</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20241019030800 +0800" stop="20241019040700 +0800">
+		<title lang="zh">非常6+1</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -62040,6 +62046,9 @@
 	<programme channel="newtv超级电视剧" start="20241019021600 +0800" stop="20241019025800 +0800">
 		<title lang="zh">05_妈妈在等你</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20241019025800 +0800" stop="20241019033900 +0800">
+		<title lang="zh">06_妈妈在等你</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -62051,6 +62060,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20241019015100 +0800" stop="20241019024600 +0800">
 		<title lang="zh">26_百战天狼</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20241019024600 +0800" stop="20241019034000 +0800">
+		<title lang="zh">27_百战天狼</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -62108,6 +62120,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20241019015800 +0800" stop="20241019025400 +0800">
 		<title lang="zh">11_小日子</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20241019025400 +0800" stop="20241019034000 +0800">
+		<title lang="zh">12_小日子</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -62228,6 +62243,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20241019002900 +0800" stop="20241019024600 +0800">
 		<title lang="zh">十三邀第7季</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20241019024600 +0800" stop="20241019044400 +0800">
+		<title lang="zh">正大综艺（2023）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
