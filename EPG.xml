@@ -30762,6 +30762,9 @@
 	<programme channel="咪咕综合体育" start="20241020001500 +0800" stop="20241020024000 +0800">
 		<title lang="zh">足球世界-24/25赛季德甲 第7轮 拜仁慕尼黑-斯图加特 直播</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20241020024500 +0800" stop="20241020035000 +0800">
+		<title lang="zh">国球荣耀-WTT中国大满贯 男单 决赛</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -30773,6 +30776,12 @@
 	</programme>
 	<programme channel="咪咕足球" start="20241020012600 +0800" stop="20241020022600 +0800">
 		<title lang="zh">超级三对三-2024超三联赛</title>
+	</programme>
+	<programme channel="咪咕足球" start="20241020022600 +0800" stop="20241020024100 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20241020024100 +0800" stop="20241020042100 +0800">
+		<title lang="zh">2024NBL第9轮 长沙湾田勇胜-安徽文一</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -58965,6 +58974,9 @@
 	<programme channel="纯享4K" start="20241020020500 +0800" stop="20241020023500 +0800">
 		<title lang="zh">味道4K 我的家乡菜b7蒙阴篇（下）</title>
 	</programme>
+	<programme channel="纯享4K" start="20241020023500 +0800" stop="20241020032500 +0800">
+		<title lang="zh">航拍中国4K第四季 第3集 青海</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -70668,6 +70680,9 @@
 	<programme channel="黑莓动画" start="20241020013700 +0800" stop="20241020022700 +0800">
 		<title lang="zh">名侦探柯南（一）（普通话版）</title>
 	</programme>
+	<programme channel="黑莓动画" start="20241020022700 +0800" stop="20241020032000 +0800">
+		<title lang="zh">星辰变 第一季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -70676,6 +70691,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20241020012300 +0800" stop="20241020024100 +0800">
 		<title lang="zh">寄生怪</title>
+	</programme>
+	<programme channel="黑莓电影" start="20241020024100 +0800" stop="20241020042600 +0800">
+		<title lang="zh">相棒剧场版2</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -71142,6 +71160,9 @@
 	<programme channel="newtv超级体育" start="20241020002500 +0800" stop="20241020023800 +0800">
 		<title lang="zh">2024/2025德国足球甲级联赛-第7轮(拜仁慕尼黑-斯图加特)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20241020023800 +0800" stop="20241020040000 +0800">
+		<title lang="zh">实况录像-2024年世乒联大满贯赛 北京站 2</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -71175,6 +71196,9 @@
 	<programme channel="newtv精品大剧" start="20241020012500 +0800" stop="20241020021900 +0800">
 		<title lang="zh">29_百战天狼</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20241020021900 +0800" stop="20241020031400 +0800">
+		<title lang="zh">30_百战天狼</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -71187,6 +71211,9 @@
 	<programme channel="newtv精品纪录" start="20241020013100 +0800" stop="20241020023000 +0800">
 		<title lang="zh">第五集 打开心脏</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20241020023000 +0800" stop="20241020032800 +0800">
+		<title lang="zh">第五集 未来已来</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -71196,6 +71223,9 @@
 	<programme channel="newtv古装剧场" start="20241020013700 +0800" stop="20241020023000 +0800">
 		<title lang="zh">01_千古玦尘</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20241020023000 +0800" stop="20241020032400 +0800">
+		<title lang="zh">02_千古玦尘</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -71204,6 +71234,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20241020013100 +0800" stop="20241020022600 +0800">
 		<title lang="zh">13_刀锋乱世情</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20241020022600 +0800" stop="20241020032100 +0800">
+		<title lang="zh">14_刀锋乱世情</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -71222,6 +71255,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20241020012100 +0800" stop="20241020021700 +0800">
 		<title lang="zh">16_小日子</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20241020021700 +0800" stop="20241020030300 +0800">
+		<title lang="zh">17_小日子</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -71247,6 +71283,9 @@
 	<programme channel="newtv动作电影" start="20241020003600 +0800" stop="20241020023000 +0800">
 		<title lang="zh">叱咤风云</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20241020023000 +0800" stop="20241020041500 +0800">
+		<title lang="zh">伏虎武松</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -71258,6 +71297,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20241020013600 +0800" stop="20241020022000 +0800">
 		<title lang="zh">04_长歌行</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20241020022000 +0800" stop="20241020031400 +0800">
+		<title lang="zh">05_长歌行</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -71289,6 +71331,9 @@
 	<programme channel="newtv军事评论" start="20241020015600 +0800" stop="20241020022100 +0800">
 		<title lang="zh">“奥库斯”或再扩员 波兰申请加入“核共享”计划 台研制自杀式无人攻击艇</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20241020022100 +0800" stop="20241020024700 +0800">
+		<title lang="zh">台打造“人工智能军火库” 日首派“特种部队”至亚太</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -71303,6 +71348,9 @@
 	</channel>
 	<programme channel="newtv精品综合" start="20241020004100 +0800" stop="20241020023700 +0800">
 		<title lang="zh">人鱼缚</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20241020023700 +0800" stop="20241020044000 +0800">
+		<title lang="zh">登录圆鱼洲</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -71321,6 +71369,9 @@
 	</channel>
 	<programme channel="newtv金牌综艺" start="20241020000300 +0800" stop="20241020022300 +0800">
 		<title lang="zh">十三邀第7季</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20241020022300 +0800" stop="20241020042100 +0800">
+		<title lang="zh">正大综艺（2023）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
