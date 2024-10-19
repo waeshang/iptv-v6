@@ -58980,6 +58980,9 @@
 	<programme channel="纯享4K" start="20241020023500 +0800" stop="20241020032500 +0800">
 		<title lang="zh">航拍中国4K第四季 第3集 青海</title>
 	</programme>
+	<programme channel="纯享4K" start="20241020032500 +0800" stop="20241020040700 +0800">
+		<title lang="zh">远方的家4K 楠溪江国家级风景名胜区 楠溪江：一江秀水出青山</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -70686,6 +70689,9 @@
 	<programme channel="黑莓动画" start="20241020022700 +0800" stop="20241020032000 +0800">
 		<title lang="zh">星辰变 第一季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20241020032000 +0800" stop="20241020040900 +0800">
+		<title lang="zh">蓝色监狱</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -71157,6 +71163,9 @@
 	<programme channel="newtv超级综艺" start="20241020025700 +0800" stop="20241020033100 +0800">
 		<title lang="zh">国之颂</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20241020033100 +0800" stop="20241020044700 +0800">
+		<title lang="zh">越战越勇</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -71199,6 +71208,9 @@
 	<programme channel="newtv超级电视剧" start="20241020025700 +0800" stop="20241020033800 +0800">
 		<title lang="zh">11_妈妈在等你</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20241020033800 +0800" stop="20241020042300 +0800">
+		<title lang="zh">39_独孤天下</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -71229,6 +71241,9 @@
 	<programme channel="newtv精品纪录" start="20241020023000 +0800" stop="20241020032800 +0800">
 		<title lang="zh">第五集 未来已来</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20241020032800 +0800" stop="20241020040300 +0800">
+		<title lang="zh">第3集：从硬件到软件</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -71241,6 +71256,9 @@
 	<programme channel="newtv古装剧场" start="20241020023000 +0800" stop="20241020032400 +0800">
 		<title lang="zh">02_千古玦尘</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20241020032400 +0800" stop="20241020041700 +0800">
+		<title lang="zh">03_千古玦尘</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -71252,6 +71270,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20241020022600 +0800" stop="20241020032100 +0800">
 		<title lang="zh">14_刀锋乱世情</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20241020032100 +0800" stop="20241020041500 +0800">
+		<title lang="zh">15_刀锋乱世情</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -71298,6 +71319,9 @@
 	<programme channel="newtv爱情喜剧" start="20241020014900 +0800" stop="20241020033600 +0800">
 		<title lang="zh">百变爱人</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20241020033600 +0800" stop="20241020043100 +0800">
+		<title lang="zh">08_传闻中的陈芊芊</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -71324,6 +71348,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20241020031400 +0800" stop="20241020034100 +0800">
 		<title lang="zh">棕熊的生存挑战（上）</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20241020034100 +0800" stop="20241020041700 +0800">
+		<title lang="zh">棕熊的生存挑战（下）</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -71367,6 +71394,9 @@
 	<programme channel="newtv军事评论" start="20241020031200 +0800" stop="20241020033700 +0800">
 		<title lang="zh">美日澳菲推进军事集团化 外媒称俄罗斯正在“重组”黑海舰队</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20241020033700 +0800" stop="20241020040300 +0800">
+		<title lang="zh">台当局欲打造台版“星链” 哈马斯同意停火 以色列称继续作战</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -71381,6 +71411,12 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20241020030700 +0800" stop="20241020032000 +0800">
 		<title lang="zh">浪子闲话-饶子龙（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20241020032000 +0800" stop="20241020033400 +0800">
+		<title lang="zh">触电-李萍（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20241020033400 +0800" stop="20241020035000 +0800">
+		<title lang="zh">护花使者-毕刚（完整版）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
