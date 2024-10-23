@@ -32361,6 +32361,9 @@
 	<programme channel="咪咕综合体育" start="20241024000000 +0800" stop="20241024044500 +0800">
 		<title lang="zh">2024女子高尔夫别克LOGA锦标赛 第四比赛日</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20241024045000 +0800" stop="20241024061000 +0800">
+		<title lang="zh">网球世界-2024中国网球公开赛 女单第2轮 纳瓦罗-张帅</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -32378,6 +32381,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20241024024100 +0800" stop="20241024042100 +0800">
 		<title lang="zh">2024NBL季后赛总决赛G4 香港金牛-安徽文一</title>
+	</programme>
+	<programme channel="咪咕足球" start="20241024043000 +0800" stop="20241024053000 +0800">
+		<title lang="zh">村BA</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -73593,6 +73599,9 @@
 	<programme channel="newtv超级综艺" start="20241024035100 +0800" stop="20241024044800 +0800">
 		<title lang="zh">艺览天下</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20241024044800 +0800" stop="20241024054800 +0800">
+		<title lang="zh">选对健康</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -73620,6 +73629,9 @@
 	<programme channel="newtv超级电影" start="20241024032100 +0800" stop="20241024045200 +0800">
 		<title lang="zh">红尘客栈</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20241024045200 +0800" stop="20241024060800 +0800">
+		<title lang="zh">大进军--席卷大西南（上）</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -73641,6 +73653,9 @@
 	<programme channel="newtv超级电视剧" start="20241024034000 +0800" stop="20241024042600 +0800">
 		<title lang="zh">04_虎胆巍城</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20241024042600 +0800" stop="20241024051200 +0800">
+		<title lang="zh">05_虎胆巍城</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -73658,6 +73673,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20241024033400 +0800" stop="20241024042500 +0800">
 		<title lang="zh">28_花开山乡（4K）</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20241024042500 +0800" stop="20241024051600 +0800">
+		<title lang="zh">29_花开山乡（4K）</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -73755,6 +73773,9 @@
 	<programme channel="newtv热播精选" start="20241024032900 +0800" stop="20241024042400 +0800">
 		<title lang="zh">10_故乡，别来无恙</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20241024042400 +0800" stop="20241024050700 +0800">
+		<title lang="zh">11_故乡，别来无恙</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -73778,6 +73799,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20241024021300 +0800" stop="20241024042300 +0800">
 		<title lang="zh">终结者：创世纪</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20241024042300 +0800" stop="20241024060700 +0800">
+		<title lang="zh">军火厂</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -73916,6 +73940,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20241024024000 +0800" stop="20241024043800 +0800">
 		<title lang="zh">正大综艺（2023）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20241024043800 +0800" stop="20241024063700 +0800">
+		<title lang="zh">幸福账单（2022）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
