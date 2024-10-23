@@ -60,6 +60,9 @@
 	<programme channel="4K综艺" start="20241024041300 +0800" stop="20241024044600 +0800">
 		<title lang="zh">重返地球20180209</title>
 	</programme>
+	<programme channel="4K综艺" start="20241024044600 +0800" stop="20241024052100 +0800">
+		<title lang="zh">重返地球20180216</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -61362,6 +61365,9 @@
 	<programme channel="纯享4K" start="20241024035900 +0800" stop="20241024044000 +0800">
 		<title lang="zh">远方的家4K 长江行 生态之城——上海</title>
 	</programme>
+	<programme channel="纯享4K" start="20241024045100 +0800" stop="20241024053000 +0800">
+		<title lang="zh">探索b7发现4K 文物里的唐代戍边生活（上）</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -73092,6 +73098,9 @@
 	<programme channel="黑莓动画" start="20241024041600 +0800" stop="20241024050100 +0800">
 		<title lang="zh">马达加斯加企鹅第二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20241024050100 +0800" stop="20241024055000 +0800">
+		<title lang="zh">葬送的芙莉莲</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -73701,6 +73710,9 @@
 	<programme channel="newtv精品纪录" start="20241024040000 +0800" stop="20241024045900 +0800">
 		<title lang="zh">港珠澳大桥 上集</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20241024045900 +0800" stop="20241024055800 +0800">
+		<title lang="zh">港珠澳大桥 下集</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -73718,6 +73730,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20241024040200 +0800" stop="20241024045400 +0800">
 		<title lang="zh">23_千古玦尘</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20241024045400 +0800" stop="20241024054800 +0800">
+		<title lang="zh">33_大秦帝国之纵横</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -73758,6 +73773,9 @@
 	<programme channel="newtv家庭剧场" start="20241024040100 +0800" stop="20241024045600 +0800">
 		<title lang="zh">10_好事成双</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20241024045600 +0800" stop="20241024054200 +0800">
+		<title lang="zh">11_好事成双</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -73790,6 +73808,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20241024034100 +0800" stop="20241024043600 +0800">
 		<title lang="zh">06_向往的生活</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20241024043600 +0800" stop="20241024053200 +0800">
+		<title lang="zh">07_向往的生活</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -73824,6 +73845,9 @@
 	<programme channel="newtv怡伴健康" start="20241024041100 +0800" stop="20241024044700 +0800">
 		<title lang="zh">冰海雪原的馈赠（上）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20241024044700 +0800" stop="20241024070500 +0800">
+		<title lang="zh">北京京剧院专场</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -73841,6 +73865,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20241024034700 +0800" stop="20241024044300 +0800">
 		<title lang="zh">41_因为爱情有多美（DVD版）</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20241024044300 +0800" stop="20241024053800 +0800">
+		<title lang="zh">42_因为爱情有多美（DVD版）</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -73874,6 +73901,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20241024040600 +0800" stop="20241024043200 +0800">
 		<title lang="zh">美军机在南海投放“不明物体”被中方截获</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20241024045900 +0800" stop="20241024052600 +0800">
+		<title lang="zh">战斗烟火中</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -73931,6 +73961,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20241024033000 +0800" stop="20241024045600 +0800">
 		<title lang="zh">地牢围攻3</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20241024045600 +0800" stop="20241024062200 +0800">
+		<title lang="zh">涉嫌之人</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
