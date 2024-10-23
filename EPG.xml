@@ -73224,6 +73224,9 @@
 	<programme channel="newtv超级电影" start="20241024015400 +0800" stop="20241024032100 +0800">
 		<title lang="zh">神勇双星</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20241024032100 +0800" stop="20241024045200 +0800">
+		<title lang="zh">红尘客栈</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -73238,6 +73241,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20241024021700 +0800" stop="20241024025800 +0800">
 		<title lang="zh">30_妈妈在等你</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20241024025800 +0800" stop="20241024034000 +0800">
+		<title lang="zh">31_妈妈在等你</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -73284,6 +73290,9 @@
 	<programme channel="newtv古装剧场" start="20241024021800 +0800" stop="20241024031100 +0800">
 		<title lang="zh">21_千古玦尘</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20241024031100 +0800" stop="20241024040200 +0800">
+		<title lang="zh">22_千古玦尘</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -73320,6 +73329,9 @@
 	<programme channel="newtv热播精选" start="20241024013400 +0800" stop="20241024024600 +0800">
 		<title lang="zh">外卖骑士</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20241024024600 +0800" stop="20241024032900 +0800">
+		<title lang="zh">09_故乡，别来无恙</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -73328,6 +73340,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20241024015100 +0800" stop="20241024024600 +0800">
 		<title lang="zh">04_向往的生活</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20241024024600 +0800" stop="20241024034100 +0800">
+		<title lang="zh">05_向往的生活</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -73350,6 +73365,9 @@
 	<programme channel="newtv怡伴健康" start="20241024020300 +0800" stop="20241024024900 +0800">
 		<title lang="zh">16_长歌行</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20241024024900 +0800" stop="20241024034400 +0800">
+		<title lang="zh">17_长歌行</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -73361,6 +73379,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20241024015500 +0800" stop="20241024025100 +0800">
 		<title lang="zh">39_因为爱情有多美（DVD版）</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20241024025100 +0800" stop="20241024034700 +0800">
+		<title lang="zh">40_因为爱情有多美（DVD版）</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -73383,6 +73404,9 @@
 	<programme channel="newtv军事评论" start="20241024022500 +0800" stop="20241024025100 +0800">
 		<title lang="zh">美日韩多域联合军演“磨刀霍霍” 向以色列保证“支持”</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20241024025100 +0800" stop="20241024031600 +0800">
+		<title lang="zh">克里米亚遭导弹袭击 韩称援乌或不设限 法空天军开启亚太“演习之旅”</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -73398,6 +73422,12 @@
 	<programme channel="newtv炫舞未来" start="20241024023400 +0800" stop="20241024024800 +0800">
 		<title lang="zh">触电-李萍（完整版）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20241024024800 +0800" stop="20241024030400 +0800">
+		<title lang="zh">护花使者-毕刚（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20241024030400 +0800" stop="20241024031900 +0800">
+		<title lang="zh">韭菜花儿开-孙爱迪（完整版）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -73406,6 +73436,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20241024015500 +0800" stop="20241024031300 +0800">
 		<title lang="zh">一往无前的蓝</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20241024031300 +0800" stop="20241024040700 +0800">
+		<title lang="zh">14_一代枭雄</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
