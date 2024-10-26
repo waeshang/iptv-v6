@@ -14967,6 +14967,138 @@
 	<programme channel="TRACEURBAN" start="20241027190000 +0800" stop="20241027210000 +0800">
 		<title lang="zh">都會節奏 30大排行榜</title>
 	</programme>
+	<channel id="TRAVELCHANNEL">
+		<display-name lang="zh">TRAVELCHANNEL</display-name>
+	</channel>
+	<programme channel="TRAVELCHANNEL" start="20241027000000 +0800" stop="20241027010000 +0800">
+		<title lang="zh">ARIRANG SPECIAL(普)</title>
+	</programme>
+	<programme channel="TRAVELCHANNEL" start="20241027010000 +0800" stop="20241027013000 +0800">
+		<title lang="zh">THE GLOBALISTS(普)</title>
+	</programme>
+	<programme channel="TRAVELCHANNEL" start="20241027013000 +0800" stop="20241027020000 +0800">
+		<title lang="zh">WEEKLY NEWS HIGHLIGHTS(普)</title>
+	</programme>
+	<programme channel="TRAVELCHANNEL" start="20241027020000 +0800" stop="20241027023000 +0800">
+		<title lang="zh">REWIND IT: IM LIVE(普)</title>
+	</programme>
+	<programme channel="TRAVELCHANNEL" start="20241027023000 +0800" stop="20241027024000 +0800">
+		<title lang="zh">(M)1DAY 1KOREA: K-PEOPLE(普)</title>
+	</programme>
+	<programme channel="TRAVELCHANNEL" start="20241027024000 +0800" stop="20241027025000 +0800">
+		<title lang="zh">(M)1DAY 1KOREA: K-FOOD(普)</title>
+	</programme>
+	<programme channel="TRAVELCHANNEL" start="20241027025000 +0800" stop="20241027030000 +0800">
+		<title lang="zh">(M)1DAY 1KOREA: K-STAGE(普)</title>
+	</programme>
+	<programme channel="TRAVELCHANNEL" start="20241027030000 +0800" stop="20241027033000 +0800">
+		<title lang="zh">ISLANDS TO LOVE(普)</title>
+	</programme>
+	<programme channel="TRAVELCHANNEL" start="20241027033000 +0800" stop="20241027040000 +0800">
+		<title lang="zh">PREMIUM COLLECTION(普)</title>
+	</programme>
+	<programme channel="TRAVELCHANNEL" start="20241027040000 +0800" stop="20241027041000 +0800">
+		<title lang="zh">K-CHAT: TRAVEL IN KOREA(普)</title>
+	</programme>
+	<programme channel="TRAVELCHANNEL" start="20241027041000 +0800" stop="20241027042000 +0800">
+		<title lang="zh">K-CHAT: TRAVEL IN KOREA(普)</title>
+	</programme>
+	<programme channel="TRAVELCHANNEL" start="20241027042000 +0800" stop="20241027043000 +0800">
+		<title lang="zh">K-CHAT: TRAVEL IN KOREA(普)</title>
+	</programme>
+	<programme channel="TRAVELCHANNEL" start="20241027043000 +0800" stop="20241027044500 +0800">
+		<title lang="zh">EXPLORING KOREAN LITERATURE B(普)</title>
+	</programme>
+	<programme channel="TRAVELCHANNEL" start="20241027044500 +0800" stop="20241027050000 +0800">
+		<title lang="zh">EXPLORING KOREAN LITERATURE B(普)</title>
+	</programme>
+	<programme channel="TRAVELCHANNEL" start="20241027050000 +0800" stop="20241027060000 +0800">
+		<title lang="zh">SIMPLY K-POP CON-TOUR(普)</title>
+	</programme>
+	<programme channel="TRAVELCHANNEL" start="20241027060000 +0800" stop="20241027062000 +0800">
+		<title lang="zh">SPOTLIGHT - ROOKIES(普)</title>
+	</programme>
+	<programme channel="TRAVELCHANNEL" start="20241027062000 +0800" stop="20241027063000 +0800">
+		<title lang="zh">DISCOVERING KOREA: EXPERIENCE(普)</title>
+	</programme>
+	<programme channel="TRAVELCHANNEL" start="20241027063000 +0800" stop="20241027070000 +0800">
+		<title lang="zh">PEACE INSIGHT(普)</title>
+	</programme>
+	<programme channel="TRAVELCHANNEL" start="20241027070000 +0800" stop="20241027080000 +0800">
+		<title lang="zh">AFTER SCHOOL CLUB [R](普)</title>
+	</programme>
+	<programme channel="TRAVELCHANNEL" start="20241027080000 +0800" stop="20241027090000 +0800">
+		<title lang="zh">PERFORMARTS RELOAD 2024(普)</title>
+	</programme>
+	<programme channel="TRAVELCHANNEL" start="20241027090000 +0800" stop="20241027100000 +0800">
+		<title lang="zh">ARIRANG SPECIAL(普)</title>
+	</programme>
+	<programme channel="TRAVELCHANNEL" start="20241027100000 +0800" stop="20241027101500 +0800">
+		<title lang="zh">1DAY 1K-CULTURE: K-FOOD(普)</title>
+	</programme>
+	<programme channel="TRAVELCHANNEL" start="20241027101500 +0800" stop="20241027103000 +0800">
+		<title lang="zh">1DAY 1K-CULTURE: K-STORY(普)</title>
+	</programme>
+	<programme channel="TRAVELCHANNEL" start="20241027103000 +0800" stop="20241027104000 +0800">
+		<title lang="zh">1DAY 1K-CULTURE: K-STAGE(普)</title>
+	</programme>
+	<programme channel="TRAVELCHANNEL" start="20241027104000 +0800" stop="20241027110000 +0800">
+		<title lang="zh">EXPLORING KOREAN LITERATURE B(普)</title>
+	</programme>
+	<programme channel="TRAVELCHANNEL" start="20241027110000 +0800" stop="20241027113000 +0800">
+		<title lang="zh">WEEKLY NEWS HIGHLIGHTS(普)</title>
+	</programme>
+	<programme channel="TRAVELCHANNEL" start="20241027113000 +0800" stop="20241027120000 +0800">
+		<title lang="zh">WE ARE DIPLOMATS(普)</title>
+	</programme>
+	<programme channel="TRAVELCHANNEL" start="20241027120000 +0800" stop="20241027130000 +0800">
+		<title lang="zh">SIMPLY K-POP CON-TOUR(普)</title>
+	</programme>
+	<programme channel="TRAVELCHANNEL" start="20241027130000 +0800" stop="20241027140000 +0800">
+		<title lang="zh">AFTER SCHOOL CLUB [R](普)</title>
+	</programme>
+	<programme channel="TRAVELCHANNEL" start="20241027140000 +0800" stop="20241027150000 +0800">
+		<title lang="zh">ARIRANG SPECIAL(普)</title>
+	</programme>
+	<programme channel="TRAVELCHANNEL" start="20241027150000 +0800" stop="20241027153000 +0800">
+		<title lang="zh">WEEKLY NEWS HIGHLIGHTS(普)</title>
+	</programme>
+	<programme channel="TRAVELCHANNEL" start="20241027153000 +0800" stop="20241027160000 +0800">
+		<title lang="zh">PEACE INSIGHT(普)</title>
+	</programme>
+	<programme channel="TRAVELCHANNEL" start="20241027160000 +0800" stop="20241027170000 +0800">
+		<title lang="zh">PERFORMARTS RELOAD 2024(普)</title>
+	</programme>
+	<programme channel="TRAVELCHANNEL" start="20241027170000 +0800" stop="20241027173000 +0800">
+		<title lang="zh">WEEKLY NEWS HIGHLIGHTS(普)</title>
+	</programme>
+	<programme channel="TRAVELCHANNEL" start="20241027173000 +0800" stop="20241027180000 +0800">
+		<title lang="zh">IM LIVE(普)</title>
+	</programme>
+	<programme channel="TRAVELCHANNEL" start="20241027180000 +0800" stop="20241027190000 +0800">
+		<title lang="zh">SIMPLY K-POP CON-TOUR(普)</title>
+	</programme>
+	<programme channel="TRAVELCHANNEL" start="20241027190000 +0800" stop="20241027200000 +0800">
+		<title lang="zh">ARIRANG SPECIAL(普)</title>
+	</programme>
+	<programme channel="TRAVELCHANNEL" start="20241027200000 +0800" stop="20241027210000 +0800">
+		<title lang="zh">AFTER SCHOOL CLUB [R](普)</title>
+	</programme>
+	<programme channel="TRAVELCHANNEL" start="20241027210000 +0800" stop="20241027213000 +0800">
+		<title lang="zh">HOME EXPLORERS 2(普)</title>
+	</programme>
+	<programme channel="TRAVELCHANNEL" start="20241027213000 +0800" stop="20241027220000 +0800">
+		<title lang="zh">WEEKLY NEWS HIGHLIGHTS(普)</title>
+	</programme>
+	<programme channel="TRAVELCHANNEL" start="20241027220000 +0800" stop="20241027223000 +0800">
+		<title lang="zh">THE GEOVISTA(普)</title>
+	</programme>
+	<programme channel="TRAVELCHANNEL" start="20241027223000 +0800" stop="20241027230000 +0800">
+		<title lang="zh">IM LIVE(普)</title>
+	</programme>
+	<programme channel="TRAVELCHANNEL" start="20241027230000 +0800" stop="20241027233000 +0800">
+		<title lang="zh">THE GLOBALISTS(普)</title>
+	</programme>
 	<channel id="TV5MONDE">
 		<display-name lang="zh">TV5MONDE</display-name>
 	</channel>
@@ -71184,6 +71316,9 @@
 	<programme channel="黑莓动画" start="20241027040600 +0800" stop="20241027045000 +0800">
 		<title lang="zh">马达加斯加企鹅第一季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20241027045000 +0800" stop="20241027053900 +0800">
+		<title lang="zh">葬送的芙莉莲</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -71679,6 +71814,9 @@
 	<programme channel="newtv超级体育" start="20241027025500 +0800" stop="20241027050500 +0800">
 		<title lang="zh">2024/2025西班牙足球甲级联赛-第11轮(皇家马德里-巴塞罗那)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20241027050500 +0800" stop="20241027060000 +0800">
+		<title lang="zh">实况录像-2024年全国举重冠军赛 女子比赛 2</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -71736,6 +71874,9 @@
 	<programme channel="newtv精品大剧" start="20241027040400 +0800" stop="20241027045800 +0800">
 		<title lang="zh">06_乌鸦小姐与蜥蜴先生</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20241027045800 +0800" stop="20241027055100 +0800">
+		<title lang="zh">07_乌鸦小姐与蜥蜴先生</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -71756,6 +71897,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20241027035500 +0800" stop="20241027045300 +0800">
 		<title lang="zh">01_机器人发展史</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20241027045300 +0800" stop="20241027055100 +0800">
+		<title lang="zh">01_无声的功勋（第一季）</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -71949,6 +72093,9 @@
 	<programme channel="newtv军事评论" start="20241027043000 +0800" stop="20241027045700 +0800">
 		<title lang="zh">火力支援</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20241027045700 +0800" stop="20241027052300 +0800">
+		<title lang="zh">保障尖兵</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -71993,6 +72140,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20241027040200 +0800" stop="20241027045700 +0800">
 		<title lang="zh">26_一代枭雄</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20241027045700 +0800" stop="20241027055100 +0800">
+		<title lang="zh">27_一代枭雄</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
