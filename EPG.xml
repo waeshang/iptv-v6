@@ -32106,6 +32106,12 @@
 	<programme channel="咪咕足球" start="20241029012600 +0800" stop="20241029022600 +0800">
 		<title lang="zh">超级三对三-2024超三联赛</title>
 	</programme>
+	<programme channel="咪咕足球" start="20241029022600 +0800" stop="20241029024100 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20241029024100 +0800" stop="20241029042100 +0800">
+		<title lang="zh">2024NBL季后赛总决赛G2 安徽文一-香港金牛</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -59901,6 +59907,9 @@
 	<programme channel="纯享4K" start="20241029014300 +0800" stop="20241029024200 +0800">
 		<title lang="zh">乐享汇4K “爱的主打歌”（三）演唱会</title>
 	</programme>
+	<programme channel="纯享4K" start="20241029024200 +0800" stop="20241029024800 +0800">
+		<title lang="zh">绿水青山行4K 生态扶贫系列：青山猿为伴</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -71526,6 +71535,9 @@
 	<programme channel="黑莓动画" start="20241029014700 +0800" stop="20241029023700 +0800">
 		<title lang="zh">名侦探柯南（一）（普通话版）</title>
 	</programme>
+	<programme channel="黑莓动画" start="20241029023700 +0800" stop="20241029032400 +0800">
+		<title lang="zh">星辰变第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -71991,6 +72003,9 @@
 	<programme channel="newtv超级综艺" start="20241029015100 +0800" stop="20241029024200 +0800">
 		<title lang="zh">艺览天下</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20241029024200 +0800" stop="20241029034200 +0800">
+		<title lang="zh">选对健康</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -72017,6 +72032,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20241029020100 +0800" stop="20241029024200 +0800">
 		<title lang="zh">07_无所畏惧</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20241029024200 +0800" stop="20241029032400 +0800">
+		<title lang="zh">08_无所畏惧</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -72060,6 +72078,9 @@
 	<programme channel="newtv古装剧场" start="20241029013900 +0800" stop="20241029023200 +0800">
 		<title lang="zh">45_千古玦尘</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20241029023200 +0800" stop="20241029032200 +0800">
+		<title lang="zh">46_千古玦尘</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -72068,6 +72089,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20241029013700 +0800" stop="20241029023100 +0800">
 		<title lang="zh">29_百战天狼</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20241029023100 +0800" stop="20241029032500 +0800">
+		<title lang="zh">30_百战天狼</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -72117,6 +72141,9 @@
 	<programme channel="newtv怡伴健康" start="20241029015700 +0800" stop="20241029024100 +0800">
 		<title lang="zh">31_长歌行</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20241029024100 +0800" stop="20241029033500 +0800">
+		<title lang="zh">32_长歌行</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -72147,6 +72174,9 @@
 	<programme channel="newtv军事评论" start="20241029020100 +0800" stop="20241029022600 +0800">
 		<title lang="zh">美台再签军售合同欲“分享情报” 以色列称正与“抵抗阵线”打生死之战</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20241029022600 +0800" stop="20241029025200 +0800">
+		<title lang="zh">以色列对哈马斯和真主党同时出手 美重申对以安全承诺</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -72158,6 +72188,12 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20241029020500 +0800" stop="20241029021800 +0800">
 		<title lang="zh">相遇花开-饶子龙（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20241029021800 +0800" stop="20241029023800 +0800">
+		<title lang="zh">宝贝对不起-毕刚（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20241029024200 +0800" stop="20241029025300 +0800">
+		<title lang="zh">我爱祖国的蓝天-饶子龙（完整版）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
