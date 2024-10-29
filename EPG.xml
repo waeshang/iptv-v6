@@ -31746,6 +31746,12 @@
 	<programme channel="咪咕足球" start="20241030012600 +0800" stop="20241030022600 +0800">
 		<title lang="zh">超级三对三-2024超三联赛</title>
 	</programme>
+	<programme channel="咪咕足球" start="20241030022600 +0800" stop="20241030024100 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20241030024100 +0800" stop="20241030042100 +0800">
+		<title lang="zh">2024NBL季后赛总决赛G3 香港金牛-安徽文一</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -72018,6 +72024,9 @@
 	<programme channel="newtv超级综艺" start="20241030014100 +0800" stop="20241030022800 +0800">
 		<title lang="zh">20_隋唐英雄3</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20241030022800 +0800" stop="20241030031900 +0800">
+		<title lang="zh">艺览天下</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -72026,6 +72035,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20241030014000 +0800" stop="20241030023800 +0800">
 		<title lang="zh">赛事集锦-2024年世界山地自行车锦标赛1</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20241030023800 +0800" stop="20241030040000 +0800">
+		<title lang="zh">实况录像-2024/2025赛季花样滑冰大奖赛 美国站 1</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -72102,6 +72114,9 @@
 	<programme channel="newtv军旅剧场" start="20241030013700 +0800" stop="20241030022500 +0800">
 		<title lang="zh">35_百战天狼</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20241030022500 +0800" stop="20241030031400 +0800">
+		<title lang="zh">36_百战天狼</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -72147,6 +72162,9 @@
 	<programme channel="newtv怡伴健康" start="20241030013700 +0800" stop="20241030022200 +0800">
 		<title lang="zh">34_长歌行</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20241030022200 +0800" stop="20241030031800 +0800">
+		<title lang="zh">35_长歌行</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -72188,6 +72206,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20241030013200 +0800" stop="20241030022200 +0800">
 		<title lang="zh">勇者之战（20241020）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20241030022200 +0800" stop="20241030023500 +0800">
+		<title lang="zh">浪子闲话-饶子龙（完整版）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
