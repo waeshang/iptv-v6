@@ -42201,6 +42201,9 @@
 	<programme channel="纯享4K" start="20241101031900 +0800" stop="20241101034900 +0800">
 		<title lang="zh">味道4K 下饭菜b7绵阳篇</title>
 	</programme>
+	<programme channel="纯享4K" start="20241101034900 +0800" stop="20241101043000 +0800">
+		<title lang="zh">远方的家4K 长江行 金沙江：探秘香格里拉</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -51870,6 +51873,9 @@
 	<programme channel="黑莓动画" start="20241101025800 +0800" stop="20241101035400 +0800">
 		<title lang="zh">星辰变 第一季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20241101035400 +0800" stop="20241101044200 +0800">
+		<title lang="zh">蓝色监狱</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -52224,6 +52230,9 @@
 	<programme channel="newtv超级体育" start="20241101023000 +0800" stop="20241101040000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季花样滑冰大奖赛 加拿大站 1</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20241101040000 +0800" stop="20241101053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季英超联赛第6轮 伊普斯威奇-阿斯顿维拉</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -52398,6 +52407,9 @@
 	<programme channel="newtv怡伴健康" start="20241101032300 +0800" stop="20241101035000 +0800">
 		<title lang="zh">大河归来（下）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20241101035000 +0800" stop="20241101042600 +0800">
+		<title lang="zh">青苔的奇迹（上）</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -52460,6 +52472,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20241101033500 +0800" stop="20241101034900 +0800">
 		<title lang="zh">触电-李萍（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20241101034900 +0800" stop="20241101040500 +0800">
+		<title lang="zh">护花使者-毕刚（完整版）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
