@@ -52212,6 +52212,9 @@
 	<programme channel="newtv超级综艺" start="20241102034500 +0800" stop="20241102044500 +0800">
 		<title lang="zh">选对健康</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20241102044500 +0800" stop="20241102060200 +0800">
+		<title lang="zh">向幸福出发</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -52265,6 +52268,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20241102041100 +0800" stop="20241102045000 +0800">
 		<title lang="zh">14_初婚</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20241102045000 +0800" stop="20241102052900 +0800">
+		<title lang="zh">15_初婚</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
