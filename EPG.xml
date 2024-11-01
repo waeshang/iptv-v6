@@ -67107,6 +67107,9 @@
 	<programme channel="黑莓动画" start="20241101205700 +0800" stop="20241101211000 +0800">
 		<title lang="zh">03_托宝战士之银河侦探第2季 </title>
 	</programme>
+	<programme channel="黑莓动画" start="20241101211000 +0800" stop="20241101212300 +0800">
+		<title lang="zh">04_托宝战士之银河侦探第2季 </title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -67752,6 +67755,9 @@
 	<programme channel="newtv超级电视剧" start="20241101202500 +0800" stop="20241101211100 +0800">
 		<title lang="zh">08_山河锦绣</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20241101211100 +0800" stop="20241101215600 +0800">
+		<title lang="zh">09_山河锦绣</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -68106,6 +68112,9 @@
 	<programme channel="newtv军旅剧场" start="20241101204600 +0800" stop="20241101211600 +0800">
 		<title lang="zh">【五脏自愈操】推荐第一期</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20241101211600 +0800" stop="20241101220100 +0800">
+		<title lang="zh">16_川流</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -68339,6 +68348,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20241101203600 +0800" stop="20241101210600 +0800">
 		<title lang="zh">【五脏自愈操】推荐第一期</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20241101210600 +0800" stop="20241101215400 +0800">
+		<title lang="zh">13_千金保姆</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -68723,6 +68735,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20241101204300 +0800" stop="20241101210800 +0800">
 		<title lang="zh">台军欲成立“制海导弹指挥部” 日本扩大“防务合作圈”</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20241101210800 +0800" stop="20241101213300 +0800">
+		<title lang="zh">美对伊朗目标展开大规模空袭 英欲派航母“迎战”胡塞武装</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
