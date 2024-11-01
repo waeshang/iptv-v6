@@ -41835,6 +41835,9 @@
 	<programme channel="纯享4K" start="20241102022600 +0800" stop="20241102025600 +0800">
 		<title lang="zh">味道4K 原味乡间b7襄阳篇 1</title>
 	</programme>
+	<programme channel="纯享4K" start="20241102025600 +0800" stop="20241102032600 +0800">
+		<title lang="zh">味道4K 原味乡间b7襄阳篇（2）</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -51495,6 +51498,9 @@
 	<programme channel="黑莓电影" start="20241102013900 +0800" stop="20241102030700 +0800">
 		<title lang="zh">彗星来的那一夜</title>
 	</programme>
+	<programme channel="黑莓电影" start="20241102030700 +0800" stop="20241102051200 +0800">
+		<title lang="zh">滚烫的爱</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -51873,6 +51879,9 @@
 	<programme channel="newtv超级电视剧" start="20241102020900 +0800" stop="20241102025000 +0800">
 		<title lang="zh">28_无所畏惧</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20241102025000 +0800" stop="20241102033200 +0800">
+		<title lang="zh">29_无所畏惧</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -51890,6 +51899,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20241102020100 +0800" stop="20241102024800 +0800">
 		<title lang="zh">08_雁归西窗月</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20241102024800 +0800" stop="20241102033600 +0800">
+		<title lang="zh">09_雁归西窗月</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -51918,6 +51930,9 @@
 	<programme channel="newtv古装剧场" start="20241102021400 +0800" stop="20241102030900 +0800">
 		<title lang="zh">15_且试天下</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20241102030900 +0800" stop="20241102040200 +0800">
+		<title lang="zh">16_且试天下</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -51932,6 +51947,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20241102022200 +0800" stop="20241102030900 +0800">
 		<title lang="zh">地道英雄 第12集</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20241102030900 +0800" stop="20241102035600 +0800">
+		<title lang="zh">地道英雄 第13集</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -51966,6 +51984,9 @@
 	<programme channel="newtv爱情喜剧" start="20241102021200 +0800" stop="20241102025800 +0800">
 		<title lang="zh">14_遍地书香</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20241102025800 +0800" stop="20241102034500 +0800">
+		<title lang="zh">15_遍地书香</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -51974,6 +51995,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20241102014700 +0800" stop="20241102030700 +0800">
 		<title lang="zh">封神榜：托塔天王</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20241102030700 +0800" stop="20241102044300 +0800">
+		<title lang="zh">地质灾难</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -52029,6 +52053,9 @@
 	<programme channel="newtv军事评论" start="20241102023600 +0800" stop="20241102030200 +0800">
 		<title lang="zh">以军夜袭叙利亚 北约多国陷“俄无人机疑云” 美日澳在亚太加码两栖作战</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20241102030200 +0800" stop="20241102032700 +0800">
+		<title lang="zh">莫斯科遭乌军大规模无人机袭击 俄海军举行“大洋-2024”战略演习</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -52046,6 +52073,12 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20241102023700 +0800" stop="20241102024900 +0800">
 		<title lang="zh">《广场舞》 赞赞赞（附教学）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20241102025900 +0800" stop="20241102030300 +0800">
+		<title lang="zh">《广场舞》 我家在中国</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20241102030900 +0800" stop="20241102043900 +0800">
+		<title lang="zh">经典咏流传b7正青春（20230702）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
