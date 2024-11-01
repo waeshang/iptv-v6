@@ -25320,23 +25320,17 @@
 	<programme channel="国会频道2" start="20241101044600 +0800" stop="20241101065100 +0800">
 		<title lang="zh">教育及文化委員會</title>
 	</programme>
-	<programme channel="国会频道2" start="20241101065100 +0800" stop="20241101101100 +0800">
+	<programme channel="国会频道2" start="20241101065100 +0800" stop="20241101084700 +0800">
 		<title lang="zh">司法及法制委員會</title>
 	</programme>
-	<programme channel="国会频道2" start="20241101101100 +0800" stop="20241101143700 +0800">
-		<title lang="zh">司法及法制委員會</title>
+	<programme channel="国会频道2" start="20241101084700 +0800" stop="20241101090000 +0800">
+		<title lang="zh">週五會議預報</title>
 	</programme>
-	<programme channel="国会频道2" start="20241101143700 +0800" stop="20241101175200 +0800">
-		<title lang="zh">立法院院會</title>
+	<programme channel="国会频道2" start="20241101090000 +0800" stop="20241101180000 +0800">
+		<title lang="zh">立法院會議直播</title>
 	</programme>
-	<programme channel="国会频道2" start="20241101175200 +0800" stop="20241101204600 +0800">
-		<title lang="zh">立法院院會</title>
-	</programme>
-	<programme channel="国会频道2" start="20241101204600 +0800" stop="20241101211800 +0800">
-		<title lang="zh">程序委員會</title>
-	</programme>
-	<programme channel="国会频道2" start="20241101211800 +0800" stop="20241101235900 +0800">
-		<title lang="zh">司法及法制委員會</title>
+	<programme channel="国会频道2" start="20241101180000 +0800" stop="20241101235900 +0800">
+		<title lang="zh">當日立法院會議轉播</title>
 	</programme>
 	<channel id="国学">
 		<display-name lang="zh">国学</display-name>
@@ -56130,6 +56124,9 @@
 	<programme channel="纯享4K" start="20241101152300 +0800" stop="20241101154800 +0800">
 		<title lang="zh">魅力塞尔维亚4K 第4集 时光的印记</title>
 	</programme>
+	<programme channel="纯享4K" start="20241101154800 +0800" stop="20241101161800 +0800">
+		<title lang="zh">记住乡愁4K第七季 第三十四集 南丰——满城橘香 物丰人和</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -66918,6 +66915,9 @@
 	<programme channel="黑莓动画" start="20241101152900 +0800" stop="20241101154800 +0800">
 		<title lang="zh">小志和玩具第十一季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20241101154800 +0800" stop="20241101163600 +0800">
+		<title lang="zh">甜心格格 第一季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -66947,6 +66947,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20241101141800 +0800" stop="20241101154700 +0800">
 		<title lang="zh">婴儿车攻略</title>
+	</programme>
+	<programme channel="黑莓电影" start="20241101154700 +0800" stop="20241101175400 +0800">
+		<title lang="zh">妈阁是座城</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -67350,6 +67353,9 @@
 	<programme channel="newtv超级综艺" start="20241101145700 +0800" stop="20241101161600 +0800">
 		<title lang="zh">会唱歌的院子</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20241101161600 +0800" stop="20241101173300 +0800">
+		<title lang="zh">向幸福出发</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -67506,6 +67512,9 @@
 	<programme channel="newtv超级电视剧" start="20241101151800 +0800" stop="20241101160000 +0800">
 		<title lang="zh">29_希望的大地</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20241101160000 +0800" stop="20241101164100 +0800">
+		<title lang="zh">30_希望的大地</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -67568,6 +67577,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20241101151600 +0800" stop="20241101160000 +0800">
 		<title lang="zh">02_遍地书香</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20241101160000 +0800" stop="20241101165000 +0800">
+		<title lang="zh">多功能弱激光治疗仪-前列腺型-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -67646,6 +67658,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20241101153100 +0800" stop="20241101160900 +0800">
 		<title lang="zh">国史通鉴b7宋元时代 27 奠基中原</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20241101160900 +0800" stop="20241101164000 +0800">
+		<title lang="zh">01_我的抗战：卢沟晓月</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -67770,6 +67785,9 @@
 	<programme channel="newtv军旅剧场" start="20241101151500 +0800" stop="20241101154800 +0800">
 		<title lang="zh">美国云杉黑金前列腺素胶囊-渠道（右）</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20241101154800 +0800" stop="20241101163300 +0800">
+		<title lang="zh">01_射天狼</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -67833,6 +67851,9 @@
 	<programme channel="newtv家庭剧场" start="20241101150200 +0800" stop="20241101155300 +0800">
 		<title lang="zh">橘络通LCP萃取浓缩原液-渠道（右）</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20241101155300 +0800" stop="20241101163100 +0800">
+		<title lang="zh">24_闪耀的她</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -67886,6 +67907,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20241101151200 +0800" stop="20241101160100 +0800">
 		<title lang="zh">11_古董局中局之掠宝清单</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20241101160100 +0800" stop="20241101165200 +0800">
+		<title lang="zh">美康利健半导体激光治疗仪-渠道（右）</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -67973,6 +67997,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20241101142400 +0800" stop="20241101155800 +0800">
 		<title lang="zh">非常营救</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20241101155800 +0800" stop="20241101164800 +0800">
+		<title lang="zh">康企半导体激光治疗仪买一送一特惠组-渠道（右）</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -68118,6 +68145,9 @@
 	<programme channel="newtv潮妈辣婆" start="20241101151300 +0800" stop="20241101155800 +0800">
 		<title lang="zh">39_烟火人家</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20241101155800 +0800" stop="20241101165800 +0800">
+		<title lang="zh">强势女嘉宾冷脸相亲，男嘉宾怯懦不敢言语？</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -68222,6 +68252,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20241101153000 +0800" stop="20241101155500 +0800">
 		<title lang="zh">新春走军营 战马奔腾迎新春</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20241101155500 +0800" stop="20241101162000 +0800">
+		<title lang="zh">新春走军营 龙吟在天贺新春</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -68445,6 +68478,9 @@
 	<programme channel="newtv金牌综艺" start="20241101154000 +0800" stop="20241101161300 +0800">
 		<title lang="zh">美国云杉黑金前列腺素胶囊-渠道（右）</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20241101161300 +0800" stop="20241101172300 +0800">
+		<title lang="zh">灿烂的前行</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
@@ -68573,6 +68609,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20241101151300 +0800" stop="20241101155800 +0800">
 		<title lang="zh">17_少林寺传奇藏经阁</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20241101155800 +0800" stop="20241101164600 +0800">
+		<title lang="zh">18_少林寺传奇藏经阁</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
