@@ -24897,6 +24897,9 @@
 	<programme channel="咪咕足球" start="20241103105000 +0800" stop="20241103123000 +0800">
 		<title lang="zh">当燃CBA 24/25常规赛 浙江方兴渡-山东高速</title>
 	</programme>
+	<programme channel="咪咕足球" start="20241103123500 +0800" stop="20241103141000 +0800">
+		<title lang="zh">篮球：为爱而生08 梦之队</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -66822,6 +66825,9 @@
 	<programme channel="黑莓动画" start="20241103120700 +0800" stop="20241103122000 +0800">
 		<title lang="zh">超级飞侠第15季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20241103122000 +0800" stop="20241103125500 +0800">
+		<title lang="zh">嗨道奇第2季中文版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -67239,6 +67245,9 @@
 	<programme channel="newtv超级综艺" start="20241103121700 +0800" stop="20241103125200 +0800">
 		<title lang="zh">国之颂</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20241103125200 +0800" stop="20241103134200 +0800">
+		<title lang="zh">绽放吧！妈妈</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -67518,6 +67527,9 @@
 	<programme channel="newtv古装剧场" start="20241103113300 +0800" stop="20241103121900 +0800">
 		<title lang="zh">03_神医喜来乐</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20241103121900 +0800" stop="20241103125900 +0800">
+		<title lang="zh">QK纳通片特殊膳食食品-渠道（右）</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -67622,6 +67634,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20241103115400 +0800" stop="20241103123900 +0800">
 		<title lang="zh">29_梦中的那片海</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20241103123900 +0800" stop="20241103131700 +0800">
+		<title lang="zh">30_闪耀的她</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -67740,6 +67755,9 @@
 	<programme channel="newtv动作电影" start="20241103111000 +0800" stop="20241103122400 +0800">
 		<title lang="zh">特种兵归来2：黑色罂粟</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20241103122400 +0800" stop="20241103130000 +0800">
+		<title lang="zh">雅帝莱巴卡古堡木桶珍藏干红葡萄酒-渠道（右）</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -67791,6 +67809,12 @@
 	<programme channel="newtv怡伴健康" start="20241103115200 +0800" stop="20241103122800 +0800">
 		<title lang="zh">雅帝莱巴卡古堡木桶珍藏干红葡萄酒-渠道（右）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20241103122800 +0800" stop="20241103123300 +0800">
+		<title lang="zh">相声《酒令》 表演：贾仑</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20241103123800 +0800" stop="20241103124800 +0800">
+		<title lang="zh">相声《姥说》 表演：高晓攀 尤宪超</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -67841,6 +67865,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20241103114600 +0800" stop="20241103123200 +0800">
 		<title lang="zh">05_嫣语赋</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20241103123200 +0800" stop="20241103132000 +0800">
+		<title lang="zh">06_嫣语赋</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -67919,6 +67946,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20241103113200 +0800" stop="20241103122400 +0800">
 		<title lang="zh">万里长空“拼刺刀”：志愿军空战传奇 第2集 云端的较量</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20241103122400 +0800" stop="20241103124900 +0800">
+		<title lang="zh">雪域高原的美丽相见</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -68198,6 +68228,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20241103115500 +0800" stop="20241103124500 +0800">
 		<title lang="zh">47_三国机密</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20241103124500 +0800" stop="20241103131500 +0800">
+		<title lang="zh">中国搏击十年</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
