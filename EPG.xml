@@ -108,6 +108,9 @@
 	<programme channel="4K综艺" start="20241103212500 +0800" stop="20241103225600 +0800">
 		<title lang="zh">亲爱的客栈第三季20191108</title>
 	</programme>
+	<programme channel="4K综艺" start="20241103225600 +0800" stop="20241103233700 +0800">
+		<title lang="zh">小小的追球20191126</title>
+	</programme>
 	<channel id="CCTV1">
 		<display-name lang="zh">CCTV1</display-name>
 	</channel>
@@ -67410,6 +67413,9 @@
 	<programme channel="黑莓动画" start="20241103222800 +0800" stop="20241103225200 +0800">
 		<title lang="zh">14_咒术回战第2季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20241103225200 +0800" stop="20241103231500 +0800">
+		<title lang="zh">29_间谍过家家</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -67451,6 +67457,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20241103205100 +0800" stop="20241103224700 +0800">
 		<title lang="zh">西虹市首富</title>
+	</programme>
+	<programme channel="黑莓电影" start="20241103224700 +0800" stop="20241103001300 +0800">
+		<title lang="zh">暴走妈妈</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -67959,6 +67968,9 @@
 	<programme channel="newtv超级电影" start="20241103214700 +0800" stop="20241103225800 +0800">
 		<title lang="zh">电影《白垩纪世界》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20241103225800 +0800" stop="20241103002500 +0800">
+		<title lang="zh">电影《绝命狙击》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -68274,6 +68286,9 @@
 	<programme channel="newtv精品纪录" start="20241103223700 +0800" stop="20241103230100 +0800">
 		<title lang="zh">09_曹雪芹 唯美食与朋友不可辜负</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20241103230100 +0800" stop="20241103232500 +0800">
+		<title lang="zh">10_曹雪芹 美食诚可贵，理想价更高</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -68363,6 +68378,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20241103221000 +0800" stop="20241103225300 +0800">
 		<title lang="zh">32_女医明妃传</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20241103225300 +0800" stop="20241103233500 +0800">
+		<title lang="zh">33_女医明妃传</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -68555,6 +68573,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20241103220200 +0800" stop="20241103225100 +0800">
 		<title lang="zh">34_父亲的草原母亲的河</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20241103225100 +0800" stop="20241103233600 +0800">
+		<title lang="zh">35_父亲的草原母亲的河</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -68891,6 +68912,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20241103222100 +0800" stop="20241103225100 +0800">
 		<title lang="zh">【五脏自愈操】推荐第一期</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20241103225100 +0800" stop="20241103233000 +0800">
+		<title lang="zh">生命绿洲之—“最美义工”背后的故事</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -69248,6 +69272,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20241103224500 +0800" stop="20241103224900 +0800">
 		<title lang="zh">青苹果乐园—毕刚（舞蹈展示）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20241103224900 +0800" stop="20241103000600 +0800">
+		<title lang="zh">零零后男旦搭档惊艳开嗓 十九岁成非遗剧团长传承家乡戏（20240925）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -69638,6 +69665,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20241103222300 +0800" stop="20241103225300 +0800">
 		<title lang="zh">【五脏自愈操】推荐第一期</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20241103225300 +0800" stop="20241103004600 +0800">
+		<title lang="zh">锦衣之下之爱别离</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
