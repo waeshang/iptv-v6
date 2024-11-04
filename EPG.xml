@@ -60183,6 +60183,9 @@
 	<programme channel="黑莓动画" start="20241104102400 +0800" stop="20241104111000 +0800">
 		<title lang="zh">汪汪队立大功第3季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20241104111000 +0800" stop="20241104113700 +0800">
+		<title lang="zh">钶龙战记</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -60717,6 +60720,9 @@
 	<programme channel="newtv精品纪录" start="20241104103700 +0800" stop="20241104110200 +0800">
 		<title lang="zh">颐年可期（20211229）</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20241104110200 +0800" stop="20241104113700 +0800">
+		<title lang="zh">神飞航天研究院航天菌宝活菌-渠道（右）</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -60758,6 +60764,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20241104102600 +0800" stop="20241104111300 +0800">
 		<title lang="zh">06_神医喜来乐</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20241104111300 +0800" stop="20241104115900 +0800">
+		<title lang="zh">07_神医喜来乐</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -60893,6 +60902,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20241104101100 +0800" stop="20241104110300 +0800">
 		<title lang="zh">39_灼灼风流</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20241104110300 +0800" stop="20241104114800 +0800">
+		<title lang="zh">人仁牌何首乌防脱育发精华液-渠道（右）</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -61050,6 +61062,9 @@
 	<programme channel="newtv潮妈辣婆" start="20241104101600 +0800" stop="20241104110500 +0800">
 		<title lang="zh">味道云南</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20241104110500 +0800" stop="20241104115000 +0800">
+		<title lang="zh">人仁牌何首乌防脱育发精华液-渠道（右）</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -61118,6 +61133,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20241104101500 +0800" stop="20241104110300 +0800">
 		<title lang="zh">用兵真如神：探秘十大军事原则 第1集 先打分散和孤立之敌</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20241104110300 +0800" stop="20241104115600 +0800">
+		<title lang="zh">执笔为戈：晋察冀战地记者（上集）</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -61367,6 +61385,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20241104103000 +0800" stop="20241104110900 +0800">
 		<title lang="zh">五粮液出品感恩卷轴白酒-渠道（右）</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20241104110900 +0800" stop="20241104115400 +0800">
+		<title lang="zh">50_三国机密</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
