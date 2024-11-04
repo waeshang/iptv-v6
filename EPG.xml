@@ -19842,6 +19842,9 @@
 	<programme channel="咪咕综合体育" start="20241105055000 +0800" stop="20241105055500 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20241105055500 +0800" stop="20241105062000 +0800">
+		<title lang="zh">欧陆足球版图</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -52436,6 +52439,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20241105053000 +0800" stop="20241105060000 +0800">
 		<title lang="zh">实况录像-2024年世界技巧运动锦标赛 2</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20241105060000 +0800" stop="20241105063000 +0800">
+		<title lang="zh">实况录像-2024年世界田联钻石联赛 西里西亚站</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
