@@ -46437,6 +46437,9 @@
 	<programme channel="newtv超级体育" start="20241107023500 +0800" stop="20241107040000 +0800">
 		<title lang="zh">实况录像-2024年中国羽毛球公开赛 2</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20241107040000 +0800" stop="20241107053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季英超联赛第7轮 阿斯顿维拉-曼联</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -46485,6 +46488,9 @@
 	<programme channel="newtv精品大剧" start="20241107030900 +0800" stop="20241107035200 +0800">
 		<title lang="zh">02_民国恩仇录</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20241107035200 +0800" stop="20241107043500 +0800">
+		<title lang="zh">03_民国恩仇录</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -46508,6 +46514,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20241107033400 +0800" stop="20241107035900 +0800">
 		<title lang="zh">05_解码之路</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20241107035900 +0800" stop="20241107042300 +0800">
+		<title lang="zh">传承b7创造</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -46538,6 +46547,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20241107030500 +0800" stop="20241107035200 +0800">
 		<title lang="zh">地道英雄 第37集</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20241107035200 +0800" stop="20241107044000 +0800">
+		<title lang="zh">01_军人荣誉之铁血雄心</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -46611,6 +46623,9 @@
 	<programme channel="newtv怡伴健康" start="20241107032700 +0800" stop="20241107035400 +0800">
 		<title lang="zh">自然的声音（下）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20241107035400 +0800" stop="20241107043000 +0800">
+		<title lang="zh">瀑布下的邻居们（上）</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -46622,6 +46637,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20241107030100 +0800" stop="20241107034900 +0800">
 		<title lang="zh">02_女人的抗战</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20241107034900 +0800" stop="20241107043700 +0800">
+		<title lang="zh">03_女人的抗战</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -46653,6 +46671,9 @@
 	<programme channel="newtv军事评论" start="20241107032500 +0800" stop="20241107034800 +0800">
 		<title lang="zh">美对台“指导棋”落子金门澎湖 美日大秀“铁拳”演练“夺岛”</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20241107034800 +0800" stop="20241107041200 +0800">
+		<title lang="zh">美国坦克“神话”破灭 波罗的海恐成“北约湖” 德军向美军机开火</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -46674,6 +46695,9 @@
 	<programme channel="newtv炫舞未来" start="20241107033200 +0800" stop="20241107035900 +0800">
 		<title lang="zh">山高路远</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20241107035900 +0800" stop="20241107043100 +0800">
+		<title lang="zh">水调歌头b7游泳</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -46685,6 +46709,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20241107031000 +0800" stop="20241107035600 +0800">
 		<title lang="zh">29_烽烟尽处</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20241107035600 +0800" stop="20241107044000 +0800">
+		<title lang="zh">30_烽烟尽处</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
