@@ -46401,6 +46401,9 @@
 	<programme channel="newtv超级综艺" start="20241107021100 +0800" stop="20241107025900 +0800">
 		<title lang="zh">我的艺术清单</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20241107025900 +0800" stop="20241107034900 +0800">
+		<title lang="zh">绽放吧！妈妈</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
