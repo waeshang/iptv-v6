@@ -51087,6 +51087,9 @@
 	<programme channel="newtv军旅剧场" start="20241109020800 +0800" stop="20241109025500 +0800">
 		<title lang="zh">09_军人荣誉之铁血雄心</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20241109025500 +0800" stop="20241109034200 +0800">
+		<title lang="zh">10_军人荣誉之铁血雄心</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -51116,6 +51119,9 @@
 	</channel>
 	<programme channel="newtv爱情喜剧" start="20241109013100 +0800" stop="20241109024900 +0800">
 		<title lang="zh">别跟我提钱</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20241109024900 +0800" stop="20241109041600 +0800">
+		<title lang="zh">重来</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -51177,6 +51183,9 @@
 	<programme channel="newtv军事评论" start="20241109023000 +0800" stop="20241109025200 +0800">
 		<title lang="zh">二〇二三迪拜航展全球战机秀</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20241109025200 +0800" stop="20241109031300 +0800">
+		<title lang="zh">用无人机凑数的土耳其航母</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -51188,6 +51197,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20241109024400 +0800" stop="20241109025800 +0800">
 		<title lang="zh">触电-李萍（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20241109025800 +0800" stop="20241109031400 +0800">
+		<title lang="zh">护花使者-毕刚（完整版）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -51272,6 +51284,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20241109012800 +0800" stop="20241109025200 +0800">
 		<title lang="zh">魁拔之幽弥狂</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20241109025200 +0800" stop="20241109042600 +0800">
+		<title lang="zh">有匪b7破雪斩</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
