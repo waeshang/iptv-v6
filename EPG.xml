@@ -50673,6 +50673,9 @@
 	<programme channel="黑莓电影" start="20241109023300 +0800" stop="20241109035800 +0800">
 		<title lang="zh">破毒</title>
 	</programme>
+	<programme channel="黑莓电影" start="20241109035800 +0800" stop="20241109055300 +0800">
+		<title lang="zh">只在那里发光</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -51015,6 +51018,9 @@
 	<programme channel="newtv超级综艺" start="20241109031700 +0800" stop="20241109040700 +0800">
 		<title lang="zh">绽放吧！妈妈</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20241109040700 +0800" stop="20241109062900 +0800">
+		<title lang="zh">国家宝藏 展演季</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -51026,6 +51032,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20241109023800 +0800" stop="20241109040000 +0800">
 		<title lang="zh">实况录像-2024年中国羽毛球公开赛 1</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20241109040000 +0800" stop="20241109053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季英超联赛第8轮 伍尔弗汉普顿-曼彻斯特城</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -51060,6 +51069,9 @@
 	<programme channel="newtv超级电视剧" start="20241109031300 +0800" stop="20241109035800 +0800">
 		<title lang="zh">24_我姥爷1945之绝命枪</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20241109035800 +0800" stop="20241109044400 +0800">
+		<title lang="zh">06_武当一剑</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -51077,6 +51089,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20241109031700 +0800" stop="20241109035900 +0800">
 		<title lang="zh">13_民国恩仇录</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20241109035900 +0800" stop="20241109044700 +0800">
+		<title lang="zh">25_风声</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -51216,6 +51231,9 @@
 	<programme channel="newtv潮妈辣婆" start="20241109030800 +0800" stop="20241109035600 +0800">
 		<title lang="zh">14_女人的抗战</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20241109035600 +0800" stop="20241109044300 +0800">
+		<title lang="zh">15_女人的抗战</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -51248,6 +51266,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20241109033500 +0800" stop="20241109035700 +0800">
 		<title lang="zh">直击首届亚洲通用航空展 上</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20241109035700 +0800" stop="20241109041900 +0800">
+		<title lang="zh">直击首届亚洲通用航空展 下</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -51314,6 +51335,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20241109022700 +0800" stop="20241109034700 +0800">
 		<title lang="zh">2024-25赛季法甲联赛第5轮：摩纳哥VS勒阿弗尔</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20241109034700 +0800" stop="20241109053400 +0800">
+		<title lang="zh">2024-25赛季英超联赛第6轮：阿森纳VS莱斯特城</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
