@@ -40920,6 +40920,9 @@
 	<programme channel="纯享4K" start="20241110022900 +0800" stop="20241110023500 +0800">
 		<title lang="zh">绿水青山行4K 生态扶贫系列：青山变金山</title>
 	</programme>
+	<programme channel="纯享4K" start="20241110023500 +0800" stop="20241110030500 +0800">
+		<title lang="zh">寻古中国4K 稻谷记b7稻香九州</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -50535,11 +50538,17 @@
 	<programme channel="黑莓动画" start="20241110015600 +0800" stop="20241110024600 +0800">
 		<title lang="zh">名侦探柯南（一）（普通话版）</title>
 	</programme>
+	<programme channel="黑莓动画" start="20241110024600 +0800" stop="20241110033200 +0800">
+		<title lang="zh">星辰变第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
 	<programme channel="黑莓电影" start="20241110010900 +0800" stop="20241110025600 +0800">
 		<title lang="zh">悬案密码3：信仰的阴谋</title>
+	</programme>
+	<programme channel="黑莓电影" start="20241110025600 +0800" stop="20241110044700 +0800">
+		<title lang="zh">电光火石</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -50949,6 +50958,9 @@
 	<programme channel="newtv精品纪录" start="20241110022000 +0800" stop="20241110025600 +0800">
 		<title lang="zh">10_骨伤专家 孙树椿</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20241110025600 +0800" stop="20241110035200 +0800">
+		<title lang="zh">第一集 创新引领</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -50973,6 +50985,9 @@
 	<programme channel="newtv军旅剧场" start="20241110021100 +0800" stop="20241110025900 +0800">
 		<title lang="zh">14_军人荣誉之铁血雄心</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20241110025900 +0800" stop="20241110034700 +0800">
+		<title lang="zh">15_军人荣誉之铁血雄心</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -50984,6 +50999,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20241110021700 +0800" stop="20241110025100 +0800">
 		<title lang="zh">35_完美伴侣</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20241110025100 +0800" stop="20241110032500 +0800">
+		<title lang="zh">36_完美伴侣</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -51060,6 +51078,9 @@
 	<programme channel="newtv军事评论" start="20241110021400 +0800" stop="20241110023600 +0800">
 		<title lang="zh">波兰军备急速扩张意欲何为</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20241110025800 +0800" stop="20241110031900 +0800">
+		<title lang="zh">F-35为何事故频发</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -51071,6 +51092,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20241110023100 +0800" stop="20241110023900 +0800">
 		<title lang="zh">我不管-金洋（完整）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20241110024700 +0800" stop="20241110030900 +0800">
+		<title lang="zh">心在跳情在烧-毕刚（纯净版）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -51152,6 +51176,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20241110014000 +0800" stop="20241110025600 +0800">
 		<title lang="zh">楚留香之盗帅觉醒</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20241110025600 +0800" stop="20241110041900 +0800">
+		<title lang="zh">柳三变大笑京城</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
