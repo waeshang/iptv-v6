@@ -50643,6 +50643,9 @@
 	<programme channel="newtv超级综艺" start="20241110000600 +0800" stop="20241110005300 +0800">
 		<title lang="zh">62_隋唐英雄3</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20241110005300 +0800" stop="20241110014100 +0800">
+		<title lang="zh">63_隋唐英雄3</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -50655,17 +50658,26 @@
 	<programme channel="newtv超级电影" start="20241110002700 +0800" stop="20241110004500 +0800">
 		<title lang="zh">今日影评</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20241110004500 +0800" stop="20241110022200 +0800">
+		<title lang="zh">搞定岳父大人</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
 	<programme channel="newtv超级电视剧" start="20241110000700 +0800" stop="20241110005300 +0800">
 		<title lang="zh">25_我姥爷1945之绝命枪</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20241110005300 +0800" stop="20241110013800 +0800">
+		<title lang="zh">26_我姥爷1945之绝命枪</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
 	<programme channel="newtv精品大剧" start="20241110001500 +0800" stop="20241110005800 +0800">
 		<title lang="zh">14_民国恩仇录</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20241110005800 +0800" stop="20241110014100 +0800">
+		<title lang="zh">15_民国恩仇录</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -50700,41 +50712,8 @@
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
-	<programme channel="newtv爱情喜剧" start="20241110000000 +0800" stop="20241110020000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv爱情喜剧" start="20241110020000 +0800" stop="20241110040000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv爱情喜剧" start="20241110060000 +0800" stop="20241110080000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv爱情喜剧" start="20241110080000 +0800" stop="20241110100600 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv爱情喜剧" start="20241110100600 +0800" stop="20241110120000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv爱情喜剧" start="20241110120000 +0800" stop="20241110140000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv爱情喜剧" start="20241110140000 +0800" stop="20241110160000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv爱情喜剧" start="20241110160000 +0800" stop="20241110180000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv爱情喜剧" start="20241110180000 +0800" stop="20241110190000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv爱情喜剧" start="20241110190000 +0800" stop="20241110200000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv爱情喜剧" start="20241110200000 +0800" stop="20241110220000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv爱情喜剧" start="20241110220000 +0800" stop="20241110235900 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="newtv爱情喜剧" start="20241110005400 +0800" stop="20241110021500 +0800">
+		<title lang="zh">两个人的房间</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -50747,6 +50726,9 @@
 	</channel>
 	<programme channel="newtv怡伴健康" start="20241110001100 +0800" stop="20241110010000 +0800">
 		<title lang="zh">新疆100%纯驼乳粉-渠道（右）</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20241110010000 +0800" stop="20241110014500 +0800">
+		<title lang="zh">17_我的左手右手</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -50763,6 +50745,9 @@
 	<programme channel="newtv军事评论" start="20241110002700 +0800" stop="20241110004800 +0800">
 		<title lang="zh">迷航的美军“濒海战斗舰”</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20241110004800 +0800" stop="20241110010900 +0800">
+		<title lang="zh">“鱼鹰”为何频坠落</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -50778,41 +50763,8 @@
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
-	<programme channel="newtv惊悚悬疑" start="20241110000000 +0800" stop="20241110020000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv惊悚悬疑" start="20241110020000 +0800" stop="20241110040000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv惊悚悬疑" start="20241110060000 +0800" stop="20241110080000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv惊悚悬疑" start="20241110080000 +0800" stop="20241110100600 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv惊悚悬疑" start="20241110100600 +0800" stop="20241110120000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv惊悚悬疑" start="20241110120000 +0800" stop="20241110140000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv惊悚悬疑" start="20241110140000 +0800" stop="20241110160000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv惊悚悬疑" start="20241110160000 +0800" stop="20241110180000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv惊悚悬疑" start="20241110180000 +0800" stop="20241110190000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv惊悚悬疑" start="20241110190000 +0800" stop="20241110200000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv惊悚悬疑" start="20241110200000 +0800" stop="20241110220000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv惊悚悬疑" start="20241110220000 +0800" stop="20241110235900 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="newtv惊悚悬疑" start="20241110004600 +0800" stop="20241110013500 +0800">
+		<title lang="zh">美康利健激光前列腺治疗仪-渠道（右）</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
