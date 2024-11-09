@@ -44442,6 +44442,9 @@
 	<programme channel="纯享4K" start="20241110050800 +0800" stop="20241110054800 +0800">
 		<title lang="zh">探索b7发现4K 仰韶故事 第2集 彩陶之路</title>
 	</programme>
+	<programme channel="纯享4K" start="20241110054800 +0800" stop="20241110062700 +0800">
+		<title lang="zh">探索b7发现4K 仰韶故事 第3集 舌尖上的仰韶</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -54069,6 +54072,9 @@
 	<programme channel="黑莓动画" start="20241110050600 +0800" stop="20241110055500 +0800">
 		<title lang="zh">葬送的芙莉莲</title>
 	</programme>
+	<programme channel="黑莓动画" start="20241110055500 +0800" stop="20241110064600 +0800">
+		<title lang="zh">雷欧奥特曼 重制版 普通话版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -54450,6 +54456,9 @@
 	<programme channel="newtv超级体育" start="20241110053000 +0800" stop="20241110060000 +0800">
 		<title lang="zh">实况录像-2024年世界健美操锦标赛 4</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20241110060000 +0800" stop="20241110063000 +0800">
+		<title lang="zh">实况录像-2024年世界田联钻石联赛</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -54464,6 +54473,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20241110035300 +0800" stop="20241110060300 +0800">
 		<title lang="zh">黑猫白猫</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20241110060300 +0800" stop="20241110074600 +0800">
+		<title lang="zh">红石敖包</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -54636,6 +54648,9 @@
 	<programme channel="newtv热播精选" start="20241110050800 +0800" stop="20241110055300 +0800">
 		<title lang="zh">22_新居之约</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20241110055300 +0800" stop="20241110064200 +0800">
+		<title lang="zh">23_新居之约</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -54765,6 +54780,9 @@
 	<programme channel="newtv军事评论" start="20241110053000 +0800" stop="20241110055200 +0800">
 		<title lang="zh">枪械纪元b7机枪 上</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20241110055200 +0800" stop="20241110061400 +0800">
+		<title lang="zh">枪械纪元b7机枪 下</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -54797,6 +54815,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20241110054500 +0800" stop="20241110055800 +0800">
 		<title lang="zh">心在跳情在烧-毕刚（教学分解）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20241110055800 +0800" stop="20241110061500 +0800">
+		<title lang="zh">那就是蒙古包-李萍</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -54833,6 +54854,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20241110043200 +0800" stop="20241110054900 +0800">
 		<title lang="zh">狄仁杰之骷髅将军</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20241110054900 +0800" stop="20241110072300 +0800">
+		<title lang="zh">侠捕之夺命红莲</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
@@ -54911,6 +54935,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20241110041900 +0800" stop="20241110055200 +0800">
 		<title lang="zh">女子太极剑</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20241110055200 +0800" stop="20241110063100 +0800">
+		<title lang="zh">超次中量级过渡拳王争霸赛：托尼-哈里森VS蒂姆-茨尤</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
