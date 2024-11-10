@@ -45276,6 +45276,9 @@
 	<programme channel="newtv超级体育" start="20241111021000 +0800" stop="20241111040000 +0800">
 		<title lang="zh">实况录像-2024年美国网球公开赛 女单第四轮 郑钦文-维基奇</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20241111040000 +0800" stop="20241111053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季法甲联赛第4轮 巴黎圣日耳曼-布雷斯特</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -45305,6 +45308,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20241111030900 +0800" stop="20241111035400 +0800">
 		<title lang="zh">34_我姥爷1945之绝命枪</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20241111035400 +0800" stop="20241111044000 +0800">
+		<title lang="zh">14_武当一剑</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -45396,6 +45402,9 @@
 	<programme channel="newtv家庭剧场" start="20241111030800 +0800" stop="20241111035800 +0800">
 		<title lang="zh">21_妈妈无罪</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20241111035800 +0800" stop="20241111044500 +0800">
+		<title lang="zh">22_妈妈无罪</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -45407,6 +45416,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20241111031500 +0800" stop="20241111040000 +0800">
 		<title lang="zh">24_新居之约</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20241111040000 +0800" stop="20241111044800 +0800">
+		<title lang="zh">25_新居之约</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -45465,6 +45477,9 @@
 	<programme channel="newtv潮妈辣婆" start="20241111031200 +0800" stop="20241111040000 +0800">
 		<title lang="zh">25_女人的抗战</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20241111040000 +0800" stop="20241111044800 +0800">
+		<title lang="zh">26_女人的抗战</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -45498,6 +45513,9 @@
 	<programme channel="newtv军事评论" start="20241111033800 +0800" stop="20241111035900 +0800">
 		<title lang="zh">二〇二三全球军用直升机盘点</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20241111035900 +0800" stop="20241111042100 +0800">
+		<title lang="zh">军武时光机（7）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -45521,6 +45539,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20241111032200 +0800" stop="20241111034900 +0800">
 		<title lang="zh">山高路远</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20241111034900 +0800" stop="20241111042100 +0800">
+		<title lang="zh">水调歌头b7游泳</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
