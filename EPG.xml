@@ -48765,6 +48765,9 @@
 	<programme channel="newtv超级体育" start="20241111053000 +0800" stop="20241111060000 +0800">
 		<title lang="zh">赛事集锦-2024年射箭世界杯总决赛1</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20241111060000 +0800" stop="20241111063000 +0800">
+		<title lang="zh">实况录像-2024年世界田联钻石联赛 西里西亚站</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -48827,6 +48830,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20241111050000 +0800" stop="20241111054800 +0800">
 		<title lang="zh">35_风声</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20241111054800 +0800" stop="20241111063500 +0800">
+		<title lang="zh">36_风声</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -49086,6 +49092,9 @@
 	<programme channel="newtv军事评论" start="20241111052700 +0800" stop="20241111054900 +0800">
 		<title lang="zh">这里的“战斗”静悄悄</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20241111054900 +0800" stop="20241111061100 +0800">
+		<title lang="zh">天路辉煌 接续辉煌</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -49130,6 +49139,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20241111053300 +0800" stop="20241111060100 +0800">
 		<title lang="zh">被破坏的房屋（20240730）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20241111060100 +0800" stop="20241111062300 +0800">
+		<title lang="zh">有氧跳绳跟练（20240528）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
