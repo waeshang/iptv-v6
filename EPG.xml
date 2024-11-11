@@ -18021,6 +18021,9 @@
 	<programme channel="咪咕综合体育" start="20241112034000 +0800" stop="20241112043500 +0800">
 		<title lang="zh">2024国际马联浪琴国家联赛 巴塞罗那站</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20241112044000 +0800" stop="20241112062000 +0800">
+		<title lang="zh">英超赛场-24/25赛季英超 第4轮 托特纳姆热刺-阿森纳</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -18038,6 +18041,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20241112024100 +0800" stop="20241112042100 +0800">
 		<title lang="zh">2024NBL季后赛总决赛G4 香港金牛-安徽文一</title>
+	</programme>
+	<programme channel="咪咕足球" start="20241112043000 +0800" stop="20241112053000 +0800">
+		<title lang="zh">村BA</title>
 	</programme>
 	<channel id="四川卫视">
 		<display-name lang="zh">四川卫视</display-name>
@@ -47298,6 +47304,9 @@
 	<programme channel="黑莓动画" start="20241112033300 +0800" stop="20241112042200 +0800">
 		<title lang="zh">蓝色监狱</title>
 	</programme>
+	<programme channel="黑莓动画" start="20241112042200 +0800" stop="20241112050600 +0800">
+		<title lang="zh">马达加斯加企鹅第一季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -47682,6 +47691,9 @@
 	<programme channel="newtv超级电影" start="20241112030400 +0800" stop="20241112044100 +0800">
 		<title lang="zh">看车人的七月</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20241112044100 +0800" stop="20241112063900 +0800">
+		<title lang="zh">妖猫传</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -47702,6 +47714,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20241112035400 +0800" stop="20241112043900 +0800">
 		<title lang="zh">18_武当一剑</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20241112043900 +0800" stop="20241112052400 +0800">
+		<title lang="zh">19_武当一剑</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -47781,6 +47796,9 @@
 	<programme channel="newtv军旅剧场" start="20241112033400 +0800" stop="20241112042200 +0800">
 		<title lang="zh">26_军人荣誉之铁血雄心</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20241112042200 +0800" stop="20241112051000 +0800">
+		<title lang="zh">09_秘密列车</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -47801,6 +47819,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20241112034000 +0800" stop="20241112042600 +0800">
 		<title lang="zh">26_妈妈无罪</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20241112042600 +0800" stop="20241112051300 +0800">
+		<title lang="zh">27_妈妈无罪</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -47859,6 +47880,9 @@
 	<programme channel="newtv怡伴健康" start="20241112034800 +0800" stop="20241112042500 +0800">
 		<title lang="zh">瀑布下的生态宝藏（下）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20241112042500 +0800" stop="20241112065300 +0800">
+		<title lang="zh">京剧《王宝钏》</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -47903,6 +47927,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20241112035600 +0800" stop="20241112041800 +0800">
 		<title lang="zh">T-80坦克卷土重来</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20241112041800 +0800" stop="20241112043800 +0800">
+		<title lang="zh">神舟十七号载人飞行任务（2）</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -48026,6 +48053,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20241112025000 +0800" stop="20241112042200 +0800">
 		<title lang="zh">广东十虎苏灿之卧龙在田</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20241112042200 +0800" stop="20241112050300 +0800">
+		<title lang="zh">女子二人器械对练</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
