@@ -32019,6 +32019,9 @@
 	<programme channel="咪咕综合体育" start="20241111120000 +0800" stop="20241111121000 +0800">
 		<title lang="zh">2024赛季中超盘点（1）</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20241111121000 +0800" stop="20241111135000 +0800">
+		<title lang="zh">足球世界-24/25赛季意甲 第10轮 尤文图斯-帕尔马</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -66237,6 +66240,9 @@
 	<programme channel="纯享4K" start="20241111112600 +0800" stop="20241111120800 +0800">
 		<title lang="zh">远方的家4K 长江行 共创家园 筑梦上海</title>
 	</programme>
+	<programme channel="纯享4K" start="20241111120800 +0800" stop="20241111124900 +0800">
+		<title lang="zh">远方的家4K 长江行 开放城市 创新生活</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -79557,6 +79563,9 @@
 	<programme channel="黑莓动画" start="20241111114100 +0800" stop="20241111120400 +0800">
 		<title lang="zh">百变布鲁可第4季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20241111120400 +0800" stop="20241111123000 +0800">
+		<title lang="zh">超级飞侠第15季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -80424,6 +80433,9 @@
 	<programme channel="newtv超级综艺" start="20241111114900 +0800" stop="20241111121600 +0800">
 		<title lang="zh">文艺里的新中国</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20241111121600 +0800" stop="20241111130600 +0800">
+		<title lang="zh">勇者之战</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -80529,6 +80541,9 @@
 	<programme channel="newtv超级电视剧" start="20241111113400 +0800" stop="20241111122200 +0800">
 		<title lang="zh">34_我们的婚姻</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20241111122200 +0800" stop="20241111130900 +0800">
+		<title lang="zh">35_我们的婚姻</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -80633,6 +80648,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20241111114100 +0800" stop="20241111120700 +0800">
 		<title lang="zh">怎么又上当了？百万钱币</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20241111120700 +0800" stop="20241111124200 +0800">
+		<title lang="zh">03_鳗鱼的故事</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -80822,6 +80840,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20241111112600 +0800" stop="20241111120400 +0800">
 		<title lang="zh">福武梅花鹿筋骨片压缩糖果-渠道（右）</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20241111120400 +0800" stop="20241111133100 +0800">
+		<title lang="zh">街区斗士</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -81089,6 +81110,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20241111114000 +0800" stop="20241111120200 +0800">
 		<title lang="zh">新兵入列 第五集 蓄势待发</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20241111120200 +0800" stop="20241111122700 +0800">
+		<title lang="zh">庆典背后的故事 下集</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
