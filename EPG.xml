@@ -46854,6 +46854,9 @@
 	<programme channel="newtv超级电影" start="20241113013700 +0800" stop="20241113030800 +0800">
 		<title lang="zh">沂蒙之恋</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20241113030800 +0800" stop="20241113044700 +0800">
+		<title lang="zh">百武禁忌</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -46868,6 +46871,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20241113021600 +0800" stop="20241113030100 +0800">
 		<title lang="zh">03_铁血玫瑰</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20241113030100 +0800" stop="20241113034600 +0800">
+		<title lang="zh">04_铁血玫瑰</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
