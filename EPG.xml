@@ -47769,6 +47769,9 @@
 	<programme channel="黑莓动画" start="20241118040900 +0800" stop="20241118045400 +0800">
 		<title lang="zh">马达加斯加企鹅第一季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20241118045400 +0800" stop="20241118054300 +0800">
+		<title lang="zh">葬送的芙莉莲</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -48144,6 +48147,9 @@
 	<programme channel="newtv古装剧场" start="20241118035300 +0800" stop="20241118044900 +0800">
 		<title lang="zh">46_天地姻缘七仙女</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20241118044900 +0800" stop="20241118054400 +0800">
+		<title lang="zh">20_扶摇</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -48326,6 +48332,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20241118032500 +0800" stop="20241118044700 +0800">
 		<title lang="zh">8组选手从陕西街头踏上星光之路 争夺“星光直通卡”（20240928）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20241118044700 +0800" stop="20241118050600 +0800">
+		<title lang="zh">算你狠-毕刚</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
