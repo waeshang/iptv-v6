@@ -66,6 +66,9 @@
 	<programme channel="4K综艺" start="20241120023300 +0800" stop="20241120031100 +0800">
 		<title lang="zh">重返地球20180309</title>
 	</programme>
+	<programme channel="4K综艺" start="20241120031100 +0800" stop="20241120034800 +0800">
+		<title lang="zh">重返地球20180316</title>
+	</programme>
 	<channel id="BTV体育">
 		<display-name lang="zh">BTV体育</display-name>
 	</channel>
@@ -40899,6 +40902,9 @@
 	<programme channel="纯享4K" start="20241120024100 +0800" stop="20241120031100 +0800">
 		<title lang="zh">寻古中国4K 玉石记b7玉韫神州</title>
 	</programme>
+	<programme channel="纯享4K" start="20241120031100 +0800" stop="20241120034100 +0800">
+		<title lang="zh">寻古中国4K 寻夏记b7夏都何在</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -50583,6 +50589,9 @@
 	<programme channel="黑莓电影" start="20241120005700 +0800" stop="20241120030700 +0800">
 		<title lang="zh">入殓师</title>
 	</programme>
+	<programme channel="黑莓电影" start="20241120030700 +0800" stop="20241120043500 +0800">
+		<title lang="zh">圣何塞谋杀案</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -50922,6 +50931,9 @@
 	<programme channel="newtv超级综艺" start="20241120020300 +0800" stop="20241120025500 +0800">
 		<title lang="zh">38_流水迢迢</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20241120025500 +0800" stop="20241120035000 +0800">
+		<title lang="zh">我的艺术清单</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -50960,6 +50972,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20241120022000 +0800" stop="20241120030500 +0800">
 		<title lang="zh">37_铁血玫瑰</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20241120030500 +0800" stop="20241120035000 +0800">
+		<title lang="zh">01_绽放吧，百合</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -51048,6 +51063,9 @@
 	<programme channel="newtv爱情喜剧" start="20241120014600 +0800" stop="20241120031000 +0800">
 		<title lang="zh">太阳后裔的保镖</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20241120031000 +0800" stop="20241120040600 +0800">
+		<title lang="zh">18_原来就是你</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -51071,6 +51089,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20241120021400 +0800" stop="20241120030900 +0800">
 		<title lang="zh">17_风雷动</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20241120030900 +0800" stop="20241120033600 +0800">
+		<title lang="zh">视觉的力量</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -51105,6 +51126,9 @@
 	<programme channel="newtv军事评论" start="20241120023500 +0800" stop="20241120025700 +0800">
 		<title lang="zh">七零八碎的菲军装备</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20241120025700 +0800" stop="20241120031900 +0800">
+		<title lang="zh">俄乌冲突深观察 无人机的革命</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -51116,6 +51140,12 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20241120023800 +0800" stop="20241120025600 +0800">
 		<title lang="zh">美丽中国—毕刚（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20241120025600 +0800" stop="20241120030500 +0800">
+		<title lang="zh">迷迭香-金洋（完整）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20241120030500 +0800" stop="20241120032700 +0800">
+		<title lang="zh">心在跳情在烧-毕刚（纯净版）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -51134,6 +51164,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20241120012900 +0800" stop="20241120025500 +0800">
 		<title lang="zh">地质灾难</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20241120025500 +0800" stop="20241120044900 +0800">
+		<title lang="zh">侵占</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
